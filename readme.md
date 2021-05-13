@@ -6,28 +6,28 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cbnews/20210513/1545348.md">日媒透视习近平大清洗 李克强讲话话里话外 举国愤怒 成都人聚集学校要真相</a></li>
-<li><a href="/cbnews/20210513/1545176.md">大陆男55页举报信：女友与建行副行长上班时间去开房</a></li>
 <li><a href="/cbnews/20210513/1545463.md">习近平：你们怎么知道我来了？民众：不敢说</a></li>
 <li><a href="/cbnews/20210513/1545253.md">习家军内部微妙 港媒：闽系风头力压之江新军</a></li>
 <li><a href="/topimagenews/20210513/1545571.md">华春莹想害死海外留学生？竟然当众说：太低估了！【阿波罗网报道】</a></li>
 <li><a href="/yule/20210513/1545323.md">关晓彤“真人”长啥样？关掉十级美颜滤镜</a></li>
 <li><a href="/comments/20210513/1545540.md">传刘鹤要职将被撤 由“他”接手 王岐山被习近平边缘化</a></li>
 <li><a href="/comments/20210513/1545513.md">习近平接班人选有三人，下场注定凄惨。一尊权威是假，继任危机│#熊猫侠</a></li>
+<li><a href="/lifebaike/20210513/1545473.md">不能没有你 毛泽东“通房大丫头”成高干秘辛</a></li>
+<li><a href="/bannedvideo/20210513/1545694.md">曝光习近平女婿身份中共内斗疯狂政局有变?  2021年5月13日</a></li>
 <li><a href="/topimagenews/20210513/1545194.md">小切尼出局：众议院共和党人声音投票 巩固川普的党内地位【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20210513/1545626.md">疫情爆发后 习高层停止外访的背后</a></li>
-<li><a href="/lifebaike/20210513/1545473.md">不能没有你 毛泽东“通房大丫头”成高干秘辛</a></li>
+<li><a href="/cbnews/20210513/1545822.md">成都49中学生坠亡 官媒终于发现场视频了…但</a></li>
 <li><a href="/cnnews/20210513/1545396.md">传记作家揭盖茨"狂野生活":风流成性 曾雇舞者</a></li>
-<li><a href="/bannedvideo/20210513/1545694.md">曝光习近平女婿身份中共内斗疯狂政局有变?  2021年5月13日</a></li>
 <li><a href="/cnnews/20210513/1545632.md">闪现崩盘！比特币突发跳水：28万人爆仓、1小时爆仓超128亿</a></li>
 <li><a href="/yule/20210513/1545324.md">从头吃瓜：“港圈大姐大”的包养传闻</a></li>
 <li><a href="/comments/20210513/1545403.md">李燕铭：胡春华国务院大秘调职 胡春华罕见代替刘鹤陪同习近平考察河南 卸任副总理前兆？北京内部信息：习近平考虑让胡春华取代刘鹤担任跟美国谈判的经济特使 一天传出三大消息 胡春华成二十大高层人事博弈焦点之一</a></li>
-<li><a href="/cbnews/20210513/1545822.md">成都49中学生坠亡 官媒终于发现场视频了…但</a></li>
 <li><a href="/ssgc/20210513/1545327.md">为刺激生育 中国或将整顿辅导班市场</a></li>
-<li><a href="/comments/20210513/1545450.md">颜纯钩：坐稳系好安全带！中国准备过凶险的日子</a></li>
 <li><a href="/health/20210513/1545467.md">诺贝尔重大发现：决定人寿命长短的不是吃和运动，而是…</a></li>
+<li><a href="/comments/20210513/1545450.md">颜纯钩：坐稳系好安全带！中国准备过凶险的日子</a></li>
 <li><a href="/cbnews/20210513/1545657.md">安徽六安患者检测呈阳性 医院已完全封闭 医生都出不去</a></li>
 <li><a href="/cnnews/20210513/1545454.md">习近平刘鹤有分歧？胡春华被爆或任习特使</a></li>
 <li><a href="/yule/20210513/1545197.md">43岁左小青秀蜘蛛腿，掰腿240度好厉害，拍戏曾被陈道明当众骂哭</a></li>
+<li><a href="/bannedvideo/20210513/1545763.md">陈破空：劲爆：习公主嫁了！习女婿信息走漏：留美海归再婚。习近平要培养他当接班人？</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210514/1545931.md" target="_blank">太古广场外的最后两个小时</a></li>
+<li><a href="/comments/20210514/1545929.md" target="_blank">耐人寻味</a></li>
+<li><a href="/comments/20210514/1545926.md" target="_blank">天价罚款后…九年来首亏损 阿里巴巴爆离职潮</a></li>
 <li><a href="/comments/20210513/1545923.md" target="_blank">美输油管被黑 白宫国会急应对 促网络安全</a></li>
 <li><a href="/comments/20210513/1545899.md" target="_blank">取代切尼 川普背书的女议员请缨做共和党会议主席</a></li>
 <li><a href="/comments/20210513/1545898.md" target="_blank">新财富富人榜：马云从首富跌至第七 身家缩水717亿</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210513/1545760.md" target="_blank">赵映寿：红酒——通往奴役的片断 之八</a></li>
 <li><a href="/comments/20210513/1545759.md" target="_blank">看中国：【袁红冰热点】习近平20大连任大麻烦-与太子党矛盾激化</a></li>
 <li><a href="/comments/20210513/1545758.md" target="_blank">曾节明：维族人为什么要告魏京生？</a></li>
-<li><a href="/comments/20210513/1545744.md" target="_blank">小切尼被罢免，仅用20分钟。川普总统回归加速。小切尼下台，布什时代结束。建制派瓦解，共和党迈向川普党。下切尼被赶下台，习近平的噩梦降临。</a></li>
-<li><a href="/comments/20210513/1545685.md" target="_blank">信仰的教训之二——道德法律化（中集）（东方哲人解析当代人类困惑  第二十二讲）【袁红冰杏坛】 05132021</a></li>
-<li><a href="/comments/20210513/1545684.md" target="_blank">澳洲总理：“备战”中共是我的职责</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/cbnews/20210331/1516754.md" target="_blank">被传销团伙围杀时 丈夫说了这句话脱险</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
 <li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
+<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
 
 </ul>
 </div>
