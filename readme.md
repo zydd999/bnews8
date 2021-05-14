@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/bannedvideo/20210513/1545694.md">曝光习近平女婿身份中共内斗疯狂政局有变?  2021年5月13日</a></li>
-<li><a href="/topimagenews/20210513/1545571.md">华春莹想害死海外留学生？竟然当众说：太低估了！【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20210513/1545822.md">成都49中学生坠亡 官媒终于发现场视频了…但</a></li>
 <li><a href="/lifebaike/20210514/1546031.md">89位国家高层全部坠机身亡，是意外还是阴谋？</a></li>
 <li><a href="/cbnews/20210513/1545626.md">疫情爆发后 习高层停止外访的背后</a></li>
@@ -14,8 +13,8 @@
 <li><a href="/cbnews/20210513/1545657.md">安徽六安患者检测呈阳性 医院已完全封闭 医生都出不去</a></li>
 <li><a href="/cbnews/20210514/1546063.md">公安部子女赴美签证被拒 华春莹罕见证实</a></li>
 <li><a href="/cnnews/20210513/1545632.md">闪现崩盘！比特币突发跳水：28万人爆仓、1小时爆仓超128亿</a></li>
-<li><a href="/lifebaike/20210514/1546050.md">长期喝烧开的自来水，不碰桶装水、矿泉水，身体会变成什么样？</a></li>
 <li><a href="/ssgc/20210514/1545950.md">〖兲朝浮世绘〗习近平装傻卖萌自导自演</a></li>
+<li><a href="/lifebaike/20210514/1546050.md">长期喝烧开的自来水，不碰桶装水、矿泉水，身体会变成什么样？</a></li>
 <li><a href="/cbnews/20210514/1546144.md">车祸现场女司机图私了 当街揽男子腰十指紧扣</a></li>
 <li><a href="/cbnews/20210513/1545775.md">习近平“足球梦”破灭 不满刘鹤？胡春华被爆或任习特使 房产税上路？四部门联合商讨</a></li>
 <li><a href="/topimagenews/20210514/1545990.md">疫情重创经济 民生物价飞涨 恶性通膨恐再次降临</a></li>
@@ -23,11 +22,12 @@
 <li><a href="/cnnews/20210513/1545640.md">吉林医院院长被举报 把女纪委书记发展成情人</a></li>
 <li><a href="/cbnews/20210513/1545864.md">老人小孩被打 愤怒民众砸烂重庆小区派出所居委会</a></li>
 <li><a href="/comments/20210513/1545744.md">小切尼被罢免，仅用20分钟。川普总统回归加速。小切尼下台，布什时代结束。建制派瓦解，共和党迈向川普党。下切尼被赶下台，习近平的噩梦降临。</a></li>
-<li><a href="/bannedvideo/20210513/1545885.md">49中事件进入新篇章，袁腾飞和徐晓冬开骂。我来说说李子旸/李子旸/李子肠老师 是怎么从自由主义者变得这么又红又硬的？救救死亡边缘的孩子们（坐澳观天第336期 20210513）</a></li>
-<li><a href="/cnnews/20210513/1545653.md">WHO独立调查小组：疫情大流行本可避免</a></li>
-<li><a href="/comments/20210514/1546034.md">习大大来了！脱口问“群众”一句话 网民调侃：说真话是要掉脑袋的</a></li>
-<li><a href="/bannedvideo/20210513/1545643.md">近日，在安徽六安某学校内，一位网友拍摄到了学生食堂倒剩饭菜的一幕。</a></li>
 <li><a href="/topimagenews/20210514/1546206.md">糗大了！哈马斯350枚火箭弹发射失败 掉回到加沙！网友：买的是中共导弹【阿波罗网编译】</a></li>
+<li><a href="/bannedvideo/20210513/1545885.md">49中事件进入新篇章，袁腾飞和徐晓冬开骂。我来说说李子旸/李子旸/李子肠老师 是怎么从自由主义者变得这么又红又硬的？救救死亡边缘的孩子们（坐澳观天第336期 20210513）</a></li>
+<li><a href="/comments/20210514/1546034.md">习大大来了！脱口问“群众”一句话 网民调侃：说真话是要掉脑袋的</a></li>
+<li><a href="/cnnews/20210513/1545653.md">WHO独立调查小组：疫情大流行本可避免</a></li>
+<li><a href="/bannedvideo/20210513/1545643.md">近日，在安徽六安某学校内，一位网友拍摄到了学生食堂倒剩饭菜的一幕。</a></li>
+<li><a href="/comments/20210514/1546167.md">习近平为何贬低邓小平 日本专家解析</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210514/1546272.md" target="_blank">薄熙来的私生女为拜登儿子的秘书兼情妇</a></li>
 <li><a href="/cbnews/20210514/1546261.md" target="_blank">安徽爆发疫情 三地上升为中风险地区</a></li>
 <li><a href="/cbnews/20210514/1546241.md" target="_blank">西安市发生路面塌陷 女子坠坑身亡</a></li>
 <li><a href="/cbnews/20210514/1546236.md" target="_blank">习近平河南乘船独用保温杯 官员狂记笔记</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210513/1545864.md" target="_blank">老人小孩被打 愤怒民众砸烂重庆小区派出所居委会</a></li>
 <li><a href="/cbnews/20210513/1545824.md" target="_blank">前广东省长黄华华 罕见现身捧习 迫害法轮功学员被追查</a></li>
 <li><a href="/cbnews/20210513/1545822.md" target="_blank">成都49中学生坠亡 官媒终于发现场视频了…但</a></li>
-<li><a href="/comments/20210513/1545803.md" target="_blank">💥美国务卿布林肯宣布制裁一名迫害法轮功的中共官员！成都49中事件升级 中共启动维稳模式！【希望之声TV-两岸新闻-2021/05/13】</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210514/1546262.md" target="_blank">皮泰王 ：新的臭豆店</a></li>
 <li><a href="/comments/20210514/1546251.md" target="_blank">哈萨克斯坦总统颁布法令：禁止向外国人出售土地</a></li>
 <li><a href="/comments/20210514/1546250.md" target="_blank">它被封为“减肥药”中的圣杯 但医生警告千万别乱吃</a></li>
 <li><a href="/comments/20210514/1546249.md" target="_blank">有些药混着吃很危险！6个常见的混药误区</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210514/1546174.md" target="_blank">原来这就是传说中的夜莺，实拍超清晰叫声，真是太好听啦</a></li>
 <li><a href="/comments/20210514/1546173.md" target="_blank">以巴濒临全面开战 以军攻入加萨走廊</a></li>
 <li><a href="/comments/20210514/1546171.md" target="_blank">批中共胁迫美方盟友 布林肯：不会让澳洲独自面对</a></li>
-<li><a href="/comments/20210514/1546167.md" target="_blank">习近平为何贬低邓小平 日本专家解析</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
 <li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
 <li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
 <li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
 <li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
 
 </ul>
 </div>
