@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/cbnews/20210514/1546311.md">公然出习近平洋相！习刚刚号召发展中医药 江系大外宣立刻上佐料</a></li>
 <li><a href="/cnnews/20210514/1546411.md">传猛揭一批中央大佬贪腐 黄华华罕见现身捧习</a></li>
 <li><a href="/bannedvideo/20210514/1546448.md">王沪宁阴谋?中共各个派系二十大可能逼习近平下台2021年5月14日</a></li>
 <li><a href="/cnnews/20210514/1546500.md">成都学生坠亡 网友揭更多官发视频造假细节 或涉活摘器官</a></li>
 <li><a href="/cbnews/20210514/1546358.md">“学习强国”APP再爆丑闻 单身女性成目标</a></li>
 <li><a href="/comments/20210515/1546590.md">中国疫情再起！惊现印度变异毒株 1确诊者18天暴走3省5市</a></li>
 <li><a href="/cnnews/20210515/1546765.md">二战后全球上亿枚地雷未清除！今被一种动物搞定</a></li>
-<li><a href="/headline/20210515/1546617.md">中国一学生因父亲身份被拒签？纽时：大环境已经变化</a></li>
 <li><a href="/topimagenews/20210515/1546849.md">哈马斯这么快就怂了？头目：我们已做好停火准备 但以色列不回应【阿波罗网编译】</a></li>
-<li><a href="/comments/20210515/1546619.md">习近平真要换掉刘鹤？河南考察照片泄密</a></li>
-<li><a href="/cbnews/20210515/1546626.md">1810公里花381元 上海男大生6天5夜搭公交到北京 登上热搜</a></li>
+<li><a href="/headline/20210515/1546617.md">中国一学生因父亲身份被拒签？纽时：大环境已经变化</a></li>
 <li><a href="/topimagenews/20210515/1546892.md">展现毁灭性武力！以色列160架战机40分钟射450弹 猛轰哈马斯地道</a></li>
-<li><a href="/cbnews/20210514/1546372.md">大陆再现“文革忠字舞” 毛左纪念文革遭批</a></li>
+<li><a href="/comments/20210515/1546619.md">习近平真要换掉刘鹤？河南考察照片泄密</a></li>
 <li><a href="/ssgc/20210515/1546664.md">〖兲朝浮世绘〗胡锡进真坏 没事儿就把习近平往沟里带</a></li>
+<li><a href="/cbnews/20210515/1546626.md">1810公里花381元 上海男大生6天5夜搭公交到北京 登上热搜</a></li>
+<li><a href="/cbnews/20210514/1546372.md">大陆再现“文革忠字舞” 毛左纪念文革遭批</a></li>
 <li><a href="/cnnews/20210515/1546719.md">江泽民到“蛤蟆洞”补充黑色能量</a></li>
 <li><a href="/cnnews/20210515/1546687.md">欧药管局：辉瑞疫苗能中和印度变种 防护力惊人</a></li>
 <li><a href="/cbnews/20210514/1546402.md">安徽确诊病例密接者超3千 营口鲅鱼圈区封闭</a></li>
-<li><a href="/bannedvideo/20210515/1546748.md">北京震惊！美制裁升级！停发公安等4类人签证；神秘攻击！美政府130人脑损伤；全球18位顶级专家，吁追查病毒来源；中宣部APP诈骗单身女性【 #晚间新闻 】｜#新唐人电视台</a></li>
 <li><a href="/cnnews/20210515/1546625.md">广东现3公尺怪鱼 渔民秒放生</a></li>
+<li><a href="/bannedvideo/20210515/1546748.md">北京震惊！美制裁升级！停发公安等4类人签证；神秘攻击！美政府130人脑损伤；全球18位顶级专家，吁追查病毒来源；中宣部APP诈骗单身女性【 #晚间新闻 】｜#新唐人电视台</a></li>
 <li><a href="/cbnews/20210515/1546705.md">官方释出成都49中学生割腕视频 被指疑点重重</a></li>
 <li><a href="/lifebaike/20210514/1546527.md">袁斌：毛的帝王般生活 却宣传成“与人民同甘共苦”</a></li>
-<li><a href="/bannedvideo/20210514/1546414.md">五一长假或成为爆发源头，安徽突发疫情甩锅大连，两地网友互怼！</a></li>
 <li><a href="/cnnews/20210514/1546361.md">亚利桑那州审计升温 拜登的盟友等川普回到佛州 就提起诉讼【阿波罗网编译】</a></li>
+<li><a href="/bannedvideo/20210514/1546414.md">五一长假或成为爆发源头，安徽突发疫情甩锅大连，两地网友互怼！</a></li>
+<li><a href="/bannedvideo/20210514/1546454.md">陈破空：副总理异动！习家军败退，团派扳回一局！成都四十九中，谁是外国势力</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -67,6 +67,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20210515/1546995.md" target="_blank">习近平肃清江系人马！陈一新点名五大“政法虎” 痛批“两面人” 要杀回马枪</a></li>
 <li><a href="/topimagenews/20210515/1546970.md" target="_blank">招工困难 美18州宣布将停发联邦救济金以鼓励就业</a></li>
 <li><a href="/topimagenews/20210515/1546892.md" target="_blank">展现毁灭性武力！以色列160架战机40分钟射450弹 猛轰哈马斯地道</a></li>
 <li><a href="/topimagenews/20210515/1546891.md" target="_blank">【组图】致命对决！以色列天空上演的恐怖舞蹈【阿波罗网编译】</a></li>
@@ -91,7 +92,6 @@
 <li><a href="/topimagenews/20210511/1544161.md" target="_blank">150多枚火箭弹射向以色列！以色列立刻还击 干掉11名恐怖组织分子</a></li>
 <li><a href="/topimagenews/20210511/1544116.md" target="_blank">李克强说漏? 戳穿中共谎言，先兆信号到了？人口普查迟迟不公布，网已知道结果</a></li>
 <li><a href="/topimagenews/20210511/1544059.md" target="_blank">小熊维尼被中共媒体封锁！官媒全改称噗噗熊</a></li>
-<li><a href="/topimagenews/20210511/1543978.md" target="_blank">以色列：“我们动手了，再说一次，我们动手了，攻击了加萨的军事目标”</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
 <li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
 <li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
 <li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
 
 </ul>
 </div>
