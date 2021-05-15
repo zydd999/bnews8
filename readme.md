@@ -9,7 +9,6 @@
 <li><a href="/cnnews/20210515/1546765.md">二战后全球上亿枚地雷未清除！今被一种动物搞定</a></li>
 <li><a href="/topimagenews/20210515/1546892.md">展现毁灭性武力！以色列160架战机40分钟射450弹 猛轰哈马斯地道</a></li>
 <li><a href="/cbnews/20210515/1547023.md">瞒不下去了？辽宁爆疫 9地区列中风险 30名专家支援营口</a></li>
-<li><a href="/cnnews/20210515/1546719.md">江泽民到“蛤蟆洞”补充黑色能量</a></li>
 <li><a href="/cbnews/20210515/1547046.md">分析：习近平视察河南又背下一口大黑锅</a></li>
 <li><a href="/health/20210515/1546858.md">46岁教授胃癌离世！生前不沾烟酒，医生：把“它”当饭吃，太放纵了</a></li>
 <li><a href="/topimagenews/20210515/1546995.md">习近平肃清江系人马！陈一新点名五大“政法虎” 痛批“两面人” 要杀回马枪</a></li>
@@ -26,6 +25,7 @@
 <li><a href="/comments/20210515/1546832.md">中国又引爆一个多次收割韭菜的行业</a></li>
 <li><a href="/topimagenews/20210515/1547137.md">中共公安等4类人及家属赴美暂停 美制裁加大</a></li>
 <li><a href="/cbnews/20210515/1546820.md">山东省政法委副书记被查 其“特殊身份” 被凸显</a></li>
+<li><a href="/cbnews/20210515/1547169.md">习近平差点又掀人家锅盖 网友：守江山就是守韭菜地</a></li>
 <li><a href="/cnnews/20210515/1546882.md">去掉刘海后的iPhone竟然长这样</a></li>
 <li><a href="/baitai/20210515/1547034.md">杭州杀妻分尸案当事人:作案时 妻子曾醒来喊我的名字</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210516/1547287.md" target="_blank">诗三首：《世外》《奇遇》《归途》</a></li>
 <li><a href="/comments/20210516/1547286.md" target="_blank">跟风CDC新指南 美国联邦和多州放宽口罩令</a></li>
 <li><a href="/comments/20210516/1547285.md" target="_blank">又一震撼清晰影片曝光！美军拍到海面上球状UFO</a></li>
 <li><a href="/comments/20210516/1547281.md" target="_blank">本土疫情再起大搞全员检测 安徽辽宁互推源头责任</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210516/1547204.md" target="_blank">收集物资支援在囚人士 贤学思政︰市面难买，数量大不如前 冀更多市民捐赠</a></li>
 <li><a href="/comments/20210516/1547203.md" target="_blank">罕见超级龙卷风画面曝光！横扫苏州、武汉吹跑2吨重货车 数百人死伤</a></li>
 <li><a href="/comments/20210515/1547198.md" target="_blank">时事大家谈：印度疫情延烧 东南亚疫情告急</a></li>
-<li><a href="/comments/20210515/1547197.md" target="_blank">时事大家谈：国药疫苗纳入全球分享 中国能兑现承诺吗？印度疫情延烧 东南亚疫情告急</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
 <li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
 
 </ul>
 </div>
