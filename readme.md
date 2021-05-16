@@ -19,15 +19,15 @@
 <li><a href="/cnnews/20210515/1547056.md">文革卷土重来 中国样板戏忠字舞再现 “国进民退”步伐加快 中共新冠疫苗又遭打脸</a></li>
 <li><a href="/cbnews/20210516/1547238.md">武汉市9级龙卷风后实拍 当地网友：犹如世界末日</a></li>
 <li><a href="/cnnews/20210516/1547304.md">蓦然回首，才发现当年的伙伴大多已脑残</a></li>
+<li><a href="/cbnews/20210516/1547422.md">陆媒怒发三文揭第七次人口普查数据严重造假</a></li>
 <li><a href="/cnnews/20210516/1547342.md">温哥华变大陆权贵后花园 入圈标配“大G加小牛”</a></li>
 <li><a href="/cbnews/20210516/1547294.md">辽宁营口连增13名感染者 均与一地有关</a></li>
-<li><a href="/cbnews/20210516/1547422.md">陆媒怒发三文揭第七次人口普查数据严重造假</a></li>
 <li><a href="/cnnews/20210516/1547343.md">北韩大学爆性丑闻 高官性侵女学生受害者逾40人</a></li>
 <li><a href="/baitai/20210515/1547034.md">杭州杀妻分尸案当事人:作案时 妻子曾醒来喊我的名字</a></li>
 <li><a href="/cbnews/20210516/1547384.md">现实版画皮：网揭裸聊“索女”真身</a></li>
 <li><a href="/cnnews/20210515/1547040.md">包养情人 农行天津分行前行长的妻子举报丈夫贪污</a></li>
 <li><a href="/cbnews/20210515/1547120.md">甩锅境外势力？成都49中事件竟然说是…</a></li>
-<li><a href="/cnnews/20210515/1547194.md">疯传抢物资、喊打中国疫苗？她曝北京手段：认知作战的一环</a></li>
+<li><a href="/worldnews/20210516/1547459.md">以色列使出绝户计！哈马斯损失惨重！网友：耗子洞扔麻雷子</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210516/1547562.md" target="_blank">美前助卿爆内幕：崔天凯献计 习近平绕道访美</a></li>
+<li><a href="/comments/20210516/1547560.md" target="_blank">判断人与人间的关系 笑声比对话更容易</a></li>
+<li><a href="/comments/20210516/1547559.md" target="_blank">“正义”之士</a></li>
+<li><a href="/comments/20210516/1547558.md" target="_blank">记者的未来</a></li>
 <li><a href="/comments/20210516/1547557.md" target="_blank">寒石：我们在哪里？我们欲何往？（《中国历史的感悟》四）</a></li>
 <li><a href="/comments/20210516/1547551.md" target="_blank">晚上进食后等候多久睡觉才是最佳？</a></li>
 <li><a href="/comments/20210516/1547543.md" target="_blank">疫情突升温 日网友：台湾人守法团结必能挺过难关</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210516/1547450.md" target="_blank">台陆委会：冻结黎智英资产表明在港投资风险大</a></li>
 <li><a href="/comments/20210516/1547449.md" target="_blank">王培宏：对“成都49中学生坠亡事件官方通告”几点质疑</a></li>
 <li><a href="/comments/20210516/1547431.md" target="_blank">德媒：德国对华政策失败应明确立场放弃绥靖</a></li>
-<li><a href="/comments/20210516/1547430.md" target="_blank">“保健品”收割年轻人 超世界一流的国家疯狂</a></li>
-<li><a href="/comments/20210516/1547429.md" target="_blank">曙光915：中东乱局 惯坏哈马斯 驴党功不可没</a></li>
-<li><a href="/comments/20210516/1547419.md" target="_blank">【坚离地倾】陈伟霖 @ 死嘢：乱世离港到台湾，为了“死而无憾”</a></li>
-<li><a href="/comments/20210516/1547414.md" target="_blank">大法日 美宗教自由办公室及自由大使声援法轮功</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
-<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
-<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
 <li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
 <li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
 
 </ul>
 </div>
