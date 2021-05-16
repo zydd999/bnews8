@@ -6,28 +6,28 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/topimagenews/20210515/1546849.md">哈马斯这么快就怂了？头目：我们已做好停火准备 但以色列不回应【阿波罗网编译】</a></li>
-<li><a href="/cnnews/20210515/1546765.md">二战后全球上亿枚地雷未清除！今被一种动物搞定</a></li>
 <li><a href="/topimagenews/20210515/1546892.md">展现毁灭性武力！以色列160架战机40分钟射450弹 猛轰哈马斯地道</a></li>
 <li><a href="/cbnews/20210515/1547023.md">瞒不下去了？辽宁爆疫 9地区列中风险 30名专家支援营口</a></li>
 <li><a href="/cbnews/20210515/1547046.md">分析：习近平视察河南又背下一口大黑锅</a></li>
 <li><a href="/health/20210515/1546858.md">46岁教授胃癌离世！生前不沾烟酒，医生：把“它”当饭吃，太放纵了</a></li>
-<li><a href="/topimagenews/20210515/1546995.md">习近平肃清江系人马！陈一新点名五大“政法虎” 痛批“两面人” 要杀回马枪</a></li>
 <li><a href="/ccpdope/20210515/1546936.md">真真假假！比尔盖茨离婚与习公主结婚</a></li>
+<li><a href="/topimagenews/20210515/1546995.md">习近平肃清江系人马！陈一新点名五大“政法虎” 痛批“两面人” 要杀回马枪</a></li>
 <li><a href="/cnnews/20210515/1546866.md">中国人一部手机用多久？答案来了</a></li>
 <li><a href="/cnnews/20210515/1546864.md">一跑堂的工作10年偷了10年 偷成百万富翁</a></li>
 <li><a href="/comments/20210515/1546965.md">抑郁症的人，往往有四句“口头禅”，若你有，需警惕</a></li>
-<li><a href="/health/20210515/1546971.md">比吃肉还容易胖的10种水果，榴莲只排第3名，第1名意想不到</a></li>
 <li><a href="/lifebaike/20210515/1546877.md">瞠目结舌！军中爱滋蔓延 淫乱海军司令一路升迁</a></li>
 <li><a href="/topimagenews/20210515/1547137.md">中共公安等4类人及家属赴美暂停 美制裁加大</a></li>
-<li><a href="/health/20210515/1546980.md">不痛不痒查出肺癌？医生：手上3种标记，癌症已到中晚期</a></li>
+<li><a href="/health/20210515/1546971.md">比吃肉还容易胖的10种水果，榴莲只排第3名，第1名意想不到</a></li>
 <li><a href="/cnnews/20210515/1547056.md">文革卷土重来 中国样板戏忠字舞再现 “国进民退”步伐加快 中共新冠疫苗又遭打脸</a></li>
-<li><a href="/comments/20210515/1546832.md">中国又引爆一个多次收割韭菜的行业</a></li>
+<li><a href="/health/20210515/1546980.md">不痛不痒查出肺癌？医生：手上3种标记，癌症已到中晚期</a></li>
 <li><a href="/cbnews/20210515/1547169.md">习近平差点又掀人家锅盖 网友：守江山就是守韭菜地</a></li>
+<li><a href="/comments/20210515/1546832.md">中国又引爆一个多次收割韭菜的行业</a></li>
 <li><a href="/cbnews/20210515/1546820.md">山东省政法委副书记被查 其“特殊身份” 被凸显</a></li>
 <li><a href="/cnnews/20210515/1546882.md">去掉刘海后的iPhone竟然长这样</a></li>
 <li><a href="/baitai/20210515/1547034.md">杭州杀妻分尸案当事人:作案时 妻子曾醒来喊我的名字</a></li>
 <li><a href="/lifebaike/20210515/1546975.md">聪明人在加油时都会“多问一句话”，工作人员：这才是内行人</a></li>
 <li><a href="/cnnews/20210515/1547040.md">包养情人 农行天津分行前行长的妻子举报丈夫贪污</a></li>
+<li><a href="/cnnews/20210515/1546779.md">以色列空军释出照片：黑夜中的铁锤 【阿波罗网编译】</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,9 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210516/1547344.md" target="_blank">谁掌握了数据，谁就掌握了未来。盖茨操控IHME，垄断大数据，误导川普总统。比尔·盖茨实现大重构线路图。盖茨离婚经历家庭风暴，盖茨的信仰究竟是什么？</a></li>
+<li><a href="/cbnews/20210516/1547330.md" target="_blank">北京背后一凉？美日法澳军演竟有…</a></li>
+<li><a href="/comments/20210516/1547329.md" target="_blank">劫美油管黑客被攻下 疑美军网站司令部所为；加拿大多伦多爆发大规模反封锁令抗议；招工难 美18州将停发联邦救济金；日美法首在日境内联合训练；拜登使用转账软件被查到 隐私安全引关注【#每日头条】</a></li>
 <li><a href="/cbnews/20210516/1547313.md" target="_blank">日美法首次在日本境内联合训练 威慑中共</a></li>
 <li><a href="/comments/20210516/1547309.md" target="_blank">他手稿最后一句藏着什么秘密？解密最有可能的穿越者-达芬奇！他能让人类提早发展五十年，但他为啥不干？热衷发明尖端武器，他是战争狂人吗？维特鲁威人是达芬奇对宇宙的看法吗？【大话西油姜光宇】(05.15）</a></li>
 <li><a href="/cbnews/20210516/1547295.md" target="_blank">整肃学术界？习近平给《文史哲》回信释放何信号</a></li>
@@ -58,9 +61,6 @@
 <li><a href="/cbnews/20210515/1546967.md" target="_blank">江峰：2012年利比亚美国大使被‘和谐’，一段往事牵出以色列与巴勒斯坦的恩怨</a></li>
 <li><a href="/comments/20210515/1546961.md" target="_blank">【#午夜新闻05/14】美军大杀器终曝光极音速飞弹关岛直射台湾！中欧投资协议黑幕曝光欧盟对中共不再抱幻想！芝加哥爆发游行 反对以色列自卫 支持巴勒斯坦恐怖袭击【希望之声TV】</a></li>
 <li><a href="/comments/20210515/1546956.md" target="_blank">台海之战——人类命运的十字路口之战（下集）（中共命运的轨迹和人类前途  第十五讲）【袁红冰纵论天下】 05152021</a></li>
-<li><a href="/cbnews/20210515/1546952.md" target="_blank">新疆产太阳能板涉强迫劳动 拜登政府考虑制裁</a></li>
-<li><a href="/cbnews/20210515/1546941.md" target="_blank">美上将透露实弹测试更多细节 将让对手&#8221;三思而后行&#8221;</a></li>
-<li><a href="/cbnews/20210515/1546893.md" target="_blank">美国祭签证制裁 追责中共拒收中国非法移民</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210516/1547344.md" target="_blank">谁掌握了数据，谁就掌握了未来。盖茨操控IHME，垄断大数据，误导川普总统。比尔·盖茨实现大重构线路图。盖茨离婚经历家庭风暴，盖茨的信仰究竟是什么？</a></li>
+<li><a href="/comments/20210516/1547329.md" target="_blank">劫美油管黑客被攻下 疑美军网站司令部所为；加拿大多伦多爆发大规模反封锁令抗议；招工难 美18州将停发联邦救济金；日美法首在日境内联合训练；拜登使用转账软件被查到 隐私安全引关注【#每日头条】</a></li>
+<li><a href="/comments/20210516/1547328.md" target="_blank">诗一首：境界</a></li>
 <li><a href="/comments/20210516/1547320.md" target="_blank">冠状病毒最高权威参与质疑 武汉研究所再上浪尖</a></li>
 <li><a href="/comments/20210516/1547310.md" target="_blank">重庆保利香雪小区爆发大规模抗暴事件 业主赶走数百名黑衣人 保路运动110周年 四川重庆人再度引领国人反共大潮 中南海不可告人的秘密_369</a></li>
 <li><a href="/comments/20210516/1547309.md" target="_blank">他手稿最后一句藏着什么秘密？解密最有可能的穿越者-达芬奇！他能让人类提早发展五十年，但他为啥不干？热衷发明尖端武器，他是战争狂人吗？维特鲁威人是达芬奇对宇宙的看法吗？【大话西油姜光宇】(05.15）</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210516/1547245.md" target="_blank">【以食为天】糖城美食</a></li>
 <li><a href="/comments/20210516/1547235.md" target="_blank">伊朗与我们的距离</a></li>
 <li><a href="/comments/20210516/1547234.md" target="_blank">【初选 47 人案】岑子杰、徐子见狱中诗作表思念 范国威作画勉励 DSE 考生</a></li>
-<li><a href="/comments/20210516/1547233.md" target="_blank">【国安教育】蔡若莲：老师必须以身作则 培育学生国民身份认同 教育界质疑再添红线</a></li>
-<li><a href="/comments/20210516/1547232.md" target="_blank">警方湾仔捣破无牌按摩院 三女子涉管理或协助“卖淫场所”被捕</a></li>
-<li><a href="/comments/20210516/1547224.md" target="_blank">美能源部长：各地加油站周日晚全面恢复正常</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
 <li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
 
 </ul>
 </div>
