@@ -7,25 +7,25 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/bannedvideo/20210517/1547790.md">【重磅】副总统彭斯被美国军方逮捕消息曝光 美国民众迅速展开激烈讨论和分析 还有不少人给被捕事发酒店打电话核实消息  美国民众：除了军队，你还能指望谁来对付这些叛徒？</a></li>
 <li><a href="/cbnews/20210517/1547802.md">马云的“湖畔大学”恐彻底完结 大门石碑被铲平</a></li>
-<li><a href="/cbnews/20210517/1547954.md">注意！近期回中国入境新规隔离政策有变</a></li>
 <li><a href="/comments/20210517/1547797.md">中国人口数据说话：2020年武汉病毒死亡真实人数惊人</a></li>
+<li><a href="/cbnews/20210517/1547954.md">注意！近期回中国入境新规隔离政策有变</a></li>
 <li><a href="/cnnews/hknews/20210517/1548132.md">央视早知苹果资金链早断</a></li>
 <li><a href="/cbnews/20210517/1547884.md">又杠上了！美国拟对中国这个项目实施制裁</a></li>
 <li><a href="/cbnews/20210517/1547822.md">9旬瘫痪老人听红歌起身跳舞？上海洗脑引发嘲讽</a></li>
 <li><a href="/health/20210517/1547933.md">42岁广西男子，坚持吃六味地黄丸，身体受到了什么影响？建议了解</a></li>
 <li><a href="/topimagenews/20210517/1547999.md">以色列：我们向美国展示了铁证！ 【阿波罗网编译】</a></li>
+<li><a href="/topimagenews/20210517/1548236.md">房价跌幅全国第一，东北这城火了；日本首次点名中共为罪魁；美推动中国出口下降</a></li>
 <li><a href="/cbnews/20210517/1547801.md">妈“当众下跪1小时”求他上学！儿竟冷发5字文 全网气炸</a></li>
 <li><a href="/cbnews/20210517/1548008.md">内幕：各地争相奉承 习近平欲与毛比肩</a></li>
-<li><a href="/topimagenews/20210517/1548236.md">房价跌幅全国第一，东北这城火了；日本首次点名中共为罪魁；美推动中国出口下降</a></li>
 <li><a href="/cbnews/20210517/1547841.md">美军在台行踪 因牛奶曝了光</a></li>
 <li><a href="/bannedvideo/20210517/1547817.md">以色列对哈马斯进行打击报复后，哈马斯为了博的世界人民同情拉赞助，组织抬“尸”游街。忽然空袭警报响起，只见抬尸队伍立刻扔下担架鸟兽散，而“尸体”只好自己掀开白布爬起来狂奔</a></li>
 <li><a href="/cbnews/20210517/1547861.md">美停发中共4类人签证 党媒高调网民狠酸</a></li>
 <li><a href="/yule/20210517/1547778.md">知名网红认武汉肺炎确诊 全身爆痛失眠：肉被挤成一块</a></li>
-<li><a href="/renquan/20210517/1547848.md">重庆赵亮被搜身脱裤检查坚决不从</a></li>
 <li><a href="/comments/20210517/1548033.md">李燕铭：二十大前习江生死对决 习近平王岐山副国级正部级旧部带队 三支人马同期杀进江泽民老家 江苏六名政法高官密集落马</a></li>
-<li><a href="/yule/20210517/1547777.md">网友偶遇范冰冰逛商场购物，打扮低调无人识</a></li>
+<li><a href="/renquan/20210517/1547848.md">重庆赵亮被搜身脱裤检查坚决不从</a></li>
 <li><a href="/comments/20210517/1548097.md">为什么中共拒不废除“计生国策”？习近平与易富贤的对话 — 曾节明</a></li>
 <li><a href="/bannedvideo/20210517/1548034.md">【重磅】5月16日 川普总统发出重磅声明 ：爆炸性新闻!  看看事实和数据  乔拜登不可能赢得2020年总统大选 他不是合法总统！</a></li>
+<li><a href="/yule/20210517/1547777.md">网友偶遇范冰冰逛商场购物，打扮低调无人识</a></li>
 <li><a href="/bannedvideo/20210517/1548054.md">蓬佩奥：病毒就是来自武汉病毒研究所</a></li>
 <li><a href="/comments/20210517/1547875.md">马云被习近平招安？数字人民币接入支付宝 蚂蚁集团与央行数字货币研究所签署战略合作协议 马云阿里日现身后不到一周“湖畔大学”被铲名 停止招生 新财富富人榜：马云从首富跌至第七 身家缩水717亿 阿里巴巴9年首次净亏 财报30次提反垄断 阿里巴巴高管掀离职潮</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210517/1548391.md" target="_blank">蓬佩奥：中共极力掩盖冠状病毒起源 程度“惊人”</a></li>
+<li><a href="/comments/20210517/1548390.md" target="_blank">加拿大各大城市升旗亮彩灯庆祝大法日</a></li>
 <li><a href="/comments/20210517/1548380.md" target="_blank">张杰：成都四十九中林唯麒事件重演雷洋悲剧</a></li>
 <li><a href="/comments/20210517/1548379.md" target="_blank">这国最近的动态 将重伤中共</a></li>
 <li><a href="/comments/20210517/1548355.md" target="_blank">以色列周日轰加萨酿42死 今日继续空袭、范围更广</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210517/1548220.md" target="_blank">【贯明文苑】临海而居听涛声</a></li>
 <li><a href="/comments/20210517/1548218.md" target="_blank">庆世界法轮大法日 比利时修炼者讲述他们的故事</a></li>
 <li><a href="/comments/20210517/1548217.md" target="_blank">10大常见饮食常识谬误 营养师全解惑</a></li>
-<li><a href="/comments/20210517/1548216.md" target="_blank">最新发现：自闭症患者的神经细胞在出生前就有不同</a></li>
-<li><a href="/comments/20210517/1548215.md" target="_blank">若你身上有这5个表现，说明你的体质很棒</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
 <li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
 
 </ul>
 </div>
