@@ -7,7 +7,6 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/topimagenews/20210516/1547584.md">习近平也许没想到！引用的话竟然是他说的…</a></li>
 <li><a href="/bannedvideo/20210516/1547554.md">4月14日前副总统迈克尔-彭斯逃避军方抓捕时胸部中弹 亚裔保镖拔枪反击被当场击毙 彭斯双手捂着胸口的伤口大口喘气为背叛川普而道歉说：告诉唐纳德我很抱歉 他们让我这样做</a></li>
-<li><a href="/topimagenews/20210516/1547448.md">惊爆：以色列设计炸死数百名哈马斯特工！【阿波罗网编译】</a></li>
 <li><a href="/bannedvideo/20210516/1547632.md">一男子从美国回到中国，被警察要求戴口罩。男子反问：为什么你们（警察）不戴？最后该男子被“围攻”。</a></li>
 <li><a href="/worldnews/20210516/1547459.md">以色列使出绝户计！哈马斯损失惨重！网友：耗子洞扔麻雷子</a></li>
 <li><a href="/bannedvideo/20210517/1547790.md">【重磅】副总统彭斯被美国军方逮捕消息曝光 美国民众迅速展开激烈讨论和分析 还有不少人给被捕事发酒店打电话核实消息  美国民众：除了军队，你还能指望谁来对付这些叛徒？</a></li>
@@ -23,11 +22,12 @@
 <li><a href="/cnnews/20210516/1547638.md">狗狗币联合创始人炮轰马斯克：自私的骗子</a></li>
 <li><a href="/yule/20210516/1547639.md">赵丽颖首次面对离婚问题 被爆因旧疾引婚变</a></li>
 <li><a href="/yule/20210517/1547778.md">知名网红认武汉肺炎确诊 全身爆痛失眠：肉被挤成一块</a></li>
+<li><a href="/comments/20210517/1547797.md">中国人口数据说话：2020年武汉病毒死亡真实人数惊人</a></li>
 <li><a href="/topimagenews/20210516/1547479.md">避免导弹燃料遭中共垄断 美军最新秘密武器是...</a></li>
-<li><a href="/cnnews/20210516/1547565.md">武汉病毒所网站删除了 曾经的美国研究伙伴和功能增益研究【阿波罗网编译】</a></li>
 <li><a href="/yule/20210517/1547777.md">网友偶遇范冰冰逛商场购物，打扮低调无人识</a></li>
+<li><a href="/cnnews/20210516/1547565.md">武汉病毒所网站删除了 曾经的美国研究伙伴和功能增益研究【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20210517/1547801.md">妈“当众下跪1小时”求他上学！儿竟冷发5字文 全网气炸</a></li>
-<li><a href="/finance/20210516/1547474.md">房价跌幅全国第一，东北这个城市火了，20年来IPO数挂零，更惊人的是...</a></li>
+<li><a href="/cbnews/20210517/1547822.md">9旬瘫痪老人听红歌起身跳舞？上海洗脑引发嘲讽</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210517/1547982.md" target="_blank">专家:习近平开展非洲铁矿石战略 目的摆脱澳洲</a></li>
 <li><a href="/cbnews/20210517/1547954.md" target="_blank">注意！近期回中国入境新规隔离政策有变</a></li>
 <li><a href="/cbnews/20210517/1547886.md" target="_blank">以色列总理：以军在加沙地带摧毁1500个目标</a></li>
 <li><a href="/cbnews/20210517/1547885.md" target="_blank">美空军新点子：战机变身轰炸机</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210516/1547423.md" target="_blank">用美经费为中共服务 华裔教授被判监禁</a></li>
 <li><a href="/cbnews/20210516/1547422.md" target="_blank">陆媒怒发三文揭第七次人口普查数据严重造假</a></li>
 <li><a href="/comments/20210516/1547412.md" target="_blank">谁是花木兰？</a></li>
-<li><a href="/cbnews/20210516/1547384.md" target="_blank">现实版画皮：网揭裸聊“索女”真身</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210517/1547978.md" target="_blank">日媒民调：近6成民众对东京奥运敬谢不敏</a></li>
 <li><a href="/comments/20210517/1547963.md" target="_blank">【微博精粹】上级嫖娼被下级活捉 刚要高升就折了</a></li>
 <li><a href="/comments/20210517/1547962.md" target="_blank">中年人的检讨书：你能接受孩子平庸吗？</a></li>
 <li><a href="/comments/20210517/1547950.md" target="_blank">哈玛斯弹如雨下！ 7天狂射3000枚 以色列史上最惨烈</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210517/1547794.md" target="_blank">欧盟拟召开会议商讨结束巴以冲突对策 结果难料</a></li>
 <li><a href="/comments/20210517/1547786.md" target="_blank">世界法轮大法日当天 美国务院公开声援法轮功</a></li>
 <li><a href="/comments/20210517/1547772.md" target="_blank">物竞天择，驯服者生存</a></li>
-<li><a href="/comments/20210517/1547771.md" target="_blank">中央电视台撰文指黎智英无法通过抵押股份获贷款 “《苹果》末日越来越近”</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
 <li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
+<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
 
 </ul>
 </div>
