@@ -10,12 +10,10 @@
 <li><a href="/cbnews/20210517/1547884.md">又杠上了！美国拟对中国这个项目实施制裁</a></li>
 <li><a href="/cnnews/hknews/20210517/1548132.md">央视早知苹果资金链早断</a></li>
 <li><a href="/topimagenews/20210517/1548236.md">房价跌幅全国第一，东北这城火了；日本首次点名中共为罪魁；美推动中国出口下降</a></li>
-<li><a href="/cbnews/20210517/1547822.md">9旬瘫痪老人听红歌起身跳舞？上海洗脑引发嘲讽</a></li>
 <li><a href="/topimagenews/20210517/1547999.md">以色列：我们向美国展示了铁证！ 【阿波罗网编译】</a></li>
 <li><a href="/cnnews/20210517/1548329.md">重磅！美共和党称获得武汉实验室病毒起源证据</a></li>
 <li><a href="/cbnews/20210517/1548008.md">内幕：各地争相奉承 习近平欲与毛比肩</a></li>
 <li><a href="/cbnews/20210517/1547841.md">美军在台行踪 因牛奶曝了光</a></li>
-<li><a href="/bannedvideo/20210517/1547817.md">以色列对哈马斯进行打击报复后，哈马斯为了博的世界人民同情拉赞助，组织抬“尸”游街。忽然空袭警报响起，只见抬尸队伍立刻扔下担架鸟兽散，而“尸体”只好自己掀开白布爬起来狂奔</a></li>
 <li><a href="/cnnews/20210517/1548209.md">不妙：切尔诺贝利废墟核反应“死灰复燃”</a></li>
 <li><a href="/cbnews/20210517/1547861.md">美停发中共4类人签证 党媒高调网民狠酸</a></li>
 <li><a href="/comments/20210517/1548033.md">李燕铭：二十大前习江生死对决 习近平王岐山副国级正部级旧部带队 三支人马同期杀进江泽民老家 江苏六名政法高官密集落马</a></li>
@@ -28,6 +26,8 @@
 <li><a href="/lifebaike/20210517/1548092.md">意大利画家笔下的乾隆皇帝真实相貌</a></li>
 <li><a href="/comments/20210517/1547875.md">马云被习近平招安？数字人民币接入支付宝 蚂蚁集团与央行数字货币研究所签署战略合作协议 马云阿里日现身后不到一周“湖畔大学”被铲名 停止招生 新财富富人榜：马云从首富跌至第七 身家缩水717亿 阿里巴巴9年首次净亏 财报30次提反垄断 阿里巴巴高管掀离职潮</a></li>
 <li><a href="/comments/20210517/1547963.md">【微博精粹】上级嫖娼被下级活捉 刚要高升就折了</a></li>
+<li><a href="/cbnews/20210517/1548167.md">热衷阅看境外书刊也是罪 贵州国企副总被双开</a></li>
+<li><a href="/cnnews/20210517/1547987.md">中国多地爆疫 张文宏：病毒已常驻须做长期准备</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
 <li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
-<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
 
 </ul>
 </div>
