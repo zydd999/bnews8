@@ -9,7 +9,6 @@
 <li><a href="/topimagenews/20210518/1548658.md">毛左纪念文革被取消，习近平打的啥算盘？马云身价暴跌，300年大学为何完了？</a></li>
 <li><a href="/cnnews/20210518/1548929.md">港媒：胡春华或职务有变 身边大秘已现异动</a></li>
 <li><a href="/cbnews/20210518/1548893.md">深圳75层大楼发抖 豆腐渣建筑要垮？吓瘫路人</a></li>
-<li><a href="/cbnews/20210518/1548420.md">广州奇观 上千老板列队一公里…等工人挑</a></li>
 <li><a href="/cnnews/20210518/1548492.md">又一款中共病毒疫苗来了 有效率95% 盼年底获准使用</a></li>
 <li><a href="/ssgc/20210518/1548598.md">〖兲朝浮世绘〗中共的全面造神运动已再次开始</a></li>
 <li><a href="/topimagenews/20210518/1548437.md">李克强喜称两亿人“灵活就业” 专家讽 : 其实就是朝不保夕的“打零工”</a></li>
@@ -20,11 +19,12 @@
 <li><a href="/headline/20210518/1548922.md">港媒：刘鹤无恙 胡春华或再上层楼</a></li>
 <li><a href="/cnnews/20210518/1548767.md">以色列公布视频证据：空袭最终取消 只因发现了… 【阿波罗网编译】</a></li>
 <li><a href="/bannedvideo/20210518/1548993.md">陈破空：习近平严重失言！引爆舆论。胡春华将高升！副总理之变，四人异动</a></li>
-<li><a href="/bannedvideo/20210518/1548643.md">击杀哈马斯高官毁地道，以巴冲突升温，北京着急2大原因；台湾疫情加重，未来2周关键；17个中风险区，安徽辽宁多官被处理；切尔诺贝利中子激增，或再次核爆；真实中国画作欣赏【新闻看点 李沐阳05.18】</a></li>
 <li><a href="/cnnews/20210518/1548996.md">美欧联手追究 中共怂了；4成夫妻离婚，独家：中国男找不到老婆内幕</a></li>
+<li><a href="/bannedvideo/20210518/1548643.md">击杀哈马斯高官毁地道，以巴冲突升温，北京着急2大原因；台湾疫情加重，未来2周关键；17个中风险区，安徽辽宁多官被处理；切尔诺贝利中子激增，或再次核爆；真实中国画作欣赏【新闻看点 李沐阳05.18】</a></li>
 <li><a href="/cbnews/20210518/1548704.md">以巴冲突伤亡惨重 美中不同调 以色列精准击杀哈马斯高官 北京着急？</a></li>
 <li><a href="/comments/20210518/1548769.md">官媒自曝：公安国安系签证禁令仅冰山一角 大批中国留学生赴美被拒</a></li>
 <li><a href="/yule/20210518/1548647.md">中国第一名模马艳丽罕现身，气场不输刘雯，与名导离婚后身价上亿</a></li>
+<li><a href="/bannedvideo/20210518/1548967.md">哈马斯头头被一锅端中共头头看傻眼怕啥?  2021年5月18日</a></li>
 <li><a href="/cbnews/20210518/1548489.md">左派会错意 表错情 微博文革话题成禁区</a></li>
 <li><a href="/cnnews/20210518/1548493.md">“中共病毒疫苗2.0”就要来了？</a></li>
 <li><a href="/funmedia/20210518/1548537.md">旅游久了才发现，这3样东西看似不起眼，关键时候却能派上大用场</a></li>
@@ -98,6 +98,13 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210519/1549178.md" target="_blank">美上万油站仍缺油 19州吁拜登反转能源政策</a></li>
+<li><a href="/comments/20210519/1549177.md" target="_blank">美奇葩男子两度抢银行 只因想做女人</a></li>
+<li><a href="/comments/20210519/1549176.md" target="_blank">将从美国退市 中国移动申请回A股上市</a></li>
+<li><a href="/comments/20210519/1549175.md" target="_blank">台湾疫情严峻 医师提醒落实防疫新生活</a></li>
+<li><a href="/comments/20210519/1549174.md" target="_blank">英国变异株“威力加倍” 重症比增高</a></li>
+<li><a href="/comments/20210519/1549173.md" target="_blank">日本男星田村正和惊传病逝 享寿77岁</a></li>
+<li><a href="/comments/20210519/1549171.md" target="_blank">《神 山 》1-2-3</a></li>
 <li><a href="/comments/20210519/1549151.md" target="_blank">以军攻击平民？视频作假穿帮；拆华为设备 英法开始了；美议员：左媒涉嫌与哈马斯分享办公空间；深圳3百米高楼突然发抖 市民逃命12PM【希望之声TV-环球看点-2021/05/18】</a></li>
 <li><a href="/comments/20210519/1549138.md" target="_blank">香港电影界流传“国务院”公开信 促合力禁止鼓吹暴力、推翻政权电影上映</a></li>
 <li><a href="/comments/20210519/1549137.md" target="_blank">【国安处长受查】O 记：无牌按摩院涉卖淫拘 6 女 但蔡展鹏无违法无不道德行为</a></li>
@@ -116,13 +123,6 @@
 <li><a href="/comments/20210518/1549046.md" target="_blank">【一分钟料理】肉丝炒蒜苗</a></li>
 <li><a href="/comments/20210518/1549045.md" target="_blank">泰剧《转学来的女生》庆热播 小粉红因它气跳脚</a></li>
 <li><a href="/comments/20210518/1549042.md" target="_blank">以巴冲突越演越烈 北京为何着急？2个重大原因</a></li>
-<li><a href="/comments/20210518/1549038.md" target="_blank">💥 菅义伟与越南总理会谈 反对中共改变东海南海现状；湖畔大学改名 网友：改变不了命运【希望之声TV-两岸要闻-2021/05/18】</a></li>
-<li><a href="/comments/20210518/1549022.md" target="_blank">深圳赛格大厦不明原因晃动 一万五千人紧急疏散</a></li>
-<li><a href="/comments/20210518/1549021.md" target="_blank">【天艺创作室】冲浪</a></li>
-<li><a href="/comments/20210518/1549013.md" target="_blank">美最高法院保障拥枪权 驳回警察无证搜查枪支令</a></li>
-<li><a href="/comments/20210518/1549012.md" target="_blank">澳少将：中共若武力攻台或引发大战 专家称四国将共同防御</a></li>
-<li><a href="/comments/20210518/1549000.md" target="_blank">【林忌评论】防疫「优等生」中招 台民「自主封城」</a></li>
-<li><a href="/comments/20210518/1548998.md" target="_blank">林郑的 Freudian slip</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
 <li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
 
 </ul>
 </div>
