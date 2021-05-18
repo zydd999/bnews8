@@ -7,10 +7,7 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/topimagenews/20210517/1548236.md">房价跌幅全国第一，东北这城火了；日本首次点名中共为罪魁；美推动中国出口下降</a></li>
 <li><a href="/cnnews/20210517/1548329.md">重磅！美共和党称获得武汉实验室病毒起源证据</a></li>
-<li><a href="/comments/20210517/1548215.md">若你身上有这5个表现，说明你的体质很棒</a></li>
-<li><a href="/cnnews/20210517/1548209.md">不妙：切尔诺贝利废墟核反应“死灰复燃”</a></li>
 <li><a href="/topimagenews/20210518/1548658.md">毛左纪念文革被取消，习近平打的啥算盘？马云身价暴跌，300年大学为何完了？</a></li>
-<li><a href="/worldnews/20210517/1548203.md">注射中国科兴疫苗 泰国女排国家队26人全确诊</a></li>
 <li><a href="/comments/20210518/1548456.md">北京叫停文革55周年纪念 毛泽东的妻子江青换名“出场”</a></li>
 <li><a href="/cbnews/20210518/1548420.md">广州奇观 上千老板列队一公里…等工人挑</a></li>
 <li><a href="/cnnews/20210518/1548492.md">又一款中共病毒疫苗来了 有效率95% 盼年底获准使用</a></li>
@@ -20,14 +17,17 @@
 <li><a href="/health/20210518/1548514.md">46岁男子每天做50个深蹲，身体越来越硬朗！若你也做，或不会比他差</a></li>
 <li><a href="/bannedvideo/20210518/1548643.md">击杀哈马斯高官毁地道，以巴冲突升温，北京着急2大原因；台湾疫情加重，未来2周关键；17个中风险区，安徽辽宁多官被处理；切尔诺贝利中子激增，或再次核爆；真实中国画作欣赏【新闻看点 李沐阳05.18】</a></li>
 <li><a href="/bannedvideo/20210517/1548249.md">以色列定点清除33名哈马斯领导，巴勒斯坦群众演员很忙！</a></li>
-<li><a href="/cbnews/20210518/1548704.md">以巴冲突伤亡惨重 美中不同调 以色列精准击杀哈马斯高官 北京着急？</a></li>
 <li><a href="/cbnews/20210517/1548254.md">亚洲疫情骤升 台湾新增333例 中国大陆17个中风险区</a></li>
+<li><a href="/cbnews/20210518/1548704.md">以巴冲突伤亡惨重 美中不同调 以色列精准击杀哈马斯高官 北京着急？</a></li>
 <li><a href="/cbnews/20210518/1548489.md">左派会错意 表错情 微博文革话题成禁区</a></li>
 <li><a href="/cnnews/20210518/1548438.md">马斯克跌落神坛 与比特币狂热者上演骂战</a></li>
+<li><a href="/yule/20210518/1548647.md">中国第一名模马艳丽罕现身，气场不输刘雯，与名导离婚后身价上亿</a></li>
 <li><a href="/renquan/minyun/20210517/1548353.md">徐沛：性乱与恋爱</a></li>
 <li><a href="/cnnews/20210518/1548493.md">“中共病毒疫苗2.0”就要来了？</a></li>
-<li><a href="/yule/20210518/1548647.md">中国第一名模马艳丽罕现身，气场不输刘雯，与名导离婚后身价上亿</a></li>
+<li><a href="/cnnews/20210518/1548767.md">以色列公布视频证据：空袭最终取消 只因发现了… 【阿波罗网编译】</a></li>
 <li><a href="/funmedia/20210518/1548537.md">旅游久了才发现，这3样东西看似不起眼，关键时候却能派上大用场</a></li>
+<li><a href="/cnnews/20210517/1548348.md">阁楼惊见毛骨悚然巢穴 专家：是外来物种…</a></li>
+<li><a href="/cbnews/20210518/1548485.md">专栏 | 夜话中南海：习近平重用的刘鹤到底是不是“右派”？</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
 <li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
 <li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
 <li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
-<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
 <li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
 
 </ul>
 </div>
