@@ -13,21 +13,21 @@
 <li><a href="/cbnews/20210519/1549439.md">胡锦涛的一举动让美官员面面相觑</a></li>
 <li><a href="/cbnews/20210519/1549606.md">分析：中共二十大的人事异动或现大变化</a></li>
 <li><a href="/cbnews/20210519/1549393.md">“国师”说漏嘴：中共对美国发动生物战</a></li>
-<li><a href="/topimagenews/20210519/1549524.md">针对习近平是否重评文革 大外宣竟用这句话 胡锡进带风向 中共有几套宣传系统？</a></li>
 <li><a href="/comments/20210519/1549267.md">彭斯炮轰拜登出卖美国利益讨好中共   内幕：彭斯被军方抓捕后与川普达成秘密协议 开始爆料DS黑幕 争取将功赎罪</a></li>
+<li><a href="/topimagenews/20210519/1549524.md">针对习近平是否重评文革 大外宣竟用这句话 胡锡进带风向 中共有几套宣传系统？</a></li>
 <li><a href="/comments/20210519/1549509.md">中南海三大人事规矩被打破 二十大异动将出人意料 李克强汪洋王沪宁仕途充满变数 习家军多人或黑马入局 中南海谣言预言_460</a></li>
 <li><a href="/ssgc/20210519/1549315.md">〖兲朝浮世绘〗蓬佩奥：中共极力掩盖冠状病毒起源 程度“惊人”</a></li>
 <li><a href="/topimagenews/20210519/1549591.md">炸瞎眼 四肢剩一臂！哈马斯头目7次逃过以色列追杀 名列黑名单25年 【阿波罗网编译】</a></li>
 <li><a href="/bannedvideo/20210519/1549238.md">【军政】以色列震惊世界；中共忧心忡忡；哈马斯发伤亡视频穿帮被热传；美最高法院驳回拜登警察无证搜查枪枝令；美疫情趋缓上周死亡数创14个月新低；朱利安尼子竞选纽约州长；美房飙升泡沫大 CR</a></li>
 <li><a href="/yule/20210519/1549301.md">《功夫》“龅牙珍”卸妆真容曝光！网惊：美过王祖贤</a></li>
-<li><a href="/topimagenews/20210518/1549110.md">全面封杀?大陆重提虚拟货币禁令 比特币失43000美元</a></li>
 <li><a href="/cbnews/20210519/1549437.md">证实豆腐渣？官称深圳大厦晃动是自身结构造成</a></li>
-<li><a href="/comments/20210519/1549452.md">【微博精粹】终于承认武汉肺炎是对美国发动的生物战</a></li>
 <li><a href="/comments/20210519/1549505.md">外星技术领先美国1000年！！美国防部6月将公开UFO的秘密</a></li>
+<li><a href="/comments/20210519/1549452.md">【微博精粹】终于承认武汉肺炎是对美国发动的生物战</a></li>
+<li><a href="/topimagenews/20210518/1549110.md">全面封杀?大陆重提虚拟货币禁令 比特币失43000美元</a></li>
+<li><a href="/ssgc/20210519/1549622.md">《金融时报》揭刘鹤儿子幕后投资中国科企获利</a></li>
+<li><a href="/lifebaike/20210519/1549678.md">男女之间如果经常做这3件事 很容易“日久生情”</a></li>
 <li><a href="/cbnews/20210519/1549310.md">快讯！佩洛西：美国应抵制2022年北京冬奥</a></li>
 <li><a href="/cbnews/20210519/1549243.md">近期中国多地政法委书记遭厄运实录</a></li>
-<li><a href="/yule/20210519/1549276.md">费翔60岁满脸胡子仍帅爆 传至今不婚都因为她</a></li>
-<li><a href="/comments/20210519/1549467.md">有人说新冠疫情只是一个掩护 目的是在人类的身上植入可追踪的微芯片 盖茨基金会否认了这个说话  但一个视频显示 疫苗里有不可思议的东西存在</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210519/1549757.md" target="_blank">美华男拟开靶场招揽中国游客 违反枪支法被控罪</a></li>
+<li><a href="/comments/20210519/1549753.md" target="_blank">杨子俊：移民潮</a></li>
+<li><a href="/comments/20210519/1549752.md" target="_blank">【记香港．专访】守住香港的荣休主教 89 岁陈日君：我不会走、不可走、不应走</a></li>
+<li><a href="/comments/20210519/1549751.md" target="_blank">爆炸新闻：宾州县法官表示 无法扫描共和党选票</a></li>
 <li><a href="/comments/20210519/1549724.md" target="_blank">中共二十大前内斗升级 谁在放刘鹤黑料？波及儿子</a></li>
 <li><a href="/comments/20210519/1549723.md" target="_blank">【未普评论】习近平为何痴迷红色宣传？</a></li>
 <li><a href="/comments/20210519/1549721.md" target="_blank">诗一首： 夏 威 夷</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210519/1549643.md" target="_blank">曾节明：为什么中共拒不废除“计生国策”？习近平与易富贤的对话</a></li>
 <li><a href="/comments/20210519/1549636.md" target="_blank">如何在1分钟内治好耳鸣？</a></li>
 <li><a href="/comments/20210519/1549633.md" target="_blank">德国四个独具特色的博物馆 您更想去看哪一个？</a></li>
-<li><a href="/comments/20210519/1549623.md" target="_blank">复旦大学拟在匈牙利首都设分校 市长坚决反对</a></li>
-<li><a href="/comments/20210519/1549609.md" target="_blank">传国务院要求业界禁播推翻政权电影 田启文忧工作人员不知悉剧本 误堕灰色地带</a></li>
-<li><a href="/comments/20210519/1549608.md" target="_blank">政府煞停华英中学重建 星岛：建制派质疑学校立场 校长曾吁搁置《逃犯条例》</a></li>
-<li><a href="/comments/20210519/1549607.md" target="_blank">瓦努阿图的陆上潜水：你愿意充满信心飞跃吗？</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
 <li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
 <li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
 
 </ul>
 </div>
