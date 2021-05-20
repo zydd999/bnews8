@@ -16,16 +16,16 @@
 <li><a href="/cbnews/20210520/1549900.md">深圳大楼乱晃惊动美领馆 向美国人发警告</a></li>
 <li><a href="/cnnews/20210520/1550011.md">10位高学历妈妈内心独白 没存款千万别走这条路</a></li>
 <li><a href="/headline/20210519/1549709.md">山雨欲来？英媒“微妙”揭露刘鹤之子幕后敛财</a></li>
-<li><a href="/comments/20210519/1549689.md">绝对精彩！亚利桑那州参议院审计听证会，高人现身，被删掉的数据库已经全部恢复！四大关键问题得到圆满听证。再给马里科帕县监事会一个台阶。</a></li>
 <li><a href="/cbnews/20210520/1550187.md">深圳赛格大厦再次晃动 美国领馆发出警示</a></li>
+<li><a href="/comments/20210519/1549689.md">绝对精彩！亚利桑那州参议院审计听证会，高人现身，被删掉的数据库已经全部恢复！四大关键问题得到圆满听证。再给马里科帕县监事会一个台阶。</a></li>
 <li><a href="/cnnews/20210520/1549963.md">研究：大米含塑料微粒 一周吃掉一张信用卡</a></li>
 <li><a href="/funmedia/20210520/1550044.md">人生走向衰败的四个迹象，有一个，都很忌讳</a></li>
 <li><a href="/cbnews/20210520/1550052.md">文昭：深圳地标赛格大厦无故摇晃成诅咒，中共将迎来命运「奇异点」？真的曾经发生过</a></li>
 <li><a href="/cbnews/20210519/1549676.md">网曝公安局长驾车追尾死亡后 特斯拉又撞飞两交警</a></li>
 <li><a href="/cbnews/20210520/1549999.md">回国入境新规升级 多地隔离期延长最长35天</a></li>
+<li><a href="/lifebaike/20210520/1550030.md">“育儿专家”李玫瑾女儿成才了吗？平时有理有据，结果却差强人意</a></li>
 <li><a href="/comments/20210519/1549677.md">中国的房价 究竟是靠什么支撑这么久的？</a></li>
 <li><a href="/cbnews/20210520/1549958.md">五一旅游传染链延长至6省 感染途径不明</a></li>
-<li><a href="/lifebaike/20210520/1550030.md">“育儿专家”李玫瑾女儿成才了吗？平时有理有据，结果却差强人意</a></li>
 <li><a href="/cnnews/20210520/1550134.md">深圳赛格大厦晃动 20年前论文疑泄原因</a></li>
 <li><a href="/health/20210520/1550025.md">中国的艾滋病感染人数104.5万，医生忠告，预防艾滋病，四件事不要做</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210520/1550383.md" target="_blank">8岁女孩被困电梯警铃无人应 物业一句话家长怒了</a></li>
 <li><a href="/cbnews/20210520/1550370.md" target="_blank">深圳赛格大厦再摇晃 连晃三天谜团未解 网民：设计缺陷！劣质建筑</a></li>
 <li><a href="/cbnews/20210520/1550369.md" target="_blank">牛腾宇母亲：当局继续对她及友人威胁恐吓</a></li>
 <li><a href="/cbnews/20210520/1550329.md" target="_blank">退伍老兵集体一举动！“给中共‘长长’脸 给小粉红上上课” 【阿波罗网报道】</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/comments/20210520/1550016.md" target="_blank">中共海上预备役临时工行动了</a></li>
 <li><a href="/cbnews/20210520/1549999.md" target="_blank">回国入境新规升级 多地隔离期延长最长35天</a></li>
 <li><a href="/cbnews/20210520/1549959.md" target="_blank">中共打数字太极 美国拒信中共气候政策</a></li>
-<li><a href="/cbnews/20210520/1549958.md" target="_blank">五一旅游传染链延长至6省 感染途径不明</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210520/1550373.md" target="_blank">只准处长按摩 不许车长响咹</a></li>
+<li><a href="/comments/20210520/1550372.md" target="_blank">经营卖淫场所最高可判囚十年 刑罚远比经营无牌按摩店严重</a></li>
 <li><a href="/comments/20210520/1550364.md" target="_blank">加拿大2.5万人死于中共病毒 问责中共呼声高涨</a></li>
 <li><a href="/comments/20210520/1550336.md" target="_blank">“一带一路”再踢铁板 萨摩亚新总理将搁置港湾开发项目</a></li>
 <li><a href="/comments/20210520/1550314.md" target="_blank">美韩首脑会谈明日举行 文在寅对美中立场成焦点</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210520/1550179.md" target="_blank">赛格大厦再晃！美驻广州领事馆发警告</a></li>
 <li><a href="/comments/20210520/1550177.md" target="_blank">前浪、后浪，谁拍死谁在沙滩上？</a></li>
 <li><a href="/comments/20210520/1550168.md" target="_blank">李燕铭：刘鹤二十大晋升政治局常委？刘鹤重演王岐山遭江曾围攻命运 二十大高层人事大战白热化 刘鹤二十天内连遭江派三波攻击 刘鹤儿子被放黑料：参与管理百亿基金 投资腾讯京东获利十亿</a></li>
-<li><a href="/comments/20210520/1550163.md" target="_blank">拜登提名顶级律师被疑?亚省被删数据恢复 审计继续;密苏里诉中共！成功递海牙;军人言论遭五角大楼监控;2024初选民调最新出炉 ；不输中国拜登推电动车计划; 优衣库海关被扣原因？【#北美新闻05/19】</a></li>
-<li><a href="/comments/20210520/1550156.md" target="_blank">王友群：内蒙古一杀人犯人大代表的离奇经历</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
 <li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
 
 </ul>
 </div>
