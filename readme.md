@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/yule/20210520/1549969.md">知名女演员凌晨突发车祸当场去世 年仅29岁</a></li>
 <li><a href="/bannedvideo/20210520/1550045.md">赛格大厦晃动的原因，当年施工竞标公司当事人爆料，深圳速度神话破灭。</a></li>
 <li><a href="/topimagenews/20210520/1550301.md">美陆战队司令：研究中共十年 发现北京越来越…</a></li>
 <li><a href="/cbnews/20210520/1550022.md">以色列大使馆怼中共官媒：反犹的丑陋面目</a></li>
@@ -16,7 +15,6 @@
 <li><a href="/cnnews/20210520/1550358.md">比尔盖兹离婚后首公开现身 手上惊见亮点</a></li>
 <li><a href="/cbnews/20210520/1550214.md">二十大人事异动 陈全国或因健康状况存变数</a></li>
 <li><a href="/worldnews/20210520/1550405.md">国产不可靠 北韩高官注射大陆产药物後死亡 金正恩震怒</a></li>
-<li><a href="/cnnews/20210520/1549963.md">研究：大米含塑料微粒 一周吃掉一张信用卡</a></li>
 <li><a href="/cbnews/20210520/1550392.md">美驱逐舰穿过西沙海域 中共抗议遭美军打脸</a></li>
 <li><a href="/cbnews/20210520/1550370.md">深圳赛格大厦再摇晃 连晃三天谜团未解 网民：设计缺陷！劣质建筑</a></li>
 <li><a href="/comments/20210520/1550168.md">李燕铭：刘鹤二十大晋升政治局常委？刘鹤重演王岐山遭江曾围攻命运 二十大高层人事大战白热化 刘鹤二十天内连遭江派三波攻击 刘鹤儿子被放黑料：参与管理百亿基金 投资腾讯京东获利十亿</a></li>
@@ -24,10 +22,12 @@
 <li><a href="/cnnews/20210520/1550202.md">摩萨德出动！以军方大开绿灯：将在四国追杀哈马斯高官</a></li>
 <li><a href="/cbnews/20210520/1550052.md">文昭：深圳地标赛格大厦无故摇晃成诅咒，中共将迎来命运「奇异点」？真的曾经发生过</a></li>
 <li><a href="/ssgc/20210520/1550063.md">〖兲朝浮世绘〗马云湖畔大学寿终 基业犯了一尊的忌讳？</a></li>
-<li><a href="/cnnews/20210520/1550134.md">深圳赛格大厦晃动 20年前论文疑泄原因</a></li>
-<li><a href="/baitai/20210520/1550258.md">颜纯鈎﻿：习近平再发动一次文革必自取灭亡</a></li>
 <li><a href="/cbnews/20210520/1550483.md">深圳赛格大厦第三次摇晃 网传开始施工加固</a></li>
+<li><a href="/baitai/20210520/1550258.md">颜纯鈎﻿：习近平再发动一次文革必自取灭亡</a></li>
+<li><a href="/cnnews/20210520/1550134.md">深圳赛格大厦晃动 20年前论文疑泄原因</a></li>
 <li><a href="/cbnews/20210520/1549999.md">回国入境新规升级 多地隔离期延长最长35天</a></li>
+<li><a href="/cbnews/20210520/1550329.md">退伍老兵集体一举动！“给中共‘长长’脸 给小粉红上上课” 【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20210520/1550584.md">朝鲜高官施打中国制药身亡 金正恩震怒下令…</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210521/1550689.md" target="_blank">云南连2天地震不断 住校学生操场睡在一起</a></li>
 <li><a href="/cbnews/20210521/1550675.md" target="_blank">香格里拉安全对话会取消 中美防长面谈无望</a></li>
 <li><a href="/cbnews/20210521/1550673.md" target="_blank">深圳赛格大厦再摇晃 连晃三天</a></li>
 <li><a href="/cbnews/20210521/1550665.md" target="_blank">港媒析中共二十大人事布局中的大热与黑马</a></li>
@@ -60,13 +61,13 @@
 <li><a href="/cbnews/20210520/1550329.md" target="_blank">退伍老兵集体一举动！“给中共‘长长’脸 给小粉红上上课” 【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20210520/1550303.md" target="_blank">美使馆推公共外交计划 中共跳脚的背后原因</a></li>
 <li><a href="/cbnews/20210520/1550267.md" target="_blank">云南滇池乱开发惊动中南海 23名官员被问责</a></li>
-<li><a href="/cbnews/20210520/1550249.md" target="_blank">澳洲前少将：若中共武力攻台 中美将爆发大战</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20210521/1550688.md" target="_blank">美军入驻台湾陆军基地获证实 中共官方保持沉默</a></li>
 <li><a href="/topimagenews/20210521/1550640.md" target="_blank">599：30！欧洲议会压倒性通过冻结中欧投资协定</a></li>
 <li><a href="/topimagenews/20210520/1550584.md" target="_blank">朝鲜高官施打中国制药身亡 金正恩震怒下令…</a></li>
 <li><a href="/topimagenews/20210520/1550302.md" target="_blank">10倍CIA密探？ 美媒曝五角大楼拥6万人“秘密卧底”部队</a></li>
@@ -91,13 +92,13 @@
 <li><a href="/topimagenews/20210515/1547118.md" target="_blank">前610主任余辉被拜登政府制裁 曾制造多少惨案</a></li>
 <li><a href="/topimagenews/20210515/1546995.md" target="_blank">习近平肃清江系人马！陈一新点名五大“政法虎” 痛批“两面人” 要杀回马枪</a></li>
 <li><a href="/topimagenews/20210515/1546970.md" target="_blank">招工困难 美18州宣布将停发联邦救济金以鼓励就业</a></li>
-<li><a href="/topimagenews/20210515/1546892.md" target="_blank">展现毁灭性武力！以色列160架战机40分钟射450弹 猛轰哈马斯地道</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210521/1550681.md" target="_blank">回击火箭弹袭击 以发动针对哈马斯军官住宅空袭</a></li>
 <li><a href="/comments/20210521/1550670.md" target="_blank">民胞物与</a></li>
 <li><a href="/comments/20210521/1550669.md" target="_blank">女总裁实名举报索贿500万！郑州市政法委书记应声落马</a></li>
 <li><a href="/comments/20210521/1550660.md" target="_blank">德州器官移植医生作证：美国应遏止中共活摘器官</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210521/1550597.md" target="_blank">【47人案】刘泽锋发声明退出政界 “只希望返回普通生活”</a></li>
 <li><a href="/comments/20210521/1550596.md" target="_blank">泰国北碧府一绝：能将生活的压力随碧波一起流向远方……</a></li>
 <li><a href="/comments/20210520/1550566.md" target="_blank">美退役军官：飞碟的技术比美军先进100至1000年</a></li>
-<li><a href="/comments/20210520/1550554.md" target="_blank">新闻制作人都放弃派人跟访！贺锦丽被爆偷藏“不友善记者名单”</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
 <li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
 <li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
 
 </ul>
 </div>
