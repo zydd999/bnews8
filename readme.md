@@ -6,14 +6,12 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/lifebaike/20210519/1549678.md">男女之间如果经常做这3件事 很容易“日久生情”</a></li>
-<li><a href="/cbnews/20210519/1549606.md">分析：中共二十大的人事异动或现大变化</a></li>
 <li><a href="/yule/20210520/1549969.md">知名女演员凌晨突发车祸当场去世 年仅29岁</a></li>
 <li><a href="/cnnews/20210519/1549795.md">港媒：中南海打破潜规则 二十大人事异动不寻常</a></li>
 <li><a href="/cnnews/20210520/1549933.md">中共国惊现“月经警察” 离齐奥塞斯库末日不远？</a></li>
-<li><a href="/topimagenews/20210519/1549605.md">又是中共制造？恐怖分子发射50枚火箭 10枚掉在加沙境内 【阿波罗网编译】</a></li>
 <li><a href="/ssgc/20210519/1549622.md">《金融时报》揭刘鹤儿子幕后投资中国科企获利</a></li>
-<li><a href="/bannedvideo/20210520/1550045.md">赛格大厦晃动的原因，当年施工竞标公司当事人爆料，深圳速度神话破灭。</a></li>
 <li><a href="/cbnews/20210519/1549842.md">赛格大厦晃动 20年前论文揭建造问题 官方却这样说</a></li>
+<li><a href="/bannedvideo/20210520/1550045.md">赛格大厦晃动的原因，当年施工竞标公司当事人爆料，深圳速度神话破灭。</a></li>
 <li><a href="/cbnews/20210520/1550022.md">以色列大使馆怼中共官媒：反犹的丑陋面目</a></li>
 <li><a href="/lifebaike/20210519/1549679.md">越是有钱的人越不喜欢和穷人打交道 原因很简单</a></li>
 <li><a href="/cnnews/20210520/1550011.md">10位高学历妈妈内心独白 没存款千万别走这条路</a></li>
@@ -22,12 +20,14 @@
 <li><a href="/worldnews/20210519/1549641.md">以色列指责中共国家电视台宣传"公然的反犹太主义“【阿波罗网编译】</a></li>
 <li><a href="/comments/20210519/1549689.md">绝对精彩！亚利桑那州参议院审计听证会，高人现身，被删掉的数据库已经全部恢复！四大关键问题得到圆满听证。再给马里科帕县监事会一个台阶。</a></li>
 <li><a href="/cnnews/20210520/1549963.md">研究：大米含塑料微粒 一周吃掉一张信用卡</a></li>
-<li><a href="/cbnews/20210519/1549676.md">网曝公安局长驾车追尾死亡后 特斯拉又撞飞两交警</a></li>
 <li><a href="/funmedia/20210520/1550044.md">人生走向衰败的四个迹象，有一个，都很忌讳</a></li>
+<li><a href="/cbnews/20210519/1549676.md">网曝公安局长驾车追尾死亡后 特斯拉又撞飞两交警</a></li>
 <li><a href="/lifebaike/20210520/1550030.md">“育儿专家”李玫瑾女儿成才了吗？平时有理有据，结果却差强人意</a></li>
+<li><a href="/cbnews/20210520/1550052.md">文昭：深圳地标赛格大厦无故摇晃成诅咒，中共将迎来命运「奇异点」？真的曾经发生过</a></li>
 <li><a href="/cbnews/20210519/1549646.md">美国空军多强大？探秘真正的空中霸王</a></li>
 <li><a href="/cbnews/20210520/1549999.md">回国入境新规升级 多地隔离期延长最长35天</a></li>
-<li><a href="/cbnews/20210520/1550052.md">文昭：深圳地标赛格大厦无故摇晃成诅咒，中共将迎来命运「奇异点」？真的曾经发生过</a></li>
+<li><a href="/comments/20210519/1549677.md">中国的房价 究竟是靠什么支撑这么久的？</a></li>
+<li><a href="/cbnews/20210520/1549958.md">五一旅游传染链延长至6省 感染途径不明</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
 <li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
-<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
 <li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
 
 </ul>
 </div>
