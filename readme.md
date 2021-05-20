@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/yule/20210520/1549969.md">知名女演员凌晨突发车祸当场去世 年仅29岁</a></li>
-<li><a href="/cnnews/20210520/1549933.md">中共国惊现“月经警察” 离齐奥塞斯库末日不远？</a></li>
 <li><a href="/bannedvideo/20210520/1550045.md">赛格大厦晃动的原因，当年施工竞标公司当事人爆料，深圳速度神话破灭。</a></li>
 <li><a href="/topimagenews/20210520/1550301.md">美陆战队司令：研究中共十年 发现北京越来越…</a></li>
 <li><a href="/cbnews/20210520/1550022.md">以色列大使馆怼中共官媒：反犹的丑陋面目</a></li>
@@ -17,17 +16,18 @@
 <li><a href="/bannedvideo/20210520/1550470.md">以色列被迫宣布星期五停火，保住哈马斯就保住了背后的利益链。</a></li>
 <li><a href="/cbnews/20210520/1550214.md">二十大人事异动 陈全国或因健康状况存变数</a></li>
 <li><a href="/worldnews/20210520/1550405.md">国产不可靠 北韩高官注射大陆产药物後死亡 金正恩震怒</a></li>
+<li><a href="/cnnews/20210520/1549963.md">研究：大米含塑料微粒 一周吃掉一张信用卡</a></li>
 <li><a href="/cbnews/20210520/1550392.md">美驱逐舰穿过西沙海域 中共抗议遭美军打脸</a></li>
 <li><a href="/cbnews/20210520/1550370.md">深圳赛格大厦再摇晃 连晃三天谜团未解 网民：设计缺陷！劣质建筑</a></li>
-<li><a href="/cnnews/20210520/1549963.md">研究：大米含塑料微粒 一周吃掉一张信用卡</a></li>
 <li><a href="/comments/20210520/1550168.md">李燕铭：刘鹤二十大晋升政治局常委？刘鹤重演王岐山遭江曾围攻命运 二十大高层人事大战白热化 刘鹤二十天内连遭江派三波攻击 刘鹤儿子被放黑料：参与管理百亿基金 投资腾讯京东获利十亿</a></li>
 <li><a href="/lifebaike/20210520/1550030.md">“育儿专家”李玫瑾女儿成才了吗？平时有理有据，结果却差强人意</a></li>
 <li><a href="/cnnews/20210520/1550202.md">摩萨德出动！以军方大开绿灯：将在四国追杀哈马斯高官</a></li>
 <li><a href="/cbnews/20210520/1550052.md">文昭：深圳地标赛格大厦无故摇晃成诅咒，中共将迎来命运「奇异点」？真的曾经发生过</a></li>
 <li><a href="/ssgc/20210520/1550063.md">〖兲朝浮世绘〗马云湖畔大学寿终 基业犯了一尊的忌讳？</a></li>
 <li><a href="/cbnews/20210520/1549958.md">五一旅游传染链延长至6省 感染途径不明</a></li>
-<li><a href="/baitai/20210520/1550258.md">颜纯鈎﻿：习近平再发动一次文革必自取灭亡</a></li>
 <li><a href="/cnnews/20210520/1550134.md">深圳赛格大厦晃动 20年前论文疑泄原因</a></li>
+<li><a href="/baitai/20210520/1550258.md">颜纯鈎﻿：习近平再发动一次文革必自取灭亡</a></li>
+<li><a href="/cbnews/20210520/1549999.md">回国入境新规升级 多地隔离期延长最长35天</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210521/1550651.md" target="_blank">美公司计划推超音速飞机 四小时到达世界各地</a></li>
+<li><a href="/comments/20210521/1550650.md" target="_blank">人民币国际支付排名4月降至全球第六位</a></li>
+<li><a href="/comments/20210521/1550648.md" target="_blank">美韩首脑会晤将提台湾 强度不输美日联合声明</a></li>
+<li><a href="/comments/20210521/1550647.md" target="_blank">罕见！李克强一周两次点名大宗商品涨价</a></li>
+<li><a href="/comments/20210521/1550646.md" target="_blank">习近平铁腕打虎近10年 军队腐败现在咋样了</a></li>
 <li><a href="/comments/20210521/1550633.md" target="_blank">美23议员吁：立即让批共产主义的美军指挥官复职</a></li>
 <li><a href="/comments/20210521/1550628.md" target="_blank">政府突煞停华英重建拨款 校方于撤回议程当日始知悉 副校长：未闻议员因政治原因反对</a></li>
 <li><a href="/comments/20210521/1550625.md" target="_blank">职工盟设六四街站 警员到场抄下成员资料后离去</a></li>
@@ -118,11 +123,6 @@
 <li><a href="/comments/20210520/1550553.md" target="_blank">抵制和疫情多重因素下，北京冬奥还开的成吗？</a></li>
 <li><a href="/comments/20210520/1550552.md" target="_blank">加拿大2.5万人染疫死 追责中共声浪高涨</a></li>
 <li><a href="/comments/20210520/1550551.md" target="_blank">感怀李白诗两首</a></li>
-<li><a href="/comments/20210520/1550550.md" target="_blank">六四将至 维稳大军进入北京 抓捕各地进京访民</a></li>
-<li><a href="/comments/20210520/1550537.md" target="_blank">时事大家谈：拜登赠2000万剂美国疫苗，中国“疫苗外交”面临劲敌？</a></li>
-<li><a href="/comments/20210520/1550527.md" target="_blank">有冇搞错：杭州失踪的金钱豹哪去了？</a></li>
-<li><a href="/comments/20210520/1550515.md" target="_blank">2024初选民调出炉 共和党选民忠诚度略胜一筹</a></li>
-<li><a href="/comments/20210520/1550514.md" target="_blank">健康饮食的六大选择</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
 <li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
 <li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
 
 </ul>
 </div>
