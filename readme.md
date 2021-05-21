@@ -7,20 +7,19 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/bannedvideo/20210520/1550470.md">以色列被迫宣布星期五停火，保住哈马斯就保住了背后的利益链。</a></li>
 <li><a href="/topimagenews/20210520/1550584.md">朝鲜高官施打中国制药身亡 金正恩震怒下令…</a></li>
-<li><a href="/cnnews/20210520/1550358.md">比尔盖兹离婚后首公开现身 手上惊见亮点</a></li>
 <li><a href="/worldnews/20210521/1550668.md">突发：传王靖渝在阿联酋被捕 中共插手欲遣返中国</a></li>
 <li><a href="/cnnews/20210520/1550559.md">大陆贝壳找房创办人左晖病逝 年仅50岁 网友：哄抬房价终有报</a></li>
 <li><a href="/topimagenews/20210521/1550688.md">美军入驻台湾陆军基地获证实 中共官方保持沉默</a></li>
 <li><a href="/cbnews/20210521/1550663.md">恐怖瞬间：武汉路面爆炸 人被炸飞</a></li>
-<li><a href="/worldnews/20210520/1550405.md">国产不可靠 北韩高官注射大陆产药物後死亡 金正恩震怒</a></li>
-<li><a href="/cbnews/20210520/1550392.md">美驱逐舰穿过西沙海域 中共抗议遭美军打脸</a></li>
-<li><a href="/comments/20210521/1550702.md">习近平二十大想当党主席 胡春华难成接班人 陈敏尔和李强也不是习近平的接班人 政治局常委和政府总理的地位都会下降 二十大后的中共统治系统的构建将在幕后开始 重要性超过任何表面上的人事变动 中南海谣言预言_461</a></li>
 <li><a href="/topimagenews/20210521/1550881.md">哈马斯这回亏大了：隧道被摧毁 海上部队瘫痪 只因对以色列的判断全错了</a></li>
+<li><a href="/worldnews/20210520/1550405.md">国产不可靠 北韩高官注射大陆产药物後死亡 金正恩震怒</a></li>
+<li><a href="/comments/20210521/1550702.md">习近平二十大想当党主席 胡春华难成接班人 陈敏尔和李强也不是习近平的接班人 政治局常委和政府总理的地位都会下降 二十大后的中共统治系统的构建将在幕后开始 重要性超过任何表面上的人事变动 中南海谣言预言_461</a></li>
+<li><a href="/cbnews/20210520/1550392.md">美驱逐舰穿过西沙海域 中共抗议遭美军打脸</a></li>
 <li><a href="/topimagenews/20210521/1550880.md">“华为的人本来就爱嫖” 华为员工遭爆骗炮10人 回呛：哪个男的不脏？</a></li>
 <li><a href="/funmedia/20210521/1550752.md">人到五十才发现：再善良，也莫信两种人</a></li>
 <li><a href="/cbnews/20210520/1550370.md">深圳赛格大厦再摇晃 连晃三天谜团未解 网民：设计缺陷！劣质建筑</a></li>
-<li><a href="/topimagenews/20210521/1550640.md">599：30！欧洲议会压倒性通过冻结中欧投资协定</a></li>
 <li><a href="/cnnews/20210521/1550904.md">被113公斤女子性侵 17岁醉酒少年崩溃：推不开她</a></li>
+<li><a href="/topimagenews/20210521/1550640.md">599：30！欧洲议会压倒性通过冻结中欧投资协定</a></li>
 <li><a href="/cbnews/20210521/1550665.md">港媒析中共二十大人事布局中的大热与黑马</a></li>
 <li><a href="/cbnews/20210520/1550483.md">深圳赛格大厦第三次摇晃 网传开始施工加固</a></li>
 <li><a href="/cnnews/20210521/1550690.md">难逃一劫？共和党内RINO再度集体背叛川普</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/cbnews/20210521/1550741.md">习近平多年反腐 已铁腕控制军队？</a></li>
 <li><a href="/lifebaike/20210520/1550496.md">北大教授：这个世界，坏人已经联合起来了</a></li>
 <li><a href="/bannedvideo/20210521/1550738.md">不甘被中共当工具？字节跳动CEO张一鸣突辞职︰“我不擅社交，不想管理人”;突发！因言获罪、被跨境抓捕的19岁男孩，在阿联酋被绑架，面临被遣返中国</a></li>
+<li><a href="/bannedvideo/20210520/1550467.md">高仿真山寨钢筋，网友：难怪深圳大楼摇晃了</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
 <li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
+<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
 <li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
 
 </ul>
 </div>
