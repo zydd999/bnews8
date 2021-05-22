@@ -6,10 +6,8 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/comments/20210522/1551654.md">涉内斗？网络突然出现大量中共高层外泄个人信息</a></li>
-<li><a href="/cbnews/20210522/1551473.md">中国社会正在批量生产“文盲”和“精神病”</a></li>
 <li><a href="/cbnews/20210522/1551752.md">黑色宝马冲进人群 撞飞数名路人 遍地哀声</a></li>
 <li><a href="/cbnews/20210522/1551596.md">摩天楼摇晃的背后真相！什么是深圳海砂房？</a></li>
-<li><a href="/bannedvideo/20210522/1551477.md">5月17日黎明前，川普下令美国海军海豹突击队冲进了盖茨在怀俄明州西北部花费3600万美元的厄玛湖山庄并与盖茨雇用的保护492英亩牧场的安全部队发生冲突。一名海豹突击队员和8名敌方战斗人员在交火中丧生</a></li>
 <li><a href="/health/20210522/1551501.md">每天吃鸡蛋的人，和不吃鸡蛋的人，差距会有多大？医生：一目了然</a></li>
 <li><a href="/cnnews/20210522/1551747.md">中南海仍有政变？专家析习近平面临的真正威胁</a></li>
 <li><a href="/comments/20210522/1551767.md">人称大魔医 吴孟超病死 江泽民情妇曾献唱生日宴</a></li>
@@ -18,16 +16,18 @@
 <li><a href="/cbnews/20210522/1551671.md">中国“杂交水稻之父”袁隆平病逝 享寿91岁</a></li>
 <li><a href="/cbnews/20210522/1551851.md">水稻专家袁隆平去世 党媒提前报死讯</a></li>
 <li><a href="/baitai/20210522/1551843.md">苹果日报 &#124; 个人崇拜疑搞过头 紧急降温 北京下令撤习近平画像</a></li>
-<li><a href="/yule/20210522/1551486.md">女星手机疑似被路人捡到 聊天记录太缺德</a></li>
 <li><a href="/bannedvideo/20210522/1551749.md">习近平全面充实“钱袋子”，十个行业领域要当心！--天钧政经</a></li>
 <li><a href="/cnnews/20210522/1551623.md">万万没想到，哈马斯腐败成这样！还剩你XX的战啊？</a></li>
 <li><a href="/lifebaike/20210522/1551771.md">不论夫妻关系有多好 3件事绝不能从实招来</a></li>
 <li><a href="/ssgc/20210522/1551540.md">〖兲朝浮世绘〗中共这是把农民工当成阶级敌人了</a></li>
+<li><a href="/topimagenews/20210522/1551799.md">中国炒房团决战美国华尔街；中国各地爆拉闸限电；文在寅拜登会晤，三星等大厂在美投资</a></li>
 <li><a href="/health/20210522/1551597.md">吃一次等于喝“一桶油”，27岁女子脑梗离世，只因爱吃1种水果</a></li>
 <li><a href="/ssgc/20210522/1551530.md">〖微博谈〗此国无药可救也</a></li>
-<li><a href="/topimagenews/20210522/1551799.md">中国炒房团决战美国华尔街；中国各地爆拉闸限电；文在寅拜登会晤，三星等大厂在美投资</a></li>
-<li><a href="/yule/20210522/1551487.md">千防万防保姆难防：传奇首富李春平的凄惨晚年</a></li>
 <li><a href="/comments/20210522/1551491.md">邓小平同意公审江青时意外听到“六个字”</a></li>
+<li><a href="/comments/20210522/1551824.md">💥习近平任期明年届满 下台的4种可能；中共大举收购海外矿山，将垄断电动汽车？【希望之声TV-两岸要闻-2021/05/22】</a></li>
+<li><a href="/bblog/20210522/1551362.md">中国居然拍出这样的神片还能公映！实属奇迹！内藏重大预言，是年轻一代中国人必须看明白的影片。各强国灭“邪灵”也就是“零”的号角已经吹响，带有“兽印”者必被超级病毒攻击。</a></li>
+<li><a href="/cnnews/20210522/1551603.md">惨烈4跌停 杀猪盘引发血案！证监会通报抓了23人</a></li>
+<li><a href="/cnnews/20210522/1551829.md">又一个信赖崩溃了：首家政府城投债违约…</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210523/1552026.md" target="_blank">一位美国人被中共从新疆驱逐 他经历了什么？</a></li>
+<li><a href="/comments/20210523/1552025.md" target="_blank">专家评美韩峰会：重申同盟 但关键问题无突破</a></li>
+<li><a href="/comments/20210523/1552020.md" target="_blank">戈壁东：美国也出现了中国式的官方拦路抢劫？</a></li>
 <li><a href="/comments/20210523/1552018.md" target="_blank">日相在全球健康峰会上再吁邀请台湾参加世卫大会</a></li>
 <li><a href="/comments/20210523/1552017.md" target="_blank">惊讶~印度神童说5月26日“血月”是好兆头</a></li>
 <li><a href="/comments/20210523/1552010.md" target="_blank">好市多（Costco）购买轮胎，5个令人心动的理由</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210522/1551909.md" target="_blank">中共正进行文化灭绝！西藏政府领袖号召抵制北京冬奥</a></li>
 <li><a href="/comments/20210522/1551906.md" target="_blank">戈壁东：中共通过一个“国师”之口 正式宣布已经开启生物战控制人类命运</a></li>
 <li><a href="/comments/20210522/1551864.md" target="_blank">时事大家谈：豁免疫苗专利保护是危险游戏？</a></li>
-<li><a href="/comments/20210522/1551863.md" target="_blank">时事大家谈：贫穷国家“一苗难求” 豁免疫苗专利管用吗？</a></li>
-<li><a href="/comments/20210522/1551860.md" target="_blank">拜登会晤文在寅强调美韩联盟力量；拜登让步 削减2.3万亿基建计划四分之一；美两院提法案拒给中共间谍发签证；美议员致信库克指苹果近乎完全屈服北京；【希望之声-时事新闻-2021/05/22】</a></li>
-<li><a href="/comments/20210522/1551857.md" target="_blank">时事大家谈：贫穷国家“一苗难求” 豁免疫苗专利管用吗？豁免疫苗专利保护是危险游戏？</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
 <li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/comments/20210329/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
 <li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
 
 </ul>
 </div>
