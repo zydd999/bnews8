@@ -5,8 +5,8 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/cbnews/20210522/1551473.md">中国社会正在批量生产“文盲”和“精神病”</a></li>
 <li><a href="/comments/20210522/1551654.md">涉内斗？网络突然出现大量中共高层外泄个人信息</a></li>
+<li><a href="/cbnews/20210522/1551473.md">中国社会正在批量生产“文盲”和“精神病”</a></li>
 <li><a href="/cbnews/20210522/1551752.md">黑色宝马冲进人群 撞飞数名路人 遍地哀声</a></li>
 <li><a href="/cbnews/20210522/1551596.md">摩天楼摇晃的背后真相！什么是深圳海砂房？</a></li>
 <li><a href="/bannedvideo/20210522/1551477.md">5月17日黎明前，川普下令美国海军海豹突击队冲进了盖茨在怀俄明州西北部花费3600万美元的厄玛湖山庄并与盖茨雇用的保护492英亩牧场的安全部队发生冲突。一名海豹突击队员和8名敌方战斗人员在交火中丧生</a></li>
@@ -17,10 +17,10 @@
 <li><a href="/cbnews/20210522/1551761.md">习近平白忙一场？揭中欧投资协议魔鬼细节</a></li>
 <li><a href="/cbnews/20210522/1551671.md">中国“杂交水稻之父”袁隆平病逝 享寿91岁</a></li>
 <li><a href="/cbnews/20210522/1551851.md">水稻专家袁隆平去世 党媒提前报死讯</a></li>
-<li><a href="/yule/20210522/1551486.md">女星手机疑似被路人捡到 聊天记录太缺德</a></li>
 <li><a href="/baitai/20210522/1551843.md">苹果日报 &#124; 个人崇拜疑搞过头 紧急降温 北京下令撤习近平画像</a></li>
-<li><a href="/cnnews/20210522/1551623.md">万万没想到，哈马斯腐败成这样！还剩你XX的战啊？</a></li>
+<li><a href="/yule/20210522/1551486.md">女星手机疑似被路人捡到 聊天记录太缺德</a></li>
 <li><a href="/bannedvideo/20210522/1551749.md">习近平全面充实“钱袋子”，十个行业领域要当心！--天钧政经</a></li>
+<li><a href="/cnnews/20210522/1551623.md">万万没想到，哈马斯腐败成这样！还剩你XX的战啊？</a></li>
 <li><a href="/lifebaike/20210522/1551771.md">不论夫妻关系有多好 3件事绝不能从实招来</a></li>
 <li><a href="/ssgc/20210522/1551540.md">〖兲朝浮世绘〗中共这是把农民工当成阶级敌人了</a></li>
 <li><a href="/health/20210522/1551597.md">吃一次等于喝“一桶油”，27岁女子脑梗离世，只因爱吃1种水果</a></li>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210523/1552018.md" target="_blank">日相在全球健康峰会上再吁邀请台湾参加世卫大会</a></li>
+<li><a href="/comments/20210523/1552017.md" target="_blank">惊讶~印度神童说5月26日“血月”是好兆头</a></li>
 <li><a href="/comments/20210523/1552010.md" target="_blank">好市多（Costco）购买轮胎，5个令人心动的理由</a></li>
 <li><a href="/comments/20210523/1552007.md" target="_blank">【古代诗人的修炼故事】柳宗元</a></li>
 <li><a href="/comments/20210523/1552006.md" target="_blank">美防长数邀中共军委副主席对话 许其亮回避惹议</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210522/1551863.md" target="_blank">时事大家谈：贫穷国家“一苗难求” 豁免疫苗专利管用吗？</a></li>
 <li><a href="/comments/20210522/1551860.md" target="_blank">拜登会晤文在寅强调美韩联盟力量；拜登让步 削减2.3万亿基建计划四分之一；美两院提法案拒给中共间谍发签证；美议员致信库克指苹果近乎完全屈服北京；【希望之声-时事新闻-2021/05/22】</a></li>
 <li><a href="/comments/20210522/1551857.md" target="_blank">时事大家谈：贫穷国家“一苗难求” 豁免疫苗专利管用吗？豁免疫苗专利保护是危险游戏？</a></li>
-<li><a href="/comments/20210522/1551850.md" target="_blank">警惕！深圳、广州再现疫情</a></li>
-<li><a href="/comments/20210522/1551849.md" target="_blank">区议员宣誓修例今生效 公民党坚摩区议员黄健菁辞职 6.1 起不再参与政治</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
 <li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/comments/20210329/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
 
 </ul>
 </div>
