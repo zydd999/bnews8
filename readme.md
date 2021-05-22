@@ -6,15 +6,14 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/yule/20210521/1551174.md">从红得发紫到千夫所指 又一国产女演员跌落神坛</a></li>
-<li><a href="/cnnews/20210521/1550994.md">不听霍金警告！中共宣布“天眼”又有新发现</a></li>
 <li><a href="/comments/20210522/1551414.md">习近平女儿习明泽真容曝光？网传习明泽奉子成婚 已怀孕三个月 驸马是渣男 习近平接中央警卫局报告一筹莫展 二十大恶战开打 习近平被爆黑料 习与江曾你死我活 中南海将有大事！中南海谣言预言_462</a></li>
 <li><a href="/cnnews/20210521/1551097.md">赛格大厦连续摇晃 分析：美领馆为何发警示</a></li>
 <li><a href="/topimagenews/20210521/1551152.md">美军进驻台湾 中共怂了 针对中共日本拟取消国防开支上限 原计划曝光58家上市公司黑幕</a></li>
 <li><a href="/cbnews/20210521/1551003.md">沈阳大爷大妈把头挂树上锻炼 画风奇特太吓人</a></li>
 <li><a href="/bannedvideo/20210521/1551247.md">《石涛聚焦》“惊叹不已❗️习明泽怀孕3个多月 习近平一筹莫展”中央警卫局熟知驸马“情商”细节 唯习公主至爱无疑（21/05）</a></li>
 <li><a href="/comments/20210522/1551438.md">二十大爆料大战开打 习近平姐夫邓家贵外甥女张燕南、习远平夫人张澜谰及习近平亲信汪洋王小洪的私人信息被曝光 中共国安部长陈文清一家三口私人信息曝光 中南海谣言预言_464</a></li>
-<li><a href="/cbnews/20210522/1551473.md">中国社会正在批量生产“文盲”和“精神病”</a></li>
 <li><a href="/bannedvideo/20210521/1551080.md">习近平心腹被曝黑料，刘鹤儿子刘天然被瞄准，胡春华未来动向--天钧政经</a></li>
+<li><a href="/cbnews/20210522/1551473.md">中国社会正在批量生产“文盲”和“精神病”</a></li>
 <li><a href="/comments/20210522/1551429.md">中共高官爆党内政变反习行动内幕 爆习近平与江泽民胡锦涛温家宝王岐山王沪宁真实关系 王岐山是习近平的主心骨 仍是二号人物 习近平十九大报告正式通过时被删除一句话 退休高官聚会热议：中共怎么还在挺着？早该垮了啊！中南海谣言预言_463</a></li>
 <li><a href="/bannedvideo/20210521/1551157.md">陈破空：连遭挫折！习阵营突然放狠话：要搞掉李克强汪洋！让二十大石破天惊</a></li>
 <li><a href="/bannedvideo/20210522/1551477.md">5月17日黎明前，川普下令美国海军海豹突击队冲进了盖茨在怀俄明州西北部花费3600万美元的厄玛湖山庄并与盖茨雇用的保护492英亩牧场的安全部队发生冲突。一名海豹突击队员和8名敌方战斗人员在交火中丧生</a></li>
@@ -24,10 +23,11 @@
 <li><a href="/comments/20210522/1551442.md">埃及调停，以色列与哈马斯协议停火。以色列获巨大成就。获胜靠四大秘诀。川普中东战略。中共、拜登各打小算盘。</a></li>
 <li><a href="/cbnews/20210521/1551126.md">美学者：中共制度没办法解决领导人接班问题</a></li>
 <li><a href="/cbnews/20210521/1551186.md">中国第三款疫苗开打 网民忧有严重副作用</a></li>
+<li><a href="/ssgc/20210522/1551530.md">〖微博谈〗此国无药可救也</a></li>
+<li><a href="/ssgc/20210522/1551540.md">〖兲朝浮世绘〗中共这是把农民工当成阶级敌人了</a></li>
 <li><a href="/yule/20210522/1551487.md">千防万防保姆难防：传奇首富李春平的凄惨晚年</a></li>
 <li><a href="/cnnews/20210521/1551044.md">小美人鱼？被冲上沙滩的神秘遗体似乎和人鱼相关【阿波罗网编译】</a></li>
-<li><a href="/ssgc/20210522/1551530.md">〖微博谈〗此国无药可救也</a></li>
-<li><a href="/comments/20210522/1551491.md">邓小平同意公审江青时意外听到“六个字”</a></li>
+<li><a href="/cbnews/20210522/1551372.md">中共披露当年击败国民党现代化部队的关键原因</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210522/1551714.md" target="_blank">躺平的韭菜不好割</a></li>
+<li><a href="/comments/20210522/1551709.md" target="_blank">三种食物居家长备必不可少 四种食材可助退烧</a></li>
+<li><a href="/comments/20210522/1551708.md" target="_blank">【狱中书信】留低嘅理由只需要一个 “我哋真系好撚钟意香港”</a></li>
+<li><a href="/comments/20210522/1551707.md" target="_blank">【缅甸政变】军方选委：考虑解散全民盟、加控昂山素姬叛国 日本外相：或撤对缅援助</a></li>
 <li><a href="/comments/20210522/1551699.md" target="_blank">英相点名北京 直言亚洲部署航母维护国际秩序</a></li>
 <li><a href="/comments/20210522/1551694.md" target="_blank">网传袁隆平去世 袁隆平秘书辟谣：袁隆平目前在医院 身体状况不太好 袁隆平曾示警：中国粮食是不够吃的 别国如果不卖粮 中国人要饿肚子！ 中南海谣言预言_465</a></li>
 <li><a href="/comments/20210522/1551555.md" target="_blank">亚洲疫情重燃，全球供应链重组能持续？中国经济底气足吗？（戴忠仁,徐遵慈,谭耀南)｜亚洲很想聊</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210522/1551601.md" target="_blank">陶杰：比特币帝国主义 中共早已动手</a></li>
 <li><a href="/comments/20210522/1551599.md" target="_blank">寰宇大观察:巴勒斯坦总统为什么承认后悔了？</a></li>
 <li><a href="/comments/20210522/1551582.md" target="_blank">吃饭终于成了问题…</a></li>
-<li><a href="/comments/20210522/1551576.md" target="_blank">欧中投资协议歇菜！狠批中共“纸老虎”，欧中关系大转向？ 中共指挥第三国，19岁少年被跨国抓捕面临遣返</a></li>
-<li><a href="/comments/20210522/1551575.md" target="_blank">荒唐！学校逼小学生捐款 未捐者被拍视频“示众”</a></li>
-<li><a href="/comments/20210522/1551566.md" target="_blank">陶杰：巴勒斯坦自古以来就是以色列的领土</a></li>
-<li><a href="/comments/20210522/1551551.md" target="_blank">美韩峰会提不提中国和台湾？ 以巴停火 中共宣传被看破？【希望之声TV-新闻焦点解读-2021/05/20】 主持:高洁  嘉宾:谢田 方伟</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
 <li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20210329/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
 
 </ul>
 </div>
