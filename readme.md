@@ -5,9 +5,7 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/comments/20210522/1551767.md">人称大魔医 吴孟超病死 江泽民情妇曾献唱生日宴</a></li>
 <li><a href="/baitai/20210522/1551843.md">苹果日报 &#124; 个人崇拜疑搞过头 紧急降温 北京下令撤习近平画像</a></li>
-<li><a href="/cbnews/20210522/1551761.md">习近平白忙一场？揭中欧投资协议魔鬼细节</a></li>
 <li><a href="/cbnews/20210522/1551851.md">水稻专家袁隆平去世 党媒提前报死讯</a></li>
 <li><a href="/cnnews/20210523/1551991.md">中国罕现一天内5省接连地震 震后景象令人吃惊</a></li>
 <li><a href="/cbnews/20210523/1552072.md">组织暂未批准？袁隆平“死后又还魂”3小时</a></li>
@@ -15,19 +13,21 @@
 <li><a href="/cnnews/20210523/1552183.md">李女士吃118元海鲜自助，只吃鲍鱼，老板娘录了个视频，姑娘不吃了</a></li>
 <li><a href="/cbnews/20210523/1552073.md">天津男子批评袁隆平被处罚 网友质疑中共执法</a></li>
 <li><a href="/lifebaike/20210522/1551771.md">不论夫妻关系有多好 3件事绝不能从实招来</a></li>
-<li><a href="/cnnews/20210523/1552137.md">袁隆平神话 杂交水稻之父是怎样升起的？</a></li>
 <li><a href="/comments/20210522/1551824.md">💥习近平任期明年届满 下台的4种可能；中共大举收购海外矿山，将垄断电动汽车？【希望之声TV-两岸要闻-2021/05/22】</a></li>
-<li><a href="/cnnews/20210522/1551829.md">又一个信赖崩溃了：首家政府城投债违约…</a></li>
-<li><a href="/comments/20210522/1551931.md">研究发现冠状病毒致命弱点</a></li>
+<li><a href="/cnnews/20210523/1552137.md">袁隆平神话 杂交水稻之父是怎样升起的？</a></li>
 <li><a href="/cnnews/20210523/1552168.md">诺贝尔奖病毒学家：大规模接种疫苗是不可接受的错误</a></li>
 <li><a href="/cnnews/20210523/1552154.md">环球小姐身材照火遍全网，收割千万直男</a></li>
-<li><a href="/cnnews/20210522/1551941.md">谁做的谁来担：习近平要切割？官方密集曝光落马官员610身份</a></li>
+<li><a href="/cnnews/20210522/1551829.md">又一个信赖崩溃了：首家政府城投债违约…</a></li>
+<li><a href="/comments/20210522/1551931.md">研究发现冠状病毒致命弱点</a></li>
 <li><a href="/bannedvideo/20210523/1552057.md">【军政】聂卫平：我和习近平出去打群架；中国山摇地动一日5省地震，网友热议；赛格大厦背后，什么是海砂房？中国流行“躺平”被指非暴力反抗，党急了；习近平连线普京反泄中共核电站机密KA</a></li>
+<li><a href="/cnnews/20210522/1551941.md">谁做的谁来担：习近平要切割？官方密集曝光落马官员610身份</a></li>
 <li><a href="/comments/20210523/1552017.md">惊讶~印度神童说5月26日“血月”是好兆头</a></li>
+<li><a href="/cbnews/20210523/1552180.md">甘肃马拉松遭冰雹、狂风袭击 21跑者丧命</a></li>
 <li><a href="/finance/20210522/1551925.md">一带一路博览会遇冷场 中共尴尬了</a></li>
 <li><a href="/cbnews/20210523/1552058.md">辽宁宝马车飞冲斑马线 酿4死3伤 惨烈瞬间曝光</a></li>
-<li><a href="/cbnews/20210523/1552180.md">甘肃马拉松遭冰雹、狂风袭击 21跑者丧命</a></li>
 <li><a href="/cnnews/20210522/1551772.md">充电速度快10倍 “铝离子电池”问世</a></li>
+<li><a href="/bannedvideo/20210523/1552033.md">二十大前中共内斗白热化互爆黑料干倒一个算一个</a></li>
+<li><a href="/ssgc/20210522/1551833.md">在山西，开始遍地是鹤岗</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210523/1552294.md" target="_blank">网络热议：袁隆平最大功绩让小粉红无话可说</a></li>
 <li><a href="/comments/20210523/1552287.md" target="_blank">常烦躁、不耐烦是“躁郁症”？医师指出这2个不可忽略征兆</a></li>
 <li><a href="/comments/20210523/1552286.md" target="_blank">红、黄西瓜差大！专家：3种人少吃</a></li>
 <li><a href="/comments/20210523/1552285.md" target="_blank">疫情爆发影响健康营养市场！31%每天摄取维他命</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210523/1552200.md" target="_blank">习近平要切割？官方密集曝光落马官员610身份</a></li>
 <li><a href="/comments/20210523/1552199.md" target="_blank">火山爆炸！刚果火山喷发染红天空 数以千计居民恐慌逃难</a></li>
 <li><a href="/comments/20210523/1552198.md" target="_blank">黑龙江发生沉船事故 4人遇难5人失踪</a></li>
-<li><a href="/comments/20210523/1552197.md" target="_blank">极机密文件曝光：美曾考虑动用核武护卫台湾</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
 <li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
 
 </ul>
 </div>
