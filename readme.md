@@ -6,17 +6,16 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cbnews/20210524/1552594.md">面子丢大了：中共举办交流会 欧美全体缺席…</a></li>
-<li><a href="/cbnews/20210524/1552532.md">七普大数据揭示的另一个趣味中国：世道真的变了</a></li>
 <li><a href="/topimagenews/20210524/1552691.md">中共内斗 大外宣希望习近平摔死？一张图片胜过千言万语【阿波罗网编译】</a></li>
 <li><a href="/bannedvideo/20210524/1552572.md">🔥🔥天塌地陷   习死定了❗</a></li>
 <li><a href="/comments/20210524/1552591.md">袁隆平去世 习近平作出罕见举动 七位院士悼念袁隆平 上万市民雨中送别袁隆平 悼念者买光长沙菊花 多地网友因批评袁隆平被抓 网络热议袁隆平一生最大的功绩：将水稻由亩产三万六千九百多斤降低到了一两千斤，并告诉大家，那些年中国饿死了几千万人</a></li>
 <li><a href="/lifebaike/20210524/1552560.md">为何外国牛肉可以煎牛排 而中国牛肉不可以？</a></li>
 <li><a href="/cbnews/20210524/1552897.md">习近平替身？黑衣人给他敬酒</a></li>
 <li><a href="/topimagenews/20210524/1552783.md">特斯拉事故检测结果出炉：司机错踩油门 车主一番话 网络再次炸锅</a></li>
-<li><a href="/baitai/20210524/1552851.md">人间三角｜甘肃马拉松惨剧，牧羊人道出了真相</a></li>
 <li><a href="/cbnews/20210524/1552607.md">病毒来自武汉实验室？WSJ：3研究员2019年11月曾就医</a></li>
-<li><a href="/comments/20210524/1552883.md">李燕铭：前常委罗干出事！正国级元老中唯有罗干缺席袁隆平悼念名单 罗干曾相继缺席十九大与十一阅兵式及招待会 病入膏肓还是出逃国外？两则消息疑泄露内幕 江泽民曾给罗干下达4口头密令 朱镕基训斥罗干 罗干家族敛财恶行曝光</a></li>
 <li><a href="/cnnews/20210524/1552942.md">中共官场风声鹤唳 不敢提到“那个人”</a></li>
+<li><a href="/baitai/20210524/1552851.md">人间三角｜甘肃马拉松惨剧，牧羊人道出了真相</a></li>
+<li><a href="/comments/20210524/1552883.md">李燕铭：前常委罗干出事！正国级元老中唯有罗干缺席袁隆平悼念名单 罗干曾相继缺席十九大与十一阅兵式及招待会 病入膏肓还是出逃国外？两则消息疑泄露内幕 江泽民曾给罗干下达4口头密令 朱镕基训斥罗干 罗干家族敛财恶行曝光</a></li>
 <li><a href="/cbnews/20210524/1552645.md">天亮时分：马拉松惨剧和大连恶性交通肇事；陈敏尔办砸大事，无处甩锅；病毒来源问题，福奇突然改口；亚利桑那和乔治亚审计更新（政论天下第428集 20210523）</a></li>
 <li><a href="/headline/20210524/1552837.md">报道：情报揭示武汉病毒研究所研究人员患病细节</a></li>
 <li><a href="/cnnews/20210524/1552638.md">女地产经纪被吓傻：192人要看房 收到71个offer</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/comments/20210524/1552678.md">屡犯大忌！英媒曝马云最新动向</a></li>
 <li><a href="/baitai/20210524/1552574.md">七律 讽习近平</a></li>
 <li><a href="/cnnews/20210524/1552842.md">感觉自己被怠慢，男子用筷子戳破女服务员眼球</a></li>
+<li><a href="/health/20210524/1552653.md">40岁企业高管发热皮疹，医院确诊艾滋病，痛哭：老婆还一无所知</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210525/1553135.md" target="_blank">64个微博号因“辱袁老”遭永久关闭 引质疑</a></li>
+<li><a href="/cbnews/20210525/1553134.md" target="_blank">甘肃马拉松惨剧，牧羊人道出了官方回避的真相</a></li>
 <li><a href="/cbnews/20210525/1553133.md" target="_blank">亿万富豪资产被夺 妻离子散 怒杀债主后自杀</a></li>
 <li><a href="/cbnews/20210525/1553126.md" target="_blank">英国将开始抓大学内的中共间谍 情治单位已列“黑名单”</a></li>
 <li><a href="/cbnews/20210525/1553124.md" target="_blank">“漫画腿”“精灵耳”就是美？ 医生：无异于自残</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/cbnews/20210524/1552660.md" target="_blank">英国被曝以国家安全为由审查牛津、剑桥大学陆生</a></li>
 <li><a href="/cbnews/20210524/1552650.md" target="_blank">河北献县5名女孩坑塘溺亡 网民热议</a></li>
 <li><a href="/cbnews/20210524/1552645.md" target="_blank">天亮时分：马拉松惨剧和大连恶性交通肇事；陈敏尔办砸大事，无处甩锅；病毒来源问题，福奇突然改口；亚利桑那和乔治亚审计更新（政论天下第428集 20210523）</a></li>
-<li><a href="/cbnews/20210524/1552624.md" target="_blank">疫情严重？辽宁营口赶建隔离区</a></li>
-<li><a href="/cbnews/20210524/1552607.md" target="_blank">病毒来自武汉实验室？WSJ：3研究员2019年11月曾就医</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210525/1553142.md" target="_blank">中国多家造纸厂停产冲上热搜</a></li>
 <li><a href="/comments/20210525/1553125.md" target="_blank">八级电视连续剧：《俞净意公遇灶神记》（明朝真实故事）</a></li>
 <li><a href="/comments/20210525/1553123.md" target="_blank">【梦幻之境】杜拜世界花卉博览会</a></li>
 <li><a href="/comments/20210525/1553119.md" target="_blank">世卫顾问反水：彻查大流行起源 北京负主要责任</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210525/1553048.md" target="_blank">要分裂欧盟？立陶宛果断退出中国“17+1” 赵立坚低调回应 《环球》暴跳如雷</a></li>
 <li><a href="/comments/20210525/1553046.md" target="_blank">分析：去年骚乱后美国人对黑命贵支持大幅下降</a></li>
 <li><a href="/comments/20210525/1553042.md" target="_blank">共谍活跃 澳情报局掌握中；病毒泄漏源 美曝新证；美国大学取消入学试 SAT失宠；BLM支持率大降；染疫后遗症 舌头大；躲地下17年!神秘生物侵美国【希望之声TV-环球看点-2021/05/24】</a></li>
-<li><a href="/comments/20210525/1553031.md" target="_blank">在埃塞俄比亚与美抢电网建设权 中共落败</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/cbnews/20210331/1516754.md" target="_blank">被传销团伙围杀时 丈夫说了这句话脱险</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
 <li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
 <li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20210329/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
 
 </ul>
 </div>
