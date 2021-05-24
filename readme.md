@@ -5,10 +5,8 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/cbnews/20210523/1552072.md">组织暂未批准？袁隆平“死后又还魂”3小时</a></li>
 <li><a href="/cnnews/20210523/1552168.md">诺贝尔奖病毒学家：大规模接种疫苗是不可接受的错误</a></li>
 <li><a href="/cnnews/20210523/1552183.md">李女士吃118元海鲜自助，只吃鲍鱼，老板娘录了个视频，姑娘不吃了</a></li>
-<li><a href="/cbnews/20210523/1552073.md">天津男子批评袁隆平被处罚 网友质疑中共执法</a></li>
 <li><a href="/cnnews/20210523/1552137.md">袁隆平神话 杂交水稻之父是怎样升起的？</a></li>
 <li><a href="/cnnews/20210523/1552154.md">环球小姐身材照火遍全网，收割千万直男</a></li>
 <li><a href="/comments/20210523/1552294.md">网络热议：袁隆平最大功绩让小粉红无话可说</a></li>
@@ -28,6 +26,8 @@
 <li><a href="/cnnews/20210523/1552155.md">资源枯竭 在山西开始遍地是鹤岗</a></li>
 <li><a href="/bannedvideo/20210523/1552351.md">大连车祸案：男子失恋酒驾报复社会，索多玛遍地张献忠。</a></li>
 <li><a href="/cnnews/20210523/1552167.md">前国羽名将炮轰李永波：奥运会半决赛让我故意输给张宁，逼我退役</a></li>
+<li><a href="/cnnews/20210523/1552204.md">1小时翻倍，5分钟爆仓！年轻人借钱炒币瞬间清零，疯狂币圈上演爆仓魔幻剧</a></li>
+<li><a href="/cnnews/20210524/1552505.md">李克强通杀，习近平白忙活，魔鬼藏细节里；达尔文拱门坍塌</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210524/1552584.md" target="_blank">专访程晓农(9)：拜登百日对华模糊政策的5大特点；美中冷战下台海局势对中共不利；红色大国如何制造核威胁？</a></li>
 <li><a href="/comments/20210524/1552561.md" target="_blank">共谍在大学 英国将动手；甘肃办取命马拉松21人没了；宾州县怪事 机器“不认”共和党选票？乔州审计15万邮寄票；袁隆平最大功绩 让小粉红很挫败【希望之声TV-每日头条-2021/05/22】</a></li>
 <li><a href="/cbnews/20210524/1552551.md" target="_blank">安徽一动物园饲养员遭老虎攻击死亡</a></li>
 <li><a href="/cbnews/20210524/1552550.md" target="_blank">甘肃越野赛悲剧刷屏：女儿在视频上认出遇难父亲</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210523/1552180.md" target="_blank">甘肃马拉松遭冰雹、狂风袭击 21跑者丧命</a></li>
 <li><a href="/cbnews/20210523/1552164.md" target="_blank">天亮时分：“躺平”成潮流，年轻人躺得平吗？川普将在四州举行集会；袁隆平逝世的思考（政论天下第427集 20210522）</a></li>
 <li><a href="/cbnews/20210523/1552149.md" target="_blank">竹鼠传疫？中共阻外媒接触养殖户</a></li>
-<li><a href="/comments/20210523/1552136.md" target="_blank">如是我闻里的我是谁？唐僧取经为何背回无字天书？惊天的千年秘密</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210524/1552584.md" target="_blank">专访程晓农(9)：拜登百日对华模糊政策的5大特点；美中冷战下台海局势对中共不利；红色大国如何制造核威胁？</a></li>
 <li><a href="/comments/20210524/1552570.md" target="_blank">徐光：让哪些人去“武统台湾”？根本不是你想的</a></li>
 <li><a href="/comments/20210524/1552566.md" target="_blank">美俄勒冈州已有9县想“由蓝转红” 并入爱达荷州</a></li>
 <li><a href="/comments/20210524/1552561.md" target="_blank">共谍在大学 英国将动手；甘肃办取命马拉松21人没了；宾州县怪事 机器“不认”共和党选票？乔州审计15万邮寄票；袁隆平最大功绩 让小粉红很挫败【希望之声TV-每日头条-2021/05/22】</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210524/1552456.md" target="_blank">手汗太多？贺锦丽与文在寅握完手后秒擦裤</a></li>
 <li><a href="/comments/20210524/1552455.md" target="_blank">圣彼得堡惊见骇人“电光雨”火花狂炸 民众当场吓傻</a></li>
 <li><a href="/comments/20210523/1552444.md" target="_blank">五旬节小长假 法国当局警告道路交通繁忙</a></li>
-<li><a href="/comments/20210523/1552395.md" target="_blank">史上最红短片“查理咬我”观看近9亿 今日将永久删除</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
 <li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20210329/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
 
 </ul>
 </div>
