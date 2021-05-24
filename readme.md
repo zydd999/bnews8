@@ -7,17 +7,16 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cbnews/20210524/1552532.md">七普大数据揭示的另一个趣味中国：世道真的变了</a></li>
 <li><a href="/cbnews/20210524/1552594.md">面子丢大了：中共举办交流会 欧美全体缺席…</a></li>
-<li><a href="/cnnews/20210524/1552505.md">李克强通杀，习近平白忙活，魔鬼藏细节里；达尔文拱门坍塌</a></li>
 <li><a href="/topimagenews/20210524/1552691.md">中共内斗 大外宣希望习近平摔死？一张图片胜过千言万语【阿波罗网编译】</a></li>
 <li><a href="/bannedvideo/20210524/1552572.md">🔥🔥天塌地陷   习死定了❗</a></li>
 <li><a href="/comments/20210524/1552591.md">袁隆平去世 习近平作出罕见举动 七位院士悼念袁隆平 上万市民雨中送别袁隆平 悼念者买光长沙菊花 多地网友因批评袁隆平被抓 网络热议袁隆平一生最大的功绩：将水稻由亩产三万六千九百多斤降低到了一两千斤，并告诉大家，那些年中国饿死了几千万人</a></li>
 <li><a href="/lifebaike/20210524/1552560.md">为何外国牛肉可以煎牛排 而中国牛肉不可以？</a></li>
 <li><a href="/topimagenews/20210524/1552783.md">特斯拉事故检测结果出炉：司机错踩油门 车主一番话 网络再次炸锅</a></li>
-<li><a href="/baitai/20210524/1552851.md">人间三角｜甘肃马拉松惨剧，牧羊人道出了真相</a></li>
 <li><a href="/cbnews/20210524/1552607.md">病毒来自武汉实验室？WSJ：3研究员2019年11月曾就医</a></li>
 <li><a href="/cbnews/20210524/1552897.md">习近平替身？黑衣人给他敬酒</a></li>
-<li><a href="/ssgc/20210524/1552528.md">〖兲朝浮世绘〗中共过度消费袁隆平 老袁变成老虎屁股摸不得的英烈了？</a></li>
+<li><a href="/baitai/20210524/1552851.md">人间三角｜甘肃马拉松惨剧，牧羊人道出了真相</a></li>
 <li><a href="/comments/20210524/1552883.md">李燕铭：前常委罗干出事！正国级元老中唯有罗干缺席袁隆平悼念名单 罗干曾相继缺席十九大与十一阅兵式及招待会 病入膏肓还是出逃国外？两则消息疑泄露内幕 江泽民曾给罗干下达4口头密令 朱镕基训斥罗干 罗干家族敛财恶行曝光</a></li>
+<li><a href="/ssgc/20210524/1552528.md">〖兲朝浮世绘〗中共过度消费袁隆平 老袁变成老虎屁股摸不得的英烈了？</a></li>
 <li><a href="/cbnews/20210524/1552645.md">天亮时分：马拉松惨剧和大连恶性交通肇事；陈敏尔办砸大事，无处甩锅；病毒来源问题，福奇突然改口；亚利桑那和乔治亚审计更新（政论天下第428集 20210523）</a></li>
 <li><a href="/cnnews/20210524/1552638.md">女地产经纪被吓傻：192人要看房 收到71个offer</a></li>
 <li><a href="/headline/20210524/1552837.md">报道：情报揭示武汉病毒研究所研究人员患病细节</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/cbnews/20210524/1552550.md">甘肃越野赛悲剧刷屏：女儿在视频上认出遇难父亲</a></li>
 <li><a href="/cnnews/20210524/1552674.md">为什么说即使接种疫苗 我们也回不去了？</a></li>
 <li><a href="/comments/20210524/1552678.md">屡犯大忌！英媒曝马云最新动向</a></li>
+<li><a href="/baitai/20210524/1552574.md">七律 讽习近平</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210525/1553067.md" target="_blank">残运冠军甘肃遇难 黄关军常吃方便面 参赛为挣奖金</a></li>
 <li><a href="/comments/20210525/1553042.md" target="_blank">共谍活跃 澳情报局掌握中；病毒泄漏源 美曝新证；美国大学取消入学试 SAT失宠；BLM支持率大降；染疫后遗症 舌头大；躲地下17年!神秘生物侵美国【希望之声TV-环球看点-2021/05/24】</a></li>
 <li><a href="/cbnews/20210524/1552898.md" target="_blank">火上浇油：甘肃马拉松酿惨剧 白银电视台重播开幕式</a></li>
 <li><a href="/cbnews/20210524/1552897.md" target="_blank">习近平替身？黑衣人给他敬酒</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/comments/20210524/1552584.md" target="_blank">专访程晓农(9)：拜登百日对华模糊政策的5大特点；美中冷战下台海局势对中共不利；红色大国如何制造核威胁？</a></li>
 <li><a href="/comments/20210524/1552561.md" target="_blank">共谍在大学 英国将动手；甘肃办取命马拉松21人没了；宾州县怪事 机器“不认”共和党选票？乔州审计15万邮寄票；袁隆平最大功绩 让小粉红很挫败【希望之声TV-每日头条-2021/05/22】</a></li>
 <li><a href="/cbnews/20210524/1552551.md" target="_blank">安徽一动物园饲养员遭老虎攻击死亡</a></li>
-<li><a href="/cbnews/20210524/1552550.md" target="_blank">甘肃越野赛悲剧刷屏：女儿在视频上认出遇难父亲</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210525/1553069.md" target="_blank">美国最富前十州出炉 马里兰居首 纽约未上榜</a></li>
 <li><a href="/comments/20210525/1553064.md" target="_blank">美60%大学不再要求SAT和ACT成绩 褒贬不一</a></li>
 <li><a href="/comments/20210525/1553063.md" target="_blank">中共五部委约谈铁矿石等行业 致市场波动率飙升</a></li>
 <li><a href="/comments/20210525/1553054.md" target="_blank">何嘉柔：要怎样凉薄，才会说在囚者的勇气为逃避</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210524/1552993.md" target="_blank">评论 | 王丹：如何看待“小粉红”现象？</a></li>
 <li><a href="/comments/20210524/1552941.md" target="_blank">恭喜！英国首相约翰讯 明年将与未婚妻完婚</a></li>
 <li><a href="/comments/20210524/1552940.md" target="_blank">日媒：中共办西部国际投资贸易会 欧美全体缺席</a></li>
-<li><a href="/comments/20210524/1552928.md" target="_blank">德大选候选人首次辩论落幕 “第三者”实力不可低估</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
 <li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/comments/20210329/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
 
 </ul>
 </div>
