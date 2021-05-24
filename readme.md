@@ -22,12 +22,12 @@
 <li><a href="/bannedvideo/20210524/1552552.md">某公司要员工上缴护照，他不声不响低调辞职！</a></li>
 <li><a href="/cbnews/20210524/1552708.md">遇难马拉松冠军梁晶的最后一条朋友圈：你看这山风多大</a></li>
 <li><a href="/comments/20210524/1552656.md">韩正前大秘刚上任就遇马拉松事故 中纪委提彻查</a></li>
-<li><a href="/topimagenews/20210524/1552507.md">芯片战激化 世界7雄争话事权</a></li>
-<li><a href="/worldnews/20210523/1552447.md">风向变了？佛奇改口：不信武肺病毒起源于自然</a></li>
 <li><a href="/yule/20210524/1552495.md">最美赵敏引退嫁牧师！离婚2年离奇死亡飘臭3天才曝光</a></li>
+<li><a href="/topimagenews/20210524/1552507.md">芯片战激化 世界7雄争话事权</a></li>
 <li><a href="/cnnews/20210524/1552674.md">为什么说即使接种疫苗 我们也回不去了？</a></li>
 <li><a href="/cbnews/20210524/1552550.md">甘肃越野赛悲剧刷屏：女儿在视频上认出遇难父亲</a></li>
 <li><a href="/baitai/20210524/1552574.md">七律 讽习近平</a></li>
+<li><a href="/comments/20210524/1552678.md">屡犯大忌！英媒曝马云最新动向</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210524/1553001.md" target="_blank">以巴停火后 拜登派布林肯出使中东推动和谈</a></li>
+<li><a href="/comments/20210524/1553000.md" target="_blank">白宫：中共一直在病毒源头上不透明 国际无法接受</a></li>
+<li><a href="/comments/20210524/1552995.md" target="_blank">【文韬政论】宣传机器在百年党庆及二十大前马力全开</a></li>
+<li><a href="/comments/20210524/1552994.md" target="_blank">评论 | 滕彪：迈向民主的中国政变？（上）</a></li>
+<li><a href="/comments/20210524/1552993.md" target="_blank">评论 | 王丹：如何看待“小粉红”现象？</a></li>
 <li><a href="/comments/20210524/1552941.md" target="_blank">恭喜！英国首相约翰讯 明年将与未婚妻完婚</a></li>
 <li><a href="/comments/20210524/1552940.md" target="_blank">日媒：中共办西部国际投资贸易会 欧美全体缺席</a></li>
 <li><a href="/comments/20210524/1552928.md" target="_blank">德大选候选人首次辩论落幕 “第三者”实力不可低估</a></li>
@@ -118,11 +123,6 @@
 <li><a href="/comments/20210524/1552832.md" target="_blank">星岛：港澳办将增设两司 分掌国安和宣传文化 “小护法”王振民将任国安相关司长</a></li>
 <li><a href="/comments/20210524/1552831.md" target="_blank">【狱中书简】三十点八公里</a></li>
 <li><a href="/comments/20210524/1552830.md" target="_blank">【10.1 集结案】吴文远：希望民主制度能成为桥梁 弥合社会鸿沟</a></li>
-<li><a href="/comments/20210524/1552829.md" target="_blank">【47 人案】范国威：退出新民主同盟、退出政坛 未能克尽责任歉咎万分</a></li>
-<li><a href="/comments/20210524/1552828.md" target="_blank">【绘画欣赏】画家陶沄山水画作品</a></li>
-<li><a href="/comments/20210524/1552816.md" target="_blank">非洲最活跃尼拉贡戈火山喷发 数十万人连夜惊逃</a></li>
-<li><a href="/comments/20210524/1552805.md" target="_blank">【独家】养生专家：饮料喝不当 喝出一身病</a></li>
-<li><a href="/comments/20210524/1552794.md" target="_blank">美韩投资千亿加强半导体制造 数年后中国全球份额仅6%</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
 <li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
 
 </ul>
 </div>
