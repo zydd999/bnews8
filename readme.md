@@ -6,28 +6,28 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/topimagenews/20210525/1553122.md">辽宁又出大事了！疑是摩托车自杀炸弹攻击政府轿车1死</a></li>
-<li><a href="/cnnews/20210525/1553325.md">又一电商平台倒了： 创始人卷走260亿出逃澳洲</a></li>
 <li><a href="/cbnews/20210525/1553134.md">甘肃马拉松惨剧，牧羊人道出了官方回避的真相</a></li>
+<li><a href="/cnnews/20210525/1553325.md">又一电商平台倒了： 创始人卷走260亿出逃澳洲</a></li>
 <li><a href="/cbnews/20210525/1553133.md">亿万富豪资产被夺 妻离子散 怒杀债主后自杀</a></li>
-<li><a href="/cbnews/20210525/1553196.md">威胁“韭菜”？ 党媒：认命可以 躺平不行</a></li>
 <li><a href="/cnnews/20210525/1553101.md">变种病毒传入广东 已在社区传播？</a></li>
+<li><a href="/cbnews/20210525/1553196.md">威胁“韭菜”？ 党媒：认命可以 躺平不行</a></li>
 <li><a href="/topimagenews/20210525/1553330.md">释放强硬信号！内塔尼亚胡对摩萨德下令：你们的首要任务是…【阿波罗网编译】</a></li>
 <li><a href="/ssgc/20210525/1553120.md">〖兲朝浮世绘〗这个官员的死亡揭示了党国的大秘密</a></li>
 <li><a href="/cnnews/20210525/1553334.md">中国知名地产商被杀！曾10亿接盘明天系公司</a></li>
-<li><a href="/cnnews/20210525/1553222.md">传iPhone 13 Pro外形已敲定：终极渲染图曝光</a></li>
 <li><a href="/cnnews/20210525/1553516.md">甘肃马拉松事件惊动高层 习近平李克强下令追责</a></li>
+<li><a href="/cnnews/20210525/1553222.md">传iPhone 13 Pro外形已敲定：终极渲染图曝光</a></li>
 <li><a href="/cbnews/20210525/1553178.md">文昭：袁隆平去世，杂交水稻神话的真相；中国流行「躺平族」，别急一会儿就不平了</a></li>
 <li><a href="/comments/20210525/1553157.md">蓬佩奥：中共知道病毒来自哪里 世界或再次遭难</a></li>
 <li><a href="/cbnews/20210525/1553429.md">拒绝背锅!甘肃白银气象局:赛前预测到大风天气 并已通知主办方</a></li>
+<li><a href="/cbnews/20210525/1553546.md">fox新闻视频：新冠疫苗的可怕</a></li>
+<li><a href="/cbnews/20210525/1553402.md">“生八女儿”大陆夫妻被嘲笑 20年后…</a></li>
+<li><a href="/bannedvideo/20210525/1553511.md">扬州人叹实体经济衰落。视频中：曾经是多么地辉煌，现在的现状真的是让人一言难尽， 关的关倒的倒，就剩下几家零零散散的店铺，还不晓得能撑到什么时候。</a></li>
 <li><a href="/cbnews/20210525/1553297.md">袁隆平一生未入党团 中共强称“同志”为自己贴金</a></li>
 <li><a href="/cnnews/20210525/1553335.md">超级马拉松高手梁晶遇难细节曝光 幸存者讲述恐怖经历</a></li>
-<li><a href="/cbnews/20210525/1553402.md">“生八女儿”大陆夫妻被嘲笑 20年后…</a></li>
-<li><a href="/cbnews/20210525/1553546.md">fox新闻视频：新冠疫苗的可怕</a></li>
+<li><a href="/cnnews/20210525/1553517.md">爆炸性新闻：兰德·保罗揭露福西和武汉实验室 随后收到死亡威胁和白粉【阿波罗网编译】</a></li>
 <li><a href="/finance/20210525/1553482.md">特斯拉检测结果出炉 女车主现身回应 网友回复太有才了！【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20210525/1553181.md">世卫顾问也反水 北京如芒在背</a></li>
 <li><a href="/cnnews/20210525/1553430.md">“超级血月”周三亮相 易理师析台湾中国不祥之兆</a></li>
-<li><a href="/bannedvideo/20210525/1553511.md">扬州人叹实体经济衰落。视频中：曾经是多么地辉煌，现在的现状真的是让人一言难尽， 关的关倒的倒，就剩下几家零零散散的店铺，还不晓得能撑到什么时候。</a></li>
-<li><a href="/cnnews/20210525/1553517.md">爆炸性新闻：兰德·保罗揭露福西和武汉实验室 随后收到死亡威胁和白粉【阿波罗网编译】</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,15 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210526/1553742.md" target="_blank">美议员提案禁购强迫劳动打捞的海鲜 剑指中共</a></li>
+<li><a href="/comments/20210526/1553741.md" target="_blank">什么瓜这么厉害？ 兼顾免疫力还减肥，煎炒凉拌都OK</a></li>
+<li><a href="/comments/20210526/1553740.md" target="_blank">“快乐缺氧”是死神带走新冠猝死者的惯用手法</a></li>
+<li><a href="/comments/20210526/1553739.md" target="_blank">时事大家谈：投资协定冻结 立陶宛“退群”，中欧关系断崖式下滑？</a></li>
+<li><a href="/comments/20210526/1553738.md" target="_blank">【六四 32 周年】 7 天主教堂 六四晚办追思弥撒 “或无法明言，但毋忘历史”</a></li>
+<li><a href="/comments/20210526/1553737.md" target="_blank">【区议员宣誓】传借议办做票站或“DQ” 林郑无正面回应 指每日有人辞职 稳定后安排宣誓</a></li>
+<li><a href="/comments/20210526/1553736.md" target="_blank">【狙击爆眼少女】《星岛》斥“包庇造假” 医管局反驳：非事实、坚持尊重私隐</a></li>
+<li><a href="/comments/20210526/1553735.md" target="_blank">支联会晤警方商讨六四烛光集会 被问“五大纲领” 未提会否违国安法</a></li>
+<li><a href="/comments/20210526/1553734.md" target="_blank">【5.24 区域法院】陈皓桓：暴政必生暴力</a></li>
 <li><a href="/comments/20210525/1553677.md" target="_blank">马来西亚现“新型”冠状病毒 科学家：疑为狗传人</a></li>
 <li><a href="/comments/20210525/1553665.md" target="_blank">谁夺走这21条人命？中国“夺命马拉松”惊人黑幕曝光</a></li>
 <li><a href="/comments/20210525/1553664.md" target="_blank">惊！四川食品厂毒气泄露 至少7死</a></li>
@@ -114,15 +123,6 @@
 <li><a href="/comments/20210525/1553598.md" target="_blank">沈舟：决定巴以冲突胜负的是科技和实力？</a></li>
 <li><a href="/comments/20210525/1553583.md" target="_blank">另外空间的那个“你”与你的碰撞</a></li>
 <li><a href="/comments/20210525/1553580.md" target="_blank">【笑看世界专栏】原创音乐: 秋天的感觉</a></li>
-<li><a href="/comments/20210525/1553578.md" target="_blank">回港易朝令夕改 林郑：政府内部调整 无受外界或某人言论压力</a></li>
-<li><a href="/comments/20210525/1553577.md" target="_blank">钟锦麟因初选案辞职 八届区议员周贤明“接捧” 当选西贡区议会主席</a></li>
-<li><a href="/comments/20210525/1553575.md" target="_blank">【笑看世界专栏】原创音乐:《佛恩浩荡》–震撼！优美动听的纯音乐欣赏，唯美画面，给人神圣，恢弘，大气的感觉</a></li>
-<li><a href="/comments/20210525/1553571.md" target="_blank">佛州州长真牛！账号被封，佛州人可获赔10万美元。美军绝密文件曝光，美曾考虑动核打击中共机场直至上海。英航母二战后首次大阵势重返亚洲。亚利桑那规模扩大。</a></li>
-<li><a href="/comments/20210525/1553526.md" target="_blank">台湾4战机深夜秘飞美国 抹去国徽队徽图腾以利实战</a></li>
-<li><a href="/comments/20210525/1553507.md" target="_blank">阻止台海之战的釜底抽薪之策（第二部分）（中共命运的轨迹和人类前途  第十八讲）【袁红冰纵论天下】 05252021</a></li>
-<li><a href="/comments/20210525/1553502.md" target="_blank">【独家】诗一首：蒲公英</a></li>
-<li><a href="/comments/20210525/1553492.md" target="_blank">新西兰外长呼吁本国出口业莫依赖中国市场</a></li>
-<li><a href="/comments/20210525/1553487.md" target="_blank">【坚离地倾】支联会副主席邹幸彤：就算坐监，我也继续到维园悼念六四</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
 <li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/cbnews/20210331/1516754.md" target="_blank">被传销团伙围杀时 丈夫说了这句话脱险</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20210329/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
 
 </ul>
 </div>
