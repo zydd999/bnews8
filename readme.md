@@ -6,8 +6,8 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cbnews/20210524/1552897.md">习近平替身？黑衣人给他敬酒</a></li>
-<li><a href="/topimagenews/20210525/1553122.md">辽宁又出大事了！疑是摩托车自杀炸弹攻击政府轿车1死</a></li>
 <li><a href="/cnnews/20210524/1552942.md">中共官场风声鹤唳 不敢提到“那个人”</a></li>
+<li><a href="/topimagenews/20210525/1553122.md">辽宁又出大事了！疑是摩托车自杀炸弹攻击政府轿车1死</a></li>
 <li><a href="/baitai/20210524/1552851.md">人间三角｜甘肃马拉松惨剧，牧羊人道出了真相</a></li>
 <li><a href="/comments/20210524/1552883.md">李燕铭：前常委罗干出事！正国级元老中唯有罗干缺席袁隆平悼念名单 罗干曾相继缺席十九大与十一阅兵式及招待会 病入膏肓还是出逃国外？两则消息疑泄露内幕 江泽民曾给罗干下达4口头密令 朱镕基训斥罗干 罗干家族敛财恶行曝光</a></li>
 <li><a href="/headline/20210524/1552837.md">报道：情报揭示武汉病毒研究所研究人员患病细节</a></li>
@@ -15,18 +15,18 @@
 <li><a href="/cnnews/20210525/1553325.md">又一电商平台倒了： 创始人卷走260亿出逃澳洲</a></li>
 <li><a href="/cbnews/20210525/1553133.md">亿万富豪资产被夺 妻离子散 怒杀债主后自杀</a></li>
 <li><a href="/cnnews/20210524/1552842.md">感觉自己被怠慢，男子用筷子戳破女服务员眼球</a></li>
-<li><a href="/cnnews/20210525/1553101.md">变种病毒传入广东 已在社区传播？</a></li>
 <li><a href="/cbnews/20210525/1553196.md">威胁“韭菜”？ 党媒：认命可以 躺平不行</a></li>
+<li><a href="/cnnews/20210525/1553101.md">变种病毒传入广东 已在社区传播？</a></li>
 <li><a href="/ssgc/20210525/1553120.md">〖兲朝浮世绘〗这个官员的死亡揭示了党国的大秘密</a></li>
-<li><a href="/cnnews/20210525/1553222.md">传iPhone 13 Pro外形已敲定：终极渲染图曝光</a></li>
 <li><a href="/topimagenews/20210525/1553330.md">释放强硬信号！内塔尼亚胡对摩萨德下令：你们的首要任务是…【阿波罗网编译】</a></li>
+<li><a href="/cnnews/20210525/1553222.md">传iPhone 13 Pro外形已敲定：终极渲染图曝光</a></li>
 <li><a href="/comments/20210524/1552848.md">邓小平批小他三岁的林彪却放过一个大他六岁的人</a></li>
 <li><a href="/cbnews/20210525/1553178.md">文昭：袁隆平去世，杂交水稻神话的真相；中国流行「躺平族」，别急一会儿就不平了</a></li>
 <li><a href="/comments/20210525/1553157.md">蓬佩奥：中共知道病毒来自哪里 世界或再次遭难</a></li>
 <li><a href="/headline/20210524/1552860.md">北京等多省市网民涉“侮辱袁隆平”遭刑拘 民众不满袁被过度神化</a></li>
 <li><a href="/bannedvideo/20210524/1552903.md">中宣部炒作袁隆平“养活了全世界”引发各界不服！为转移“大饥荒”视线？</a></li>
-<li><a href="/comments/20210524/1552850.md">袁隆平遗体送别式超高规格 111名国级高官现身悼念名单！习近平王岐山及6名现任常委与胡锦涛朱镕基温家宝李瑞环宋平等17名卸任常委现身悼念名单 1名前常委与9名政治局委员15名现任副国级高官44名卸任副国级高官缺席悼念名单！出席与缺席完整名单大揭秘</a></li>
 <li><a href="/cnnews/20210525/1553334.md">中国知名地产商被杀！曾10亿接盘明天系公司</a></li>
+<li><a href="/comments/20210524/1552850.md">袁隆平遗体送别式超高规格 111名国级高官现身悼念名单！习近平王岐山及6名现任常委与胡锦涛朱镕基温家宝李瑞环宋平等17名卸任常委现身悼念名单 1名前常委与9名政治局委员15名现任副国级高官44名卸任副国级高官缺席悼念名单！出席与缺席完整名单大揭秘</a></li>
 <li><a href="/topimagenews/20210524/1552810.md">举足轻重！美海豹部队因应大国战争 将乘迷你小潜舰渗透</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -98,6 +98,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210525/1553492.md" target="_blank">新西兰外长呼吁本国出口业莫依赖中国市场</a></li>
+<li><a href="/comments/20210525/1553487.md" target="_blank">【坚离地倾】支联会副主席邹幸彤：就算坐监，我也继续到维园悼念六四</a></li>
+<li><a href="/comments/20210525/1553486.md" target="_blank">林郑：政府不宜以现金鼓励打疫苗 或有反效果 考虑公务员打针后有假期</a></li>
+<li><a href="/comments/20210525/1553485.md" target="_blank">【双语诗歌 Bilingual Poetry】：你的眼里闪烁著光 There’s Light In Your Eyes</a></li>
+<li><a href="/comments/20210525/1553484.md" target="_blank">【笑看世界】原创音乐: 秋天的感觉</a></li>
 <li><a href="/comments/20210525/1553404.md" target="_blank">另类视角：为什么美国不愿意中共垮台？ — 曾节明</a></li>
 <li><a href="/comments/20210525/1553411.md" target="_blank">世卫：每周超55小时 易过早死</a></li>
 <li><a href="/comments/20210525/1553409.md" target="_blank">炎炎夏日，巧用薄荷祛暑避邪</a></li>
@@ -118,11 +123,6 @@
 <li><a href="/comments/20210525/1553309.md" target="_blank">深圳赛格大厦晃动是中共政权缩影？惊动广东高层</a></li>
 <li><a href="/comments/20210525/1553293.md" target="_blank">习近平威慑官场堪比伏地魔？！英媒曝高层私人聚会内幕</a></li>
 <li><a href="/comments/20210525/1553280.md" target="_blank">【欺世大观】68 李南央虎妈 范元甄变异之谜</a></li>
-<li><a href="/comments/20210525/1553279.md" target="_blank">李平：从深圳楼震到甘肃山难 肇因均为中共官员好大喜功</a></li>
-<li><a href="/comments/20210525/1553257.md" target="_blank">马来西亚2轻轨列车隧道内相撞 213人轻重伤</a></li>
-<li><a href="/comments/20210525/1553256.md" target="_blank">拜登和普京的峰会或近期在瑞士举行</a></li>
-<li><a href="/comments/20210525/1553247.md" target="_blank">洪博学：日本为何高调反共 一个原因很少人知道</a></li>
-<li><a href="/comments/20210525/1553246.md" target="_blank">严纯钩：文革回魂 共产党很容易玩死自己</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
 <li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
 <li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
 
 </ul>
 </div>
