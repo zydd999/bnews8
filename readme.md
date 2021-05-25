@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/topimagenews/20210524/1552691.md">中共内斗 大外宣希望习近平摔死？一张图片胜过千言万语【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20210525/1553122.md">辽宁又出大事了！疑是摩托车自杀炸弹攻击政府轿车1死</a></li>
 <li><a href="/cbnews/20210524/1552897.md">习近平替身？黑衣人给他敬酒</a></li>
 <li><a href="/topimagenews/20210524/1552783.md">特斯拉事故检测结果出炉：司机错踩油门 车主一番话 网络再次炸锅</a></li>
@@ -15,9 +14,8 @@
 <li><a href="/headline/20210524/1552837.md">报道：情报揭示武汉病毒研究所研究人员患病细节</a></li>
 <li><a href="/cbnews/20210524/1552708.md">遇难马拉松冠军梁晶的最后一条朋友圈：你看这山风多大</a></li>
 <li><a href="/cbnews/20210525/1553134.md">甘肃马拉松惨剧，牧羊人道出了官方回避的真相</a></li>
-<li><a href="/comments/20210524/1552678.md">屡犯大忌！英媒曝马云最新动向</a></li>
-<li><a href="/cnnews/20210525/1553101.md">变种病毒传入广东 已在社区传播？</a></li>
 <li><a href="/cbnews/20210525/1553133.md">亿万富豪资产被夺 妻离子散 怒杀债主后自杀</a></li>
+<li><a href="/cnnews/20210525/1553101.md">变种病毒传入广东 已在社区传播？</a></li>
 <li><a href="/cnnews/20210524/1552842.md">感觉自己被怠慢，男子用筷子戳破女服务员眼球</a></li>
 <li><a href="/ssgc/20210525/1553120.md">〖兲朝浮世绘〗这个官员的死亡揭示了党国的大秘密</a></li>
 <li><a href="/health/20210524/1552748.md">45岁-55岁是养寿的“黄金期”，谨记三个原则，养出健康好身体</a></li>
@@ -25,8 +23,10 @@
 <li><a href="/lifebaike/20210524/1552755.md">炖牛肉时多加一勺它，牛肉更易软烂不塞牙，再也不需要高压锅了</a></li>
 <li><a href="/headline/20210524/1552860.md">北京等多省市网民涉“侮辱袁隆平”遭刑拘 民众不满袁被过度神化</a></li>
 <li><a href="/bannedvideo/20210524/1552903.md">中宣部炒作袁隆平“养活了全世界”引发各界不服！为转移“大饥荒”视线？</a></li>
+<li><a href="/cbnews/20210525/1553178.md">文昭：袁隆平去世，杂交水稻神话的真相；中国流行「躺平族」，别急一会儿就不平了</a></li>
 <li><a href="/cnnews/20210524/1552760.md">知性大气！钟楚红穿藏青色吊带裙端庄成熟 婀娜身姿抢镜</a></li>
 <li><a href="/comments/20210524/1552850.md">袁隆平遗体送别式超高规格 111名国级高官现身悼念名单！习近平王岐山及6名现任常委与胡锦涛朱镕基温家宝李瑞环宋平等17名卸任常委现身悼念名单 1名前常委与9名政治局委员15名现任副国级高官44名卸任副国级高官缺席悼念名单！出席与缺席完整名单大揭秘</a></li>
+<li><a href="/cbnews/20210524/1552731.md">本可避免！越野赛幸存者：打40多个救援电话无回应</a></li>
 <li><a href="/topimagenews/20210524/1552810.md">举足轻重！美海豹部队因应大国战争 将乘迷你小潜舰渗透</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210525/1553360.md" target="_blank">意大利哪些地区将成为疫情低风险的“白色区域”？</a></li>
 <li><a href="/comments/20210525/1553186.md" target="_blank">——兼论中共圣化袁隆平为哪般？ — 曾节明</a></li>
 <li><a href="/comments/20210525/1553354.md" target="_blank">200万人口小国封盖14亿人口的天朝！谁这么大的胆子？！香港要学 台湾更要学！│#熊猫侠</a></li>
 <li><a href="/comments/20210525/1553323.md" target="_blank">【微博精粹】早年不抢银行 就没有今天４个老婆抢尸体</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210525/1553197.md" target="_blank">美国最富裕十州出炉 马里兰州位居榜首 纽约州未上榜</a></li>
 <li><a href="/comments/20210525/1553183.md" target="_blank">昂山素季首次出庭；白俄战机拦截客机；尼日利亚陆军参谋长坠机遇难；行星若撞地球 专家：人类无法阻挡；印度出现可怖流行病【希望之声-每日头条-2021/05/24】</a></li>
 <li><a href="/comments/20210525/1553182.md" target="_blank">白俄罗斯迫降民航为为何震惊世界？中共人祸何时休？ 21条人命问谁讨？（主持人：高洁/嘉宾：林晓旭 方伟）【希望之声-新闻焦点解读-2021/05/24】</a></li>
-<li><a href="/comments/20210525/1553170.md" target="_blank">【杰森视角】中共军委副主席坚决不理拜登的国防部长！为何这么欺负拜登？中共全球追捕19岁男孩！阿联酋已变成危险之地！</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
 <li><a href="/cbnews/20210331/1516754.md" target="_blank">被传销团伙围杀时 丈夫说了这句话脱险</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
 
 </ul>
 </div>
