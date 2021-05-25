@@ -5,17 +5,15 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/cbnews/20210524/1552594.md">面子丢大了：中共举办交流会 欧美全体缺席…</a></li>
 <li><a href="/topimagenews/20210524/1552691.md">中共内斗 大外宣希望习近平摔死？一张图片胜过千言万语【阿波罗网编译】</a></li>
-<li><a href="/comments/20210524/1552591.md">袁隆平去世 习近平作出罕见举动 七位院士悼念袁隆平 上万市民雨中送别袁隆平 悼念者买光长沙菊花 多地网友因批评袁隆平被抓 网络热议袁隆平一生最大的功绩：将水稻由亩产三万六千九百多斤降低到了一两千斤，并告诉大家，那些年中国饿死了几千万人</a></li>
 <li><a href="/cbnews/20210524/1552897.md">习近平替身？黑衣人给他敬酒</a></li>
 <li><a href="/topimagenews/20210524/1552783.md">特斯拉事故检测结果出炉：司机错踩油门 车主一番话 网络再次炸锅</a></li>
 <li><a href="/cnnews/20210524/1552942.md">中共官场风声鹤唳 不敢提到“那个人”</a></li>
 <li><a href="/cbnews/20210524/1552607.md">病毒来自武汉实验室？WSJ：3研究员2019年11月曾就医</a></li>
 <li><a href="/baitai/20210524/1552851.md">人间三角｜甘肃马拉松惨剧，牧羊人道出了真相</a></li>
 <li><a href="/comments/20210524/1552883.md">李燕铭：前常委罗干出事！正国级元老中唯有罗干缺席袁隆平悼念名单 罗干曾相继缺席十九大与十一阅兵式及招待会 病入膏肓还是出逃国外？两则消息疑泄露内幕 江泽民曾给罗干下达4口头密令 朱镕基训斥罗干 罗干家族敛财恶行曝光</a></li>
-<li><a href="/cbnews/20210524/1552645.md">天亮时分：马拉松惨剧和大连恶性交通肇事；陈敏尔办砸大事，无处甩锅；病毒来源问题，福奇突然改口；亚利桑那和乔治亚审计更新（政论天下第428集 20210523）</a></li>
 <li><a href="/topimagenews/20210525/1553122.md">辽宁又出大事了！疑是摩托车自杀炸弹攻击政府轿车1死</a></li>
+<li><a href="/cbnews/20210524/1552645.md">天亮时分：马拉松惨剧和大连恶性交通肇事；陈敏尔办砸大事，无处甩锅；病毒来源问题，福奇突然改口；亚利桑那和乔治亚审计更新（政论天下第428集 20210523）</a></li>
 <li><a href="/headline/20210524/1552837.md">报道：情报揭示武汉病毒研究所研究人员患病细节</a></li>
 <li><a href="/comments/20210524/1552656.md">韩正前大秘刚上任就遇马拉松事故 中纪委提彻查</a></li>
 <li><a href="/cbnews/20210524/1552708.md">遇难马拉松冠军梁晶的最后一条朋友圈：你看这山风多大</a></li>
@@ -28,6 +26,8 @@
 <li><a href="/comments/20210524/1552848.md">邓小平批小他三岁的林彪却放过一个大他六岁的人</a></li>
 <li><a href="/lifebaike/20210524/1552755.md">炖牛肉时多加一勺它，牛肉更易软烂不塞牙，再也不需要高压锅了</a></li>
 <li><a href="/headline/20210524/1552860.md">北京等多省市网民涉“侮辱袁隆平”遭刑拘 民众不满袁被过度神化</a></li>
+<li><a href="/cnnews/20210524/1552664.md">诺贝尔经济奖得主：泡沫成形 股市和房市狂野…</a></li>
+<li><a href="/cnnews/20210524/1552760.md">知性大气！钟楚红穿藏青色吊带裙端庄成熟 婀娜身姿抢镜</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,9 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210525/1553234.md" target="_blank">前外交官：遏制中共 光制裁不够还得出重拳</a></li>
+<li><a href="/comments/20210525/1553233.md" target="_blank">21人遇难！马拉松赛为何成夺命赛？袁隆平也成了不能说的“英烈”？吴孟超不被官方报导的另一面</a></li>
+<li><a href="/cbnews/20210525/1553232.md" target="_blank">甘肃越野赛高奖金吸引选手 残运冠军家境曝光</a></li>
 <li><a href="/cbnews/20210525/1553213.md" target="_blank">X-37B：美最机密军事装备，可带6枚核弹？</a></li>
 <li><a href="/comments/20210525/1553212.md" target="_blank">美国情报扔重磅消息：2019年11月，三名WH研究人员病重就医。他们是零号？福奇首次承认资助WHXX所，相信它并非来自自然，在暗示什么？</a></li>
 <li><a href="/cbnews/20210525/1553196.md" target="_blank">威胁“韭菜”？ 党媒：认命可以 躺平不行</a></li>
@@ -58,9 +61,6 @@
 <li><a href="/cbnews/20210525/1553067.md" target="_blank">残运冠军甘肃遇难 黄关军常吃方便面 参赛为挣奖金</a></li>
 <li><a href="/comments/20210525/1553042.md" target="_blank">共谍活跃 澳情报局掌握中；病毒泄漏源 美曝新证；美国大学取消入学试 SAT失宠；BLM支持率大降；染疫后遗症 舌头大；躲地下17年!神秘生物侵美国【希望之声TV-环球看点-2021/05/24】</a></li>
 <li><a href="/cbnews/20210524/1552898.md" target="_blank">火上浇油：甘肃马拉松酿惨剧 白银电视台重播开幕式</a></li>
-<li><a href="/cbnews/20210524/1552897.md" target="_blank">习近平替身？黑衣人给他敬酒</a></li>
-<li><a href="/comments/20210524/1552882.md" target="_blank">【标题】立陶宛宣布退出17+1；加国记者新书揭中共红色资产渗透威胁全球；中国上百警察抓捕主教神父；香港驻台湾经济贸易文化办事处暂停运作 【希望之声TV-两岸要闻-2021/05/24】</a></li>
-<li><a href="/cbnews/20210524/1552839.md" target="_blank">英国将审查逮捕大学内的中共“间谍” 包括剑桥牛津</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210525/1553233.md" target="_blank">21人遇难！马拉松赛为何成夺命赛？袁隆平也成了不能说的“英烈”？吴孟超不被官方报导的另一面</a></li>
+<li><a href="/comments/20210525/1553228.md" target="_blank">长寿者都有一个共同的特点</a></li>
+<li><a href="/comments/20210525/1553227.md" target="_blank">特斯拉在挪威面临罚款 金额可能会高达1.6亿美元</a></li>
 <li><a href="/comments/20210525/1553212.md" target="_blank">美国情报扔重磅消息：2019年11月，三名WH研究人员病重就医。他们是零号？福奇首次承认资助WHXX所，相信它并非来自自然，在暗示什么？</a></li>
 <li><a href="/comments/20210525/1553200.md" target="_blank">【紫菱讲故事】《坐花志果》“成人之美不张扬 好事连连儿孙福“</a></li>
 <li><a href="/comments/20210525/1553199.md" target="_blank">【独家】诗一首：循环</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210525/1553090.md" target="_blank">囚后首度发声！昂山素季喊话：全民盟会与缅甸人民同生共死</a></li>
 <li><a href="/comments/20210525/1553089.md" target="_blank">【梦幻之境】凤凰古镇</a></li>
 <li><a href="/comments/20210525/1553077.md" target="_blank">【三国史话】周瑜诸葛亮对联交锋 鲁肃化干戈为玉帛</a></li>
-<li><a href="/comments/20210525/1553076.md" target="_blank">华为不造车了？千亿车企巨头跌停</a></li>
-<li><a href="/comments/20210525/1553074.md" target="_blank">【图景】天堂鸟</a></li>
-<li><a href="/comments/20210525/1553073.md" target="_blank">马来西亚2轻轨列车相撞 47人重伤166人轻伤</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
 <li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
 <li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
 <li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
 <li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
 
 </ul>
 </div>
