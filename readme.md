@@ -21,8 +21,8 @@
 <li><a href="/comments/20210526/1554078.md">袁隆平一生不入中共党团内幕揭秘 袁隆平逝世后中共强称“同志” 袁隆平大学学籍表曝光 家庭成分为“伪官吏”！袁隆平说他不入团不入党，原来他根本入不了？！袁隆平家世揭秘 袁隆平祖父曾任中国国民党南九支部部长与江西省议会议员 袁隆平父亲曾在冯玉祥第二军团擔任上校秘书 反右运动中袁隆平被划为“中右”等于内控 差一点儿就去夹边沟了……中南海不可告人的秘密_376</a></li>
 <li><a href="/baitai/20210526/1554174.md">未料欧盟会制裁中国 王毅无法接受</a></li>
 <li><a href="/comments/20210526/1553925.md">大陆年轻人为啥流行“躺平”？“认命可以，躺平不行”中共怕什么？【希望之声TV-新闻焦点解读-2021/05/25】 主持:高洁  嘉宾:大陆年轻人  林晓旭   蓝述</a></li>
-<li><a href="/cnnews/20210526/1553974.md">病毒从实验室外泄理论为何突然变得可信</a></li>
 <li><a href="/comments/20210526/1554096.md">李燕铭：江泽民曾庆红政变进行时 习近平连遭死亡恐吓 习近平考察河南南阳后 河南南阳同日发生两件大案 习近平考察广西后 广西连发四起惨案</a></li>
+<li><a href="/cnnews/20210526/1553974.md">病毒从实验室外泄理论为何突然变得可信</a></li>
 <li><a href="/cnnews/20210526/1554259.md">物价飙涨难倒李克强 中国掀关厂、减产、减薪潮</a></li>
 <li><a href="/bannedvideo/20210526/1553920.md">《石涛聚焦》“爆料转向彭丽媛 意在恶心死习近平”威胁者信息被公布 嘲讽👎  美国警察与法律？（25/05）</a></li>
 <li><a href="/topimagenews/20210526/1553823.md">美中前景不明 中企来美上市突停</a></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210527/1554487.md" target="_blank">谁在带节奏？境外势力 vs 党的喉舌【希望之声TV-中国时局-2021/05/26】</a></li>
 <li><a href="/cbnews/20210527/1554478.md" target="_blank">黑龙江东宁办公楼剧烈爆炸致8死4伤 传有雷管炸药</a></li>
 <li><a href="/comments/20210527/1554458.md" target="_blank">被发现和友人群聚 密西根州长道歉后解禁；知情人：国会大门保安人员才能打开；NASA拍到UFO：呈三角状缓缓划过…大陆大批水陆坦克、装甲从江西南下【希望之声TV-环球看点-2021/05/26】</a></li>
 <li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210526/1554081.md" target="_blank">网曝江西军用两栖坦克、登陆装甲车南下 网友：中共秀肌肉</a></li>
 <li><a href="/cbnews/20210526/1554076.md" target="_blank">江峰：直10上天，习近平上台：中共战场主要火力低级设计错误或至坠机，打脸习近平；多维网暗示改变接班人规矩让习最高位跌落【江峰漫谈20210525第327期】</a></li>
 <li><a href="/cbnews/20210526/1554066.md" target="_blank">卫星定位跟踪 唐山26名法轮功被中共绑架</a></li>
-<li><a href="/cbnews/20210526/1554061.md" target="_blank">中南海面临大洗牌 李克强去向最受瞩</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,12 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210527/1554499.md" target="_blank">李克强唱白脸混日子 港媒：中共二十大他有两个去向</a></li>
+<li><a href="/comments/20210527/1554498.md" target="_blank">卖一头猪亏千元 养猪龙头牧原股份已做最坏打算</a></li>
+<li><a href="/comments/20210527/1554497.md" target="_blank">川普：我的疫苗投资是史上最好赌注 救了数千万人</a></li>
+<li><a href="/comments/20210527/1554496.md" target="_blank">【跟踪报导】加州圣荷西发生大规模枪击案 9人死亡</a></li>
+<li><a href="/comments/20210527/1554490.md" target="_blank">评论 | 唯色：平措汪杰先生谈昌都战役和阿沛·阿旺晋美（一）</a></li>
+<li><a href="/comments/20210527/1554487.md" target="_blank">谁在带节奏？境外势力 vs 党的喉舌【希望之声TV-中国时局-2021/05/26】</a></li>
 <li><a href="/comments/20210527/1554485.md" target="_blank">监控行业报告：海康威视与中共军方存在联系</a></li>
 <li><a href="/comments/20210527/1554484.md" target="_blank">极端天气继续肆虐~冰雹雷电大风席卷大陆13省</a></li>
 <li><a href="/comments/20210527/1554477.md" target="_blank">美参众两院两党联手 推进抗共法案</a></li>
@@ -117,12 +123,6 @@
 <li><a href="/comments/20210527/1554421.md" target="_blank">【狱中书】赤柱监狱的热 已超越人类极限</a></li>
 <li><a href="/comments/20210527/1554420.md" target="_blank">西贡纸船雕塑曾现“香港”、“独立”字眼 康文署全面翻新 街坊轰浪费公帑</a></li>
 <li><a href="/comments/20210527/1554419.md" target="_blank">香港消失的声音</a></li>
-<li><a href="/comments/20210527/1554418.md" target="_blank">蘑菇云直冲天际！黑龙江商用建筑爆炸 至少7人死伤</a></li>
-<li><a href="/comments/20210527/1554417.md" target="_blank">《中国好声音》海选叫停？专家揭内幕</a></li>
-<li><a href="/comments/20210527/1554416.md" target="_blank">神传文化中的乐舞（上中下）</a></li>
-<li><a href="/comments/20210526/1554415.md" target="_blank">长期食用“临期食品”会损害健康吗？</a></li>
-<li><a href="/comments/20210526/1554404.md" target="_blank">塞班赌场华工告雇主“强迫劳动”胜诉 获赔$591万</a></li>
-<li><a href="/comments/20210526/1554390.md" target="_blank">《中国日报》大外宣渗入美国多份报章 近半年砸逾1.2亿</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
-<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
 <li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
 
 </ul>
 </div>
