@@ -5,10 +5,10 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/cnnews/20210525/1553516.md">甘肃马拉松事件惊动高层 习近平李克强下令追责</a></li>
 <li><a href="/comments/20210525/1553627.md">浙江急诊人数大增！医师警告：这病毒死亡率近100％</a></li>
-<li><a href="/cnnews/20210525/1553517.md">爆炸性新闻：兰德·保罗揭露福西和武汉实验室 随后收到死亡威胁和白粉【阿波罗网编译】</a></li>
+<li><a href="/cnnews/20210525/1553516.md">甘肃马拉松事件惊动高层 习近平李克强下令追责</a></li>
 <li><a href="/cbnews/20210525/1553546.md">fox新闻视频：新冠疫苗的可怕</a></li>
+<li><a href="/cnnews/20210525/1553517.md">爆炸性新闻：兰德·保罗揭露福西和武汉实验室 随后收到死亡威胁和白粉【阿波罗网编译】</a></li>
 <li><a href="/comments/20210525/1553663.md">甘肃马拉松惨剧惊动中南海 习近平李克强下令追责</a></li>
 <li><a href="/cnnews/20210525/1553641.md">亲历“六四” 披露7名上将阻镇压内幕</a></li>
 <li><a href="/bannedvideo/20210525/1553570.md">陈破空：习近平拒绝为他下半旗！原因想不到。甘肃马拉松，比巴以战争还惨烈！佛学院听党话，只爱潘金莲。重庆小伙在迪拜</a></li>
@@ -17,17 +17,17 @@
 <li><a href="/lifebaike/20210526/1553885.md">官N代圈子：北京大院子弟的社会潜规则</a></li>
 <li><a href="/finance/20210525/1553482.md">特斯拉检测结果出炉 女车主现身回应 网友回复太有才了！【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20210526/1553921.md">重庆男女大排档消费1千多逃单…网称店家幸运</a></li>
-<li><a href="/bannedvideo/20210525/1553511.md">扬州人叹实体经济衰落。视频中：曾经是多么地辉煌，现在的现状真的是让人一言难尽， 关的关倒的倒，就剩下几家零零散散的店铺，还不晓得能撑到什么时候。</a></li>
-<li><a href="/headline/20210526/1553756.md">美媒为武汉实验室病毒泄漏再添新证 陆媒引石正丽新论文掩饰</a></li>
-<li><a href="/cbnews/20210526/1553900.md">广州又出大事了 一在建楼房倒塌 有人被埋 伤亡不明</a></li>
 <li><a href="/topimagenews/20210526/1554015.md">血月今天降临！印度神童再出预言</a></li>
+<li><a href="/headline/20210526/1553756.md">美媒为武汉实验室病毒泄漏再添新证 陆媒引石正丽新论文掩饰</a></li>
+<li><a href="/bannedvideo/20210525/1553511.md">扬州人叹实体经济衰落。视频中：曾经是多么地辉煌，现在的现状真的是让人一言难尽， 关的关倒的倒，就剩下几家零零散散的店铺，还不晓得能撑到什么时候。</a></li>
+<li><a href="/cbnews/20210526/1553900.md">广州又出大事了 一在建楼房倒塌 有人被埋 伤亡不明</a></li>
 <li><a href="/cnnews/20210526/1553926.md">无论你多讨厌日本，都应该看看此文</a></li>
 <li><a href="/cnnews/20210525/1553515.md">上海首富郭广昌布局海航的背后</a></li>
 <li><a href="/cbnews/20210525/1553723.md">中共为什么害怕民间“躺平”？网友：躺平的韭菜不好割啊</a></li>
 <li><a href="/comments/20210526/1553925.md">大陆年轻人为啥流行“躺平”？“认命可以，躺平不行”中共怕什么？【希望之声TV-新闻焦点解读-2021/05/25】 主持:高洁  嘉宾:大陆年轻人  林晓旭   蓝述</a></li>
 <li><a href="/cbnews/20210525/1553481.md">四川食品厂发生职工中毒事故 现场画面曝光 7人死亡</a></li>
 <li><a href="/cbnews/20210525/1553561.md">广州疫情延烧 茂名及南宁现染疫者</a></li>
-<li><a href="/cbnews/20210525/1553667.md">上海首富郭广昌拟接盘海航 学者分析背后政治交易</a></li>
+<li><a href="/cbnews/20210526/1554061.md">中南海面临大洗牌 李克强去向最受瞩</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -67,6 +67,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20210526/1554119.md" target="_blank">二十大内斗：新华社重重打脸习近平！曝光中共最高机密 江系为权斗豁出去了</a></li>
 <li><a href="/topimagenews/20210526/1554065.md" target="_blank">中国陷通胀危机！广东省爆关厂及减薪潮</a></li>
 <li><a href="/topimagenews/20210526/1554015.md" target="_blank">血月今天降临！印度神童再出预言</a></li>
 <li><a href="/topimagenews/20210526/1553823.md" target="_blank">美中前景不明 中企来美上市突停</a></li>
@@ -91,13 +92,15 @@
 <li><a href="/topimagenews/20210520/1550584.md" target="_blank">朝鲜高官施打中国制药身亡 金正恩震怒下令…</a></li>
 <li><a href="/topimagenews/20210520/1550302.md" target="_blank">10倍CIA密探？ 美媒曝五角大楼拥6万人“秘密卧底”部队</a></li>
 <li><a href="/topimagenews/20210520/1550301.md" target="_blank">美陆战队司令：研究中共十年 发现北京越来越…</a></li>
-<li><a href="/topimagenews/20210520/1550150.md" target="_blank">伊朗指挥官称赞哈马斯对”“破碎的、沮丧的”以色列进行火箭弹袭击 【阿波罗网编译】</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210526/1554111.md" target="_blank">无糖汽水背后的真相</a></li>
+<li><a href="/comments/20210526/1554110.md" target="_blank">宅在家小心饮食不均、失眠来报到</a></li>
+<li><a href="/comments/20210526/1554109.md" target="_blank">饮食“五多” 轻松常保健康</a></li>
 <li><a href="/comments/20210526/1554096.md" target="_blank">李燕铭：江泽民曾庆红政变进行时 习近平连遭死亡恐吓 习近平考察河南南阳后 河南南阳同日发生两件大案 习近平考察广西后 广西连发四起惨案</a></li>
 <li><a href="/comments/20210526/1554094.md" target="_blank">甘肃死亡赛事惊动 习近平 死者家属拒签赔偿协议；缺席袁隆平悼念名单 中共前常委罗干 可能不妙？【希望之声TV-两岸要闻-2021/05/26】</a></li>
 <li><a href="/comments/20210526/1554093.md" target="_blank">研究：瘫痪病人用意念控制机械手臂将成真</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210526/1553999.md" target="_blank">【美俄首脑峰会】白宫宣布：拜登和普京会面时间与地点</a></li>
 <li><a href="/comments/20210526/1553996.md" target="_blank">传海航接盘侠已确定 背后政治交易几何</a></li>
 <li><a href="/comments/20210526/1553995.md" target="_blank">程晓农：“国家安全”可剥夺私人财产？想起当年枪决上海老板</a></li>
-<li><a href="/comments/20210526/1553994.md" target="_blank">李纯恩：十三点的女人 关于“文革”不多的愉快记忆之一</a></li>
-<li><a href="/comments/20210526/1553972.md" target="_blank">张3丰：白银百公里越野悲剧和中国新中产命运</a></li>
-<li><a href="/comments/20210526/1553971.md" target="_blank">陈莹：面对老龄化 中国试图以喊口号说服人民“不生不行”</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
 <li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
 <li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
 
 </ul>
 </div>
