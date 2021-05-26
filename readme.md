@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cnnews/20210525/1553325.md">又一电商平台倒了： 创始人卷走260亿出逃澳洲</a></li>
-<li><a href="/cbnews/20210525/1553196.md">威胁“韭菜”？ 党媒：认命可以 躺平不行</a></li>
 <li><a href="/topimagenews/20210525/1553330.md">释放强硬信号！内塔尼亚胡对摩萨德下令：你们的首要任务是…【阿波罗网编译】</a></li>
 <li><a href="/cnnews/20210525/1553334.md">中国知名地产商被杀！曾10亿接盘明天系公司</a></li>
 <li><a href="/cnnews/20210525/1553516.md">甘肃马拉松事件惊动高层 习近平李克强下令追责</a></li>
@@ -17,17 +16,18 @@
 <li><a href="/cnnews/20210525/1553517.md">爆炸性新闻：兰德·保罗揭露福西和武汉实验室 随后收到死亡威胁和白粉【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20210525/1553402.md">“生八女儿”大陆夫妻被嘲笑 20年后…</a></li>
 <li><a href="/cbnews/20210525/1553429.md">拒绝背锅!甘肃白银气象局:赛前预测到大风天气 并已通知主办方</a></li>
-<li><a href="/bannedvideo/20210525/1553511.md">扬州人叹实体经济衰落。视频中：曾经是多么地辉煌，现在的现状真的是让人一言难尽， 关的关倒的倒，就剩下几家零零散散的店铺，还不晓得能撑到什么时候。</a></li>
+<li><a href="/comments/20210525/1553663.md">甘肃马拉松惨剧惊动中南海 习近平李克强下令追责</a></li>
 <li><a href="/bannedvideo/20210525/1553570.md">陈破空：习近平拒绝为他下半旗！原因想不到。甘肃马拉松，比巴以战争还惨烈！佛学院听党话，只爱潘金莲。重庆小伙在迪拜</a></li>
 <li><a href="/finance/20210525/1553482.md">特斯拉检测结果出炉 女车主现身回应 网友回复太有才了！【阿波罗网报道】</a></li>
-<li><a href="/cnnews/20210525/1553335.md">超级马拉松高手梁晶遇难细节曝光 幸存者讲述恐怖经历</a></li>
+<li><a href="/bannedvideo/20210525/1553511.md">扬州人叹实体经济衰落。视频中：曾经是多么地辉煌，现在的现状真的是让人一言难尽， 关的关倒的倒，就剩下几家零零散散的店铺，还不晓得能撑到什么时候。</a></li>
 <li><a href="/cnnews/20210525/1553430.md">“超级血月”周三亮相 易理师析台湾中国不祥之兆</a></li>
-<li><a href="/cbnews/20210525/1553297.md">袁隆平一生未入党团 中共强称“同志”为自己贴金</a></li>
+<li><a href="/cnnews/20210525/1553335.md">超级马拉松高手梁晶遇难细节曝光 幸存者讲述恐怖经历</a></li>
 <li><a href="/cnnews/20210525/1553515.md">上海首富郭广昌布局海航的背后</a></li>
-<li><a href="/comments/20210525/1553663.md">甘肃马拉松惨剧惊动中南海 习近平李克强下令追责</a></li>
+<li><a href="/cbnews/20210525/1553297.md">袁隆平一生未入党团 中共强称“同志”为自己贴金</a></li>
 <li><a href="/finance/20210525/1553371.md">华为余承东心拔凉 极狐阿尔法月销仅百辆 网友：不是要年销30万辆吗？【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20210525/1553481.md">四川食品厂发生职工中毒事故 现场画面曝光 7人死亡</a></li>
 <li><a href="/topimagenews/20210525/1553428.md">巧合？伊朗无人机工厂爆炸 炼油厂大火 【阿波罗网编译】</a></li>
+<li><a href="/cbnews/20210525/1553561.md">广州疫情延烧 茂名及南宁现染疫者</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210526/1553925.md" target="_blank">大陆年轻人为啥流行“躺平”？“认命可以，躺平不行”中共怕什么？【希望之声TV-新闻焦点解读-2021/05/25】 主持:高洁  嘉宾:大陆年轻人  林晓旭   蓝述</a></li>
 <li><a href="/cbnews/20210526/1553923.md" target="_blank">死亡赛事惊动习近平 逝者家属曝官方拿钱堵嘴</a></li>
 <li><a href="/cbnews/20210526/1553922.md" target="_blank">甘肃牧羊人曝极端天气常见 疑遭施压改口</a></li>
 <li><a href="/cbnews/20210526/1553921.md" target="_blank">重庆男女大排档消费1千多逃单…网称店家幸运</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210525/1553610.md" target="_blank">墙头草！《速激9》主演为何深夜发文道歉？</a></li>
 <li><a href="/comments/20210525/1553601.md" target="_blank">💥世卫顾问也反水 北京如芒在背；台湾抗议中共阻挠其参与世卫大会；大宗商品价格连创新高，北京警告重点企业高管【希望之声TV-两岸要闻-2021/05/25】</a></li>
 <li><a href="/cbnews/20210525/1553590.md" target="_blank">饺子店老板免费为流浪小伙子提供一餐感动顾客</a></li>
-<li><a href="/comments/20210525/1553571.md" target="_blank">佛州州长真牛！账号被封，佛州人可获赔10万美元。美军绝密文件曝光，美曾考虑动核打击中共机场直至上海。英航母二战后首次大阵势重返亚洲。亚利桑那规模扩大。</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210526/1553929.md" target="_blank">美国今年蚊子最多的十个城市</a></li>
+<li><a href="/comments/20210526/1553925.md" target="_blank">大陆年轻人为啥流行“躺平”？“认命可以，躺平不行”中共怕什么？【希望之声TV-新闻焦点解读-2021/05/25】 主持:高洁  嘉宾:大陆年轻人  林晓旭   蓝述</a></li>
 <li><a href="/comments/20210526/1553906.md" target="_blank">美军士兵披露绝密任务：与外星人对话（上）</a></li>
 <li><a href="/comments/20210526/1553892.md" target="_blank">抄袭又雷!《中国队长》让中国网友看傻眼</a></li>
 <li><a href="/comments/20210526/1553879.md" target="_blank">中国金融有三股力量在推动变革 中国人民大学教授批央行金融政策：不应把过多精力和时间投入到数字货币上 中南海谣言预言_465</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210526/1553774.md" target="_blank">法国又现突变病毒~感染者多为学生及家长</a></li>
 <li><a href="/comments/20210526/1553766.md" target="_blank">这是一场有计划的历史改写</a></li>
 <li><a href="/comments/20210526/1553765.md" target="_blank">【整顿港台】《议事论事》谈商界忧“国安法”被删 田北俊：港台高层没知会我</a></li>
-<li><a href="/comments/20210526/1553764.md" target="_blank">李克强赴浙江与企业家“站谈”大宗商品价格</a></li>
-<li><a href="/comments/20210526/1553763.md" target="_blank">蛋羹虾仁 超级美味早餐 大人孩子抢着吃~</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
+<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
 <li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
 <li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
 <li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
 
 </ul>
 </div>
