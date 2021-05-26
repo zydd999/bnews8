@@ -5,14 +5,12 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/comments/20210525/1553627.md">浙江急诊人数大增！医师警告：这病毒死亡率近100％</a></li>
 <li><a href="/comments/20210525/1553663.md">甘肃马拉松惨剧惊动中南海 习近平李克强下令追责</a></li>
-<li><a href="/cnnews/20210525/1553641.md">亲历“六四” 披露7名上将阻镇压内幕</a></li>
 <li><a href="/topimagenews/20210526/1554119.md">二十大内斗：新华社重重打脸习近平！曝光中共最高机密 江系为权斗豁出去了</a></li>
 <li><a href="/bannedvideo/20210526/1553927.md">🔥🔥武汉空中惊现“中共党魁”头像 预示巨大灾难⁉️</a></li>
-<li><a href="/topimagenews/20210526/1554015.md">血月今天降临！印度神童再出预言</a></li>
 <li><a href="/ssgc/20210526/1553873.md">〖兲朝浮世绘〗不许民众躺平 中共也怕大家不跟它们玩了</a></li>
 <li><a href="/lifebaike/20210526/1553885.md">官N代圈子：北京大院子弟的社会潜规则</a></li>
+<li><a href="/topimagenews/20210526/1554015.md">血月今天降临！印度神童再出预言</a></li>
 <li><a href="/cbnews/20210526/1554061.md">中南海面临大洗牌 李克强去向最受瞩</a></li>
 <li><a href="/headline/20210526/1553756.md">美媒为武汉实验室病毒泄漏再添新证 陆媒引石正丽新论文掩饰</a></li>
 <li><a href="/comments/20210526/1554085.md">中共中办突发通知 再掀全民运动 习近平目的何在？</a></li>
@@ -22,11 +20,13 @@
 <li><a href="/cnnews/20210526/1553926.md">无论你多讨厌日本，都应该看看此文</a></li>
 <li><a href="/comments/20210526/1553925.md">大陆年轻人为啥流行“躺平”？“认命可以，躺平不行”中共怕什么？【希望之声TV-新闻焦点解读-2021/05/25】 主持:高洁  嘉宾:大陆年轻人  林晓旭   蓝述</a></li>
 <li><a href="/cbnews/20210525/1553723.md">中共为什么害怕民间“躺平”？网友：躺平的韭菜不好割啊</a></li>
+<li><a href="/cbnews/20210526/1554234.md">深圳5人感染变种病毒 全部接种过国产疫苗</a></li>
 <li><a href="/comments/20210526/1554078.md">袁隆平一生不入中共党团内幕揭秘 袁隆平逝世后中共强称“同志” 袁隆平大学学籍表曝光 家庭成分为“伪官吏”！袁隆平说他不入团不入党，原来他根本入不了？！袁隆平家世揭秘 袁隆平祖父曾任中国国民党南九支部部长与江西省议会议员 袁隆平父亲曾在冯玉祥第二军团擔任上校秘书 反右运动中袁隆平被划为“中右”等于内控 差一点儿就去夹边沟了……中南海不可告人的秘密_376</a></li>
 <li><a href="/topimagenews/20210526/1553823.md">美中前景不明 中企来美上市突停</a></li>
 <li><a href="/cnnews/20210526/1553974.md">病毒从实验室外泄理论为何突然变得可信</a></li>
 <li><a href="/bannedvideo/20210526/1553920.md">《石涛聚焦》“爆料转向彭丽媛 意在恶心死习近平”威胁者信息被公布 嘲讽👎  美国警察与法律？（25/05）</a></li>
-<li><a href="/cbnews/20210526/1554234.md">深圳5人感染变种病毒 全部接种过国产疫苗</a></li>
+<li><a href="/comments/20210526/1554096.md">李燕铭：江泽民曾庆红政变进行时 习近平连遭死亡恐吓 习近平考察河南南阳后 河南南阳同日发生两件大案 习近平考察广西后 广西连发四起惨案</a></li>
+<li><a href="/cbnews/20210525/1553667.md">上海首富郭广昌拟接盘海航 学者分析背后政治交易</a></li>
 <li><a href="/comments/20210526/1554057.md">中共太子党与官N代圈子揭秘：北京大院子弟的社会潜规则 大院子弟们在父辈无法无天精神的洗礼下 加上大院小社会的磨练 快速地融入社会成为中共国特色的腐败大军中一员……中南海不可告人的秘密_375</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -36,6 +36,9 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/cbnews/20210526/1554352.md" target="_blank">中国79条河流水位超警戒 水利部：不排除5月洪灾</a></li>
+<li><a href="/cbnews/20210526/1554351.md" target="_blank">虐童不断！云南3岁女童在幼儿园被罚吃大便</a></li>
 <li><a href="/cbnews/20210526/1554303.md" target="_blank">求医问药无用 受益法轮功 折磨婴儿的罕见皮肤病奇迹痊愈</a></li>
 <li><a href="/comments/20210526/1554280.md" target="_blank">💥甘肃死亡赛事惊动 习近平 死者家属拒签赔偿协议；缺席袁隆平悼念名单 中共前常委罗干 可能不妙？【希望之声TV-两岸要闻-2021/05/26】</a></li>
 <li><a href="/comments/20210526/1554278.md" target="_blank">川普说，亚利桑那“疑似”发现巨大问题。州务卿被削权。乔治亚地面游戏有二个惊掉下巴的发现，以及四个无法解释的问题。林德尔分享最鼓舞人的信息。</a></li>
@@ -58,9 +61,6 @@
 <li><a href="/cbnews/20210526/1554061.md" target="_blank">中南海面临大洗牌 李克强去向最受瞩</a></li>
 <li><a href="/cbnews/20210526/1554016.md" target="_blank">甘肃夺命马拉松 死者家属指赔偿过低拒绝签字</a></li>
 <li><a href="/comments/20210526/1554012.md" target="_blank">顶尖炸弹专家被抓！LV老板成全球首富 ;被截白俄记者“电视认罪” 欧盟严厉反击; 美俄回暖？拜登普京会晤在即；预警“经济崩盘？ 新民调显美国人勒紧腰带”疫苗护照在被两州禁 【#北美新闻 05/25】</a></li>
-<li><a href="/cbnews/20210526/1553984.md" target="_blank">天亮时分：20210525 病毒来源，为何突然成焦点？福奇90天内要走人？罗干要出事儿？（政论天下第429集 20210525）</a></li>
-<li><a href="/comments/20210526/1553939.md" target="_blank">悬！德反托拉斯盯上谷歌;逾60国促特别会议 审疫情全球大流行条约;以色列总理：美不应加入伊核协议;新西兰:与中国恶化是时间问题;萨摩亚宪政危机 牵动大国竞争【希望之声-每日头条-2021/05/25】</a></li>
-<li><a href="/comments/20210526/1553925.md" target="_blank">大陆年轻人为啥流行“躺平”？“认命可以，躺平不行”中共怕什么？【希望之声TV-新闻焦点解读-2021/05/25】 主持:高洁  嘉宾:大陆年轻人  林晓旭   蓝述</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210526/1554336.md" target="_blank">“台湾是国家”《玩命关头9》男星惹毛小粉红后道歉 蓬佩奥：你讲的对啊</a></li>
+<li><a href="/comments/20210526/1554334.md" target="_blank">一名公立医院医生：在引入非本地培训医生前 多个不能漠视的问题</a></li>
+<li><a href="/comments/20210526/1554332.md" target="_blank">“整治港台”表现获建制派赞赏 黄定光：好欣赏你 李百全：编审会非“样样嘢一言堂”</a></li>
+<li><a href="/comments/20210526/1554329.md" target="_blank">睽违3000年 澳洲大陆首见野生“塔斯马尼亚恶魔”</a></li>
 <li><a href="/comments/20210526/1554320.md" target="_blank">【未普评论】后特朗普时代的中美对峙</a></li>
 <li><a href="/comments/20210526/1554313.md" target="_blank">白俄罗斯反对派人士被“电视认罪” 伎俩复制来自中共</a></li>
 <li><a href="/comments/20210526/1554300.md" target="_blank">“台湾是国家”《玩命关头9》男星惹毛小粉红后道歉庞皮欧：你讲的对啊</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210526/1554111.md" target="_blank">无糖汽水背后的真相</a></li>
 <li><a href="/comments/20210526/1554110.md" target="_blank">宅在家小心饮食不均、失眠来报到</a></li>
 <li><a href="/comments/20210526/1554109.md" target="_blank">饮食“五多” 轻松常保健康</a></li>
-<li><a href="/comments/20210526/1554096.md" target="_blank">李燕铭：江泽民曾庆红政变进行时 习近平连遭死亡恐吓 习近平考察河南南阳后 河南南阳同日发生两件大案 习近平考察广西后 广西连发四起惨案</a></li>
-<li><a href="/comments/20210526/1554094.md" target="_blank">甘肃死亡赛事惊动 习近平 死者家属拒签赔偿协议；缺席袁隆平悼念名单 中共前常委罗干 可能不妙？【希望之声TV-两岸要闻-2021/05/26】</a></li>
-<li><a href="/comments/20210526/1554093.md" target="_blank">研究：瘫痪病人用意念控制机械手臂将成真</a></li>
-<li><a href="/comments/20210526/1554092.md" target="_blank">别大意！“无症状者”有“传染力”恐致死</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
 <li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
 <li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
 
 </ul>
 </div>
