@@ -14,20 +14,20 @@
 <li><a href="/cbnews/20210526/1554193.md">中共外交系统明争暗斗 二十大“狼部长”能入局？</a></li>
 <li><a href="/comments/20210526/1554078.md">袁隆平一生不入中共党团内幕揭秘 袁隆平逝世后中共强称“同志” 袁隆平大学学籍表曝光 家庭成分为“伪官吏”！袁隆平说他不入团不入党，原来他根本入不了？！袁隆平家世揭秘 袁隆平祖父曾任中国国民党南九支部部长与江西省议会议员 袁隆平父亲曾在冯玉祥第二军团擔任上校秘书 反右运动中袁隆平被划为“中右”等于内控 差一点儿就去夹边沟了……中南海不可告人的秘密_376</a></li>
 <li><a href="/baitai/20210526/1554174.md">未料欧盟会制裁中国 王毅无法接受</a></li>
-<li><a href="/cnnews/20210526/1554259.md">物价飙涨难倒李克强 中国掀关厂、减产、减薪潮</a></li>
 <li><a href="/comments/20210526/1554096.md">李燕铭：江泽民曾庆红政变进行时 习近平连遭死亡恐吓 习近平考察河南南阳后 河南南阳同日发生两件大案 习近平考察广西后 广西连发四起惨案</a></li>
+<li><a href="/cnnews/20210526/1554259.md">物价飙涨难倒李克强 中国掀关厂、减产、减薪潮</a></li>
 <li><a href="/cnnews/20210526/1553974.md">病毒从实验室外泄理论为何突然变得可信</a></li>
 <li><a href="/cnnews/20210526/1554258.md">习近平替身啥标准？前常委罗干高危 亲历者披露7上将阻六四镇压内幕</a></li>
 <li><a href="/comments/20210526/1554057.md">中共太子党与官N代圈子揭秘：北京大院子弟的社会潜规则 大院子弟们在父辈无法无天精神的洗礼下 加上大院小社会的磨练 快速地融入社会成为中共国特色的腐败大军中一员……中南海不可告人的秘密_375</a></li>
 <li><a href="/cnnews/20210526/1554006.md">一张回国机票值1辆车？航班大幅取消原因</a></li>
 <li><a href="/cbnews/20210526/1554175.md">海口政府没收80万辆摩托车 卖到非洲换取贵重木材？</a></li>
-<li><a href="/bannedvideo/20210526/1554277.md">陈破空：习近平不退，得罪所有六零后！胡春华上书。陈敏尔沮丧。习媒暗示：有望接班的是另一人</a></li>
 <li><a href="/cnnews/20210526/1554354.md">火星上惊现清晰“人形雕像”外星人曾建立的古文明遗迹？</a></li>
+<li><a href="/bannedvideo/20210526/1554277.md">陈破空：习近平不退，得罪所有六零后！胡春华上书。陈敏尔沮丧。习媒暗示：有望接班的是另一人</a></li>
 <li><a href="/cbnews/20210526/1554151.md">新冠病毒实验室外流之说再起 川普：我一开始就说对了</a></li>
+<li><a href="/cbnews/20210527/1554505.md">世卫小组报告现重大疑点！或可重返中国</a></li>
 <li><a href="/comments/20210526/1554094.md">甘肃死亡赛事惊动 习近平 死者家属拒签赔偿协议；缺席袁隆平悼念名单 中共前常委罗干 可能不妙？【希望之声TV-两岸要闻-2021/05/26】</a></li>
 <li><a href="/cbnews/20210526/1554081.md">网曝江西军用两栖坦克、登陆装甲车南下 网友：中共秀肌肉</a></li>
 <li><a href="/comments/20210526/1554186.md">谁曾是中共第二代领导人?谁才是真正的总设计师?</a></li>
-<li><a href="/cnnews/20210526/1553997.md">中国大爷大妈又搞新花样 网友：晚上会吓死</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210527/1554629.md" target="_blank">超级血月日圣和西枪击案8人死亡  拜登下令90天搞清病毒来源  朝野力挺 【希望之声TV-新闻焦点解读-2021/05/26】 主持:高洁  嘉宾:方伟  秦鹏</a></li>
 <li><a href="/comments/20210527/1554626.md" target="_blank">“速度与激情”演员道歉，中美都不买账，后果很严重？美主流舆论聚焦实验室泄露，拜登要求情报部门调查</a></li>
 <li><a href="/cbnews/20210527/1554621.md" target="_blank">文昭：史诗性「内卷」到来！李克强急了，座谈改「站谈」；大潮汹涌怎麽躲</a></li>
 <li><a href="/comments/20210527/1554615.md" target="_blank">CNN揭拜登封川普病毒调查；世卫首发：53国发现印度变种病毒；欧盟出手 制裁白俄总统及88官员；众院立法抗衡中共 增强美国竞争力；罕见！月全食同现3种奇像【希望之声-每日头条-2021/05/26】</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/comments/20210526/1554280.md" target="_blank">💥甘肃死亡赛事惊动 习近平 死者家属拒签赔偿协议；缺席袁隆平悼念名单 中共前常委罗干 可能不妙？【希望之声TV-两岸要闻-2021/05/26】</a></li>
 <li><a href="/comments/20210526/1554278.md" target="_blank">川普说，亚利桑那“疑似”发现巨大问题。州务卿被削权。乔治亚地面游戏有二个惊掉下巴的发现，以及四个无法解释的问题。林德尔分享最鼓舞人的信息。</a></li>
 <li><a href="/cbnews/20210526/1554271.md" target="_blank">轰-20宣称打到第二岛链猎杀美军核子航母！专家爆致命缺陷</a></li>
-<li><a href="/cbnews/20210526/1554251.md" target="_blank">点名批评：中共利用&#8221;话语性国家技术&#8221;来对付五眼联盟【阿波罗网编译】</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,14 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210527/1554646.md" target="_blank">宋明蔚：消解与误读 绝命越野赛的九层博弈思考</a></li>
+<li><a href="/comments/20210527/1554645.md" target="_blank">凌一:南京女大学生陷入裸贷陷阱 假精致正在摧毁无数年轻人</a></li>
+<li><a href="/comments/20210527/1554644.md" target="_blank">赖怡忠：台海安全的典范转移</a></li>
+<li><a href="/comments/20210527/1554643.md" target="_blank">林保华：习战狼给台湾拜年安什么心？</a></li>
+<li><a href="/comments/20210527/1554632.md" target="_blank">世卫：长时间工作给人们带来什么风险</a></li>
+<li><a href="/comments/20210527/1554629.md" target="_blank">超级血月日圣和西枪击案8人死亡  拜登下令90天搞清病毒来源  朝野力挺 【希望之声TV-新闻焦点解读-2021/05/26】 主持:高洁  嘉宾:方伟  秦鹏</a></li>
+<li><a href="/comments/20210527/1554628.md" target="_blank">【国安教育】中史科教国家克服列强侵略、英国对港“占领”奋进史 藉林则徐事蹟教“前人保国安决心”</a></li>
+<li><a href="/comments/20210527/1554627.md" target="_blank">新冠病毒自实验室外泄疑窦? 美中再交锋 新一轮调查呼声高涨</a></li>
 <li><a href="/comments/20210527/1554626.md" target="_blank">“速度与激情”演员道歉，中美都不买账，后果很严重？美主流舆论聚焦实验室泄露，拜登要求情报部门调查</a></li>
 <li><a href="/comments/20210527/1554615.md" target="_blank">CNN揭拜登封川普病毒调查；世卫首发：53国发现印度变种病毒；欧盟出手 制裁白俄总统及88官员；众院立法抗衡中共 增强美国竞争力；罕见！月全食同现3种奇像【希望之声-每日头条-2021/05/26】</a></li>
 <li><a href="/comments/20210527/1554607.md" target="_blank">“我思故我在” 肉体和精神的双重存在才是你的本质</a></li>
@@ -115,14 +123,6 @@
 <li><a href="/comments/20210527/1554499.md" target="_blank">李克强唱白脸混日子 港媒：中共二十大他有两个去向</a></li>
 <li><a href="/comments/20210527/1554498.md" target="_blank">卖一头猪亏千元 养猪龙头牧原股份已做最坏打算</a></li>
 <li><a href="/comments/20210527/1554497.md" target="_blank">川普：我的疫苗投资是史上最好赌注 救了数千万人</a></li>
-<li><a href="/comments/20210527/1554496.md" target="_blank">【跟踪报导】加州圣荷西发生大规模枪击案 9人死亡</a></li>
-<li><a href="/comments/20210527/1554490.md" target="_blank">评论 | 唯色：平措汪杰先生谈昌都战役和阿沛·阿旺晋美（一）</a></li>
-<li><a href="/comments/20210527/1554487.md" target="_blank">谁在带节奏？境外势力 vs 党的喉舌【希望之声TV-中国时局-2021/05/26】</a></li>
-<li><a href="/comments/20210527/1554485.md" target="_blank">监控行业报告：海康威视与中共军方存在联系</a></li>
-<li><a href="/comments/20210527/1554484.md" target="_blank">极端天气继续肆虐~冰雹雷电大风席卷大陆13省</a></li>
-<li><a href="/comments/20210527/1554477.md" target="_blank">美参众两院两党联手 推进抗共法案</a></li>
-<li><a href="/comments/20210527/1554476.md" target="_blank">因犯罪激增 民主党执政市不再“撤资警察”</a></li>
-<li><a href="/comments/20210527/1554475.md" target="_blank">美前财长：通胀已成美国当前主要经济风险</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
 <li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/cbnews/20210331/1516754.md" target="_blank">被传销团伙围杀时 丈夫说了这句话脱险</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
 
 </ul>
 </div>
