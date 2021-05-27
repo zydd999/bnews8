@@ -7,27 +7,27 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cbnews/20210526/1554234.md">深圳5人感染变种病毒 全部接种过国产疫苗</a></li>
 <li><a href="/cbnews/20210526/1554193.md">中共外交系统明争暗斗 二十大“狼部长”能入局？</a></li>
-<li><a href="/baitai/20210526/1554174.md">未料欧盟会制裁中国 王毅无法接受</a></li>
 <li><a href="/cbnews/20210527/1554505.md">世卫小组报告现重大疑点！或可重返中国</a></li>
 <li><a href="/cbnews/20210527/1554596.md">浙江宁波天空惊现中国地图 但没包括台湾</a></li>
 <li><a href="/cnnews/20210526/1554259.md">物价飙涨难倒李克强 中国掀关厂、减产、减薪潮</a></li>
 <li><a href="/cnnews/20210526/1554258.md">习近平替身啥标准？前常委罗干高危 亲历者披露7上将阻六四镇压内幕</a></li>
+<li><a href="/cbnews/20210527/1554706.md">广东疫情延烧 多人打过疫苗也中招？官方避提</a></li>
 <li><a href="/cnnews/20210527/1554573.md">蒋介石无法抢救出境的大师们全部掉入人间地狱</a></li>
 <li><a href="/cbnews/20210527/1554515.md">二十大李克强前途未卜 中共政协副主席或出黑马</a></li>
-<li><a href="/cbnews/20210527/1554706.md">广东疫情延烧 多人打过疫苗也中招？官方避提</a></li>
 <li><a href="/bannedvideo/20210526/1554277.md">陈破空：习近平不退，得罪所有六零后！胡春华上书。陈敏尔沮丧。习媒暗示：有望接班的是另一人</a></li>
 <li><a href="/cnnews/20210526/1554354.md">火星上惊现清晰“人形雕像”外星人曾建立的古文明遗迹？</a></li>
-<li><a href="/cbnews/20210526/1554175.md">海口政府没收80万辆摩托车 卖到非洲换取贵重木材？</a></li>
-<li><a href="/cnnews/20210527/1554712.md">神曲“我为祖国生二胎”走红 网友：有病吧？</a></li>
 <li><a href="/cbnews/20210527/1554765.md">孙大午庭上哭诉：全家被关 生不如死 咸菜都吃不上</a></li>
+<li><a href="/cnnews/20210527/1554712.md">神曲“我为祖国生二胎”走红 网友：有病吧？</a></li>
 <li><a href="/cbnews/20210527/1554582.md">开奔驰接儿被妈妈群组围剿“根本炫富”爸摇头：这误会大了</a></li>
 <li><a href="/cbnews/20210527/1554478.md">黑龙江东宁办公楼剧烈爆炸致8死4伤 传有雷管炸药</a></li>
 <li><a href="/comments/20210527/1554499.md">李克强唱白脸混日子 港媒：中共二十大他有两个去向</a></li>
-<li><a href="/lifebaike/20210527/1554555.md">“妈妈，我想再玩5分钟”，两种妈妈不同回答，成就孩子不同人生</a></li>
 <li><a href="/comments/20210526/1554186.md">谁曾是中共第二代领导人?谁才是真正的总设计师?</a></li>
+<li><a href="/lifebaike/20210527/1554555.md">“妈妈，我想再玩5分钟”，两种妈妈不同回答，成就孩子不同人生</a></li>
 <li><a href="/topimagenews/20210527/1554539.md">美X37B携核弹当太空轰炸机？25倍音速超难挡</a></li>
 <li><a href="/cbnews/20210527/1554536.md">中共前政法委书记罗干被举报给38国</a></li>
 <li><a href="/cnnews/20210527/1554614.md">甘肃死亡越野赛背后：一个新谎言</a></li>
+<li><a href="/baitai/20210526/1554222.md">69岁院士亲历甘肃死亡越野赛:救援队员要求终止比赛遭人为忽略</a></li>
+<li><a href="/cnnews/20210527/1554612.md">喜马拉雅山竟是“无根之山” 难道下面有秘密？</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210527/1554877.md" target="_blank">英国贸易大臣呼吁：英国绝不能依赖与中国的贸易</a></li>
+<li><a href="/comments/20210527/1554867.md" target="_blank">【罕见天象】5月26日晚超级大红月亮+月食！您看到奇景吗？）</a></li>
+<li><a href="/comments/20210527/1554862.md" target="_blank">一日 3 东区区议员辞职 陈嘉佑：宁愿磊落做人 傅佳琳：不愿被制度同化</a></li>
+<li><a href="/comments/20210527/1554859.md" target="_blank">梁振英再发文狙击 壹传媒今复牌 一度爆升逾 3 倍</a></li>
 <li><a href="/comments/20210527/1554857.md" target="_blank">【争特首】《01》：梁振英已向北京表达欲参选 张志刚再撰文斥林郑管治差</a></li>
 <li><a href="/comments/20210527/1554840.md" target="_blank">【独家】诗一首：《启 航》</a></li>
 <li><a href="/comments/20210527/1554839.md" target="_blank">【独家】诗一首：追</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210527/1554767.md" target="_blank">拜登下令情报界调查病毒起源 诡异做法引争议</a></li>
 <li><a href="/comments/20210527/1554734.md" target="_blank">陷不利传闻的刘鹤动作频频 与美贸易代表戴琪通话</a></li>
 <li><a href="/comments/20210527/1554728.md" target="_blank">石山：“躺平”对中共是个大威胁</a></li>
-<li><a href="/comments/20210527/1554727.md" target="_blank">颜纯钩：或走或留，请尊重每个人的选择</a></li>
-<li><a href="/comments/20210527/1554714.md" target="_blank">还班农清白！法官驳欺诈指控； 科技巨头捐300万助纽森抗罢免；90天交报告！拜登查毒源；亚马逊90亿收购米高梅；中共报复制裁美宗教自由领袖；五角大楼恐阿联酋向中共泄武器情报【#北美新闻 05/26】</a></li>
-<li><a href="/comments/20210527/1554711.md" target="_blank">名家分析：中共航母尚未构成大威胁</a></li>
-<li><a href="/comments/20210527/1554710.md" target="_blank">王赫：王毅旧调成破调 慕尼黑安全会议演讲真相</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
 <li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/comments/20210329/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
 <li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
 
 </ul>
 </div>
