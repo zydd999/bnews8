@@ -7,7 +7,6 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/topimagenews/20210526/1554119.md">二十大内斗：新华社重重打脸习近平！曝光中共最高机密 江系为权斗豁出去了</a></li>
 <li><a href="/comments/20210526/1554085.md">中共中办突发通知 再掀全民运动 习近平目的何在？</a></li>
-<li><a href="/cbnews/20210526/1554061.md">中南海面临大洗牌 李克强去向最受瞩</a></li>
 <li><a href="/cbnews/20210526/1554234.md">深圳5人感染变种病毒 全部接种过国产疫苗</a></li>
 <li><a href="/topimagenews/20210526/1554065.md">中国陷通胀危机！广东省爆关厂及减薪潮</a></li>
 <li><a href="/cbnews/20210526/1554193.md">中共外交系统明争暗斗 二十大“狼部长”能入局？</a></li>
@@ -17,17 +16,18 @@
 <li><a href="/comments/20210526/1554096.md">李燕铭：江泽民曾庆红政变进行时 习近平连遭死亡恐吓 习近平考察河南南阳后 河南南阳同日发生两件大案 习近平考察广西后 广西连发四起惨案</a></li>
 <li><a href="/cnnews/20210526/1554259.md">物价飙涨难倒李克强 中国掀关厂、减产、减薪潮</a></li>
 <li><a href="/cnnews/20210526/1554258.md">习近平替身啥标准？前常委罗干高危 亲历者披露7上将阻六四镇压内幕</a></li>
-<li><a href="/comments/20210526/1554057.md">中共太子党与官N代圈子揭秘：北京大院子弟的社会潜规则 大院子弟们在父辈无法无天精神的洗礼下 加上大院小社会的磨练 快速地融入社会成为中共国特色的腐败大军中一员……中南海不可告人的秘密_375</a></li>
-<li><a href="/cbnews/20210527/1554515.md">二十大李克强前途未卜 中共政协副主席或出黑马</a></li>
 <li><a href="/cbnews/20210527/1554596.md">浙江宁波天空惊现中国地图 但没包括台湾</a></li>
+<li><a href="/cbnews/20210527/1554515.md">二十大李克强前途未卜 中共政协副主席或出黑马</a></li>
+<li><a href="/cnnews/20210527/1554573.md">蒋介石无法抢救出境的大师们全部掉入人间地狱</a></li>
 <li><a href="/cbnews/20210526/1554175.md">海口政府没收80万辆摩托车 卖到非洲换取贵重木材？</a></li>
 <li><a href="/cnnews/20210526/1554354.md">火星上惊现清晰“人形雕像”外星人曾建立的古文明遗迹？</a></li>
 <li><a href="/bannedvideo/20210526/1554277.md">陈破空：习近平不退，得罪所有六零后！胡春华上书。陈敏尔沮丧。习媒暗示：有望接班的是另一人</a></li>
 <li><a href="/cbnews/20210527/1554478.md">黑龙江东宁办公楼剧烈爆炸致8死4伤 传有雷管炸药</a></li>
-<li><a href="/cnnews/20210527/1554573.md">蒋介石无法抢救出境的大师们全部掉入人间地狱</a></li>
 <li><a href="/cbnews/20210526/1554151.md">新冠病毒实验室外流之说再起 川普：我一开始就说对了</a></li>
+<li><a href="/cbnews/20210527/1554582.md">开奔驰接儿被妈妈群组围剿“根本炫富”爸摇头：这误会大了</a></li>
 <li><a href="/comments/20210527/1554499.md">李克强唱白脸混日子 港媒：中共二十大他有两个去向</a></li>
 <li><a href="/comments/20210526/1554094.md">甘肃死亡赛事惊动 习近平 死者家属拒签赔偿协议；缺席袁隆平悼念名单 中共前常委罗干 可能不妙？【希望之声TV-两岸要闻-2021/05/26】</a></li>
+<li><a href="/cbnews/20210526/1554081.md">网曝江西军用两栖坦克、登陆装甲车南下 网友：中共秀肌肉</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210527/1554768.md" target="_blank">据报叶傲冬将出任政制局副局长 月薪逾 20 万 前年区选下马后大翻身</a></li>
+<li><a href="/comments/20210527/1554767.md" target="_blank">拜登下令情报界调查病毒起源 诡异做法引争议</a></li>
 <li><a href="/comments/20210527/1554734.md" target="_blank">陷不利传闻的刘鹤动作频频 与美贸易代表戴琪通话</a></li>
 <li><a href="/comments/20210527/1554728.md" target="_blank">石山：“躺平”对中共是个大威胁</a></li>
 <li><a href="/comments/20210527/1554727.md" target="_blank">颜纯钩：或走或留，请尊重每个人的选择</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210527/1554626.md" target="_blank">“速度与激情”演员道歉，中美都不买账，后果很严重？美主流舆论聚焦实验室泄露，拜登要求情报部门调查</a></li>
 <li><a href="/comments/20210527/1554615.md" target="_blank">CNN揭拜登封川普病毒调查；世卫首发：53国发现印度变种病毒；欧盟出手 制裁白俄总统及88官员；众院立法抗衡中共 增强美国竞争力；罕见！月全食同现3种奇像【希望之声-每日头条-2021/05/26】</a></li>
 <li><a href="/comments/20210527/1554607.md" target="_blank">“我思故我在” 肉体和精神的双重存在才是你的本质</a></li>
-<li><a href="/comments/20210527/1554603.md" target="_blank">物价飙涨难倒李克强 中小企业悲叹：难以存活</a></li>
-<li><a href="/comments/20210527/1554601.md" target="_blank">防技术被盗窃 加拿大阿省叫停大学与中国合作</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
 <li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/comments/20210329/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
 
 </ul>
 </div>
