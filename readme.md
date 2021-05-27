@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cbnews/20210526/1554234.md">深圳5人感染变种病毒 全部接种过国产疫苗</a></li>
-<li><a href="/cbnews/20210526/1554193.md">中共外交系统明争暗斗 二十大“狼部长”能入局？</a></li>
 <li><a href="/cbnews/20210527/1554505.md">世卫小组报告现重大疑点！或可重返中国</a></li>
 <li><a href="/cbnews/20210527/1554596.md">浙江宁波天空惊现中国地图 但没包括台湾</a></li>
 <li><a href="/cnnews/20210526/1554259.md">物价飙涨难倒李克强 中国掀关厂、减产、减薪潮</a></li>
@@ -18,16 +17,17 @@
 <li><a href="/cnnews/20210526/1554354.md">火星上惊现清晰“人形雕像”外星人曾建立的古文明遗迹？</a></li>
 <li><a href="/cbnews/20210527/1554765.md">孙大午庭上哭诉：全家被关 生不如死 咸菜都吃不上</a></li>
 <li><a href="/cnnews/20210527/1554712.md">神曲“我为祖国生二胎”走红 网友：有病吧？</a></li>
-<li><a href="/cbnews/20210527/1554582.md">开奔驰接儿被妈妈群组围剿“根本炫富”爸摇头：这误会大了</a></li>
 <li><a href="/cbnews/20210527/1554478.md">黑龙江东宁办公楼剧烈爆炸致8死4伤 传有雷管炸药</a></li>
+<li><a href="/cbnews/20210527/1554582.md">开奔驰接儿被妈妈群组围剿“根本炫富”爸摇头：这误会大了</a></li>
 <li><a href="/comments/20210527/1554499.md">李克强唱白脸混日子 港媒：中共二十大他有两个去向</a></li>
-<li><a href="/comments/20210526/1554186.md">谁曾是中共第二代领导人?谁才是真正的总设计师?</a></li>
 <li><a href="/lifebaike/20210527/1554555.md">“妈妈，我想再玩5分钟”，两种妈妈不同回答，成就孩子不同人生</a></li>
+<li><a href="/cnnews/20210527/1554784.md">罕为人知！王思聪：比起朗朗那作秀和**的嘴脸 她的演奏不知高几个级别</a></li>
 <li><a href="/topimagenews/20210527/1554539.md">美X37B携核弹当太空轰炸机？25倍音速超难挡</a></li>
 <li><a href="/cbnews/20210527/1554536.md">中共前政法委书记罗干被举报给38国</a></li>
+<li><a href="/cnnews/20210527/1554612.md">喜马拉雅山竟是“无根之山” 难道下面有秘密？</a></li>
 <li><a href="/cnnews/20210527/1554614.md">甘肃死亡越野赛背后：一个新谎言</a></li>
 <li><a href="/baitai/20210526/1554222.md">69岁院士亲历甘肃死亡越野赛:救援队员要求终止比赛遭人为忽略</a></li>
-<li><a href="/cnnews/20210527/1554612.md">喜马拉雅山竟是“无根之山” 难道下面有秘密？</a></li>
+<li><a href="/yule/20210527/1554575.md">千年一遇美女！黑嘉嘉27岁生日“俏皮吐舌”美照曝光</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210527/1554886.md" target="_blank">讨债无门 受害人：丽水一公司官商勾结欺诈</a></li>
 <li><a href="/cbnews/20210527/1554792.md" target="_blank">分析：重庆公安局或有新一波大清洗</a></li>
 <li><a href="/cbnews/20210527/1554782.md" target="_blank">美媒：阿联酋与中共军事合作 或影响采购F35</a></li>
 <li><a href="/cbnews/20210527/1554781.md" target="_blank">广东“禁摩” 知情人曝被没收车辆的下落</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210527/1554596.md" target="_blank">浙江宁波天空惊现中国地图 但没包括台湾</a></li>
 <li><a href="/cbnews/20210527/1554582.md" target="_blank">开奔驰接儿被妈妈群组围剿“根本炫富”爸摇头：这误会大了</a></li>
 <li><a href="/cbnews/20210527/1554541.md" target="_blank">拜登下令情报界90天内出具明确病毒起源报告</a></li>
-<li><a href="/cbnews/20210527/1554540.md" target="_blank">冰雹雷电大风席卷13省 北京取消230航班</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210527/1554898.md" target="_blank">李燕铭：刘鹤与美贸易代表通话 胡春华一传闻落空 刘鹤国务院大秘罕见陪同孙春兰调研 国务院副秘书长密集调整 刘鹤大秘硕果仅存 孙春兰即将卸任副总理？刘鹤扩权二十大或进一步高升</a></li>
+<li><a href="/comments/20210527/1554897.md" target="_blank">李燕铭：陈敏尔二十大入常路不平坦 曾庆红郭声琨部署两政法马仔搅局 重庆公安系统人事大洗牌 常务副局长换人 原公安局政治部主任从官网消失 二十大前重庆官场还要出大事</a></li>
 <li><a href="/comments/20210527/1554877.md" target="_blank">英国贸易大臣呼吁：英国绝不能依赖与中国的贸易</a></li>
 <li><a href="/comments/20210527/1554867.md" target="_blank">【罕见天象】5月26日晚超级大红月亮+月食！您看到奇景吗？）</a></li>
 <li><a href="/comments/20210527/1554862.md" target="_blank">一日 3 东区区议员辞职 陈嘉佑：宁愿磊落做人 傅佳琳：不愿被制度同化</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210527/1554770.md" target="_blank">两个中国首富遭整肃 专家：原因只有一个</a></li>
 <li><a href="/comments/20210527/1554768.md" target="_blank">据报叶傲冬将出任政制局副局长 月薪逾 20 万 前年区选下马后大翻身</a></li>
 <li><a href="/comments/20210527/1554767.md" target="_blank">拜登下令情报界调查病毒起源 诡异做法引争议</a></li>
-<li><a href="/comments/20210527/1554734.md" target="_blank">陷不利传闻的刘鹤动作频频 与美贸易代表戴琪通话</a></li>
-<li><a href="/comments/20210527/1554728.md" target="_blank">石山：“躺平”对中共是个大威胁</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
 
 </ul>
 </div>
