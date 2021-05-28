@@ -6,28 +6,28 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cnnews/20210527/1554784.md">罕为人知！王思聪：比起朗朗那作秀和**的嘴脸 她的演奏不知高几个级别</a></li>
-<li><a href="/cnnews/20210527/1554904.md">广东省委、广州军区临近疫情爆发区 “当局如临大敌”</a></li>
 <li><a href="/bannedvideo/20210527/1554907.md">兔子急了也咬人李克强二十大前反击习近平? (2021年5月27日)</a></li>
-<li><a href="/topimagenews/20210527/1554774.md">白宫“亚洲沙皇”警告：美国与中国交往中的关系已结束 进入激烈竞争阶段</a></li>
+<li><a href="/cnnews/20210527/1554904.md">广东省委、广州军区临近疫情爆发区 “当局如临大敌”</a></li>
 <li><a href="/bannedvideo/20210527/1554953.md">陈破空：内幕交易惊人！习近平向团派提条件：若要胡春华接总理，李克强须裸退</a></li>
-<li><a href="/cnnews/20210528/1555174.md">云南辅警扫黄 趁机连奸2次卖淫女</a></li>
-<li><a href="/cnnews/20210527/1554934.md">网曝大量水陆两栖坦克登陆装甲车南下 鱼价飞上天 养猪业入寒冬 广东爆关厂及减薪潮</a></li>
-<li><a href="/cbnews/20210527/1554903.md">美国大亨游说遣返郭文贵 传被要求登记代理人</a></li>
 <li><a href="/cbnews/20210528/1555269.md">民企变国企 浙江女首富300亿身家恐被清零</a></li>
-<li><a href="/worldnews/20210527/1554776.md">担心被斩首？哈马斯领导人公开露面 手上抱着一个孩子</a></li>
+<li><a href="/cnnews/20210527/1554934.md">网曝大量水陆两栖坦克登陆装甲车南下 鱼价飞上天 养猪业入寒冬 广东爆关厂及减薪潮</a></li>
+<li><a href="/cnnews/20210528/1555174.md">云南辅警扫黄 趁机连奸2次卖淫女</a></li>
+<li><a href="/cbnews/20210527/1554903.md">美国大亨游说遣返郭文贵 传被要求登记代理人</a></li>
 <li><a href="/cnnews/20210528/1555279.md">当代“宰白鸭” 周永康父子掉包死囚</a></li>
 <li><a href="/cnnews/20210528/1555298.md">2只蜜蜂合力扭开汽水瓶盖 影片曝光网全吓翻</a></li>
 <li><a href="/comments/20210527/1555094.md">吴孟超、袁隆平去世后待遇大不同 原因是？</a></li>
-<li><a href="/cbnews/20210527/1554792.md">分析：重庆公安局或有新一波大清洗</a></li>
-<li><a href="/comments/20210527/1554897.md">李燕铭：陈敏尔二十大入常路不平坦 曾庆红郭声琨部署两政法马仔搅局 重庆公安系统人事大洗牌 常务副局长换人 原公安局政治部主任从官网消失 二十大前重庆官场还要出大事</a></li>
-<li><a href="/topimagenews/20210528/1555148.md">通胀真的是暂时？中国工厂产能紧张 全球面临更长时间缺货</a></li>
-<li><a href="/bannedvideo/20210527/1554908.md">网友：辽宁鞍山，住在公园附近的女子不堪公园内的噪音，跪求老人们，但是没一个人理会她</a></li>
 <li><a href="/lifebaike/20210528/1555276.md">爸爸和女儿关系再亲密，这些“雷区”不要碰，否则就是越界</a></li>
-<li><a href="/comments/20210527/1554770.md">两个中国首富遭整肃 专家：原因只有一个</a></li>
+<li><a href="/cbnews/20210527/1554792.md">分析：重庆公安局或有新一波大清洗</a></li>
+<li><a href="/topimagenews/20210528/1555148.md">通胀真的是暂时？中国工厂产能紧张 全球面临更长时间缺货</a></li>
+<li><a href="/comments/20210527/1554897.md">李燕铭：陈敏尔二十大入常路不平坦 曾庆红郭声琨部署两政法马仔搅局 重庆公安系统人事大洗牌 常务副局长换人 原公安局政治部主任从官网消失 二十大前重庆官场还要出大事</a></li>
+<li><a href="/bannedvideo/20210527/1554908.md">网友：辽宁鞍山，住在公园附近的女子不堪公园内的噪音，跪求老人们，但是没一个人理会她</a></li>
 <li><a href="/ssgc/20210527/1555056.md">甘肃夺命马拉松踢爆中国贫困真相</a></li>
 <li><a href="/bannedvideo/20210527/1554942.md">习近平权威面临考验，中南海权斗激化--天钧政经</a></li>
 <li><a href="/cnnews/20210528/1555221.md">Costco宣布停售这些热门商品！华人最爱也在列</a></li>
-<li><a href="/cnnews/20210527/1554769.md">广州深圳连爆变种病毒 有家庭祖孙三代染疫</a></li>
+<li><a href="/cnnews/20210528/1555222.md">老美有钱有闲象征新指针：跟客厅一样豪华的后院</a></li>
+<li><a href="/ccpdope/20210527/1554780.md">一起惨烈车祸不出意外的再次发生在中共国</a></li>
+<li><a href="/comments/20210528/1555146.md">“躺平”自救？深圳、东莞多家电子厂停工</a></li>
+<li><a href="/ssgc/20210527/1555070.md">新华网和央视篡改事实真相被逮现行</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210528/1555461.md" target="_blank">“白手套”徐翔即将出狱 传涉金融政变</a></li>
+<li><a href="/cbnews/20210528/1555460.md" target="_blank">牧羊人朱可铭不堪其扰：种地、放羊更踏实</a></li>
 <li><a href="/cbnews/20210528/1555453.md" target="_blank">美国调查病毒源头 中共战狼阴阳怪气</a></li>
 <li><a href="/cbnews/20210528/1555444.md" target="_blank">湖南省女子监狱非人酷刑：24小时罚站 冬天坐水牢…</a></li>
 <li><a href="/cbnews/20210528/1555435.md" target="_blank">广州打疫苗混乱惊呆海外网友 现场有人打完即倒地</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/comments/20210528/1555143.md" target="_blank">白宫“亚洲沙皇”发警告；阿联酋与中共军事合作 影响采购美战机；病毒泄漏说  左媒忙抹改阴谋论；宁波云彩也台独？哈马斯头目抱孩子另有目的？【希望之声TV-环球看点-2021/05/27】</a></li>
 <li><a href="/cbnews/20210527/1555092.md" target="_blank">长沙男想当老师 只考4分居然能进复审 网民不干了</a></li>
 <li><a href="/cbnews/20210527/1555091.md" target="_blank">南方街头运动践行者王默被判刑谢文飞被秘密开庭</a></li>
-<li><a href="/cbnews/20210527/1555060.md" target="_blank">胡锡进再放狂言：增加核弹吓坏美国 网友：别做梦</a></li>
-<li><a href="/comments/20210527/1554981.md" target="_blank">💥美通过修正案 禁资助武毒所及中国“增加功能”研究；蔡英文谴责中共阻台获疫苗；韩媒：东奥若流产 美将大力抵制北京冬奥；李克强唱白脸？中共二十大他的去向？【希望之声TV-两岸要闻-2021/05/26】</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
 <li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
 <li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
 
 </ul>
 </div>
