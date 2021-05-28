@@ -25,7 +25,7 @@
 <li><a href="/bannedvideo/20210527/1554942.md">习近平权威面临考验，中南海权斗激化--天钧政经</a></li>
 <li><a href="/cnnews/20210528/1555221.md">Costco宣布停售这些热门商品！华人最爱也在列</a></li>
 <li><a href="/cnnews/20210528/1555222.md">老美有钱有闲象征新指针：跟客厅一样豪华的后院</a></li>
-<li><a href="/ccpdope/20210527/1554780.md">一起惨烈车祸不出意外的再次发生在中共国</a></li>
+<li><a href="/lifebaike/20210528/1555278.md">父母在这4件事上越能忍，孩子长大后越有出息</a></li>
 <li><a href="/comments/20210528/1555146.md">“躺平”自救？深圳、东莞多家电子厂停工</a></li>
 <li><a href="/ssgc/20210527/1555070.md">新华网和央视篡改事实真相被逮现行</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210528/1555470.md" target="_blank">参观花博会 上海访民被关黑牢再遭刑拘</a></li>
+<li><a href="/comments/20210528/1555468.md" target="_blank">美驻华大使要出炉！对华“鹰派”人物登场；亚马逊创始人贝索斯卸任CEO；华人公司塞班岛虐待员工 美法院罚巨额赔偿【希望之声-午夜新闻-2021/05/2】</a></li>
 <li><a href="/cbnews/20210528/1555461.md" target="_blank">“白手套”徐翔即将出狱 传涉金融政变</a></li>
 <li><a href="/cbnews/20210528/1555460.md" target="_blank">牧羊人朱可铭不堪其扰：种地、放羊更踏实</a></li>
 <li><a href="/cbnews/20210528/1555453.md" target="_blank">美国调查病毒源头 中共战狼阴阳怪气</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/cbnews/20210528/1555241.md" target="_blank">长沙教师招聘 男考生4分进复审 网民热议</a></li>
 <li><a href="/cbnews/20210528/1555192.md" target="_blank">手机监控跟踪 法轮功学员遭集体绑架</a></li>
 <li><a href="/comments/20210528/1555143.md" target="_blank">白宫“亚洲沙皇”发警告；阿联酋与中共军事合作 影响采购美战机；病毒泄漏说  左媒忙抹改阴谋论；宁波云彩也台独？哈马斯头目抱孩子另有目的？【希望之声TV-环球看点-2021/05/27】</a></li>
-<li><a href="/cbnews/20210527/1555092.md" target="_blank">长沙男想当老师 只考4分居然能进复审 网民不干了</a></li>
-<li><a href="/cbnews/20210527/1555091.md" target="_blank">南方街头运动践行者王默被判刑谢文飞被秘密开庭</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210528/1555468.md" target="_blank">美驻华大使要出炉！对华“鹰派”人物登场；亚马逊创始人贝索斯卸任CEO；华人公司塞班岛虐待员工 美法院罚巨额赔偿【希望之声-午夜新闻-2021/05/2】</a></li>
+<li><a href="/comments/20210528/1555467.md" target="_blank">【笑看世界专栏】专题片：共产主义的终极目的 中国篇第1-6章</a></li>
 <li><a href="/comments/20210528/1555452.md" target="_blank">二十大前人事大洗牌 5省6副省长同日履新 2名副省长去职</a></li>
 <li><a href="/comments/20210528/1555451.md" target="_blank">亚特兰蒂斯：一个高度文明的国度，24小时内葬身海底之谜</a></li>
 <li><a href="/comments/20210528/1555450.md" target="_blank">局势大变 中共高呼高烈度对抗将至！美国会速推制裁：不开放武毒所不解除</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210528/1555383.md" target="_blank">饶桐语：外卖 10 秒出餐的奥秘</a></li>
 <li><a href="/comments/20210528/1555377.md" target="_blank">宇宙是“虚拟”的3个重要线索</a></li>
 <li><a href="/comments/20210528/1555374.md" target="_blank">政法官员全家退党: “我们上共产党的当了&quot;</a></li>
-<li><a href="/comments/20210528/1555363.md" target="_blank">张杰：直面“八九六四”的三个敏感问题 颜色革命一般具有七个条件</a></li>
-<li><a href="/comments/20210528/1555352.md" target="_blank">欧美首次高层对话踩中共多条红线</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
 <li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
-<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
 
 </ul>
 </div>
