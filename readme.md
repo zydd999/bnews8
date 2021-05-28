@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/topimagenews/20210528/1555477.md">前所未有！痛批习近平 大外宣用了这个词！中共内斗白热化【阿波罗网报道】</a></li>
-<li><a href="/cnnews/20210528/1555298.md">2只蜜蜂合力扭开汽水瓶盖 影片曝光网全吓翻</a></li>
 <li><a href="/cbnews/20210528/1555435.md">广州打疫苗混乱惊呆海外网友 现场有人打完即倒地</a></li>
 <li><a href="/cbnews/20210528/1555416.md">二十大前重庆人事大洗牌 陈敏尔被传调离</a></li>
 <li><a href="/comments/20210528/1555337.md">承认人造病毒大科技转向？世卫推迟中国科兴疫苗使用授权;福西招认5年资助武汉病毒所;谁的新闻？超级血月引全球观星迷聚集；中共轰-20战机图？专家揭致命伤【希望之声-每日头条-2021/05/27】</a></li>
@@ -19,11 +18,12 @@
 <li><a href="/bannedvideo/20210528/1555580.md">美国军方逮捕了众议院情报委员会主席亚当-希夫  军方采用步态识别技术最终确认华盛顿的希夫是替身 真正的希夫独自在马里兰州的住所  军法署在5月中旬完成了调查并制定了逮捕希夫的计划</a></li>
 <li><a href="/comments/20210528/1555489.md">巨变中 武汉病毒所三篇未发布论文被披露 实验室事故假说再浮出水面</a></li>
 <li><a href="/cbnews/20210528/1555727.md">与中共二十大前的派系内斗有关？中共两大党媒对决</a></li>
-<li><a href="/bannedvideo/20210528/1555623.md">5月27日下午6点左右，深圳赛格大厦又开始摇晃了。现场很多人在拍摄，有人在说，“完了、完了，晃动了 ”，“哇塞，真的是不得了 ”</a></li>
 <li><a href="/cbnews/20210528/1555576.md">中国疫情再起 张文宏：先接种疫苗再考虑病毒变异</a></li>
+<li><a href="/bannedvideo/20210528/1555623.md">5月27日下午6点左右，深圳赛格大厦又开始摇晃了。现场很多人在拍摄，有人在说，“完了、完了，晃动了 ”，“哇塞，真的是不得了 ”</a></li>
 <li><a href="/cnnews/20210528/1555779.md">最新视频：九个UFO团团围住美军战舰</a></li>
 <li><a href="/cnnews/20210528/1555579.md">搬起石头砸了自己的脚 解冻中欧投资协议？北京求法国帮忙…</a></li>
 <li><a href="/cnnews/20210528/1555311.md">当心！新冠重症者往往还有这样的特征</a></li>
+<li><a href="/cbnews/20210529/1555892.md">中国湖北一家三口乱伦事件 大票中国网友直喊毁三观</a></li>
 <li><a href="/ssgc/20210528/1555353.md">〖兲朝浮世绘〗孙大午搞的社会主义把中共搞的社会主义比下去了，中共能放过他？</a></li>
 <li><a href="/cbnews/20210528/1555606.md">网易互娱员工发不雅招聘讯息被开除 网民：网易招聘不是第一次这么干了</a></li>
 <li><a href="/comments/20210528/1555430.md">陶杰：毛泽东文革须先要有一个刘少奇 当下二次文革刘少奇在哪</a></li>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210529/1555952.md" target="_blank">欧中投资协定遭冻结 中共求助法国遭拒</a></li>
+<li><a href="/comments/20210529/1555951.md" target="_blank">万花丛中过真能片叶不沾身吗？</a></li>
+<li><a href="/comments/20210529/1555950.md" target="_blank">世界上八个着名城市的昵称之由来</a></li>
 <li><a href="/comments/20210529/1555942.md" target="_blank">美媒揭露：中共军方窃取美国科技始于90年代</a></li>
 <li><a href="/comments/20210529/1555941.md" target="_blank">令人惊叹的俄罗斯皇家彩蛋 珠宝界中的非凡明星</a></li>
 <li><a href="/comments/20210529/1555929.md" target="_blank">防堵北京疫苗外交 布林肯下周访问中美洲</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210529/1555831.md" target="_blank">最强“内卷”？清华毕业生做保姆</a></li>
 <li><a href="/comments/20210529/1555821.md" target="_blank">续命中欧协议？法国：没门！心虚？黑命贵创始人辞职；双面统战流产 台湾3千万疫苗到手；金正恩“时尚警察”谁时髦逮谁；街道逼打疫苗 惊见全民监控【希望之声TV-环球看点-2021/05/28】</a></li>
 <li><a href="/comments/20210529/1555812.md" target="_blank">二十大前 重庆人事大洗牌 传习亲信陈敏尔进京高升</a></li>
-<li><a href="/comments/20210529/1555811.md" target="_blank">【宁静《大舞台》】 精准预言：2021神的惩罚正在降临</a></li>
-<li><a href="/comments/20210529/1555797.md" target="_blank">【六四 32 周年】陶君行指张文光 3 月曾建议解散支联会 常委卢伟明称没有讨论过</a></li>
-<li><a href="/comments/20210529/1555796.md" target="_blank">【监狱热爆】 单仲偕忆还柙岁月 热到双臂生热疹只穿内裤睡觉 已有失区议会议席心理准备</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
 <li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
 
 </ul>
 </div>
