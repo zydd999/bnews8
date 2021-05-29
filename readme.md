@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210530/1556411.md" target="_blank">驻华英国前外交官：中共政权外强中干</a></li>
+<li><a href="/cbnews/20210530/1556410.md" target="_blank">习近平强硬外交适得其反 中共正失去欧洲</a></li>
 <li><a href="/cbnews/20210530/1556397.md" target="_blank">美军用网上教学APP制作数码闪卡记机密内容 陷泄密风险</a></li>
 <li><a href="/cbnews/20210530/1556382.md" target="_blank">上海金山区中国石油化工厂爆炸 14人烧伤</a></li>
 <li><a href="/cbnews/20210529/1556330.md" target="_blank">越南发现新病毒株！印度与英国变异株混种可在空气中迅速传播</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/cbnews/20210529/1556100.md" target="_blank">前浙江省委书记胞弟 安徽省委政法委副书记兼“610”办公室主任车建军受审 受贿逾千万</a></li>
 <li><a href="/comments/20210529/1556098.md" target="_blank">美军高层证实了！美特种部队将协台抗共！美国防预算新增矛头直指中共！德国承认种体灭绝罪行！巨额赔偿纳米比亚【希望之声-午夜新闻-2021/05/28】</a></li>
 <li><a href="/cbnews/20210529/1556087.md" target="_blank">江峰：香港重判政治犯，六四烛光不再，怒火依然；美国会推抗中系列法案，重评习近平：非常讲意识形态，情感寡经济盲【江峰漫谈20210528第329期】</a></li>
-<li><a href="/cbnews/20210529/1556080.md" target="_blank">刘鹤让位不存在？美媒列胡春华抢他饭碗证据</a></li>
-<li><a href="/cbnews/20210529/1556079.md" target="_blank">分析：美中在朝鲜问题上出招较劲</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210530/1556408.md" target="_blank">习近平下令培养“大师” 35项“卡脖子”问题难解</a></li>
+<li><a href="/comments/20210530/1556407.md" target="_blank">悲！小学生厕所内自缢身亡 笔记本内容让人心碎</a></li>
 <li><a href="/comments/20210530/1556395.md" target="_blank">北京疫苗外交逼进美后院 布林肯将出访中美洲防堵</a></li>
 <li><a href="/comments/20210530/1556388.md" target="_blank">【热点互动】专访王琛：神韵特别节目网络首播带来惊喜</a></li>
 <li><a href="/comments/20210530/1556373.md" target="_blank">【中国文化简介】《中国石窟艺术》</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210529/1556231.md" target="_blank">远见：美追病毒来源5招出手 中共如何回应？</a></li>
 <li><a href="/comments/20210529/1556229.md" target="_blank">💥“芯片梦”再遇挫 日本关键材料断供；香港民主派十人遭重判；美禁止从一家中国渔业公司进口海鲜；209名议员联名要求佩洛西推动病毒起源调查；大陆多地限电【希望之声TV-两岸要闻-2021/05/29】</a></li>
 <li><a href="/comments/20210529/1556226.md" target="_blank">【六四 32 周年】六四游行集会上诉遭驳回 支联会︰立即停止宣传 不会以组织名义到维园</a></li>
-<li><a href="/comments/20210529/1556225.md" target="_blank">【六四 32 周年】支联会游行集会上诉遭驳回 保安局警告已属“未经批准集结” 警方：勿以身试法</a></li>
-<li><a href="/comments/20210529/1556224.md" target="_blank">连续 4 个月缺席区议会会议 政府宣布许智峯丧失议员资格 中西区一议席悬空</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/cbnews/20210331/1516754.md" target="_blank">被传销团伙围杀时 丈夫说了这句话脱险</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
 <li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
 
 </ul>
 </div>
