@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/bannedvideo/20210530/1556437.md">短短数天三起恶性事件，大连！郴州！南京！索多玛遍地张献忠，</a></li>
-<li><a href="/bannedvideo/20210530/1556398.md">席卷大陆的中国民间“躺平”运动是最大规模的不合作运动 是对中共暴政最有力的抵抗 正在颠覆中共“大国崛起”的美梦</a></li>
 <li><a href="/lifebaike/20210530/1556461.md">有钱就买德国车，没钱就买日本车？听内行人一分析，后悔没早知道</a></li>
 <li><a href="/comments/20210530/1556699.md">“躺平主义”的兴起是中国社会崩溃的前兆 — 曾节明</a></li>
 <li><a href="/cbnews/20210530/1556477.md">南京爆又一起报复社会事件 男子车碾前妻 刀捅路人</a></li>
@@ -18,8 +17,8 @@
 <li><a href="/cnnews/20210530/1556727.md">研究数据：几乎50%的中共病毒患者在离开医院时"情况更糟"【阿波罗网编译】</a></li>
 <li><a href="/health/20210530/1556489.md">45岁以上的人，别再做五种运动了，对肾脏的伤害真的很大</a></li>
 <li><a href="/cnnews/20210530/1556528.md">南京爆恶性事件 男子车碾前妻 刀捅路人</a></li>
-<li><a href="/bannedvideo/20210530/1556740.md">美俄勾兑，俄外长一再撇清与中国不是那种关系；抓住七寸，病毒起源让中共顿成人类公敌; 一旦报告结论获得公认，后果无法想象（20210530 第610期）</a></li>
 <li><a href="/bannedvideo/20210530/1556808.md">清华北大也躺平了躺平主义继续发酵，年轻人被逼只能站着不能躺平为啥，特斯拉被道歉风向突变，老兵街头要饭是另类躺平（小木谈天第152期 20210530）</a></li>
+<li><a href="/bannedvideo/20210530/1556740.md">美俄勾兑，俄外长一再撇清与中国不是那种关系；抓住七寸，病毒起源让中共顿成人类公敌; 一旦报告结论获得公认，后果无法想象（20210530 第610期）</a></li>
 <li><a href="/cbnews/20210530/1556744.md">广东再增13本土病例 民众曝“菜被抢光”</a></li>
 <li><a href="/cbnews/20210530/1556606.md">女司机崩溃大哭：我考了四个月啊！只因科目三考试被私家车恶意别停 考试失败</a></li>
 <li><a href="/worldnews/20210530/1556425.md">他曝中国疫苗评价：还要冒险吗</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/bannedvideo/20210530/1556757.md">陈破空：再传陈敏尔高升，重庆官场大乱！习近平厌倦了王沪宁。总理人选突现两匹黑马</a></li>
 <li><a href="/cnnews/20210530/1556683.md">爆炸性新闻：资深选举官员称乔州审计发现3万张不是真票【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20210530/1556410.md">习近平强硬外交适得其反 中共正失去欧洲</a></li>
+<li><a href="/cnnews/20210530/1556625.md">阎红彦之死 周恩来一席讲话让中共老干部绝望</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210531/1556923.md" target="_blank">若台海开战 美日“矛与盾”战略如何运作</a></li>
+<li><a href="/cbnews/20210531/1556922.md" target="_blank">青海果洛州2小时连发4地震 2次为4.9级</a></li>
 <li><a href="/comments/20210530/1556786.md" target="_blank">💥北京世卫大会转移焦点；蓬佩奥：早知武毒所有军方研究；未来技术学院将重蹈芯片烂尾覆辙？释放黎智英 记者组织促UN行动；金正恩向动物宣战；上海石化厂爆炸【希望之声TV-两岸要闻-2021/05/29】</a></li>
 <li><a href="/comments/20210530/1556699.md" target="_blank">“躺平主义”的兴起是中国社会崩溃的前兆 — 曾节明</a></li>
 <li><a href="/comments/20210530/1556760.md" target="_blank">最古老的神秘UFO事件。</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/comments/20210530/1556440.md" target="_blank">她是文艺复兴意大利第一美人，他是佛罗伦萨艺术代言人！只因为在人群中偷偷看了你一眼，就成为萦绕我心头一生的挂牵！爱你，就把你留在我的画里！【大话西油 姜光宇】(2021.05.29）</a></li>
 <li><a href="/cbnews/20210530/1556411.md" target="_blank">驻华英国前外交官：中共政权外强中干</a></li>
 <li><a href="/cbnews/20210530/1556410.md" target="_blank">习近平强硬外交适得其反 中共正失去欧洲</a></li>
-<li><a href="/cbnews/20210530/1556397.md" target="_blank">美军用网上教学APP制作数码闪卡记机密内容 陷泄密风险</a></li>
-<li><a href="/cbnews/20210530/1556382.md" target="_blank">上海金山区中国石油化工厂爆炸 14人烧伤</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210531/1556919.md" target="_blank">涉强迫劳动 大连一渔业公司产品被美海关扣押</a></li>
+<li><a href="/comments/20210531/1556918.md" target="_blank">滑稽：从“小平您好”的横幅到“小平您好 糊涂”</a></li>
 <li><a href="/comments/20210531/1556910.md" target="_blank">飘移的红海</a></li>
 <li><a href="/comments/20210531/1556909.md" target="_blank">【独家】周易看“躺平”二字有何玄机？</a></li>
 <li><a href="/comments/20210531/1556887.md" target="_blank">一场华丽的告别</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210530/1556810.md" target="_blank">乾燥症很难缠 及早就医是王道</a></li>
 <li><a href="/comments/20210530/1556809.md" target="_blank">怕把病毒带回家 医曝4大步骤买菜“绝对安全”</a></li>
 <li><a href="/comments/20210530/1556786.md" target="_blank">💥北京世卫大会转移焦点；蓬佩奥：早知武毒所有军方研究；未来技术学院将重蹈芯片烂尾覆辙？释放黎智英 记者组织促UN行动；金正恩向动物宣战；上海石化厂爆炸【希望之声TV-两岸要闻-2021/05/29】</a></li>
-<li><a href="/comments/20210530/1556699.md" target="_blank">“躺平主义”的兴起是中国社会崩溃的前兆 — 曾节明</a></li>
-<li><a href="/comments/20210530/1556764.md" target="_blank">两年后今日，我嘅暴动罪将会开审</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
 <li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
 <li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
 
 </ul>
 </div>
