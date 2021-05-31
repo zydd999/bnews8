@@ -7,24 +7,24 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/comments/20210530/1556699.md">“躺平主义”的兴起是中国社会崩溃的前兆 — 曾节明</a></li>
 <li><a href="/cbnews/20210530/1556632.md">深圳女子因衣着被当街辱骂“不知廉耻” 网友热议！【阿波罗网报道】</a></li>
-<li><a href="/comments/20210530/1556608.md">中共病毒源于实验室 欧洲学界曝爆炸性证据！美国会提剥夺中国主权豁免</a></li>
 <li><a href="/comments/20210530/1556633.md">惊！武毒所工作人员家属被曝死于特殊病毒 蓬佩奥：它涉及军事活动</a></li>
 <li><a href="/cnnews/20210530/1556727.md">研究数据：几乎50%的中共病毒患者在离开医院时"情况更糟"【阿波罗网编译】</a></li>
-<li><a href="/bannedvideo/20210530/1556808.md">清华北大也躺平了躺平主义继续发酵，年轻人被逼只能站着不能躺平为啥，特斯拉被道歉风向突变，老兵街头要饭是另类躺平（小木谈天第152期 20210530）</a></li>
 <li><a href="/comments/20210531/1556978.md">真相即将大白.中共以攻为守，大战一触即发</a></li>
-<li><a href="/bannedvideo/20210530/1556740.md">美俄勾兑，俄外长一再撇清与中国不是那种关系；抓住七寸，病毒起源让中共顿成人类公敌; 一旦报告结论获得公认，后果无法想象（20210530 第610期）</a></li>
+<li><a href="/bannedvideo/20210530/1556808.md">清华北大也躺平了躺平主义继续发酵，年轻人被逼只能站着不能躺平为啥，特斯拉被道歉风向突变，老兵街头要饭是另类躺平（小木谈天第152期 20210530）</a></li>
 <li><a href="/lifebaike/20210531/1556939.md">老祖宗忠告：“富不住大屋，穷不行远路”后2句更绝妙</a></li>
+<li><a href="/bannedvideo/20210530/1556740.md">美俄勾兑，俄外长一再撇清与中国不是那种关系；抓住七寸，病毒起源让中共顿成人类公敌; 一旦报告结论获得公认，后果无法想象（20210530 第610期）</a></li>
 <li><a href="/topimagenews/20210531/1556882.md">几近封城 明晚起离广州旅客须持核酸检测阴性证明</a></li>
 <li><a href="/comments/20210531/1556850.md">习近平遭身边人暗算？专家爆王沪宁给习挖了四个大坑</a></li>
 <li><a href="/cbnews/20210530/1556744.md">广东再增13本土病例 民众曝“菜被抢光”</a></li>
+<li><a href="/cbnews/20210531/1556936.md">现超强传播变种毒株 广州明晚“软封城”</a></li>
 <li><a href="/bannedvideo/20210530/1556757.md">陈破空：再传陈敏尔高升，重庆官场大乱！习近平厌倦了王沪宁。总理人选突现两匹黑马</a></li>
 <li><a href="/bannedvideo/20210530/1556736.md">中共洗脑教育。衡水十三中，安静的教室，突然激情澎湃，又迅速安静。</a></li>
-<li><a href="/cbnews/20210531/1556936.md">现超强传播变种毒株 广州明晚“软封城”</a></li>
+<li><a href="/bannedvideo/20210530/1556831.md">网友爆：今天（5月30日）广州万佳沙河服装批发市场被封了，现场一片混乱，人潮汹涌，所有人都要在市场内做完核酸检测才能出来。据网友传发现一个女的是红码，接触过确诊者</a></li>
 <li><a href="/baitai/20210530/1556751.md">【网络民议】豆瓣躺平组被炸了</a></li>
 <li><a href="/cnnews/20210530/1556625.md">阎红彦之死 周恩来一席讲话让中共老干部绝望</a></li>
-<li><a href="/bannedvideo/20210530/1556831.md">网友爆：今天（5月30日）广州万佳沙河服装批发市场被封了，现场一片混乱，人潮汹涌，所有人都要在市场内做完核酸检测才能出来。据网友传发现一个女的是红码，接触过确诊者</a></li>
 <li><a href="/cnnews/20210530/1556683.md">爆炸性新闻：资深选举官员称乔州审计发现3万张不是真票【阿波罗网编译】</a></li>
 <li><a href="/comments/20210531/1556918.md">滑稽：从“小平您好”的横幅到“小平您好 糊涂”</a></li>
+<li><a href="/ssgc/20210531/1556960.md">〖兲朝浮世绘〗欧洲新研究：中国科学家制造的病毒</a></li>
 <li><a href="/cnnews/20210530/1556671.md">美国宇航局发布惊人新照片：银河系中心有超级能量的"闹市"【阿波罗网编译】</a></li>
 <li><a href="/cnnews/20210530/1556752.md">古代没有指纹识别，为何还要按手印？</a></li>
 <li><a href="/cnnews/20210530/1556673.md">前国防部助理：UFO 有可能在我们发现他们之前 就发现了我们【阿波罗网编译】</a></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210531/1557132.md" target="_blank">希望破灭？中共打错了“算盘”…</a></li>
 <li><a href="/cbnews/20210531/1557099.md" target="_blank">美议员：中共一次次瞒疫 应予以经济惩罚</a></li>
 <li><a href="/cbnews/20210531/1557098.md" target="_blank">若中共犯台 何种条件下日本自卫队可参战</a></li>
 <li><a href="/cbnews/20210531/1557068.md" target="_blank">袁隆平悼念名单 大批中共高官选择隐形</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/comments/20210530/1556760.md" target="_blank">最古老的神秘UFO事件。</a></li>
 <li><a href="/cbnews/20210530/1556744.md" target="_blank">广东再增13本土病例 民众曝“菜被抢光”</a></li>
 <li><a href="/cbnews/20210530/1556661.md" target="_blank">美国特种部队官员敦促：美国要为台湾培训抵御&#8221;中共入侵&#8221;的军力【阿波罗网编译】</a></li>
-<li><a href="/cbnews/20210530/1556550.md" target="_blank">西方人学炼法轮功 坦然应对大瘟疫</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210531/1557130.md" target="_blank">【六四 32 周年】林耀强、中大前本土庄成员、区议员拍片：如果香港还有 6 月 4 日，我会坚持</a></li>
+<li><a href="/comments/20210531/1557129.md" target="_blank">病毒溯源90天 英情报机构因一考量出手助美 博明暗示中国内部人士</a></li>
 <li><a href="/comments/20210531/1557078.md" target="_blank">美前FDA局长：病毒来自湿货市场理论“已被推翻”</a></li>
 <li><a href="/comments/20210531/1557069.md" target="_blank">【独家】诗一首：《揭谜》</a></li>
 <li><a href="/comments/20210531/1557055.md" target="_blank">危险的首例！机器人主动追杀人类 联合国通报 细思极恐</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210531/1556953.md" target="_blank">【六四 32 周年】警指一人游行涉嫌非法集结拉人 称怀疑工会领袖曾犯罪引公安法截查</a></li>
 <li><a href="/comments/20210531/1556951.md" target="_blank">【独家】诗一首：《演 技 》</a></li>
 <li><a href="/comments/20210531/1556931.md" target="_blank">躺平运动之十二问答 躺平的四大理由 不愿做奴隶的年轻一代躺平 中南海惊恐！中南海不可告人的秘密_379</a></li>
-<li><a href="/comments/20210531/1556929.md" target="_blank">美海关查获3万条中国制假冒“防疫项链”</a></li>
-<li><a href="/comments/20210531/1556925.md" target="_blank">【视图】尖竹汶滨海美景：泰国最美的公路之一KungWiman沿海公路（独家）</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
-<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
 <li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
 
 </ul>
 </div>
