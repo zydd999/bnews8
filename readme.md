@@ -6,28 +6,28 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/comments/20210531/1556978.md">真相即将大白.中共以攻为守，大战一触即发</a></li>
-<li><a href="/bannedvideo/20210530/1556808.md">清华北大也躺平了躺平主义继续发酵，年轻人被逼只能站着不能躺平为啥，特斯拉被道歉风向突变，老兵街头要饭是另类躺平（小木谈天第152期 20210530）</a></li>
 <li><a href="/comments/20210531/1556850.md">习近平遭身边人暗算？专家爆王沪宁给习挖了四个大坑</a></li>
 <li><a href="/lifebaike/20210531/1556939.md">老祖宗忠告：“富不住大屋，穷不行远路”后2句更绝妙</a></li>
 <li><a href="/cbnews/20210531/1557015.md">拜登与习近平通电话 拜登透露内容</a></li>
 <li><a href="/cnnews/20210531/1557072.md">“这完全是疯了”！中共盯上了“世界上风险最大的项目”</a></li>
 <li><a href="/topimagenews/20210531/1556882.md">几近封城 明晚起离广州旅客须持核酸检测阴性证明</a></li>
+<li><a href="/topimagenews/20210531/1557253.md">习近平主持政治局会议：实施三孩生育政策 网友：婚都不结了，还生孩子？</a></li>
 <li><a href="/cbnews/20210531/1557057.md">天亮时分：20210530 胡锦涛的儿子，仕途凉了；六四前夕，陆媒突然大幅报道赵紫阳；高手过招，智慧的火花四溅（政论天下第432集 20210530）</a></li>
 <li><a href="/cbnews/20210531/1556936.md">现超强传播变种毒株 广州明晚“软封城”</a></li>
-<li><a href="/topimagenews/20210531/1557253.md">习近平主持政治局会议：实施三孩生育政策 网友：婚都不结了，还生孩子？</a></li>
+<li><a href="/bannedvideo/20210531/1557212.md">刚被捏住七寸，习近平立刻就怂了；呼吁中共官员勇敢揭露病毒真相，这将是阻击习近平二十大的最有力手段；广东人民冒雨抢打疫苗。一堂生动的社会学课（20210531 第611期）</a></li>
 <li><a href="/ssgc/20210531/1556960.md">〖兲朝浮世绘〗欧洲新研究：中国科学家制造的病毒</a></li>
 <li><a href="/comments/20210531/1557054.md">拜登首曝：习近平竟有此等野心</a></li>
 <li><a href="/comments/20210531/1556988.md">这一巴掌后果很严重！北京悍妇相雪秋报应来了！ 丈夫丢工作 自己要配合调查</a></li>
-<li><a href="/bannedvideo/20210531/1557212.md">刚被捏住七寸，习近平立刻就怂了；呼吁中共官员勇敢揭露病毒真相，这将是阻击习近平二十大的最有力手段；广东人民冒雨抢打疫苗。一堂生动的社会学课（20210531 第611期）</a></li>
 <li><a href="/cbnews/20210531/1557068.md">袁隆平悼念名单 大批中共高官选择隐形</a></li>
+<li><a href="/ssgc/20210531/1557224.md">政治局拍板落实三孩政策、延迟退休年龄</a></li>
 <li><a href="/worldnews/20210531/1556986.md">疑涉中国游客炫耀“平价”买春 伊朗警方调查</a></li>
 <li><a href="/bannedvideo/20210530/1556831.md">网友爆：今天（5月30日）广州万佳沙河服装批发市场被封了，现场一片混乱，人潮汹涌，所有人都要在市场内做完核酸检测才能出来。据网友传发现一个女的是红码，接触过确诊者</a></li>
 <li><a href="/comments/20210531/1556918.md">滑稽：从“小平您好”的横幅到“小平您好 糊涂”</a></li>
 <li><a href="/cbnews/20210531/1557132.md">希望破灭？中共打错了“算盘”…</a></li>
-<li><a href="/worldnews/20210531/1556900.md">中国女教师遭日本京都大学撤博士学位 建校史上首次</a></li>
 <li><a href="/cnnews/20210531/1557044.md">又在忽悠谁？钟南山放豪言“我从不指望国外” 网友嘲讽</a></li>
-<li><a href="/ssgc/20210531/1557224.md">政治局拍板落实三孩政策、延迟退休年龄</a></li>
+<li><a href="/worldnews/20210531/1556900.md">中国女教师遭日本京都大学撤博士学位 建校史上首次</a></li>
 <li><a href="/lifebaike/20210531/1556956.md">配置越高车就越好？车主：这三个配置“打死”不能要，费钱又鸡肋</a></li>
+<li><a href="/comments/20210531/1557143.md">中国空前老龄化的恐怖前景及中共最后的挣扎 — 曾节明</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20210331/1516754.md" target="_blank">被传销团伙围杀时 丈夫说了这句话脱险</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20210329/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
 <li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
 
 </ul>
 </div>
