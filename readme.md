@@ -7,7 +7,6 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/comments/20210531/1556978.md">真相即将大白.中共以攻为守，大战一触即发</a></li>
 <li><a href="/cbnews/20210531/1557015.md">拜登与习近平通电话 拜登透露内容</a></li>
-<li><a href="/lifebaike/20210531/1556939.md">老祖宗忠告：“富不住大屋，穷不行远路”后2句更绝妙</a></li>
 <li><a href="/cnnews/20210531/1557072.md">“这完全是疯了”！中共盯上了“世界上风险最大的项目”</a></li>
 <li><a href="/topimagenews/20210531/1557253.md">习近平主持政治局会议：实施三孩生育政策 网友：婚都不结了，还生孩子？</a></li>
 <li><a href="/cbnews/20210531/1557057.md">天亮时分：20210530 胡锦涛的儿子，仕途凉了；六四前夕，陆媒突然大幅报道赵紫阳；高手过招，智慧的火花四溅（政论天下第432集 20210530）</a></li>
@@ -27,6 +26,7 @@
 <li><a href="/cbnews/20210531/1557230.md">应对人口老龄化 北京宣布：实施一夫妻三孩生育政策</a></li>
 <li><a href="/comments/20210531/1557143.md">中国空前老龄化的恐怖前景及中共最后的挣扎 — 曾节明</a></li>
 <li><a href="/cnnews/20210531/1557044.md">又在忽悠谁？钟南山放豪言“我从不指望国外” 网友嘲讽</a></li>
+<li><a href="/cbnews/20210531/1557449.md">三孩政策响应不？新华社民调结果被急删</a></li>
 <li><a href="/cbnews/20210531/1557170.md">蓬佩奥爆武汉实验室还在研究致命病毒</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -36,6 +36,9 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210601/1557639.md" target="_blank">专栏 | 夜话中南海：插足“洋务”活动频繁，胡春华抢了刘鹤的“饭碗”？</a></li>
+<li><a href="/cbnews/20210601/1557628.md" target="_blank">多省劝返滞留缅北人员的内情</a></li>
+<li><a href="/cbnews/20210601/1557627.md" target="_blank">三胎政策引反弹 民众：变相计生 一样残忍</a></li>
 <li><a href="/cbnews/20210601/1557604.md" target="_blank">跳广场舞被感染 佛山封区封楼</a></li>
 <li><a href="/cbnews/20210601/1557592.md" target="_blank">澳新关注香港新疆 要求彻查病毒 战狼跳脚</a></li>
 <li><a href="/cbnews/20210601/1557591.md" target="_blank">深广超强变异毒株引恐慌 5天1亿人接种疫苗</a></li>
@@ -58,9 +61,6 @@
 <li><a href="/comments/20210531/1557354.md" target="_blank">美国华裔科学家郑颂国，借中共大使馆安排的包机金蝉脱壳，却被FBI请君入瓮，人赃俱获。今年5月，郑颂国被判刑，并罚款近400万美元。</a></li>
 <li><a href="/cbnews/20210531/1557314.md" target="_blank">民企“活着难，死也难” “七普”数据揭示中共新疆种族灭绝新证据</a></li>
 <li><a href="/cbnews/20210531/1557298.md" target="_blank">原贵州大学教授杨绍政失联 恐被拘留</a></li>
-<li><a href="/cbnews/20210531/1557297.md" target="_blank">小姑生男孩 家人高兴 护士感叹…</a></li>
-<li><a href="/cbnews/20210531/1557296.md" target="_blank">陕西咸阳20天发现两次金钱豹 引民众担忧</a></li>
-<li><a href="/cbnews/20210531/1557295.md" target="_blank">《1921》演员阵容丑闻多 中共陷两难</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
 <li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
+<li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
 
 </ul>
 </div>
