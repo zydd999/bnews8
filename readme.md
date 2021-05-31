@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/lifebaike/20210530/1556461.md">有钱就买德国车，没钱就买日本车？听内行人一分析，后悔没早知道</a></li>
 <li><a href="/comments/20210530/1556699.md">“躺平主义”的兴起是中国社会崩溃的前兆 — 曾节明</a></li>
 <li><a href="/cbnews/20210530/1556477.md">南京爆又一起报复社会事件 男子车碾前妻 刀捅路人</a></li>
 <li><a href="/cbnews/20210530/1556632.md">深圳女子因衣着被当街辱骂“不知廉耻” 网友热议！【阿波罗网报道】</a></li>
@@ -17,8 +16,8 @@
 <li><a href="/bannedvideo/20210530/1556808.md">清华北大也躺平了躺平主义继续发酵，年轻人被逼只能站着不能躺平为啥，特斯拉被道歉风向突变，老兵街头要饭是另类躺平（小木谈天第152期 20210530）</a></li>
 <li><a href="/cnnews/20210530/1556528.md">南京爆恶性事件 男子车碾前妻 刀捅路人</a></li>
 <li><a href="/bannedvideo/20210530/1556740.md">美俄勾兑，俄外长一再撇清与中国不是那种关系；抓住七寸，病毒起源让中共顿成人类公敌; 一旦报告结论获得公认，后果无法想象（20210530 第610期）</a></li>
-<li><a href="/cbnews/20210530/1556744.md">广东再增13本土病例 民众曝“菜被抢光”</a></li>
 <li><a href="/topimagenews/20210531/1556882.md">几近封城 明晚起离广州旅客须持核酸检测阴性证明</a></li>
+<li><a href="/cbnews/20210530/1556744.md">广东再增13本土病例 民众曝“菜被抢光”</a></li>
 <li><a href="/cbnews/20210530/1556606.md">女司机崩溃大哭：我考了四个月啊！只因科目三考试被私家车恶意别停 考试失败</a></li>
 <li><a href="/comments/20210531/1556850.md">习近平遭身边人暗算？专家爆王沪宁给习挖了四个大坑</a></li>
 <li><a href="/bannedvideo/20210530/1556736.md">中共洗脑教育。衡水十三中，安静的教室，突然激情澎湃，又迅速安静。</a></li>
@@ -27,6 +26,7 @@
 <li><a href="/cnnews/20210530/1556625.md">阎红彦之死 周恩来一席讲话让中共老干部绝望</a></li>
 <li><a href="/baitai/20210530/1556751.md">【网络民议】豆瓣躺平组被炸了</a></li>
 <li><a href="/cbnews/20210530/1556552.md">广东佛山禅城区核酸检测 居民打起来了 疫苗却停了</a></li>
+<li><a href="/bannedvideo/20210530/1556831.md">网友爆：今天（5月30日）广州万佳沙河服装批发市场被封了，现场一片混乱，人潮汹涌，所有人都要在市场内做完核酸检测才能出来。据网友传发现一个女的是红码，接触过确诊者</a></li>
 <li><a href="/cnnews/20210530/1556671.md">美国宇航局发布惊人新照片：银河系中心有超级能量的"闹市"【阿波罗网编译】</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210531/1556989.md" target="_blank">佛州演唱会爆发枪案；云南大象群逃出保护园；四川眉山市现地震云 形状特异；谋划已久 共军渗透美国三十余年；医院强制打疫苗 117员工不甘当“白鼠”【希望之声TV-每日头条-2021/05/30】</a></li>
 <li><a href="/cbnews/20210531/1556985.md" target="_blank">中共拉拢中东欧失败 形象变得更糟</a></li>
 <li><a href="/cbnews/20210531/1556981.md" target="_blank">中海警船再入钓鱼岛海域 日提案“自卫型”动武</a></li>
 <li><a href="/comments/20210531/1556978.md" target="_blank">真相即将大白.中共以攻为守，大战一触即发</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/comments/20210530/1556558.md" target="_blank">【杰森视角】CNN遭报应！关键时刻，一个星期CNN遭遇两个坏消息！ 现在CNN还值多少钱？</a></li>
 <li><a href="/cbnews/20210530/1556552.md" target="_blank">广东佛山禅城区核酸检测 居民打起来了 疫苗却停了</a></li>
 <li><a href="/cbnews/20210530/1556507.md" target="_blank">“小地主”的家长们：这是什么样的童年和记忆</a></li>
-<li><a href="/cbnews/20210530/1556506.md" target="_blank">跨度近30年《柳叶刀》研究曾痛批中餐：三大杀手</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210531/1556989.md" target="_blank">佛州演唱会爆发枪案；云南大象群逃出保护园；四川眉山市现地震云 形状特异；谋划已久 共军渗透美国三十余年；医院强制打疫苗 117员工不甘当“白鼠”【希望之声TV-每日头条-2021/05/30】</a></li>
+<li><a href="/comments/20210531/1556988.md" target="_blank">这一巴掌后果很严重！北京悍妇相雪秋报应来了！ 丈夫丢工作 自己要配合调查</a></li>
+<li><a href="/comments/20210531/1556987.md" target="_blank">新的非暴力不合作？中国人“躺平”火爆网路 当局慌忙喊停</a></li>
 <li><a href="/comments/20210531/1556984.md" target="_blank">躺平运动兴起的原因 一张图看懂 韭菜们的一生与十种死法 中南海不可告人的秘密_380</a></li>
 <li><a href="/comments/20210531/1556978.md" target="_blank">真相即将大白.中共以攻为守，大战一触即发</a></li>
 <li><a href="/comments/20210531/1556972.md" target="_blank">【独家】诗一首：《随笔》</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210531/1556869.md" target="_blank">宣扬日不落国威！英国将砸78亿打造新“国家旗舰”</a></li>
 <li><a href="/comments/20210531/1556855.md" target="_blank">法国专家：中共报导曾泄露疑似“零号病患”信息</a></li>
 <li><a href="/comments/20210531/1556852.md" target="_blank">望着空荡球场 我问警员：边度有非法集结？点解你怀疑我？</a></li>
-<li><a href="/comments/20210531/1556851.md" target="_blank">保密到家！英相约翰逊与未婚妻秘婚30人到场</a></li>
-<li><a href="/comments/20210531/1556850.md" target="_blank">习近平遭身边人暗算？专家爆王沪宁给习挖了四个大坑</a></li>
-<li><a href="/comments/20210531/1556849.md" target="_blank">上海石油化工厂爆炸 火焰窜数十米高14伤</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
 <li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
 
 </ul>
 </div>
