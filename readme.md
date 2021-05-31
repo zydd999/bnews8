@@ -6,28 +6,28 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/comments/20210530/1556699.md">“躺平主义”的兴起是中国社会崩溃的前兆 — 曾节明</a></li>
-<li><a href="/cbnews/20210530/1556632.md">深圳女子因衣着被当街辱骂“不知廉耻” 网友热议！【阿波罗网报道】</a></li>
 <li><a href="/comments/20210530/1556633.md">惊！武毒所工作人员家属被曝死于特殊病毒 蓬佩奥：它涉及军事活动</a></li>
 <li><a href="/comments/20210531/1556978.md">真相即将大白.中共以攻为守，大战一触即发</a></li>
 <li><a href="/cnnews/20210530/1556727.md">研究数据：几乎50%的中共病毒患者在离开医院时"情况更糟"【阿波罗网编译】</a></li>
 <li><a href="/bannedvideo/20210530/1556808.md">清华北大也躺平了躺平主义继续发酵，年轻人被逼只能站着不能躺平为啥，特斯拉被道歉风向突变，老兵街头要饭是另类躺平（小木谈天第152期 20210530）</a></li>
 <li><a href="/lifebaike/20210531/1556939.md">老祖宗忠告：“富不住大屋，穷不行远路”后2句更绝妙</a></li>
-<li><a href="/bannedvideo/20210530/1556740.md">美俄勾兑，俄外长一再撇清与中国不是那种关系；抓住七寸，病毒起源让中共顿成人类公敌; 一旦报告结论获得公认，后果无法想象（20210530 第610期）</a></li>
 <li><a href="/comments/20210531/1556850.md">习近平遭身边人暗算？专家爆王沪宁给习挖了四个大坑</a></li>
+<li><a href="/bannedvideo/20210530/1556740.md">美俄勾兑，俄外长一再撇清与中国不是那种关系；抓住七寸，病毒起源让中共顿成人类公敌; 一旦报告结论获得公认，后果无法想象（20210530 第610期）</a></li>
 <li><a href="/topimagenews/20210531/1556882.md">几近封城 明晚起离广州旅客须持核酸检测阴性证明</a></li>
 <li><a href="/cbnews/20210530/1556744.md">广东再增13本土病例 民众曝“菜被抢光”</a></li>
 <li><a href="/cbnews/20210531/1556936.md">现超强传播变种毒株 广州明晚“软封城”</a></li>
 <li><a href="/bannedvideo/20210530/1556757.md">陈破空：再传陈敏尔高升，重庆官场大乱！习近平厌倦了王沪宁。总理人选突现两匹黑马</a></li>
+<li><a href="/cbnews/20210531/1557015.md">拜登与习近平通电话 拜登透露内容</a></li>
 <li><a href="/bannedvideo/20210530/1556736.md">中共洗脑教育。衡水十三中，安静的教室，突然激情澎湃，又迅速安静。</a></li>
 <li><a href="/ssgc/20210531/1556960.md">〖兲朝浮世绘〗欧洲新研究：中国科学家制造的病毒</a></li>
 <li><a href="/bannedvideo/20210530/1556831.md">网友爆：今天（5月30日）广州万佳沙河服装批发市场被封了，现场一片混乱，人潮汹涌，所有人都要在市场内做完核酸检测才能出来。据网友传发现一个女的是红码，接触过确诊者</a></li>
 <li><a href="/baitai/20210530/1556751.md">【网络民议】豆瓣躺平组被炸了</a></li>
 <li><a href="/cnnews/20210530/1556683.md">爆炸性新闻：资深选举官员称乔州审计发现3万张不是真票【阿波罗网编译】</a></li>
-<li><a href="/cbnews/20210531/1557015.md">拜登与习近平通电话 拜登透露内容</a></li>
 <li><a href="/comments/20210531/1556918.md">滑稽：从“小平您好”的横幅到“小平您好 糊涂”</a></li>
 <li><a href="/cnnews/20210530/1556671.md">美国宇航局发布惊人新照片：银河系中心有超级能量的"闹市"【阿波罗网编译】</a></li>
 <li><a href="/cnnews/20210530/1556752.md">古代没有指纹识别，为何还要按手印？</a></li>
 <li><a href="/lifebaike/20210531/1556956.md">配置越高车就越好？车主：这三个配置“打死”不能要，费钱又鸡肋</a></li>
+<li><a href="/worldnews/20210531/1556900.md">中国女教师遭日本京都大学撤博士学位 建校史上首次</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
 <li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/comments/20210329/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
 
 </ul>
 </div>
