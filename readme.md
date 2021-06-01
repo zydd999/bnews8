@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/topimagenews/20210531/1557253.md">习近平主持政治局会议：实施三孩生育政策 网友：婚都不结了，还生孩子？</a></li>
 <li><a href="/bannedvideo/20210531/1557255.md">(必看)广州此地无银三百两你懂的 (2021年5月31日)</a></li>
 <li><a href="/cbnews/20210531/1557397.md">传乌鲁木齐至广州列车员都全副武装</a></li>
 <li><a href="/baitai/20210531/1557353.md">【图说天朝】三孩生育政策来了，微信朋友圈已成段子海洋</a></li>
@@ -20,14 +19,15 @@
 <li><a href="/comments/20210601/1557780.md">陈敏尔奉旨进京，习近平大动作接下来要动谁？三朝国师位置不保，红朝内斗波涛暗汹涌。│#熊猫侠</a></li>
 <li><a href="/yule/20210601/1557597.md">章子怡怒批张一山不会演戏 他的回复堪比教科书</a></li>
 <li><a href="/comments/20210601/1557555.md">习近平政治局定三孩政策 遭遇躺平运动 网络炸锅骂声一片 新华社紧急关闭评论区</a></li>
-<li><a href="/topimagenews/20210601/1557763.md">通膨恐弄死美国经济？中共狂下金牌令 谢金河揭背后蹊跷</a></li>
 <li><a href="/cbnews/20210601/1557835.md">北京突现异常 超级病毒出现 全球疫情风暴将至？</a></li>
+<li><a href="/topimagenews/20210601/1557763.md">通膨恐弄死美国经济？中共狂下金牌令 谢金河揭背后蹊跷</a></li>
 <li><a href="/cnnews/20210601/1557617.md">荒唐！中共政治局会议决定生几孩？</a></li>
 <li><a href="/ssgc/20210601/1557783.md">〖兲朝浮世绘〗中国大陆医生：共产党一年杀掉你们十几万人</a></li>
 <li><a href="/cbnews/20210601/1557529.md">三孩政策引爆网络官媒关闭评论 网友指中共须为计生道歉</a></li>
 <li><a href="/headline/20210531/1557272.md">为时已晚？中国宣布允许一家生三胎</a></li>
 <li><a href="/cbnews/20210601/1557500.md">5大危机 让中国推“三孩”政策</a></li>
 <li><a href="/cnnews/20210601/1557614.md">鲍威尔说：川普“可以简单地复职”</a></li>
+<li><a href="/cnnews/20210601/1557691.md">近2亿独生子女面临的困境，已经来临</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210601/1557945.md" target="_blank">披露News Break与中共凤凰卫视股权关系</a></li>
+<li><a href="/cbnews/20210601/1557944.md" target="_blank">牛腾宇等人被秘密转送监狱 家长询问地点无果</a></li>
 <li><a href="/cbnews/20210601/1557932.md" target="_blank">中共建党百周年 访民被驱离北京</a></li>
 <li><a href="/cbnews/20210601/1557915.md" target="_blank">中共三孩政策引骂声一片 网民：一个都不想生</a></li>
 <li><a href="/cbnews/20210601/1557866.md" target="_blank">俄军事分析家撰文打脸中共：中美航母大战 美方将获胜！【阿波罗网编译】</a></li>
@@ -59,14 +61,13 @@
 <li><a href="/comments/20210601/1557675.md" target="_blank">习近平欲玉石俱焚一战.解放军能否不辱使命</a></li>
 <li><a href="/cbnews/20210601/1557672.md" target="_blank">亲共前总理反水？称西方联合起来抗共</a></li>
 <li><a href="/cbnews/20210601/1557671.md" target="_blank">霸王硬上弓！统一台湾 中共开始搞这事</a></li>
-<li><a href="/cbnews/20210601/1557664.md" target="_blank">澳洲总理：中共试图离间澳大利亚和新西兰</a></li>
-<li><a href="/cbnews/20210601/1557663.md" target="_blank">文昭：火力齐开的目标：换掉习近平？内外呼应进行中；给拜登献计「定点打击」的人是谁？</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20210601/1557942.md" target="_blank">江泽民派系敲打习近平？还要其能上能下？ 【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20210601/1557763.md" target="_blank">通膨恐弄死美国经济？中共狂下金牌令 谢金河揭背后蹊跷</a></li>
 <li><a href="/topimagenews/20210601/1557490.md" target="_blank">美国经济复苏的新难题！零售商预告加价 汽车保费飙升…</a></li>
 <li><a href="/topimagenews/20210531/1557253.md" target="_blank">习近平主持政治局会议：实施三孩生育政策 网友：婚都不结了，还生孩子？</a></li>
@@ -91,7 +92,6 @@
 <li><a href="/topimagenews/20210526/1553823.md" target="_blank">美中前景不明 中企来美上市突停</a></li>
 <li><a href="/topimagenews/20210526/1553805.md" target="_blank">密歇根州长餐厅群聚被抓包遭痛批“规定旨在约束别人，而不是自己” 道歉后解禁平众怒</a></li>
 <li><a href="/topimagenews/20210525/1553428.md" target="_blank">巧合？伊朗无人机工厂爆炸 炼油厂大火 【阿波罗网编译】</a></li>
-<li><a href="/topimagenews/20210525/1553330.md" target="_blank">释放强硬信号！内塔尼亚胡对摩萨德下令：你们的首要任务是…【阿波罗网编译】</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
 <li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
 <li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
 
 </ul>
 </div>
