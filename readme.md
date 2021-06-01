@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/cnnews/20210531/1557072.md">“这完全是疯了”！中共盯上了“世界上风险最大的项目”</a></li>
 <li><a href="/topimagenews/20210531/1557253.md">习近平主持政治局会议：实施三孩生育政策 网友：婚都不结了，还生孩子？</a></li>
 <li><a href="/bannedvideo/20210531/1557212.md">刚被捏住七寸，习近平立刻就怂了；呼吁中共官员勇敢揭露病毒真相，这将是阻击习近平二十大的最有力手段；广东人民冒雨抢打疫苗。一堂生动的社会学课（20210531 第611期）</a></li>
 <li><a href="/ssgc/20210531/1557224.md">政治局拍板落实三孩政策、延迟退休年龄</a></li>
@@ -21,13 +20,14 @@
 <li><a href="/cbnews/20210531/1557230.md">应对人口老龄化 北京宣布：实施一夫妻三孩生育政策</a></li>
 <li><a href="/comments/20210601/1557555.md">习近平政治局定三孩政策 遭遇躺平运动 网络炸锅骂声一片 新华社紧急关闭评论区</a></li>
 <li><a href="/comments/20210531/1557143.md">中国空前老龄化的恐怖前景及中共最后的挣扎 — 曾节明</a></li>
-<li><a href="/cbnews/20210601/1557529.md">三孩政策引爆网络官媒关闭评论 网友指中共须为计生道歉</a></li>
 <li><a href="/cnnews/20210601/1557613.md">华人女子被白人丈夫虐杀 录音曝光 不寒而栗</a></li>
+<li><a href="/cbnews/20210601/1557529.md">三孩政策引爆网络官媒关闭评论 网友指中共须为计生道歉</a></li>
 <li><a href="/cbnews/20210531/1557170.md">蓬佩奥爆武汉实验室还在研究致命病毒</a></li>
-<li><a href="/headline/20210531/1557272.md">为时已晚？中国宣布允许一家生三胎</a></li>
-<li><a href="/bannedvideo/20210531/1557318.md">陈破空：如果下任总理是他，习近平已设计架空！副总理都将是习家军？某人搏命上位，带头吹捧</a></li>
-<li><a href="/cbnews/20210601/1557500.md">5大危机 让中国推“三孩”政策</a></li>
 <li><a href="/yule/20210601/1557597.md">章子怡怒批张一山不会演戏 他的回复堪比教科书</a></li>
+<li><a href="/headline/20210531/1557272.md">为时已晚？中国宣布允许一家生三胎</a></li>
+<li><a href="/cbnews/20210601/1557500.md">5大危机 让中国推“三孩”政策</a></li>
+<li><a href="/bannedvideo/20210531/1557318.md">陈破空：如果下任总理是他，习近平已设计架空！副总理都将是习家军？某人搏命上位，带头吹捧</a></li>
+<li><a href="/cnnews/20210531/1557156.md">南方供电吃紧 民怨沸腾 网友讥讽：抵制澳洲的煤炭，又砸自己的脚</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,9 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210601/1557792.md" target="_blank">蓬佩奥和保罗议员警告：武汉实验室仍在运作</a></li>
+<li><a href="/cbnews/20210601/1557791.md" target="_blank">中共监控无所不在 任何人都可能成为受害者</a></li>
+<li><a href="/cbnews/20210601/1557790.md" target="_blank">天亮时分：三孩政策未启动先触礁的三个理由；说说日本的鼓励生育政策和隋朝的均田制（政论天下第433集 20210531）</a></li>
 <li><a href="/cbnews/20210601/1557774.md" target="_blank">美对华政策现重大改变 学者：国际社会在反思</a></li>
 <li><a href="/cbnews/20210601/1557773.md" target="_blank">四川理塘野猪泛滥 一村支书遭袭击身亡</a></li>
 <li><a href="/comments/20210601/1557770.md" target="_blank">邓计生破产效应：中共权威整体倒塌进行时 — 曾节明</a></li>
@@ -58,9 +61,6 @@
 <li><a href="/cbnews/20210601/1557543.md" target="_blank">军舰杀手威风不再 超音速反舰弹被紫菀导弹拦截</a></li>
 <li><a href="/cbnews/20210601/1557542.md" target="_blank">广东创纪录“龙舟水” 山洪泥石流山体滑坡 损失惨重</a></li>
 <li><a href="/cbnews/20210601/1557531.md" target="_blank">日媒：习时代一最重要事件 在中国掀起惊涛骇浪</a></li>
-<li><a href="/cbnews/20210601/1557530.md" target="_blank">中国男子买“去除毒腺”眼镜蛇当宠物睡同床被咬 商家竟告知发错货</a></li>
-<li><a href="/cbnews/20210601/1557529.md" target="_blank">三孩政策引爆网络官媒关闭评论 网友指中共须为计生道歉</a></li>
-<li><a href="/comments/20210601/1557523.md" target="_blank">拜登也知习近平野心？美军传授台湾秘密战术；高层也割席 新西兰亲共议员辞职；以外长访埃及 13年来首次；地方当局插手 特斯拉在大陆前景堪忧【希望之声TV-环球看点-2021/05/31】</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,14 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210601/1557800.md" target="_blank">蓬佩奥与保罗参议员警告：武汉病毒所仍在运转</a></li>
+<li><a href="/comments/20210601/1557799.md" target="_blank">“六四事件”前江泽民究竟做了啥事这么害怕？</a></li>
+<li><a href="/comments/20210601/1557796.md" target="_blank">北京对台湾四种攻击方式被曝光，台湾虽是今日西柏林，台海稳定局势已成共识，台湾切勿不战自乱│#熊猫侠</a></li>
+<li><a href="/comments/20210601/1557795.md" target="_blank">【微博精粹】躺平 可能是静悄悄灭共的大招</a></li>
+<li><a href="/comments/20210601/1557788.md" target="_blank">【画缘】如何画樱桃？皇后与樱桃沟的由来</a></li>
+<li><a href="/comments/20210601/1557787.md" target="_blank">若台海开战 日本自卫队会出兵吗？</a></li>
+<li><a href="/comments/20210601/1557786.md" target="_blank">捕获率十亿分之一 两只极罕见龙虾幸免上餐桌</a></li>
+<li><a href="/comments/20210601/1557785.md" target="_blank">香港王婆婆独自游行被捕 罪名“非法集结”</a></li>
 <li><a href="/comments/20210601/1557782.md" target="_blank">五角大楼认证9飞碟视频属实 英前国防部官员表担忧</a></li>
 <li><a href="/comments/20210601/1557780.md" target="_blank">陈敏尔奉旨进京，习近平大动作接下来要动谁？三朝国师位置不保，红朝内斗波涛暗汹涌。│#熊猫侠</a></li>
 <li><a href="/comments/20210601/1557770.md" target="_blank">邓计生破产效应：中共权威整体倒塌进行时 — 曾节明</a></li>
@@ -115,14 +123,6 @@
 <li><a href="/comments/20210601/1557716.md" target="_blank">【随笔】金农</a></li>
 <li><a href="/comments/20210601/1557706.md" target="_blank">美国安顾问：确认病毒来源是可能的；谁偷了女王的串珠？王室珠宝失窃；澳洲总理：中共试图离间澳洲和新西兰；三孩政策重磅登场！新华社评论区翻车【希望之声-每日头条-2021/05/31】</a></li>
 <li><a href="/comments/20210601/1557705.md" target="_blank">【希望之声TV】东南亚疫情告急    UN警告：机器人杀人时代来临？【希望之声TV-新闻焦点解读-2021/05/31】 主持:高洁  嘉宾:林晓旭</a></li>
-<li><a href="/comments/20210601/1557696.md" target="_blank">又有大事要发生？绿光流星冲入印尼火山~</a></li>
-<li><a href="/comments/20210601/1557688.md" target="_blank">圆月弯刀：三胎放开了！农村的横幅该隆重登场了</a></li>
-<li><a href="/comments/20210601/1557685.md" target="_blank">中共开放三孩舆论炸锅，变相计划生育，网民炮轰“你们养吗”；民间以“躺平”拒合作</a></li>
-<li><a href="/comments/20210601/1557684.md" target="_blank">【六四32周年】维园烛光集会被禁 天安门母亲刊难属吴丽虹讲话：心里的苦没地方申诉</a></li>
-<li><a href="/comments/20210601/1557683.md" target="_blank">指甲出现横纹有可能感染了中共病毒</a></li>
-<li><a href="/comments/20210601/1557682.md" target="_blank">德媒：川普最先说的，大家却相信拜登</a></li>
-<li><a href="/comments/20210601/1557675.md" target="_blank">习近平欲玉石俱焚一战.解放军能否不辱使命</a></li>
-<li><a href="/comments/20210601/1557666.md" target="_blank">大陆官方公布疫情引恐慌 5天1亿人排长龙接种疫苗</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
 <li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
 
 </ul>
 </div>
