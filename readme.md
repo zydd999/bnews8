@@ -6,28 +6,28 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cbnews/20210531/1557397.md">传乌鲁木齐至广州列车员都全副武装</a></li>
-<li><a href="/baitai/20210531/1557353.md">【图说天朝】三孩生育政策来了，微信朋友圈已成段子海洋</a></li>
 <li><a href="/comments/20210601/1557521.md">超级病毒已现？疫苗失效？ 专家警告：全球恐引发更大疫情风暴</a></li>
 <li><a href="/cbnews/20210601/1557531.md">日媒：习时代一最重要事件 在中国掀起惊涛骇浪</a></li>
-<li><a href="/comments/20210531/1557354.md">美国华裔科学家郑颂国，借中共大使馆安排的包机金蝉脱壳，却被FBI请君入瓮，人赃俱获。今年5月，郑颂国被判刑，并罚款近400万美元。</a></li>
 <li><a href="/cbnews/20210531/1557449.md">三孩政策响应不？新华社民调结果被急删</a></li>
 <li><a href="/cbnews/20210601/1557835.md">北京突现异常 超级病毒出现 全球疫情风暴将至？</a></li>
-<li><a href="/cbnews/20210601/1557663.md">文昭：火力齐开的目标：换掉习近平？内外呼应进行中；给拜登献计「定点打击」的人是谁？</a></li>
 <li><a href="/comments/20210601/1557675.md">习近平欲玉石俱焚一战.解放军能否不辱使命</a></li>
+<li><a href="/cbnews/20210601/1557663.md">文昭：火力齐开的目标：换掉习近平？内外呼应进行中；给拜登献计「定点打击」的人是谁？</a></li>
 <li><a href="/cnnews/20210601/1557613.md">华人女子被白人丈夫虐杀 录音曝光 不寒而栗</a></li>
 <li><a href="/comments/20210601/1557780.md">陈敏尔奉旨进京，习近平大动作接下来要动谁？三朝国师位置不保，红朝内斗波涛暗汹涌。│#熊猫侠</a></li>
 <li><a href="/yule/20210601/1557597.md">章子怡怒批张一山不会演戏 他的回复堪比教科书</a></li>
-<li><a href="/topimagenews/20210601/1557763.md">通膨恐弄死美国经济？中共狂下金牌令 谢金河揭背后蹊跷</a></li>
 <li><a href="/comments/20210601/1557555.md">习近平政治局定三孩政策 遭遇躺平运动 网络炸锅骂声一片 新华社紧急关闭评论区</a></li>
+<li><a href="/topimagenews/20210601/1557763.md">通膨恐弄死美国经济？中共狂下金牌令 谢金河揭背后蹊跷</a></li>
 <li><a href="/ssgc/20210601/1557783.md">〖兲朝浮世绘〗中国大陆医生：共产党一年杀掉你们十几万人</a></li>
 <li><a href="/cnnews/20210601/1557617.md">荒唐！中共政治局会议决定生几孩？</a></li>
 <li><a href="/cbnews/20210601/1557529.md">三孩政策引爆网络官媒关闭评论 网友指中共须为计生道歉</a></li>
 <li><a href="/cnnews/20210601/1557727.md">6岁乞丐街头认出妈妈！她拒相认“别乱叫” 结局反转哭了</a></li>
 <li><a href="/cnnews/20210601/1557691.md">近2亿独生子女面临的困境，已经来临</a></li>
-<li><a href="/comments/20210601/1557830.md">江泽民两子两孙均是美国人 中南海正国级高官们的家属国籍揭秘 中南海不可告人的秘密_381</a></li>
 <li><a href="/cbnews/20210601/1557500.md">5大危机 让中国推“三孩”政策</a></li>
 <li><a href="/cnnews/20210601/1557614.md">鲍威尔说：川普“可以简单地复职”</a></li>
+<li><a href="/comments/20210601/1557830.md">江泽民两子两孙均是美国人 中南海正国级高官们的家属国籍揭秘 中南海不可告人的秘密_381</a></li>
 <li><a href="/worldnews/20210601/1557735.md">朝鲜工程师遭枪决 500人目睹 家人被逼站第一排</a></li>
+<li><a href="/topimagenews/20210601/1557942.md">江泽民派系敲打习近平？还要其能上能下？ 【阿波罗网报道】</a></li>
+<li><a href="/cbnews/20210601/1557836.md">疫情持续升温 广州急喊暂停疫苗社会接种</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210601/1558076.md" target="_blank">【林忌评论】疫苗接种率低 反映政府公信力</a></li>
+<li><a href="/comments/20210601/1558068.md" target="_blank">【支联会的战役．1】一个爱国组织的生与死：和理非、国际线、各区开花（1989 版）</a></li>
+<li><a href="/comments/20210601/1558065.md" target="_blank">政府急推电话卡实名制 9.1 起生效 迫切紧急情况 可无手令要电讯商交用户资料</a></li>
+<li><a href="/comments/20210601/1558062.md" target="_blank">人类的历史是众神安排的！（字幕版）</a></li>
 <li><a href="/comments/20210601/1558050.md" target="_blank">【被黄标】亚利桑那审计完成过半，准备增加项目，弄个水落石出。乔州再出怪事，仓库门竟然大开。宾州爱国者在行动。</a></li>
 <li><a href="/comments/20210601/1558017.md" target="_blank">阻止台海之战的釜底抽薪之策（第四部分）（中共命运的轨迹和人类前途  第二十讲）【袁红冰纵论天下】 06012021</a></li>
 <li><a href="/comments/20210601/1557978.md" target="_blank">放开三孩 微信群沸腾了 我已笑死 大家多保重</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210601/1557849.md" target="_blank">【戈壁东专栏】：花卉里的价值观</a></li>
 <li><a href="/comments/20210601/1557833.md" target="_blank">中共政治局下令生三孩 网友怒指：加速最猛的一脚</a></li>
 <li><a href="/comments/20210601/1557831.md" target="_blank">中共政法系大劫来临！习近平亲信喊话政法头目刀刃向内；捷克总理涉欺诈罪！警方要求起诉；美两党议员提案 制裁北京冬奥赞助商【希望之声-午夜新闻-2021/05/31】</a></li>
-<li><a href="/comments/20210601/1557830.md" target="_blank">江泽民两子两孙均是美国人 中南海正国级高官们的家属国籍揭秘 中南海不可告人的秘密_381</a></li>
-<li><a href="/comments/20210601/1557825.md" target="_blank">国家安全与历史教育有什么关系？ 历史及中国历史科“国安教育课程框架”逐点批驳</a></li>
-<li><a href="/comments/20210601/1557823.md" target="_blank">【摄影】《含苞待放》</a></li>
-<li><a href="/comments/20210601/1557822.md" target="_blank">【摄影】《白芍药》</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
 <li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
+<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
 <li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
 
 </ul>
 </div>
