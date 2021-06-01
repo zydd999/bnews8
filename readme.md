@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/bannedvideo/20210531/1557255.md">(必看)广州此地无银三百两你懂的 (2021年5月31日)</a></li>
 <li><a href="/cbnews/20210531/1557397.md">传乌鲁木齐至广州列车员都全副武装</a></li>
 <li><a href="/baitai/20210531/1557353.md">【图说天朝】三孩生育政策来了，微信朋友圈已成段子海洋</a></li>
 <li><a href="/comments/20210601/1557521.md">超级病毒已现？疫苗失效？ 专家警告：全球恐引发更大疫情风暴</a></li>
@@ -15,19 +14,20 @@
 <li><a href="/comments/20210601/1557675.md">习近平欲玉石俱焚一战.解放军能否不辱使命</a></li>
 <li><a href="/cbnews/20210601/1557663.md">文昭：火力齐开的目标：换掉习近平？内外呼应进行中；给拜登献计「定点打击」的人是谁？</a></li>
 <li><a href="/cnnews/20210601/1557613.md">华人女子被白人丈夫虐杀 录音曝光 不寒而栗</a></li>
-<li><a href="/cbnews/20210531/1557295.md">《1921》演员阵容丑闻多 中共陷两难</a></li>
 <li><a href="/comments/20210601/1557780.md">陈敏尔奉旨进京，习近平大动作接下来要动谁？三朝国师位置不保，红朝内斗波涛暗汹涌。│#熊猫侠</a></li>
+<li><a href="/cbnews/20210531/1557295.md">《1921》演员阵容丑闻多 中共陷两难</a></li>
+<li><a href="/cbnews/20210601/1557835.md">北京突现异常 超级病毒出现 全球疫情风暴将至？</a></li>
 <li><a href="/yule/20210601/1557597.md">章子怡怒批张一山不会演戏 他的回复堪比教科书</a></li>
 <li><a href="/comments/20210601/1557555.md">习近平政治局定三孩政策 遭遇躺平运动 网络炸锅骂声一片 新华社紧急关闭评论区</a></li>
-<li><a href="/cbnews/20210601/1557835.md">北京突现异常 超级病毒出现 全球疫情风暴将至？</a></li>
 <li><a href="/topimagenews/20210601/1557763.md">通膨恐弄死美国经济？中共狂下金牌令 谢金河揭背后蹊跷</a></li>
-<li><a href="/cnnews/20210601/1557617.md">荒唐！中共政治局会议决定生几孩？</a></li>
 <li><a href="/ssgc/20210601/1557783.md">〖兲朝浮世绘〗中国大陆医生：共产党一年杀掉你们十几万人</a></li>
+<li><a href="/cnnews/20210601/1557617.md">荒唐！中共政治局会议决定生几孩？</a></li>
 <li><a href="/cbnews/20210601/1557529.md">三孩政策引爆网络官媒关闭评论 网友指中共须为计生道歉</a></li>
 <li><a href="/headline/20210531/1557272.md">为时已晚？中国宣布允许一家生三胎</a></li>
 <li><a href="/cbnews/20210601/1557500.md">5大危机 让中国推“三孩”政策</a></li>
+<li><a href="/cnnews/20210601/1557727.md">6岁乞丐街头认出妈妈！她拒相认“别乱叫” 结局反转哭了</a></li>
+<li><a href="/bannedvideo/20210531/1557318.md">陈破空：如果下任总理是他，习近平已设计架空！副总理都将是习家军？某人搏命上位，带头吹捧</a></li>
 <li><a href="/cnnews/20210601/1557614.md">鲍威尔说：川普“可以简单地复职”</a></li>
-<li><a href="/cnnews/20210601/1557691.md">近2亿独生子女面临的困境，已经来临</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210601/1557956.md" target="_blank">佛山疫情封锁 政府不派食物</a></li>
 <li><a href="/cbnews/20210601/1557945.md" target="_blank">披露News Break与中共凤凰卫视股权关系</a></li>
 <li><a href="/cbnews/20210601/1557944.md" target="_blank">牛腾宇等人被秘密转送监狱 家长询问地点无果</a></li>
 <li><a href="/cbnews/20210601/1557932.md" target="_blank">中共建党百周年 访民被驱离北京</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/comments/20210601/1557685.md" target="_blank">中共开放三孩舆论炸锅，变相计划生育，网民炮轰“你们养吗”；民间以“躺平”拒合作</a></li>
 <li><a href="/comments/20210601/1557675.md" target="_blank">习近平欲玉石俱焚一战.解放军能否不辱使命</a></li>
 <li><a href="/cbnews/20210601/1557672.md" target="_blank">亲共前总理反水？称西方联合起来抗共</a></li>
-<li><a href="/cbnews/20210601/1557671.md" target="_blank">霸王硬上弓！统一台湾 中共开始搞这事</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
 <li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
 
 </ul>
 </div>
