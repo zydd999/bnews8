@@ -7,10 +7,9 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/bannedvideo/20210602/1558710.md">高干子弟签证被拒  惊动高层</a></li>
 <li><a href="/cbnews/20210602/1558616.md">广东确诊持续增加 北京亦传异常</a></li>
-<li><a href="/cnnews/20210602/1558489.md">习近平请“野生国师”给政治局委员上课 网友调侃</a></li>
 <li><a href="/bannedvideo/20210602/1558726.md">广东疫情失控，网民质疑当局掩盖真实疫情。网友多个视频显示：大街上空空荡荡；大量医疗团队进驻广州；荔湾区鹤洞大量公安车辆、警察封锁小区路口；广州有大楼被封闭工作人员守门不让外出</a></li>
-<li><a href="/cbnews/20210602/1558535.md">中共“四面楚歌” 习近平政治局提大外宣新要求 分析：无济于事</a></li>
 <li><a href="/cbnews/20210603/1559010.md">江泽民被公开羞辱？习当局“七一勋章”名单公示</a></li>
+<li><a href="/cbnews/20210602/1558535.md">中共“四面楚歌” 习近平政治局提大外宣新要求 分析：无济于事</a></li>
 <li><a href="/cbnews/20210602/1558544.md">中南海严防动乱 专家：“中国梦”快成噩梦</a></li>
 <li><a href="/bannedvideo/20210602/1558538.md">中国教授爆：每个家庭要生四个，否则很快中国人口只剩5亿，其中老人占4.5亿；强制生育专家支奇招：月经警察，限制出售避孕产品，人才啊！｜薇羽看世间 第310期 20210601</a></li>
 <li><a href="/bannedvideo/20210602/1558721.md">陈破空：果然，她和他闹翻！习近平跟全体太子党结仇。习家军抢占河南！事关前副主席。神秘人连升五级</a></li>
@@ -21,13 +20,14 @@
 <li><a href="/cnnews/20210602/1558678.md">大规模民调显示：67%的人希望川普2024年当选 彭斯得到0票支持【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20210602/1558579.md">习近平严管各级“一把手” 这个词用了126次！【阿波罗网报道】</a></li>
 <li><a href="/lifebaike/20210602/1558591.md">家中这3种东西千万不要借 借了家准败</a></li>
+<li><a href="/cnnews/20210603/1558889.md">中纪委24小时连打两虎</a></li>
 <li><a href="/lifebaike/20210602/1558703.md">为何打仗时不能射击跳伞的飞行员？</a></li>
 <li><a href="/comments/20210602/1558540.md">江泽民被公开羞辱？“七一勋章”名单公示 政治老人惨被这几人取代</a></li>
-<li><a href="/cnnews/20210603/1558889.md">中纪委24小时连打两虎</a></li>
+<li><a href="/cnnews/20210603/1559003.md">世卫动手了 中共病毒溯源要复查意大利早期样本</a></li>
+<li><a href="/bannedvideo/20210603/1559091.md">3000多封邮件，震惊全美，福奇博士涉嫌和中共、世卫一起掩盖真相？中共CDC主任高福、资助武汉病毒所合作增强型功能研究的专家都卷入！</a></li>
 <li><a href="/topimagenews/20210602/1558626.md">被传闻逼得？ 刘鹤公开露面空前活跃【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20210602/1558846.md">美专家：习近平的“中国梦”将成噩梦</a></li>
 <li><a href="/cnnews/20210602/1558688.md">“太长了，我读不懂"：福西博士无视物理学家 对中共病毒假数据的警告【阿波罗网编译】</a></li>
-<li><a href="/cnnews/20210603/1559003.md">世卫动手了 中共病毒溯源要复查意大利早期样本</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210603/1559241.md" target="_blank">确诊连日激增 广州半封城 物价暴涨疑官商勾结</a></li>
+<li><a href="/comments/20210603/1559240.md" target="_blank">五度传升官全落空 胡海峰又传调到这个位置</a></li>
+<li><a href="/comments/20210603/1559238.md" target="_blank">熊猫侠对话汤志敏，流泪的天安门作者。两代人的对话，走进陆④亲历者。│#熊猫侠</a></li>
+<li><a href="/comments/20210603/1559232.md" target="_blank">太空垃圾撞上国际空间站 机械臂撞出洞</a></li>
 <li><a href="/comments/20210603/1559222.md" target="_blank">一胎是底线 绝不跪下走父母的路</a></li>
 <li><a href="/comments/20210603/1559215.md" target="_blank">熊猫侠对话汤志敏，流泪的天安门作者。两代人的对话，走进64亲历者。│#熊猫侠</a></li>
 <li><a href="/comments/20210603/1559207.md" target="_blank">石山:美国文革的阴谋正在推动中</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210603/1559111.md" target="_blank">六四32周年香港维园还会烛光还能点燃么？【希望之声TV-新闻焦点解读-2021/06/02】 主持:高洁  嘉宾:秦鹏</a></li>
 <li><a href="/comments/20210603/1559101.md" target="_blank">刘鹤一周内与第二位美高官进行经济会谈</a></li>
 <li><a href="/comments/20210603/1559084.md" target="_blank">Chickeeduck 派蜡烛吁悼六四 职员：不怕国安“踩场” 顾客：当日将“黑衫黑裤周街行”</a></li>
-<li><a href="/comments/20210603/1559081.md" target="_blank">【戈壁东专栏】：夸大台湾疫情借疫苗作乱 是亲共内贼对民主台湾的攻击</a></li>
-<li><a href="/comments/20210603/1559077.md" target="_blank">【紫菱讲故事】她在神志不清的时，某些人到底对她做了什么？至今还是共国研究的禁区</a></li>
-<li><a href="/comments/20210603/1559076.md" target="_blank">尘封的六四照片：1989年5月天安门</a></li>
-<li><a href="/comments/20210603/1559075.md" target="_blank">以色列新当选总统创下以选举史上三项新记录</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
 <li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
 
 </ul>
 </div>
