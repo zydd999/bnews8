@@ -26,8 +26,8 @@
 <li><a href="/cnnews/20210604/1559743.md">世卫：越南发现的不是新变种…</a></li>
 <li><a href="/comments/20210604/1560223.md">福奇来源说再次改口。邮件曝光，与比尔·盖茨交往不寻常。川普总统声明，直接点到福奇软肋。白宫准备辞退福奇？</a></li>
 <li><a href="/cbnews/20210604/1559849.md">对韭当割，人生几何…躺平赋、躺平诗都出来了</a></li>
-<li><a href="/lifebaike/20210604/1559742.md">开十年不用修的5个汽车品牌</a></li>
 <li><a href="/comments/20210604/1560044.md">福奇促北京：交出武汉病毒所9个可疑人的医疗记录</a></li>
+<li><a href="/lifebaike/20210604/1559742.md">开十年不用修的5个汽车品牌</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210605/1560482.md" target="_blank">色厉内荏？党庆天安门要关一周；蓬佩奥爆 查武毒所遭内部激烈反对；福奇放厥词 川普要北京赔偿10万亿；全球粮价飙升十年最高；亚马逊黑五 网购狂欢开始【希望之声TV-环球看点-2021/6/4】</a></li>
 <li><a href="/cbnews/20210605/1560425.md" target="_blank">河北名校生演讲自称乡下土猪 立志拱大城市白菜”惹议</a></li>
 <li><a href="/cbnews/20210604/1560371.md" target="_blank">胡锡进为天安门大屠杀辩护 遭讽精神失常</a></li>
 <li><a href="/cbnews/20210604/1560370.md" target="_blank">参与访民证联署上海访民王兰英遭入室绑架</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210604/1560184.md" target="_blank">国家4Ａ级景区 重庆江津中山古镇失火3小时 木质房被烧毁</a></li>
 <li><a href="/cbnews/20210604/1560170.md" target="_blank">传网信办发文针对“六四”加强网络管控</a></li>
 <li><a href="/cbnews/20210604/1560157.md" target="_blank">广西18岁少女亲述在缅北60天恐怖遭遇图</a></li>
-<li><a href="/cbnews/20210604/1560144.md" target="_blank">讨好拍马 习近平“野生国师”张维为 曾捧薄熙来</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210605/1560487.md" target="_blank">不能与中国正常贸易 澳洲出口商转向其他市场</a></li>
+<li><a href="/comments/20210605/1560486.md" target="_blank">焦点对话: 六四32周年“世代对话” 周锋锁vs.洞物员</a></li>
+<li><a href="/comments/20210605/1560482.md" target="_blank">色厉内荏？党庆天安门要关一周；蓬佩奥爆 查武毒所遭内部激烈反对；福奇放厥词 川普要北京赔偿10万亿；全球粮价飙升十年最高；亚马逊黑五 网购狂欢开始【希望之声TV-环球看点-2021/6/4】</a></li>
 <li><a href="/comments/20210605/1560480.md" target="_blank">福奇电邮事件发酵 美议员拟传他国会作证</a></li>
 <li><a href="/comments/20210605/1560477.md" target="_blank">【曾铮专栏】口述历史：《静水流深》（1）第一部 隔世为人 第一章 信仰的迷雾</a></li>
 <li><a href="/comments/20210605/1560472.md" target="_blank">网上悼念六四 蓬佩奥：中共屠杀人民震惊世界</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210605/1560407.md" target="_blank">“隽言隽语”纪念“64”三十二周年专题节目（二）专访民主中国阵线主席秦晋博士 / 主持人李隽</a></li>
 <li><a href="/comments/20210604/1560381.md" target="_blank">地中海饮食的8种食物，遵循有益身心健康</a></li>
 <li><a href="/comments/20210604/1560379.md" target="_blank">指挥中心公布8大警示症状：中1个就求救</a></li>
-<li><a href="/comments/20210604/1560378.md" target="_blank">芒种养生：顺时令，应气候</a></li>
-<li><a href="/comments/20210604/1560367.md" target="_blank">【摄影】玫瑰茶园</a></li>
-<li><a href="/comments/20210604/1560366.md" target="_blank">2021年 端午节</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
 <li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
 <li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
 <li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
 
 </ul>
 </div>
