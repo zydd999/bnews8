@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/lifebaike/20210604/1559760.md">慎入！64张六四照片 见证天安门血腥屠杀</a></li>
 <li><a href="/cnnews/20210604/1559898.md">广州芳村突然被封 传民众疯狂大逃亡</a></li>
 <li><a href="/cbnews/20210604/1559929.md">吐槽三胎 丽水网民P图恶搞被抓 网友批评官方：恼羞成怒</a></li>
 <li><a href="/cbnews/20210604/1560041.md">疫情瞒不住 广州两大医院紧急停诊 专家：变异株毒力更强</a></li>
@@ -16,18 +15,19 @@
 <li><a href="/cnnews/20210604/1560161.md">蓬佩奥：调查武汉病毒所遭政府内部激烈反对</a></li>
 <li><a href="/cbnews/20210604/1560031.md">广西豪雨成灾 喜宴照办 网笑翻</a></li>
 <li><a href="/cbnews/20210604/1559930.md">8964/38军军长徐勤先少将抗命事件的"真相"</a></li>
-<li><a href="/comments/20210604/1560223.md">福奇来源说再次改口。邮件曝光，与比尔·盖茨交往不寻常。川普总统声明，直接点到福奇软肋。白宫准备辞退福奇？</a></li>
 <li><a href="/topimagenews/20210604/1560399.md">美国前CDC主任提病毒泄漏后 收到大量来自“顶级科学家”们的死亡威胁</a></li>
+<li><a href="/comments/20210604/1560223.md">福奇来源说再次改口。邮件曝光，与比尔·盖茨交往不寻常。川普总统声明，直接点到福奇软肋。白宫准备辞退福奇？</a></li>
 <li><a href="/cbnews/20210604/1559849.md">对韭当割，人生几何…躺平赋、躺平诗都出来了</a></li>
 <li><a href="/cbnews/20210604/1560204.md">广东疫情升级 民众恐慌出逃 司机遭封车内</a></li>
-<li><a href="/comments/20210604/1560044.md">福奇促北京：交出武汉病毒所9个可疑人的医疗记录</a></li>
 <li><a href="/cbnews/20210604/1560336.md">广州疫情蔓延整个中心城区 护士确诊 2医院急停</a></li>
+<li><a href="/comments/20210604/1560044.md">福奇促北京：交出武汉病毒所9个可疑人的医疗记录</a></li>
 <li><a href="/cbnews/20210604/1560008.md">掩耳盗铃！6月4日变成5月35日？网友调侃</a></li>
-<li><a href="/cnnews/20210604/1560113.md">爆炸性新闻：宣布将发布更多福西电子邮件 就会被推特暂停【阿波罗网编译】</a></li>
+<li><a href="/cbnews/20210604/1560371.md">胡锡进为天安门大屠杀辩护 遭讽精神失常</a></li>
 <li><a href="/cnnews/20210604/1560174.md">美媒独家：武汉实验室在美国会议上承认 功能增益实验在中国"没有监管"【阿波罗网编译】</a></li>
+<li><a href="/cnnews/20210604/1560113.md">爆炸性新闻：宣布将发布更多福西电子邮件 就会被推特暂停【阿波罗网编译】</a></li>
+<li><a href="/yule/20210604/1560275.md">前夫侯耀文离世已13年 嫁"侄子"的袁茵现状如何?</a></li>
 <li><a href="/cbnews/20210604/1560007.md">列车撞修路工人至少9死 兰新铁路发生事故真相一再被隐瞒</a></li>
 <li><a href="/comments/20210604/1560022.md">国防部变脸！中共无人机或被认可使用；马斯克愤怒了！各厂商疯买超量芯片如同囤厕纸 ！中印边境危机又升级！印度部署自走砲应对共军威胁【希望之声-午夜新闻-2021/06/03】</a></li>
-<li><a href="/cbnews/20210604/1560371.md">胡锡进为天安门大屠杀辩护 遭讽精神失常</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210605/1560548.md" target="_blank">大雄回放自创歌曲“人民”纪念六四 再现“英雄的光芒”</a></li>
+<li><a href="/comments/20210605/1560547.md" target="_blank">变种病毒无药可治 广州护士确诊 两大医院急停</a></li>
 <li><a href="/comments/20210605/1560529.md" target="_blank">蓬佩奥透露：我想查清病毒溯源 却遇内部阻力</a></li>
 <li><a href="/comments/20210605/1560528.md" target="_blank">暗示分手？马斯克推文令比特币下跌4%</a></li>
 <li><a href="/comments/20210605/1560527.md" target="_blank">德国陆续解封 这三个州如何放宽限制？</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210605/1560456.md" target="_blank">【六四 32 周年】黄店预告关灯点蜡烛、“检查电力”6 分 40 秒 “用任何形式悼念”</a></li>
 <li><a href="/comments/20210605/1560455.md" target="_blank">建制派的“官方平反”六四</a></li>
 <li><a href="/comments/20210605/1560454.md" target="_blank">佛奇电邮继续曝光！阎丽梦：COVID-19是生化武器</a></li>
-<li><a href="/comments/20210605/1560453.md" target="_blank">【大雄专栏】画里话外：三十二年， 如果英雄的光芒沦陷</a></li>
-<li><a href="/comments/20210605/1560452.md" target="_blank">欧盟、英国对脸书启动反垄断调查 德国也盯上Google新闻服务</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/cbnews/20210331/1516754.md" target="_blank">被传销团伙围杀时 丈夫说了这句话脱险</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
+<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
 
 </ul>
 </div>
