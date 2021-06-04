@@ -7,21 +7,21 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/bannedvideo/20210603/1559416.md">热身完毕正式开骂，周孝正挨个点名郭文贵，魏京生，柴玲，陈破空，司马南，连某已故民运人士也不放过（奶爸讨教周孝正第4期 20210603）</a></li>
 <li><a href="/bannedvideo/20210603/1559484.md">惊爆！中共科学家制造病毒</a></li>
-<li><a href="/lifebaike/20210604/1559760.md">慎入！64张六四照片 见证天安门血腥屠杀</a></li>
 <li><a href="/bannedvideo/20210603/1559408.md">广州封闭38个区域 民众质疑疫苗有效性 北京也传异常｜@新闻精选【新唐人亚太电视】三节新闻Live直播 ｜20210603</a></li>
+<li><a href="/lifebaike/20210604/1559760.md">慎入！64张六四照片 见证天安门血腥屠杀</a></li>
 <li><a href="/cbnews/20210604/1559695.md">广州老婆婆崩溃：“共产党员，你们抓我吧”</a></li>
 <li><a href="/cnnews/20210604/1559898.md">广州芳村突然被封 传民众疯狂大逃亡</a></li>
-<li><a href="/cnnews/20210603/1559498.md">电邮惊爆：福奇一开始即知病毒或源于实验室</a></li>
 <li><a href="/comments/20210604/1559618.md">欧盟疫苗护照预备启动：只认四种疫苗</a></li>
+<li><a href="/cnnews/20210603/1559498.md">电邮惊爆：福奇一开始即知病毒或源于实验室</a></li>
 <li><a href="/cbnews/20210604/1559694.md">世卫将科兴疫苗纳紧急使用 中共被曝忽悠民众</a></li>
 <li><a href="/cbnews/20210603/1559472.md">江被公开羞辱 习当局“七一勋章”名单公示 福奇邮件解密 和高福避谈病毒起源</a></li>
 <li><a href="/finance/20210604/1559730.md">惊掉下巴！中国连它们也要靠从美澳新进口</a></li>
-<li><a href="/health/20210604/1559720.md">大蒜是肝病的“发物”？医生提醒：若想养肝，4种“素食”要少碰</a></li>
-<li><a href="/cbnews/20210603/1559396.md">直言中共红色电视剧难看 陆女演员被迫道歉</a></li>
 <li><a href="/cbnews/20210604/1559929.md">吐槽三胎 丽水网民P图恶搞被抓 网友批评官方：恼羞成怒</a></li>
+<li><a href="/cbnews/20210603/1559396.md">直言中共红色电视剧难看 陆女演员被迫道歉</a></li>
+<li><a href="/health/20210604/1559720.md">大蒜是肝病的“发物”？医生提醒：若想养肝，4种“素食”要少碰</a></li>
 <li><a href="/yule/20210604/1559774.md">老来得子？70岁王石带婴儿逛街 小30岁田朴珺满脸温柔</a></li>
-<li><a href="/cbnews/20210603/1559397.md">阵仗不小？山西小学生12岁豪华生日宴 花费堪比婚宴</a></li>
 <li><a href="/cbnews/20210604/1559671.md">习近平与“国师”各说各话 战狼外交转向难</a></li>
+<li><a href="/cbnews/20210603/1559397.md">阵仗不小？山西小学生12岁豪华生日宴 花费堪比婚宴</a></li>
 <li><a href="/bannedvideo/20210603/1559431.md">最近网上有人叫嚣，今天打台湾，明天打日本，后天打美国。大不了扔个原子弹，谁怕谁。那么如果真的爆发了 #核战争 ，会是什么后果？</a></li>
 <li><a href="/bannedvideo/20210603/1559537.md">沈睡的预言家凯西预言21世纪的中国，震惊世界！｜薇羽时光 第26期</a></li>
 <li><a href="/cnnews/20210603/1559497.md">美媒：如资助武汉实验室 美国或不起诉中共</a></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210604/1560157.md" target="_blank">广西18岁少女亲述在缅北60天恐怖遭遇图</a></li>
 <li><a href="/cbnews/20210604/1560144.md" target="_blank">讨好拍马 习近平“野生国师”张维为 曾捧薄熙来</a></li>
 <li><a href="/cbnews/20210604/1560072.md" target="_blank">六四现场回顾 天安门广场一夕变色</a></li>
 <li><a href="/cbnews/20210604/1560041.md" target="_blank">疫情瞒不住 广州两大医院紧急停诊 专家：变异株毒力更强</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/comments/20210604/1559793.md" target="_blank">免费啤酒免托儿   房价物价齐涨 谁受冲击谁买单？【希望之声TV-新闻焦点解读-2021/06/03】 主持:高洁  嘉宾:谢田</a></li>
 <li><a href="/comments/20210604/1559792.md" target="_blank">好莱坞与中共的蜜月要结束了吗？男星塞纳的道歉让更多美国人惊醒</a></li>
 <li><a href="/cbnews/20210604/1559696.md" target="_blank">一队队医疗队开进广州荔湾区 民众急囤食物</a></li>
-<li><a href="/cbnews/20210604/1559695.md" target="_blank">广州老婆婆崩溃：“共产党员，你们抓我吧”</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210604/1560152.md" target="_blank">英知名律师召开听证会 收集中共在新疆种族灭绝证据</a></li>
 <li><a href="/comments/20210604/1560139.md" target="_blank">天然而成的乌克兰爱情隧道 美得令人窒息</a></li>
 <li><a href="/comments/20210604/1560134.md" target="_blank">“承传”的真正意义，是否只去“记忆”就可以？</a></li>
 <li><a href="/comments/20210604/1560133.md" target="_blank">邹幸彤：有名有姓嘅人系承载无名氏嘅付出 先得到关注同光环</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210604/1560028.md" target="_blank">邓小平六四放狠话“杀20万人换20年稳定” 内幕揭秘 中共大屠杀魔咒细思极恐 中南海不可告人的秘密_384</a></li>
 <li><a href="/comments/20210604/1560027.md" target="_blank">大将罗瑞卿女儿罗点点暗中联络 七名“开国”上将联署反对六四镇压 邓小平搬出两名元帅施压 中南海不可告人的秘密_383</a></li>
 <li><a href="/comments/20210604/1560023.md" target="_blank">唐靖远：恐惧政治制度破产 中共六四屠城延续统治</a></li>
-<li><a href="/comments/20210604/1560022.md" target="_blank">国防部变脸！中共无人机或被认可使用；马斯克愤怒了！各厂商疯买超量芯片如同囤厕纸 ！中印边境危机又升级！印度部署自走砲应对共军威胁【希望之声-午夜新闻-2021/06/03】</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
 <li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
 <li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
 
 </ul>
 </div>
