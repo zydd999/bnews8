@@ -20,7 +20,6 @@
 <li><a href="/cbnews/20210604/1559671.md">习近平与“国师”各说各话 战狼外交转向难</a></li>
 <li><a href="/cbnews/20210604/1560031.md">广西豪雨成灾 喜宴照办 网笑翻</a></li>
 <li><a href="/cnnews/20210604/1560161.md">蓬佩奥：调查武汉病毒所遭政府内部激烈反对</a></li>
-<li><a href="/topimagenews/20210604/1559624.md">全球最大资产管理公司CEO警告：通膨可能对多数人带来“巨大冲击”</a></li>
 <li><a href="/cbnews/20210604/1559930.md">8964/38军军长徐勤先少将抗命事件的"真相"</a></li>
 <li><a href="/cnnews/20210604/1559721.md">比新冠强！这病毒若重成生化武器 全世界恐毁灭</a></li>
 <li><a href="/topimagenews/20210604/1559716.md">全球房价飙涨 引发泡沫疑虑 报告指各国政府出手房价将降温</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/cbnews/20210604/1559849.md">对韭当割，人生几何…躺平赋、躺平诗都出来了</a></li>
 <li><a href="/lifebaike/20210604/1559742.md">开十年不用修的5个汽车品牌</a></li>
 <li><a href="/comments/20210604/1560044.md">福奇促北京：交出武汉病毒所9个可疑人的医疗记录</a></li>
+<li><a href="/comments/20210604/1560223.md">福奇来源说再次改口。邮件曝光，与比尔·盖茨交往不寻常。川普总统声明，直接点到福奇软肋。白宫准备辞退福奇？</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210605/1560434.md" target="_blank">“六四”学运领袖吁拜登政府 促中共结束一党专制</a></li>
+<li><a href="/comments/20210605/1560433.md" target="_blank">海航欠债1.2万亿 严重资不抵债</a></li>
+<li><a href="/comments/20210605/1560432.md" target="_blank">【戈壁东专栏】：6/4这个数字已经成为了中国自由民主运动的一个特定的象征</a></li>
+<li><a href="/comments/20210605/1560431.md" target="_blank">不畏打压！ 港人遍地开花纪念六四 多国驻中港使馆加入 蔡英文、布林肯声援</a></li>
+<li><a href="/comments/20210605/1560430.md" target="_blank">【中文字幕】萧茗专访蓬佩奥：中国和美国的命运</a></li>
 <li><a href="/comments/20210605/1560409.md" target="_blank">【六四 32 周年】支联会：吁港人以自己方式于“合适地点”悼念 将设网上吊唁</a></li>
 <li><a href="/comments/20210605/1560408.md" target="_blank">“隽言隽语”纪念“64”三十二周年专题节目（一）专访历史见证人李刚 / 主持人李隽</a></li>
 <li><a href="/comments/20210605/1560407.md" target="_blank">“隽言隽语”纪念“64”三十二周年专题节目（二）专访民主中国阵线主席秦晋博士 / 主持人李隽</a></li>
@@ -118,11 +123,6 @@
 <li><a href="/comments/20210604/1560238.md" target="_blank">💥港府警力防六四 民间悼念遍地开花；广州半封城民众大逃亡；网易：美要中国割地赔款 网友欢呼；拜登禁投资59家中企；美首批疫苗分发送亚洲；天气报告现8964【希望之声TV-两岸要闻-2021/06/3】</a></li>
 <li><a href="/comments/20210604/1560232.md" target="_blank">我不曾纪念六四，在今天之前</a></li>
 <li><a href="/comments/20210604/1560223.md" target="_blank">福奇来源说再次改口。邮件曝光，与比尔·盖茨交往不寻常。川普总统声明，直接点到福奇软肋。白宫准备辞退福奇？</a></li>
-<li><a href="/comments/20210604/1560218.md" target="_blank">接纪念“六四”重任 台湾举行悼念晚会</a></li>
-<li><a href="/comments/20210604/1560197.md" target="_blank">他说：宣传如同谈恋爱，可以做出任何空头许诺</a></li>
-<li><a href="/comments/20210604/1560196.md" target="_blank">人类和 #恐龙 生活在同一时代？28亿年前，惊现大量人造金属球。美国家庭，煤炭中掉出的金链子；秘鲁国宝，藏人类天机。</a></li>
-<li><a href="/comments/20210604/1560192.md" target="_blank">V字旅：回应几个问题：关于暗杀、行动方针和组织原则</a></li>
-<li><a href="/comments/20210604/1560190.md" target="_blank">【六四 32 周年．不断更新】警早上拘捕邹幸彤 下午封维园球场、草坪</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
 <li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
 <li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
 <li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
 
 </ul>
 </div>
