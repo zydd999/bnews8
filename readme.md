@@ -16,18 +16,18 @@
 <li><a href="/cbnews/20210604/1560031.md">广西豪雨成灾 喜宴照办 网笑翻</a></li>
 <li><a href="/cbnews/20210604/1559930.md">8964/38军军长徐勤先少将抗命事件的"真相"</a></li>
 <li><a href="/comments/20210604/1560223.md">福奇来源说再次改口。邮件曝光，与比尔·盖茨交往不寻常。川普总统声明，直接点到福奇软肋。白宫准备辞退福奇？</a></li>
-<li><a href="/cbnews/20210604/1559849.md">对韭当割，人生几何…躺平赋、躺平诗都出来了</a></li>
 <li><a href="/cbnews/20210604/1560336.md">广州疫情蔓延整个中心城区 护士确诊 2医院急停</a></li>
+<li><a href="/cbnews/20210604/1559849.md">对韭当割，人生几何…躺平赋、躺平诗都出来了</a></li>
 <li><a href="/cbnews/20210604/1560204.md">广东疫情升级 民众恐慌出逃 司机遭封车内</a></li>
 <li><a href="/comments/20210604/1560044.md">福奇促北京：交出武汉病毒所9个可疑人的医疗记录</a></li>
 <li><a href="/cbnews/20210604/1560371.md">胡锡进为天安门大屠杀辩护 遭讽精神失常</a></li>
 <li><a href="/cbnews/20210604/1560008.md">掩耳盗铃！6月4日变成5月35日？网友调侃</a></li>
 <li><a href="/yule/20210604/1560275.md">前夫侯耀文离世已13年 嫁"侄子"的袁茵现状如何?</a></li>
-<li><a href="/cnnews/20210604/1560174.md">美媒独家：武汉实验室在美国会议上承认 功能增益实验在中国"没有监管"【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20210604/1560007.md">列车撞修路工人至少9死 兰新铁路发生事故真相一再被隐瞒</a></li>
+<li><a href="/cnnews/20210604/1560174.md">美媒独家：武汉实验室在美国会议上承认 功能增益实验在中国"没有监管"【阿波罗网编译】</a></li>
 <li><a href="/cnnews/20210604/1560113.md">爆炸性新闻：宣布将发布更多福西电子邮件 就会被推特暂停【阿波罗网编译】</a></li>
 <li><a href="/comments/20210604/1560022.md">国防部变脸！中共无人机或被认可使用；马斯克愤怒了！各厂商疯买超量芯片如同囤厕纸 ！中印边境危机又升级！印度部署自走砲应对共军威胁【希望之声-午夜新闻-2021/06/03】</a></li>
-<li><a href="/comments/20210604/1560006.md">六四镇压机密文件曝光 17名中共元老表态内幕 新书《最后的秘密》揭示中共始终掌握绝对权力运作机密的终极秘密</a></li>
+<li><a href="/comments/20210604/1560027.md">大将罗瑞卿女儿罗点点暗中联络 七名“开国”上将联署反对六四镇压 邓小平搬出两名元帅施压 中南海不可告人的秘密_383</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,10 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210605/1560599.md" target="_blank">泥淖愈陷愈深 四件大事钉死习近平 中国走向危险</a></li>
+<li><a href="/cbnews/20210605/1560598.md" target="_blank">橄榄枝？拜登投资禁令撤掉了哪些曾上榜的中企</a></li>
+<li><a href="/comments/20210605/1560593.md" target="_blank">美英加德驻华使馆发图文悼六四；再现巧合？日赠台疫苗惊现8964 ；伦敦“维吾尔法庭”六四开庭；又一个国家被国药疫苗“坑了”；建数字主权 欧洲各国呼团结【希望之声-每日头条-2021/06/04】</a></li>
+<li><a href="/comments/20210605/1560592.md" target="_blank">下一个香港在哪里 我们的责任是什么【希望之声TV-新闻焦点解读-2021/06/04】 主持:高洁  嘉宾:谢田 大雄 陈师众</a></li>
 <li><a href="/comments/20210605/1560578.md" target="_blank">专访周孝正：89六四，我看到军车从我楼前开过。。我目睹过两场北京的杀戮；中共党史就是伪史</a></li>
 <li><a href="/cbnews/20210605/1560571.md" target="_blank">命大！浙江父亲倒车粗心大意 辗过儿子…</a></li>
 <li><a href="/cbnews/20210605/1560536.md" target="_blank">高档酒席专业歌舞 晋家长砸20万帮12岁女儿庆生</a></li>
@@ -57,10 +61,6 @@
 <li><a href="/cbnews/20210604/1560310.md" target="_blank">800年历史名镇被毁 重庆江津中山古镇火灾</a></li>
 <li><a href="/cbnews/20210604/1560309.md" target="_blank">中共官方推出吸入式疫苗 国产疫苗的安全性再次引质疑</a></li>
 <li><a href="/cbnews/20210604/1560282.md" target="_blank">“六四”亲历者追忆拘捕前后与警察结下的特殊友谊</a></li>
-<li><a href="/comments/20210604/1560238.md" target="_blank">💥港府警力防六四 民间悼念遍地开花；广州半封城民众大逃亡；网易：美要中国割地赔款 网友欢呼；拜登禁投资59家中企；美首批疫苗分发送亚洲；天气报告现8964【希望之声TV-两岸要闻-2021/06/3】</a></li>
-<li><a href="/cbnews/20210604/1560235.md" target="_blank">北京官媒老节目《展望2020》爆红 被笑牛吹大了</a></li>
-<li><a href="/cbnews/20210604/1560234.md" target="_blank">六四纪念日 中国突发列车撞人事故 已9人遇难</a></li>
-<li><a href="/comments/20210604/1560223.md" target="_blank">福奇来源说再次改口。邮件曝光，与比尔·盖茨交往不寻常。川普总统声明，直接点到福奇软肋。白宫准备辞退福奇？</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210605/1560593.md" target="_blank">美英加德驻华使馆发图文悼六四；再现巧合？日赠台疫苗惊现8964 ；伦敦“维吾尔法庭”六四开庭；又一个国家被国药疫苗“坑了”；建数字主权 欧洲各国呼团结【希望之声-每日头条-2021/06/04】</a></li>
+<li><a href="/comments/20210605/1560592.md" target="_blank">下一个香港在哪里 我们的责任是什么【希望之声TV-新闻焦点解读-2021/06/04】 主持:高洁  嘉宾:谢田 大雄 陈师众</a></li>
+<li><a href="/comments/20210605/1560590.md" target="_blank">【独家】诗一首：《成 功 岭》</a></li>
+<li><a href="/comments/20210605/1560589.md" target="_blank">【音乐视频】画境深处，无声胜有声 （附二幅画）</a></li>
 <li><a href="/comments/20210605/1560580.md" target="_blank">旧金山花园角举办“六四”32周年烛光悼念会 聚集各族裔民众</a></li>
 <li><a href="/comments/20210605/1560578.md" target="_blank">专访周孝正：89六四，我看到军车从我楼前开过。。我目睹过两场北京的杀戮；中共党史就是伪史</a></li>
 <li><a href="/comments/20210605/1560567.md" target="_blank">血洗京城：六四枪声 震碎国人的心（上）</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210605/1560488.md" target="_blank">六四屠城32周年 港警如临大敌 支联会副主席被捕</a></li>
 <li><a href="/comments/20210605/1560487.md" target="_blank">不能与中国正常贸易 澳洲出口商转向其他市场</a></li>
 <li><a href="/comments/20210605/1560486.md" target="_blank">焦点对话: 六四32周年“世代对话” 周锋锁vs.洞物员</a></li>
-<li><a href="/comments/20210605/1560482.md" target="_blank">色厉内荏？党庆天安门要关一周；蓬佩奥爆 查武毒所遭内部激烈反对；福奇放厥词 川普要北京赔偿10万亿；全球粮价飙升十年最高；亚马逊黑五 网购狂欢开始【希望之声TV-环球看点-2021/6/4】</a></li>
-<li><a href="/comments/20210605/1560480.md" target="_blank">福奇电邮事件发酵 美议员拟传他国会作证</a></li>
-<li><a href="/comments/20210605/1560477.md" target="_blank">【曾铮专栏】口述历史：《静水流深》（1）第一部 隔世为人 第一章 信仰的迷雾</a></li>
-<li><a href="/comments/20210605/1560472.md" target="_blank">网上悼念六四 蓬佩奥：中共屠杀人民震惊世界</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
 <li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/comments/20210329/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
 
 </ul>
 </div>
