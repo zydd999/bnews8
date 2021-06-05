@@ -6,13 +6,13 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cbnews/20210605/1560599.md">泥淖愈陷愈深 四件大事钉死习近平 中国走向危险</a></li>
-<li><a href="/cbnews/20210605/1560514.md">美籍华人：我开航母，美军的强大是想象不到的</a></li>
 <li><a href="/topimagenews/20210605/1560763.md">朝鲜女兵惨况 遭上级凌辱一奇招曝光</a></li>
+<li><a href="/cbnews/20210605/1560514.md">美籍华人：我开航母，美军的强大是想象不到的</a></li>
 <li><a href="/cbnews/20210605/1560802.md">"狂吼"响彻上海苏州河畔！居民崩溃：家里要装3层玻璃…</a></li>
 <li><a href="/renquan/20210605/1560493.md">众议院议长佩洛西就六四屠杀32周年发表声明(全文翻译)</a></li>
 <li><a href="/comments/20210605/1560547.md">变种病毒无药可治 广州护士确诊 两大医院急停</a></li>
-<li><a href="/comments/20210605/1560782.md">六四陪同赵紫阳旧照突现 温家宝神情凝重沉默许久 随后缓缓发表敏感言论 中南海不可告人的秘密_391</a></li>
 <li><a href="/funmedia/20210605/1560729.md">“我要娶妹妹！”兄妹15年不分床，亲情变质让母亲崩溃</a></li>
+<li><a href="/comments/20210605/1560782.md">六四陪同赵紫阳旧照突现 温家宝神情凝重沉默许久 随后缓缓发表敏感言论 中南海不可告人的秘密_391</a></li>
 <li><a href="/cnnews/20210605/1560521.md">病急乱投医！为控制疫情 印度豁出去了</a></li>
 <li><a href="/cbnews/20210605/1560704.md">天亮时分：外交部打脸习近平，指控美国研究生化武器；胡锡进公开承认六四屠杀属于国家暴力；王沪宁比胡锡进更阴险（政论天下第437集 20210604）</a></li>
 <li><a href="/bannedvideo/20210605/1560885.md">习近平在备战？这些异常信号每个人都要警惕--天钧政经</a></li>
@@ -26,8 +26,8 @@
 <li><a href="/cnnews/20210605/1560518.md">Costco官宣了！华人爱买的8类商品全线涨价</a></li>
 <li><a href="/yule/20210605/1560577.md">赵本山老婆：女儿整容已成病态 鼻子就花了30万</a></li>
 <li><a href="/worldnews/20210605/1560856.md">英国电视大腕：如果武汉实验室泄露坐实 中共的罪名就是大规模屠杀【阿波罗网编译】</a></li>
-<li><a href="/yule/20210605/1560437.md">胡歌看前女友演出被偷拍！分手12年后被疑复合</a></li>
-<li><a href="/cnnews/20210605/1560520.md">《自然》重磅：新疗法强效抑制大量变种中共病毒</a></li>
+<li><a href="/cnnews/hknews/20210605/1560912.md">打中国疫苗港80余人死亡 有人疑患吉巴氏综合症</a></li>
+<li><a href="/topimagenews/20210605/1560838.md">1小时以内全球送达！美军要玩“火箭运货”了！【阿波罗网编译】</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,12 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210606/1561076.md" target="_blank">时事大家谈：越南发现混合变异病毒全球防疫更艰巨？</a></li>
+<li><a href="/comments/20210606/1561066.md" target="_blank">灭了维园的烛光，却开了另一种玩法</a></li>
+<li><a href="/comments/20210606/1561065.md" target="_blank">邹幸彤扣查逾 30 小时后保释 斥以言入罪无限扩大 不同住父母居所遭警搜查</a></li>
+<li><a href="/comments/20210606/1561064.md" target="_blank">美太平洋空军司令：我与中国人民没矛盾 与中共有</a></li>
+<li><a href="/comments/20210606/1561063.md" target="_blank">湖南长沙突爆大火！画面曝光宛若“火山爆发”</a></li>
+<li><a href="/comments/20210606/1561062.md" target="_blank">总统推文也敢砍 奈及利亚不爽：无限期禁用推特</a></li>
 <li><a href="/comments/20210605/1561045.md" target="_blank">佩洛西再发声明纪念六四 回顾28年前造访天安门</a></li>
 <li><a href="/comments/20210605/1561044.md" target="_blank">芒种时节，会吃的人身体更好</a></li>
 <li><a href="/comments/20210605/1561043.md" target="_blank">震惊！中共科兴疫苗紧急使用放宽：3岁以上可打</a></li>
@@ -117,12 +123,6 @@
 <li><a href="/comments/20210605/1560938.md" target="_blank">大S中国籍老公酸台湾惨淡 遭杜汶泽开呛:汉奸</a></li>
 <li><a href="/comments/20210605/1560935.md" target="_blank">不满欧美驻港领馆点烛光悼六四 中国外交部驻港公署：拙劣政治戏码</a></li>
 <li><a href="/comments/20210605/1560934.md" target="_blank">【六四 32 周年．特写】警封锁连番截查 仍坚持到维园的市民们：尽香港人责任</a></li>
-<li><a href="/comments/20210605/1560932.md" target="_blank">邹幸彤已被通宵扣留逾 24 小时 今早结束禁食已进早餐</a></li>
-<li><a href="/comments/20210605/1560928.md" target="_blank">川普首提再次执掌白宫。川普周六公开演讲。彭斯跳精妙舞步，竟无一人喝彩！去年被坑苦，RNC呼吁改革总统电视辩论，否则不玩了。</a></li>
-<li><a href="/comments/20210605/1560907.md" target="_blank">【六四 32 周年】从世情之乱，洞察上主的差遣</a></li>
-<li><a href="/comments/20210605/1560906.md" target="_blank">【六四 32 周年】7 圣堂追思弥撒满座 市民门口点烛光：终有一日，把火会烧得好旺</a></li>
-<li><a href="/comments/20210605/1560903.md" target="_blank">别扔！西瓜皮的功效多多</a></li>
-<li><a href="/comments/20210605/1560902.md" target="_blank">防中暑热伤害5种夏日补水法</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
 <li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
 <li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
 
 </ul>
 </div>
