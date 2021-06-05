@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/cnnews/20210604/1559898.md">广州芳村突然被封 传民众疯狂大逃亡</a></li>
 <li><a href="/cbnews/20210604/1559929.md">吐槽三胎 丽水网民P图恶搞被抓 网友批评官方：恼羞成怒</a></li>
 <li><a href="/cbnews/20210604/1560041.md">疫情瞒不住 广州两大医院紧急停诊 专家：变异株毒力更强</a></li>
 <li><a href="/cnnews/20210604/1559978.md">华为推出鸿蒙操作系统 业界嘲讽</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/comments/20210604/1560022.md">国防部变脸！中共无人机或被认可使用；马斯克愤怒了！各厂商疯买超量芯片如同囤厕纸 ！中印边境危机又升级！印度部署自走砲应对共军威胁【希望之声-午夜新闻-2021/06/03】</a></li>
 <li><a href="/comments/20210604/1560027.md">大将罗瑞卿女儿罗点点暗中联络 七名“开国”上将联署反对六四镇压 邓小平搬出两名元帅施压 中南海不可告人的秘密_383</a></li>
 <li><a href="/comments/20210604/1560006.md">六四镇压机密文件曝光 17名中共元老表态内幕 新书《最后的秘密》揭示中共始终掌握绝对权力运作机密的终极秘密</a></li>
+<li><a href="/comments/20210604/1560064.md">六四戒严部队军官30年后曝内幕：军队发枪发子弹 下令“不惜一切代价”抵达天安门 39军116师被38军“押送”到天安门广场 中南海不可告人的秘密_390</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,9 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210605/1560705.md" target="_blank">怕玩家纪念六四？中国游戏《原神》禁止玩家改名</a></li>
+<li><a href="/cbnews/20210605/1560704.md" target="_blank">天亮时分：外交部打脸习近平，指控美国研究生化武器；胡锡进公开承认六四屠杀属于国家暴力；王沪宁比胡锡进更阴险（政论天下第437集 20210604）</a></li>
+<li><a href="/comments/20210605/1560671.md" target="_blank">香港 六四32周年纪念会 六四和民运的一些领袖人物之外，其中最重量级的是国务卿蓬佩奥，还有史密斯众议员（普通话）【希望之声TV】</a></li>
 <li><a href="/cbnews/20210605/1560616.md" target="_blank">文昭：躺平族应该铭记「六四」的一个原因！32年来让中共最有压力的一个5月35日</a></li>
 <li><a href="/cbnews/20210605/1560599.md" target="_blank">泥淖愈陷愈深 四件大事钉死习近平 中国走向危险</a></li>
 <li><a href="/cbnews/20210605/1560598.md" target="_blank">橄榄枝？拜登投资禁令撤掉了哪些曾上榜的中企</a></li>
@@ -58,9 +61,6 @@
 <li><a href="/cbnews/20210604/1560353.md" target="_blank">微信直播提躺平、家暴或被罚 新增未成年条款为表忠？</a></li>
 <li><a href="/cbnews/20210604/1560349.md" target="_blank">萧铭：（中文字幕）萧茗专访蓬佩奥：中国和美国的命运 ｜ 病毒来源於武汉病毒所？｜美国会停止资助中国的增强功能实验 ？｜美国精英对中共的态度 ｜美国是否能再次成为山巅之城</a></li>
 <li><a href="/cbnews/20210604/1560343.md" target="_blank">蓬佩奥：调查武汉病毒所遭内部激烈反对</a></li>
-<li><a href="/cbnews/20210604/1560336.md" target="_blank">广州疫情蔓延整个中心城区 护士确诊 2医院急停</a></li>
-<li><a href="/cbnews/20210604/1560310.md" target="_blank">800年历史名镇被毁 重庆江津中山古镇火灾</a></li>
-<li><a href="/cbnews/20210604/1560309.md" target="_blank">中共官方推出吸入式疫苗 国产疫苗的安全性再次引质疑</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210605/1560671.md" target="_blank">香港 六四32周年纪念会 六四和民运的一些领袖人物之外，其中最重量级的是国务卿蓬佩奥，还有史密斯众议员（普通话）【希望之声TV】</a></li>
 <li><a href="/comments/20210605/1560663.md" target="_blank">漫天霾：老谋子已哭晕在厕所</a></li>
 <li><a href="/comments/20210605/1560662.md" target="_blank">西奈山峰：以色列的福气来自敌人</a></li>
 <li><a href="/comments/20210605/1560661.md" target="_blank">洞见天涯:躺平赋都出来了</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210605/1560528.md" target="_blank">暗示分手？马斯克推文令比特币下跌4%</a></li>
 <li><a href="/comments/20210605/1560527.md" target="_blank">德国陆续解封 这三个州如何放宽限制？</a></li>
 <li><a href="/comments/20210605/1560510.md" target="_blank">美议员：拜登让普京推北溪2号工程 有损美国安全</a></li>
-<li><a href="/comments/20210605/1560497.md" target="_blank">六四幸存者谈目睹和经历的历史点滴</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
 <li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20210329/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
+<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
 
 </ul>
 </div>
