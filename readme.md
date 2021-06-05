@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/comments/20210604/1560050.md">赵紫阳之子赵二军断言六四平反不了 原因是四个字……赵紫阳本能上觉得国家体制有问题 中南海不可告人的秘密_388</a></li>
 <li><a href="/topimagenews/20210604/1560399.md">美国前CDC主任提病毒泄漏后 收到大量来自“顶级科学家”们的死亡威胁</a></li>
 <li><a href="/cnnews/20210604/1560161.md">蓬佩奥：调查武汉病毒所遭政府内部激烈反对</a></li>
 <li><a href="/cbnews/20210605/1560599.md">泥淖愈陷愈深 四件大事钉死习近平 中国走向危险</a></li>
-<li><a href="/cbnews/20210605/1560514.md">美籍华人：我开航母，美军的强大是想象不到的</a></li>
 <li><a href="/comments/20210604/1560223.md">福奇来源说再次改口。邮件曝光，与比尔·盖茨交往不寻常。川普总统声明，直接点到福奇软肋。白宫准备辞退福奇？</a></li>
+<li><a href="/cbnews/20210605/1560514.md">美籍华人：我开航母，美军的强大是想象不到的</a></li>
 <li><a href="/cbnews/20210604/1560371.md">胡锡进为天安门大屠杀辩护 遭讽精神失常</a></li>
 <li><a href="/cbnews/20210604/1560336.md">广州疫情蔓延整个中心城区 护士确诊 2医院急停</a></li>
 <li><a href="/cbnews/20210604/1560204.md">广东疫情升级 民众恐慌出逃 司机遭封车内</a></li>
-<li><a href="/comments/20210604/1560044.md">福奇促北京：交出武汉病毒所9个可疑人的医疗记录</a></li>
-<li><a href="/renquan/20210605/1560493.md">众议院议长佩洛西就六四屠杀32周年发表声明(全文翻译)</a></li>
 <li><a href="/yule/20210604/1560275.md">前夫侯耀文离世已13年 嫁"侄子"的袁茵现状如何?</a></li>
+<li><a href="/renquan/20210605/1560493.md">众议院议长佩洛西就六四屠杀32周年发表声明(全文翻译)</a></li>
 <li><a href="/cnnews/20210604/1560113.md">爆炸性新闻：宣布将发布更多福西电子邮件 就会被推特暂停【阿波罗网编译】</a></li>
 <li><a href="/cnnews/20210604/1560174.md">美媒独家：武汉实验室在美国会议上承认 功能增益实验在中国"没有监管"【阿波罗网编译】</a></li>
 <li><a href="/cnnews/20210605/1560521.md">病急乱投医！为控制疫情 印度豁出去了</a></li>
 <li><a href="/comments/20210605/1560547.md">变种病毒无药可治 广州护士确诊 两大医院急停</a></li>
 <li><a href="/cnnews/20210605/1560428.md">人民币开始走软 无论人行怎么管</a></li>
 <li><a href="/comments/20210604/1560064.md">六四戒严部队军官30年后曝内幕：军队发枪发子弹 下令“不惜一切代价”抵达天安门 39军116师被38军“押送”到天安门广场 中南海不可告人的秘密_390</a></li>
-<li><a href="/comments/20210604/1560049.md">鲍彤谈六四：邓小平是六四镇压的最高统帅 陈云六四后被迫承认邓小平是中共的“头子” 六四以后中共建立“六四制度” 中南海不可告人的秘密_387</a></li>
 <li><a href="/cbnews/20210604/1560170.md">传网信办发文针对“六四”加强网络管控</a></li>
 <li><a href="/bannedvideo/20210604/1560179.md">中共政权灭亡的三大征兆 全齐了 就差一个契机（启明笑谈20210604）</a></li>
 <li><a href="/cbnews/20210604/1560072.md">六四现场回顾 天安门广场一夕变色</a></li>
 <li><a href="/cnnews/20210605/1560518.md">Costco官宣了！华人爱买的8类商品全线涨价</a></li>
+<li><a href="/cnnews/20210605/1560520.md">《自然》重磅：新疗法强效抑制大量变种中共病毒</a></li>
+<li><a href="/ssgc/20210605/1560596.md">〖微博谈〗这种话很恶心</a></li>
+<li><a href="/yule/20210605/1560437.md">胡歌看前女友演出被偷拍！分手12年后被疑复合</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210605/1560830.md" target="_blank">曾反对实验室泄露说 美专家改口 吁彻查疫情源头</a></li>
 <li><a href="/comments/20210605/1560820.md" target="_blank">G7领袖峰会将发起全球基建倡议 反制中共「一带一路」</a></li>
 <li><a href="/comments/20210605/1560812.md" target="_blank">被遗忘的百年历史1990 至2009</a></li>
 <li><a href="/comments/20210605/1560807.md" target="_blank">内部档案揭中共八老决策六四内幕（下）：钦定江泽民始末 三老拍板五老附和 彭真杨尚昆放棄自己原本属意的候选人 中南海不可告人的秘密_395</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210605/1560706.md" target="_blank">当光亮成为一种罪名</a></li>
 <li><a href="/comments/20210605/1560671.md" target="_blank">香港 六四32周年纪念会 六四和民运的一些领袖人物之外，其中最重量级的是国务卿蓬佩奥，还有史密斯众议员（普通话）【希望之声TV】</a></li>
 <li><a href="/comments/20210605/1560663.md" target="_blank">漫天霾：老谋子已哭晕在厕所</a></li>
-<li><a href="/comments/20210605/1560662.md" target="_blank">西奈山峰：以色列的福气来自敌人</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
 
 </ul>
 </div>
