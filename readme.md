@@ -7,7 +7,6 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cbnews/20210605/1560599.md">泥淖愈陷愈深 四件大事钉死习近平 中国走向危险</a></li>
 <li><a href="/topimagenews/20210604/1560399.md">美国前CDC主任提病毒泄漏后 收到大量来自“顶级科学家”们的死亡威胁</a></li>
-<li><a href="/cbnews/20210604/1560371.md">胡锡进为天安门大屠杀辩护 遭讽精神失常</a></li>
 <li><a href="/cbnews/20210605/1560514.md">美籍华人：我开航母，美军的强大是想象不到的</a></li>
 <li><a href="/topimagenews/20210605/1560763.md">朝鲜女兵惨况 遭上级凌辱一奇招曝光</a></li>
 <li><a href="/cbnews/20210605/1560802.md">"狂吼"响彻上海苏州河畔！居民崩溃：家里要装3层玻璃…</a></li>
@@ -18,15 +17,16 @@
 <li><a href="/cnnews/20210605/1560521.md">病急乱投医！为控制疫情 印度豁出去了</a></li>
 <li><a href="/cbnews/20210605/1560704.md">天亮时分：外交部打脸习近平，指控美国研究生化武器；胡锡进公开承认六四屠杀属于国家暴力；王沪宁比胡锡进更阴险（政论天下第437集 20210604）</a></li>
 <li><a href="/yule/20210605/1560791.md">又一对 大S、汪小菲宣布离婚</a></li>
+<li><a href="/bannedvideo/20210605/1560885.md">习近平在备战？这些异常信号每个人都要警惕--天钧政经</a></li>
 <li><a href="/bannedvideo/20210605/1560806.md">武汉叛逃者？关键证人出现；福奇的邮件爆重要线索，病毒不寻常特征疑似实验室改造｜薇羽看世间 第312期 20210604</a></li>
 <li><a href="/cnnews/20210605/1560428.md">人民币开始走软 无论人行怎么管</a></li>
 <li><a href="/ssgc/20210605/1560596.md">〖微博谈〗这种话很恶心</a></li>
-<li><a href="/bannedvideo/20210605/1560885.md">习近平在备战？这些异常信号每个人都要警惕--天钧政经</a></li>
+<li><a href="/cnnews/hknews/20210605/1560824.md">禁不住？“8964” 这也太巧了吧… 网友感言：天意难违</a></li>
 <li><a href="/cnnews/20210605/1560637.md">中国巨富梦断塞班岛：一次输20亿，最终毁掉公司</a></li>
 <li><a href="/cnnews/20210605/1560864.md">这脸打的！大陆国产手机巨头都不用鸿蒙</a></li>
-<li><a href="/cnnews/hknews/20210605/1560824.md">禁不住？“8964” 这也太巧了吧… 网友感言：天意难违</a></li>
 <li><a href="/cnnews/20210605/1560518.md">Costco官宣了！华人爱买的8类商品全线涨价</a></li>
 <li><a href="/yule/20210605/1560577.md">赵本山老婆：女儿整容已成病态 鼻子就花了30万</a></li>
+<li><a href="/worldnews/20210605/1560856.md">英国电视大腕：如果武汉实验室泄露坐实 中共的罪名就是大规模屠杀【阿波罗网编译】</a></li>
 <li><a href="/yule/20210605/1560437.md">胡歌看前女友演出被偷拍！分手12年后被疑复合</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -98,6 +98,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210605/1561045.md" target="_blank">佩洛西再发声明纪念六四 回顾28年前造访天安门</a></li>
+<li><a href="/comments/20210605/1561044.md" target="_blank">芒种时节，会吃的人身体更好</a></li>
+<li><a href="/comments/20210605/1561043.md" target="_blank">震惊！中共科兴疫苗紧急使用放宽：3岁以上可打</a></li>
+<li><a href="/comments/20210605/1561038.md" target="_blank">【古物件欣赏】《精品彩唐》《四系粉彩罐》《洋彩四系陶瓷罐》</a></li>
+<li><a href="/comments/20210605/1561037.md" target="_blank">河南煤矿瓦斯喷发 致1死7失踪</a></li>
 <li><a href="/comments/20210605/1561033.md" target="_blank">时事大家谈：美国新冠溯源 中国不配合背后有隐情？越南发现混合变异病毒全球防疫更艰巨？</a></li>
 <li><a href="/comments/20210605/1561008.md" target="_blank">《抉择》电影角色之老兵遗孤｜一个空虚浮世一个曲折离奇，是什么让两个完全不同人生的女孩的命运相连？</a></li>
 <li><a href="/comments/20210605/1561000.md" target="_blank">不管今夜维园光景如何</a></li>
@@ -118,11 +123,6 @@
 <li><a href="/comments/20210605/1560906.md" target="_blank">【六四 32 周年】7 圣堂追思弥撒满座 市民门口点烛光：终有一日，把火会烧得好旺</a></li>
 <li><a href="/comments/20210605/1560903.md" target="_blank">别扔！西瓜皮的功效多多</a></li>
 <li><a href="/comments/20210605/1560902.md" target="_blank">防中暑热伤害5种夏日补水法</a></li>
-<li><a href="/comments/20210605/1560895.md" target="_blank">继台湾之后 日本拟向越南提供疫苗 抗衡中共「疫苗外交」</a></li>
-<li><a href="/comments/20210605/1560880.md" target="_blank">【六四 32 周年】警如临大敌 水炮车进驻港岛 隧道设路障 反恐部队巡港铁站</a></li>
-<li><a href="/comments/20210605/1560879.md" target="_blank">连这点行礼如仪的自由 都被夺去的时候</a></li>
-<li><a href="/comments/20210605/1560877.md" target="_blank">《杨尚昆日记》：对六四有不同看法 为赵紫阳打抱不平 坚信六四会平反 对邓小平将杨白冰赶下台不满 江泽民下令将邓质方拘留 邓小平妻卓林扬言要自杀 杨尚昆为邓子女说情 给江泽民打电话说手下留情 中南海谣言预言_468</a></li>
-<li><a href="/comments/20210605/1560873.md" target="_blank">美国《周刊》评论： COVID的真相关系到中共政权的政治生存【阿波罗网编译】</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
 <li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
 
 </ul>
 </div>
