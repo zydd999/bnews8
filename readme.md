@@ -10,21 +10,21 @@
 <li><a href="/topimagenews/20210606/1561115.md">何清涟：中澳贸易战输的一塌糊度 北京失算在哪？</a></li>
 <li><a href="/comments/20210605/1560928.md">川普首提再次执掌白宫。川普周六公开演讲。彭斯跳精妙舞步，竟无一人喝彩！去年被坑苦，RNC呼吁改革总统电视辩论，否则不玩了。</a></li>
 <li><a href="/bannedvideo/20210605/1560927.md">陈破空：突传：胡锦涛之子将升任南昌市委书记？习近平被迫让步。李克强再发异声，话中有话</a></li>
-<li><a href="/cbnews/20210605/1560983.md">安徽安庆市一男子当街持刀行凶 5死15伤</a></li>
 <li><a href="/yule/20210606/1561090.md">大S怒斩10年婚有内幕？汪小菲疑背妻搂妹照疯传</a></li>
+<li><a href="/cbnews/20210605/1560983.md">安徽安庆市一男子当街持刀行凶 5死15伤</a></li>
 <li><a href="/cbnews/20210606/1561281.md">天亮时分：中共高阶生化武器专家叛逃美国，FBI和CIA都被蒙在鼓里；布什家族基金会收取北京500万美元赞助；（政论天下第438集 20210605）</a></li>
 <li><a href="/ssgc/20210605/1560962.md">哈尔滨护士爆料 再证中共瞒染疫死亡数</a></li>
 <li><a href="/cbnews/20210606/1561190.md">落马的河南政法委书记甘荣坤作恶多少？</a></li>
-<li><a href="/cbnews/20210605/1560996.md">广州疫情续烧 南沙区突封闭 民众措手不及被堵叫苦</a></li>
 <li><a href="/bannedvideo/20210606/1561186.md">老共把人民当猪养，连JB都要管！用套套罚款10万？人民没有下流的权利？</a></li>
-<li><a href="/cnnews/20210606/1561138.md">一线采访：市民爆广州接近封城 无症状者多</a></li>
+<li><a href="/cbnews/20210605/1560996.md">广州疫情续烧 南沙区突封闭 民众措手不及被堵叫苦</a></li>
+<li><a href="/cnnews/20210606/1561326.md">中共政坛更大风暴或很快来临【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20210605/1560918.md">人民币升值到顶？中共2年前就研发人化肺老鼠 影射习帝惹祸 美团买平安</a></li>
+<li><a href="/cnnews/20210606/1561138.md">一线采访：市民爆广州接近封城 无症状者多</a></li>
 <li><a href="/cnnews/20210605/1560973.md">中共阻日疫苗专机飞台 日防相紧盯 美机护航</a></li>
 <li><a href="/cnnews/hknews/20210605/1560912.md">打中国疫苗港80余人死亡 有人疑患吉巴氏综合症</a></li>
 <li><a href="/cnnews/20210605/1561042.md">中国缺电是假象？王维洛分析“电老虎”内幕令人吃惊</a></li>
-<li><a href="/cnnews/20210606/1561326.md">中共政坛更大风暴或很快来临【阿波罗网报道】</a></li>
-<li><a href="/comments/20210606/1561200.md">习近平不满大外宣 王沪宁难辞其咎</a></li>
 <li><a href="/bannedvideo/20210606/1561224.md">陈破空：快讯：中国最高级别叛逃者抵美！美国掌控重大情报。澳洲示警：可能与中国开战。美国严肃对待外星人踪影，或是中俄飞行器？</a></li>
+<li><a href="/comments/20210606/1561200.md">习近平不满大外宣 王沪宁难辞其咎</a></li>
 <li><a href="/funmedia/20210605/1560920.md">NASA火星探测发现巨型UFO“软着陆”</a></li>
 <li><a href="/yule/20210606/1561171.md">大S再爆离婚汪小菲另有原因 蔡康永当年一句话让小S秒变脸</a></li>
 <li><a href="/cnnews/20210606/1561149.md">名家专栏：中美贸易正在发生根本变化</a></li>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210606/1561432.md" target="_blank">男子每天8颗维他命 竟吃成肝衰竭</a></li>
 <li><a href="/comments/20210606/1561421.md" target="_blank">【六四 32 周年】李卓人狱中禁食、点 6 长 4 短火柴、唱《自由花》悼念</a></li>
 <li><a href="/comments/20210606/1561420.md" target="_blank">【反抗运动两周年评论】学习在威权下作为教授</a></li>
 <li><a href="/comments/20210606/1561419.md" target="_blank">【编辑室手记】“这件事对我非常重要”</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210606/1561319.md" target="_blank">【世界美景视频】：《古典京剧雕刻艺术》《苹果刻字艺术》《涂手画 红梅花 》</a></li>
 <li><a href="/comments/20210606/1561318.md" target="_blank">【独家】诗一首：《浮世绘》</a></li>
 <li><a href="/comments/20210606/1561313.md" target="_blank">【微博精粹】发现韭菜明显不够用才想起韭菜苗</a></li>
-<li><a href="/comments/20210606/1561312.md" target="_blank">方圆：政治局问道于盲 大外宣自说自话</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
 <li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
 <li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
 
 </ul>
 </div>
