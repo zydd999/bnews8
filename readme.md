@@ -7,11 +7,11 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/comments/20210606/1561353.md">美媒曝：中共惊现有史以来最高级别叛逃</a></li>
 <li><a href="/cnnews/20210606/1561326.md">中共政坛更大风暴或很快来临【阿波罗网报道】</a></li>
-<li><a href="/comments/20210606/1561431.md">面对人口崩塌危机，习近平很快就会彻底学朝鲜 — 曾节明</a></li>
 <li><a href="/bannedvideo/20210606/1561186.md">老共把人民当猪养，连JB都要管！用套套罚款10万？人民没有下流的权利？</a></li>
+<li><a href="/comments/20210606/1561431.md">面对人口崩塌危机，习近平很快就会彻底学朝鲜 — 曾节明</a></li>
 <li><a href="/cbnews/20210606/1561281.md">天亮时分：中共高阶生化武器专家叛逃美国，FBI和CIA都被蒙在鼓里；布什家族基金会收取北京500万美元赞助；（政论天下第438集 20210605）</a></li>
-<li><a href="/cbnews/20210606/1561190.md">落马的河南政法委书记甘荣坤作恶多少？</a></li>
 <li><a href="/topimagenews/20210606/1561365.md">恒大现金流遇大麻烦？或成今年房地产领域最大的黑天鹅事件</a></li>
+<li><a href="/cbnews/20210606/1561190.md">落马的河南政法委书记甘荣坤作恶多少？</a></li>
 <li><a href="/cnnews/20210606/1561461.md">46万企业倒闭7.8亿人负债，99％中国人收入真相</a></li>
 <li><a href="/health/20210606/1561409.md">中国人爱吃的这种鱼，为何被世卫组织列为致癌名单？另外还有这4样</a></li>
 <li><a href="/cnnews/20210606/1561414.md">参议员保罗爆猛料：武汉实验室用"死亡率15%"的病毒做实验 全球会死5千万【阿波罗网编译】</a></li>
@@ -22,11 +22,11 @@
 <li><a href="/yule/20210606/1561171.md">大S再爆离婚汪小菲另有原因 蔡康永当年一句话让小S秒变脸</a></li>
 <li><a href="/bannedvideo/20210606/1561242.md">20210606直播: 陈佩斯被军人抓捕；孔庆东曾追随王丹；金灿荣、司马南曾积极参与六四......那些当年的历史细节；回答观众问题。</a></li>
 <li><a href="/ssgc/20210606/1561307.md">〖微博谈〗这个国家正以肉眼可见的速度腐烂着</a></li>
-<li><a href="/cnnews/20210606/1561149.md">名家专栏：中美贸易正在发生根本变化</a></li>
 <li><a href="/comments/20210606/1561367.md">美国三大议员突访台 其中一人背景特殊 中国“小粉红”崩溃了</a></li>
 <li><a href="/bannedvideo/20210606/1561468.md">陈破空：什么风向？官媒忽然大赞敏感旧文！习近平要转向？或是反习阵营在行动，反击极左</a></li>
-<li><a href="/lifebaike/20210606/1561460.md">明朝皇帝短命之谜已解? 看似很荒诞，实际很靠谱</a></li>
 <li><a href="/comments/20210606/1561557.md">武汉历史重演？广州疫情很严重？！ 警告亲友：疫情恐怖“乖乖呆在家”</a></li>
+<li><a href="/lifebaike/20210606/1561460.md">明朝皇帝短命之谜已解? 看似很荒诞，实际很靠谱</a></li>
+<li><a href="/comments/20210606/1561513.md">冯崇义教授：中国政变的可能性？民变、兵变、高层政变或是⋯⋯</a></li>
 <li><a href="/lifebaike/20210606/1561218.md">肝病的“催化剂”，与酒精无关，这个坏习惯，很多人都改不掉</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210607/1561640.md" target="_blank">慧可的手臂是谁砍断？禅宗三祖为何默默无名？</a></li>
 <li><a href="/cbnews/20210607/1561594.md" target="_blank">5600医护人员驰援广州 网传医生曝疫情内幕示警</a></li>
 <li><a href="/cbnews/20210607/1561593.md" target="_blank">五一撒毒 疫情在广东蔓延 湛江吴川现感染病例</a></li>
 <li><a href="/cbnews/20210607/1561592.md" target="_blank">广州封城混乱 官媒称居民“想吃盆菜加班即做”惹民愤质疑特权</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210606/1561188.md" target="_blank">长沙格力仓库突发大火 网民：以为原子弹爆炸</a></li>
 <li><a href="/comments/20210606/1561181.md" target="_blank">美参院军事和外交委员会议员将访问台湾；G7财长达成全球税改协议；蓬佩奥： 中共六四杀中国人；香港支联会副主席遭扣留后获释；佩洛西回顾纪念六四 造访天安门【希望之声-每日头条-2021/06/05】</a></li>
 <li><a href="/comments/20210606/1561180.md" target="_blank">他的成功得益于另一个天才的死去！他是和米开朗基罗鼎足而立的一代宗师！梅杜莎脑袋的神奇妙用成就了这位大英雄！忒修斯忘恩负义甩姑娘，后果就是父亲自杀身亡！【大话西油 姜光宇】(2021.06.05）</a></li>
-<li><a href="/cbnews/20210606/1561162.md" target="_blank">反对建复旦分校 数千匈牙利人上街抗议</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210607/1561642.md" target="_blank">东赛：诗祭六四——致“6.4”运动32周年纪念日</a></li>
+<li><a href="/comments/20210607/1561640.md" target="_blank">慧可的手臂是谁砍断？禅宗三祖为何默默无名？</a></li>
 <li><a href="/comments/20210607/1561632.md" target="_blank">G7就企业税达成历史性协议 美英法加财长齐点赞</a></li>
 <li><a href="/comments/20210607/1561631.md" target="_blank">泰国南奔府：咖啡店</a></li>
 <li><a href="/comments/20210607/1561627.md" target="_blank">英格兰推行首次住房买家的优惠政策</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210606/1561557.md" target="_blank">武汉历史重演？广州疫情很严重？！ 警告亲友：疫情恐怖“乖乖呆在家”</a></li>
 <li><a href="/comments/20210606/1561542.md" target="_blank">广州封城混乱 官媒称居民“想吃盆菜加班即做”惹民愤</a></li>
 <li><a href="/comments/20210606/1561541.md" target="_blank">Ct值是什么？为什么Ct值高比较安全？</a></li>
-<li><a href="/comments/20210606/1561540.md" target="_blank">染疫者年轻化且无症状 医呼吁家长注意2点</a></li>
-<li><a href="/comments/20210606/1561539.md" target="_blank">新冠凶险？！在一妇女体内竟变异32次</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
 <li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
 
 </ul>
 </div>
