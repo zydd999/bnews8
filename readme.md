@@ -98,6 +98,13 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210607/1561604.md" target="_blank">2架无人机驻伊基地上空盘旋 美军悉数击毁</a></li>
+<li><a href="/comments/20210607/1561600.md" target="_blank">六四正日问“今天是几月几号” 小红书微博帐号被封</a></li>
+<li><a href="/comments/20210607/1561599.md" target="_blank">摆六四街站区议员陆续收警告信 fb贴 Beyond歌词、吁熄灯一小时 被指与区议会工作无关</a></li>
+<li><a href="/comments/20210607/1561598.md" target="_blank">中国电商64当天勇问：“今天几号？” 事后惨遭停权</a></li>
+<li><a href="/comments/20210607/1561597.md" target="_blank">【戈壁东专栏】：一个无耻到极点的影片 反映的中共大外宣新动向</a></li>
+<li><a href="/comments/20210607/1561596.md" target="_blank">恐夺5千万条命？美参议员爆料：武汉正实验“死亡率15％”病毒</a></li>
+<li><a href="/comments/20210607/1561595.md" target="_blank">【戈壁东专栏】：中共最担心的事已经发生 高级军官叛逃美国揭露生物战真相</a></li>
 <li><a href="/comments/20210607/1561586.md" target="_blank">宣布一些死亡并非疫情引起 美加州下调染疫死者数</a></li>
 <li><a href="/comments/20210607/1561582.md" target="_blank">全球税务改革 G7财长会议达成历史性协议</a></li>
 <li><a href="/comments/20210607/1561581.md" target="_blank">再现隐瞒疫情！5600医护驰援广州 知情人：很多无症状者官方不敢报</a></li>
@@ -116,13 +123,6 @@
 <li><a href="/comments/20210606/1561535.md" target="_blank">六四晚会首年绝迹维园，民众坚持绕圈悼念</a></li>
 <li><a href="/comments/20210606/1561534.md" target="_blank">【六四32 周年】 区议员甄启荣6.4 街站被毁 遭警以涉嫌普通袭击拘捕 斥“原告变被告”</a></li>
 <li><a href="/comments/20210606/1561533.md" target="_blank">【双语诗歌 Bilingual Poetry】：恩典中的信仰与希望 Hope and Faith in Grace</a></li>
-<li><a href="/comments/20210606/1561531.md" target="_blank">中共阻日疫苗专机飞台 日防相紧盯 美机现踪</a></li>
-<li><a href="/comments/20210606/1561523.md" target="_blank">川普在北卡共和党大会上做压轴演讲。社交媒体广传视频，川普说：我们要D回白宫，比你想像的还要快。</a></li>
-<li><a href="/comments/20210606/1561515.md" target="_blank">秦晋博士：“六四”不仅仅只是悼念，要人权须先解决政权</a></li>
-<li><a href="/comments/20210606/1561513.md" target="_blank">冯崇义教授：中国政变的可能性？民变、兵变、高层政变或是⋯⋯</a></li>
-<li><a href="/comments/20210606/1561506.md" target="_blank">💥美参议员抵台宣布赠75万剂疫苗；日本拟向越南赠疫苗 抗衡中共“疫苗外交”；撇清武毒所世卫专家要与石正丽喝酒；广州全员检测佛山多地封村；时隔一月金正恩现身【希望之声TV-两岸要闻-2021/06/6】</a></li>
-<li><a href="/comments/20210606/1561473.md" target="_blank">何俊仁入狱后每天到洗衣房工作 洗地半小时感吃力 瘦了 4 公斤</a></li>
-<li><a href="/comments/20210606/1561472.md" target="_blank">创造新的公共记忆 令历史照进未来</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
 <li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
 
 </ul>
 </div>
