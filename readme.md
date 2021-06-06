@@ -10,24 +10,24 @@
 <li><a href="/yule/20210606/1561090.md">大S怒斩10年婚有内幕？汪小菲疑背妻搂妹照疯传</a></li>
 <li><a href="/comments/20210606/1561353.md">美媒曝：中共惊现有史以来最高级别叛逃</a></li>
 <li><a href="/comments/20210606/1561431.md">面对人口崩塌危机，习近平很快就会彻底学朝鲜 — 曾节明</a></li>
+<li><a href="/bannedvideo/20210606/1561186.md">老共把人民当猪养，连JB都要管！用套套罚款10万？人民没有下流的权利？</a></li>
 <li><a href="/cnnews/20210606/1561326.md">中共政坛更大风暴或很快来临【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20210606/1561281.md">天亮时分：中共高阶生化武器专家叛逃美国，FBI和CIA都被蒙在鼓里；布什家族基金会收取北京500万美元赞助；（政论天下第438集 20210605）</a></li>
-<li><a href="/bannedvideo/20210606/1561186.md">老共把人民当猪养，连JB都要管！用套套罚款10万？人民没有下流的权利？</a></li>
 <li><a href="/topimagenews/20210606/1561365.md">恒大现金流遇大麻烦？或成今年房地产领域最大的黑天鹅事件</a></li>
 <li><a href="/cbnews/20210606/1561190.md">落马的河南政法委书记甘荣坤作恶多少？</a></li>
 <li><a href="/health/20210606/1561409.md">中国人爱吃的这种鱼，为何被世卫组织列为致癌名单？另外还有这4样</a></li>
 <li><a href="/cnnews/20210606/1561138.md">一线采访：市民爆广州接近封城 无症状者多</a></li>
-<li><a href="/cnnews/20210606/1561414.md">参议员保罗爆猛料：武汉实验室用"死亡率15%"的病毒做实验 全球会死5千万【阿波罗网编译】</a></li>
 <li><a href="/cnnews/20210606/1561461.md">46万企业倒闭7.8亿人负债，99％中国人收入真相</a></li>
+<li><a href="/cnnews/20210606/1561414.md">参议员保罗爆猛料：武汉实验室用"死亡率15%"的病毒做实验 全球会死5千万【阿波罗网编译】</a></li>
+<li><a href="/topimagenews/20210606/1561402.md">薛守维：神奇的行贿术</a></li>
 <li><a href="/bannedvideo/20210606/1561224.md">陈破空：快讯：中国最高级别叛逃者抵美！美国掌控重大情报。澳洲示警：可能与中国开战。美国严肃对待外星人踪影，或是中俄飞行器？</a></li>
 <li><a href="/comments/20210606/1561200.md">习近平不满大外宣 王沪宁难辞其咎</a></li>
-<li><a href="/topimagenews/20210606/1561402.md">薛守维：神奇的行贿术</a></li>
 <li><a href="/yule/20210606/1561171.md">大S再爆离婚汪小菲另有原因 蔡康永当年一句话让小S秒变脸</a></li>
 <li><a href="/cnnews/20210606/1561149.md">名家专栏：中美贸易正在发生根本变化</a></li>
-<li><a href="/bannedvideo/20210606/1561242.md">20210606直播: 陈佩斯被军人抓捕；孔庆东曾追随王丹；金灿荣、司马南曾积极参与六四......那些当年的历史细节；回答观众问题。</a></li>
 <li><a href="/ssgc/20210606/1561307.md">〖微博谈〗这个国家正以肉眼可见的速度腐烂着</a></li>
+<li><a href="/bannedvideo/20210606/1561242.md">20210606直播: 陈佩斯被军人抓捕；孔庆东曾追随王丹；金灿荣、司马南曾积极参与六四......那些当年的历史细节；回答观众问题。</a></li>
 <li><a href="/comments/20210606/1561367.md">美国三大议员突访台 其中一人背景特殊 中国“小粉红”崩溃了</a></li>
-<li><a href="/comments/20210606/1561119.md">震撼演艺圈 大S离婚！ 汪小菲批台湾“太无耻，太低级”惹大祸</a></li>
+<li><a href="/bannedvideo/20210606/1561458.md">广东疫情持续严重。6月6日凌晨，广东湛江吴川市发现无症状感染者。现在吴川市覃巴镇正在核酸检测下榕村全封，老百姓开始囤积大米</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210607/1561573.md" target="_blank">万润南词二首：【西江月】雅颂 【八声甘州】忆当年</a></li>
+<li><a href="/comments/20210607/1561572.md" target="_blank">【古物件欣赏】《元朝珍品》《金朝珍品》</a></li>
+<li><a href="/comments/20210607/1561571.md" target="_blank">美军研发火箭快递 100吨物资1小时送达全球</a></li>
+<li><a href="/comments/20210607/1561570.md" target="_blank">【画缘】躺平猫：姿势躺对了吗？</a></li>
 <li><a href="/comments/20210606/1561558.md" target="_blank">万润南诗词二首：【西江月】雅颂 【八声甘州】忆当年</a></li>
 <li><a href="/comments/20210606/1561557.md" target="_blank">武汉历史重演？广州疫情很严重？！ 警告亲友：疫情恐怖“乖乖呆在家”</a></li>
 <li><a href="/comments/20210606/1561542.md" target="_blank">广州封城混乱 官媒称居民“想吃盆菜加班即做”惹民愤</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210606/1561470.md" target="_blank">6.4 晚出嚟，你担唔担心会被捕？</a></li>
 <li><a href="/comments/20210606/1561467.md" target="_blank">纽约各界反思“六四”：突破历史局限 认清中共本质</a></li>
 <li><a href="/comments/20210606/1561431.md" target="_blank">面对人口崩塌危机，习近平很快就会彻底学朝鲜 — 曾节明</a></li>
-<li><a href="/comments/20210606/1561440.md" target="_blank">养生的最高境界：慈悲</a></li>
-<li><a href="/comments/20210606/1561439.md" target="_blank">营养师盘点提升免疫「6大食物」你吃对了吗？</a></li>
-<li><a href="/comments/20210606/1561432.md" target="_blank">男子每天8颗维他命 竟吃成肝衰竭</a></li>
-<li><a href="/comments/20210606/1561421.md" target="_blank">【六四 32 周年】李卓人狱中禁食、点 6 长 4 短火柴、唱《自由花》悼念</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
 <li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
 <li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
 
 </ul>
 </div>
