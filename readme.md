@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/cbnews/20210605/1560599.md">泥淖愈陷愈深 四件大事钉死习近平 中国走向危险</a></li>
 <li><a href="/topimagenews/20210605/1560763.md">朝鲜女兵惨况 遭上级凌辱一奇招曝光</a></li>
 <li><a href="/cbnews/20210605/1560802.md">"狂吼"响彻上海苏州河畔！居民崩溃：家里要装3层玻璃…</a></li>
 <li><a href="/funmedia/20210605/1560729.md">“我要娶妹妹！”兄妹15年不分床，亲情变质让母亲崩溃</a></li>
@@ -16,18 +15,19 @@
 <li><a href="/yule/20210605/1560791.md">又一对 大S、汪小菲宣布离婚</a></li>
 <li><a href="/lifebaike/20210605/1561041.md">五六十岁的男人更喜欢多少岁的女性？回答来了</a></li>
 <li><a href="/bannedvideo/20210605/1560927.md">陈破空：突传：胡锦涛之子将升任南昌市委书记？习近平被迫让步。李克强再发异声，话中有话</a></li>
-<li><a href="/cbnews/20210605/1560983.md">安徽安庆市一男子当街持刀行凶 5死15伤</a></li>
 <li><a href="/comments/20210605/1560928.md">川普首提再次执掌白宫。川普周六公开演讲。彭斯跳精妙舞步，竟无一人喝彩！去年被坑苦，RNC呼吁改革总统电视辩论，否则不玩了。</a></li>
+<li><a href="/cbnews/20210605/1560983.md">安徽安庆市一男子当街持刀行凶 5死15伤</a></li>
 <li><a href="/cnnews/hknews/20210605/1560824.md">禁不住？“8964” 这也太巧了吧… 网友感言：天意难违</a></li>
-<li><a href="/ssgc/20210605/1560596.md">〖微博谈〗这种话很恶心</a></li>
 <li><a href="/ssgc/20210605/1560962.md">哈尔滨护士爆料 再证中共瞒染疫死亡数</a></li>
 <li><a href="/cbnews/20210605/1560918.md">人民币升值到顶？中共2年前就研发人化肺老鼠 影射习帝惹祸 美团买平安</a></li>
-<li><a href="/cbnews/20210605/1560996.md">广州疫情续烧 南沙区突封闭 民众措手不及被堵叫苦</a></li>
 <li><a href="/cnnews/20210605/1561042.md">中国缺电是假象？王维洛分析“电老虎”内幕令人吃惊</a></li>
+<li><a href="/yule/20210606/1561090.md">大S怒斩10年婚有内幕？汪小菲疑背妻搂妹照疯传</a></li>
+<li><a href="/cbnews/20210605/1560996.md">广州疫情续烧 南沙区突封闭 民众措手不及被堵叫苦</a></li>
 <li><a href="/cnnews/hknews/20210605/1560912.md">打中国疫苗港80余人死亡 有人疑患吉巴氏综合症</a></li>
+<li><a href="/cbnews/20210606/1561146.md">卡尔森：美握史上“最高级别中国叛逃者”曝生物武器计划</a></li>
 <li><a href="/cnnews/20210605/1560637.md">中国巨富梦断塞班岛：一次输20亿，最终毁掉公司</a></li>
+<li><a href="/cnnews/20210605/1560973.md">中共阻日疫苗专机飞台 日防相紧盯 美机护航</a></li>
 <li><a href="/worldnews/20210605/1560856.md">英国电视大腕：如果武汉实验室泄露坐实 中共的罪名就是大规模屠杀【阿波罗网编译】</a></li>
-<li><a href="/cnnews/20210605/1560864.md">这脸打的！大陆国产手机巨头都不用鸿蒙</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,9 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210606/1561190.md" target="_blank">落马的河南政法委书记甘荣坤作恶多少？</a></li>
+<li><a href="/cbnews/20210606/1561189.md" target="_blank">害怕生不起？ “三胎贷”来了</a></li>
+<li><a href="/cbnews/20210606/1561188.md" target="_blank">长沙格力仓库突发大火 网民：以为原子弹爆炸</a></li>
 <li><a href="/comments/20210606/1561181.md" target="_blank">美参院军事和外交委员会议员将访问台湾；G7财长达成全球税改协议；蓬佩奥： 中共六四杀中国人；香港支联会副主席遭扣留后获释；佩洛西回顾纪念六四 造访天安门【希望之声-每日头条-2021/06/05】</a></li>
 <li><a href="/comments/20210606/1561180.md" target="_blank">他的成功得益于另一个天才的死去！他是和米开朗基罗鼎足而立的一代宗师！梅杜莎脑袋的神奇妙用成就了这位大英雄！忒修斯忘恩负义甩姑娘，后果就是父亲自杀身亡！【大话西油 姜光宇】(2021.06.05）</a></li>
 <li><a href="/cbnews/20210606/1561162.md" target="_blank">反对建复旦分校 数千匈牙利人上街抗议</a></li>
@@ -58,9 +61,6 @@
 <li><a href="/cbnews/20210605/1560809.md" target="_blank">江峰：内蒙煤炭窝案“倒查20年” ，死人的档案也要翻，吃的都要吐出来！反腐力度加强不仅为保习，而是全党清洗，2.0版延安整风即将到来。【江峰漫谈20210604第331期】</a></li>
 <li><a href="/cbnews/20210605/1560803.md" target="_blank">四星上将 美太平洋空军司令：我与中国人民没矛盾 与中共有</a></li>
 <li><a href="/cbnews/20210605/1560802.md" target="_blank">&#8220;狂吼&#8221;响彻上海苏州河畔！居民崩溃：家里要装3层玻璃…</a></li>
-<li><a href="/comments/20210605/1560783.md" target="_blank">蓬佩奥遭警告！不许调查中共病毒来源！中共军机逼近马拉西亚和台湾！美太平洋空军司令谴责！大陆火车撞上修路工人致9死 事故真相被隐瞒 【希望之声-午夜新闻-2021/06/04】</a></li>
-<li><a href="/cbnews/20210605/1560774.md" target="_blank">分析：拜登投资禁令撤掉了哪些曾上榜的中企</a></li>
-<li><a href="/comments/20210605/1560773.md" target="_blank">阻止台海之战的釜底抽薪之策（第五部分）（中共命运的轨迹和人类前途  第二十一讲）【袁红冰纵论天下】 06052021</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210606/1561204.md" target="_blank">关怀台湾疫情 美参议员增加行程旋风访台3小时</a></li>
+<li><a href="/comments/20210606/1561200.md" target="_blank">习近平不满大外宣 王沪宁难辞其咎</a></li>
+<li><a href="/comments/20210606/1561199.md" target="_blank">林保华：台湾成中西疫苗战前线民众必须认清中共代理人真面目</a></li>
+<li><a href="/comments/20210606/1561187.md" target="_blank">【随笔】我的画作</a></li>
 <li><a href="/comments/20210606/1561184.md" target="_blank">麦杰逊：哈！一个极品无人性”专家“出现了：生三胎，限制避孕物品</a></li>
 <li><a href="/comments/20210606/1561181.md" target="_blank">美参院军事和外交委员会议员将访问台湾；G7财长达成全球税改协议；蓬佩奥： 中共六四杀中国人；香港支联会副主席遭扣留后获释；佩洛西回顾纪念六四 造访天安门【希望之声-每日头条-2021/06/05】</a></li>
 <li><a href="/comments/20210606/1561180.md" target="_blank">他的成功得益于另一个天才的死去！他是和米开朗基罗鼎足而立的一代宗师！梅杜莎脑袋的神奇妙用成就了这位大英雄！忒修斯忘恩负义甩姑娘，后果就是父亲自杀身亡！【大话西油 姜光宇】(2021.06.05）</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210606/1561103.md" target="_blank">【生活美学】《景德镇瓷器》</a></li>
 <li><a href="/comments/20210606/1561102.md" target="_blank">回应移民退学潮 杨润雄：好多人走，都好多人返嚟 强调港教育国际排名高</a></li>
 <li><a href="/comments/20210606/1561101.md" target="_blank">麻州警方缅怀英雄警官 他为救溺水少年殉职</a></li>
-<li><a href="/comments/20210606/1561100.md" target="_blank">拜习会何时开？专家：习近平还会被拜登晾一段时间</a></li>
-<li><a href="/comments/20210606/1561099.md" target="_blank">法国取消部分旅行限制 哪些国家列入榜单？</a></li>
-<li><a href="/comments/20210606/1561085.md" target="_blank">【独家】诗一首：《望》</a></li>
-<li><a href="/comments/20210606/1561084.md" target="_blank">【生活美学】专栏：《景德镇瓷器》</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/cbnews/20210331/1516754.md" target="_blank">被传销团伙围杀时 丈夫说了这句话脱险</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
 <li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
 
 </ul>
 </div>
