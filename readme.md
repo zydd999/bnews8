@@ -9,18 +9,18 @@
 <li><a href="/cbnews/20210605/1560802.md">"狂吼"响彻上海苏州河畔！居民崩溃：家里要装3层玻璃…</a></li>
 <li><a href="/funmedia/20210605/1560729.md">“我要娶妹妹！”兄妹15年不分床，亲情变质让母亲崩溃</a></li>
 <li><a href="/comments/20210605/1560782.md">六四陪同赵紫阳旧照突现 温家宝神情凝重沉默许久 随后缓缓发表敏感言论 中南海不可告人的秘密_391</a></li>
-<li><a href="/bannedvideo/20210605/1560885.md">习近平在备战？这些异常信号每个人都要警惕--天钧政经</a></li>
 <li><a href="/cbnews/20210606/1561146.md">卡尔森：美握史上“最高级别中国叛逃者”曝生物武器计划</a></li>
+<li><a href="/bannedvideo/20210605/1560885.md">习近平在备战？这些异常信号每个人都要警惕--天钧政经</a></li>
 <li><a href="/bannedvideo/20210605/1560806.md">武汉叛逃者？关键证人出现；福奇的邮件爆重要线索，病毒不寻常特征疑似实验室改造｜薇羽看世间 第312期 20210604</a></li>
 <li><a href="/yule/20210605/1560791.md">又一对 大S、汪小菲宣布离婚</a></li>
-<li><a href="/lifebaike/20210605/1561041.md">五六十岁的男人更喜欢多少岁的女性？回答来了</a></li>
 <li><a href="/topimagenews/20210606/1561115.md">何清涟：中澳贸易战输的一塌糊度 北京失算在哪？</a></li>
+<li><a href="/lifebaike/20210605/1561041.md">五六十岁的男人更喜欢多少岁的女性？回答来了</a></li>
 <li><a href="/comments/20210605/1560928.md">川普首提再次执掌白宫。川普周六公开演讲。彭斯跳精妙舞步，竟无一人喝彩！去年被坑苦，RNC呼吁改革总统电视辩论，否则不玩了。</a></li>
 <li><a href="/cbnews/20210605/1560983.md">安徽安庆市一男子当街持刀行凶 5死15伤</a></li>
 <li><a href="/bannedvideo/20210605/1560927.md">陈破空：突传：胡锦涛之子将升任南昌市委书记？习近平被迫让步。李克强再发异声，话中有话</a></li>
+<li><a href="/cnnews/hknews/20210605/1560824.md">禁不住？“8964” 这也太巧了吧… 网友感言：天意难违</a></li>
 <li><a href="/ssgc/20210605/1560962.md">哈尔滨护士爆料 再证中共瞒染疫死亡数</a></li>
 <li><a href="/yule/20210606/1561090.md">大S怒斩10年婚有内幕？汪小菲疑背妻搂妹照疯传</a></li>
-<li><a href="/cnnews/hknews/20210605/1560824.md">禁不住？“8964” 这也太巧了吧… 网友感言：天意难违</a></li>
 <li><a href="/cbnews/20210605/1560918.md">人民币升值到顶？中共2年前就研发人化肺老鼠 影射习帝惹祸 美团买平安</a></li>
 <li><a href="/cnnews/20210605/1561042.md">中国缺电是假象？王维洛分析“电老虎”内幕令人吃惊</a></li>
 <li><a href="/cbnews/20210605/1560996.md">广州疫情续烧 南沙区突封闭 民众措手不及被堵叫苦</a></li>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210606/1561297.md" target="_blank">【独家】诗一首：《顿 悟》</a></li>
+<li><a href="/comments/20210606/1561296.md" target="_blank">脸书被禁用2年川普呛再当选不宴请札克柏格</a></li>
+<li><a href="/comments/20210606/1561295.md" target="_blank">台湾获美日捐赠疫苗！ 《环时》气炸：民进党严重哈日哈美</a></li>
 <li><a href="/comments/20210606/1561294.md" target="_blank">流落南方:失联的比赛、盲搜的救援和嚎啕大哭的志愿者</a></li>
 <li><a href="/comments/20210606/1561246.md" target="_blank">中国人一定要死过才能翻生 正义不会永远缺席</a></li>
 <li><a href="/comments/20210606/1561245.md" target="_blank">三胎政策刚出 就有专家组团出来丢人现眼</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210606/1561164.md" target="_blank">【古物件欣赏】《汉代珍品》</a></li>
 <li><a href="/comments/20210606/1561161.md" target="_blank">“六四”32周年 数百旅英港人中使馆前烛光悼念</a></li>
 <li><a href="/comments/20210606/1561153.md" target="_blank">血洗京城：六四枪声 震碎国人的心（下）</a></li>
-<li><a href="/comments/20210606/1561143.md" target="_blank">【六四 32 周年】温哥华 1800 人冒雨悼念 原定邀邹幸彤越洋分享 在加港人盼“延续维园”</a></li>
-<li><a href="/comments/20210606/1561142.md" target="_blank">【六四 32 周年】500 人出席纽约悼念晚会 周永康：实在是一种奢侈</a></li>
-<li><a href="/comments/20210606/1561141.md" target="_blank">是香港的六四</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
 <li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
 <li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/cbnews/20210331/1516754.md" target="_blank">被传销团伙围杀时 丈夫说了这句话脱险</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
 
 </ul>
 </div>
