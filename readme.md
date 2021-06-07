@@ -5,16 +5,13 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/bannedvideo/20210607/1561601.md">玩大了!中共生物专家叛逃美国到底带了什么? 中共高端甩锅厉害( 2021年6月6日)</a></li>
 <li><a href="/cbnews/20210607/1561645.md">66%接种 广州疫情续恶化 中共专家自曝疫苗效性</a></li>
 <li><a href="/cbnews/20210607/1561707.md">还记得犀利哥？“最帅乞丐”爆红11年后 近况曝光网震惊</a></li>
 <li><a href="/cbnews/20210607/1561676.md">广东疫情蔓延 专家：病毒比2020年厉害得多</a></li>
 <li><a href="/cbnews/20210607/1561646.md">安庆砍人20死伤 胡锡进称“不多”被骂冷血</a></li>
 <li><a href="/comments/20210607/1561869.md">中共最高级别专家逃美，透露中共军方秘密计划。其级别有多高？与国防情报部已合作3个月，不信任联邦调查局和中情局。</a></li>
-<li><a href="/yule/20210607/1561603.md">大S：你有没有后悔娶我？汪小菲支吾3秒惊吐死亡答案</a></li>
 <li><a href="/cbnews/20210607/1561767.md">习近平要求改变宣传调子 但是“太晚了”</a></li>
 <li><a href="/comments/20210607/1561827.md">李小鹏二十大前景惹议 ”红色公主“自称：李鹏女儿身份是阻力</a></li>
-<li><a href="/comments/20210607/1561595.md">【戈壁东专栏】：中共最担心的事已经发生 高级军官叛逃美国揭露生物战真相</a></li>
 <li><a href="/baitai/20210607/1561610.md">拜登的胜利！G7达成历史性协议</a></li>
 <li><a href="/ssgc/20210607/1561758.md">〖微博谈〗但中共却不敢吭声了</a></li>
 <li><a href="/cnnews/20210607/1561681.md">东北离婚率为什么这么高？</a></li>
@@ -23,11 +20,14 @@
 <li><a href="/comments/20210607/1561688.md">危机逼近，中共可能使用的几种超限战模式</a></li>
 <li><a href="/bannedvideo/20210607/1561864.md">大陆网站爆惊人内幕 广州到底发生了什么?  (2021年6月7日)</a></li>
 <li><a href="/comments/20210607/1561683.md">中共悔之晚矣，邓小平无意当中种下了亡共之根 — 曾节明</a></li>
-<li><a href="/cnnews/20210607/1561668.md">科学家确定新冠病毒的另一个危险后果</a></li>
 <li><a href="/cnnews/20210607/1561748.md">美日捐台疫苗 胡锡进狂挑衅 网叹：红线又退了</a></li>
+<li><a href="/cnnews/20210607/1561668.md">科学家确定新冠病毒的另一个危险后果</a></li>
 <li><a href="/bannedvideo/20210607/1561857.md">网友：去年武汉，今年广州。只要求民众隔离，不管民众死活，三四天没东西吃，也不准别人去买。</a></li>
 <li><a href="/cbnews/20210607/1561766.md">广州全市核酸检测 网传医生透露严重疫情</a></li>
 <li><a href="/bannedvideo/20210607/1561852.md">需求强劲，中共要建大批生物实验室；发出警报！习近平可能已经掌握了通过病毒控制世界的能力（20210607 第615期）</a></li>
+<li><a href="/cnnews/20210607/1561623.md">飞机零件被装反 资深飞行员坠机…生命最后2分钟如地狱</a></li>
+<li><a href="/funmedia/20210607/1561650.md">新郎结婚当天落跑！女方宴席中“选中男宾客”当场改嫁</a></li>
+<li><a href="/bannedvideo/20210607/1561868.md">陈破空：突然，毛左派大批被捕！高层斗争决出胜负？习家军败退！美国军机降落台湾，中共哑巴了！说好的必然开战呢</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210608/1561919.md" target="_blank">垃圾埇里的风波</a></li>
 <li><a href="/comments/20210608/1561915.md" target="_blank">【世界美景】图片：多肉植物堆出了画</a></li>
 <li><a href="/comments/20210608/1561910.md" target="_blank">普京签署法令 俄国确定退出“开放天空条约”</a></li>
 <li><a href="/comments/20210608/1561909.md" target="_blank">前英军情六处处长：中共可能已销毁武毒所数据</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210607/1561869.md" target="_blank">中共最高级别专家逃美，透露中共军方秘密计划。其级别有多高？与国防情报部已合作3个月，不信任联邦调查局和中情局。</a></li>
 <li><a href="/comments/20210607/1561862.md" target="_blank">小女孩一句话，吓死了前世夺命人。2008年9篇“再生人”连载纪实，震惊中国，官方背书。每个人都有前世，只是你弄丢了记忆。</a></li>
 <li><a href="/comments/20210607/1561860.md" target="_blank">【古物件欣赏】元青花 ：《釉里红花鸟纹盘》</a></li>
-<li><a href="/comments/20210607/1561859.md" target="_blank">【文藏论谈】6月刚刚发生：丹麦小拍Bruun Rasmussen惊现罕见永乐神品青花瓷器，一飞冲天，天价落槌</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
 <li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
 <li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
 
 </ul>
 </div>
