@@ -9,25 +9,25 @@
 <li><a href="/health/20210606/1561409.md">中国人爱吃的这种鱼，为何被世卫组织列为致癌名单？另外还有这4样</a></li>
 <li><a href="/cnnews/20210606/1561461.md">46万企业倒闭7.8亿人负债，99％中国人收入真相</a></li>
 <li><a href="/comments/20210606/1561557.md">武汉历史重演？广州疫情很严重？！ 警告亲友：疫情恐怖“乖乖呆在家”</a></li>
-<li><a href="/cnnews/20210606/1561414.md">参议员保罗爆猛料：武汉实验室用"死亡率15%"的病毒做实验 全球会死5千万【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20210607/1561645.md">66%接种 广州疫情续恶化 中共专家自曝疫苗效性</a></li>
+<li><a href="/cnnews/20210606/1561414.md">参议员保罗爆猛料：武汉实验室用"死亡率15%"的病毒做实验 全球会死5千万【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20210607/1561594.md">5600医护人员驰援广州 网传医生曝疫情内幕示警</a></li>
 <li><a href="/topimagenews/20210607/1561590.md">美媒爆史上最高级别中共官员逃美 揭“生物武器计划”</a></li>
 <li><a href="/bannedvideo/20210607/1561601.md">玩大了!中共生物专家叛逃美国到底带了什么? 中共高端甩锅厉害( 2021年6月6日)</a></li>
 <li><a href="/topimagenews/20210606/1561402.md">薛守维：神奇的行贿术</a></li>
 <li><a href="/bannedvideo/20210606/1561458.md">广东疫情持续严重。6月6日凌晨，广东湛江吴川市发现无症状感染者。现在吴川市覃巴镇正在核酸检测下榕村全封，老百姓开始囤积大米</a></li>
-<li><a href="/bannedvideo/20210606/1561468.md">陈破空：什么风向？官媒忽然大赞敏感旧文！习近平要转向？或是反习阵营在行动，反击极左</a></li>
-<li><a href="/baitai/20210607/1561610.md">拜登的胜利！G7达成历史性协议</a></li>
-<li><a href="/cbnews/20210607/1561646.md">安庆砍人20死伤 胡锡进称“不多”被骂冷血</a></li>
-<li><a href="/yule/20210607/1561603.md">大S：你有没有后悔娶我？汪小菲支吾3秒惊吐死亡答案</a></li>
 <li><a href="/cbnews/20210607/1561676.md">广东疫情蔓延 专家：病毒比2020年厉害得多</a></li>
-<li><a href="/comments/20210607/1561595.md">【戈壁东专栏】：中共最担心的事已经发生 高级军官叛逃美国揭露生物战真相</a></li>
+<li><a href="/baitai/20210607/1561610.md">拜登的胜利！G7达成历史性协议</a></li>
+<li><a href="/bannedvideo/20210606/1561468.md">陈破空：什么风向？官媒忽然大赞敏感旧文！习近平要转向？或是反习阵营在行动，反击极左</a></li>
+<li><a href="/cbnews/20210607/1561646.md">安庆砍人20死伤 胡锡进称“不多”被骂冷血</a></li>
 <li><a href="/cbnews/20210607/1561707.md">还记得犀利哥？“最帅乞丐”爆红11年后 近况曝光网震惊</a></li>
-<li><a href="/comments/20210606/1561367.md">美国三大议员突访台 其中一人背景特殊 中国“小粉红”崩溃了</a></li>
+<li><a href="/yule/20210607/1561603.md">大S：你有没有后悔娶我？汪小菲支吾3秒惊吐死亡答案</a></li>
+<li><a href="/comments/20210607/1561595.md">【戈壁东专栏】：中共最担心的事已经发生 高级军官叛逃美国揭露生物战真相</a></li>
 <li><a href="/cbnews/20210607/1561644.md">山东男子求爱不成 当众将女硕士残忍杀害</a></li>
 <li><a href="/lifebaike/20210606/1561460.md">明朝皇帝短命之谜已解? 看似很荒诞，实际很靠谱</a></li>
 <li><a href="/comments/20210606/1561513.md">冯崇义教授：中国政变的可能性？民变、兵变、高层政变或是⋯⋯</a></li>
-<li><a href="/comments/20210606/1561375.md">美情报界人士:  史上最高级别中共叛逃者已到美国与国防情报局合作3个月 透露中共“特殊武器计划” 包括“生物武器计划”和“冠状病毒”  川普总统：奥巴马政府2014年愚蠢地开始资助武汉病毒研究</a></li>
+<li><a href="/cnnews/20210607/1561681.md">东北离婚率为什么这么高？</a></li>
+<li><a href="/cnnews/20210607/1561668.md">科学家确定新冠病毒的另一个危险后果</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210607/1561827.md" target="_blank">李小鹏二十大前景惹议 ”红色公主“自称：李鹏女儿身份是阻力</a></li>
 <li><a href="/comments/20210607/1561820.md" target="_blank">美航班紧急迫降！疑似遭“劫机”？加拿大多人感染”神秘疾病”致 6死！美军基地遭伊拉克无人机入侵！皆被击落；【希望之声-午夜新闻-2021/06/06】</a></li>
 <li><a href="/comments/20210607/1561819.md" target="_blank">【独家】诗一首：《时雨》</a></li>
 <li><a href="/comments/20210607/1561818.md" target="_blank">川爷北卡州演讲释放重要信号，重回白宫后绝对饶不了一个人│#熊猫侠</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210607/1561688.md" target="_blank">危机逼近，中共可能使用的几种超限战模式</a></li>
 <li><a href="/comments/20210607/1561686.md" target="_blank">川普重返政治舞台 90分钟演讲对中共福奇开火 大规模民调显示：67%的人希望川普2024年当选 脸书封禁川普至少两年 川普表态与扎克伯格断交 “川普办公桌”平台永久关闭 发言人：好的在后头</a></li>
 <li><a href="/comments/20210607/1561685.md" target="_blank">消息：五角大楼UFO报告不能排除外星技术证据</a></li>
-<li><a href="/comments/20210607/1561679.md" target="_blank">美主持：史上最高级别中共官员叛逃美国；美议员访台：不会抛下台湾孤军奋战；联盟结晶 美新航母命名“堪培拉”；福西捆绑科学 对他批评是对科学攻击【希望之声-每日头条-2021/6/6】</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20210329/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
 <li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
 <li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
 
 </ul>
 </div>
