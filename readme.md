@@ -19,15 +19,15 @@
 <li><a href="/comments/20210607/1561683.md">中共悔之晚矣，邓小平无意当中种下了亡共之根 — 曾节明</a></li>
 <li><a href="/cbnews/20210607/1561766.md">广州全市核酸检测 网传医生透露严重疫情</a></li>
 <li><a href="/cnnews/20210607/1561748.md">美日捐台疫苗 胡锡进狂挑衅 网叹：红线又退了</a></li>
-<li><a href="/cnnews/20210607/1561668.md">科学家确定新冠病毒的另一个危险后果</a></li>
 <li><a href="/bannedvideo/20210607/1561868.md">陈破空：突然，毛左派大批被捕！高层斗争决出胜负？习家军败退！美国军机降落台湾，中共哑巴了！说好的必然开战呢</a></li>
 <li><a href="/comments/20210607/1561881.md">加州“中共病毒”雕像落成！病毒是习近平的头</a></li>
 <li><a href="/bannedvideo/20210607/1561852.md">需求强劲，中共要建大批生物实验室；发出警报！习近平可能已经掌握了通过病毒控制世界的能力（20210607 第615期）</a></li>
 <li><a href="/bannedvideo/20210608/1561911.md">6月7日南京师范大学中北学院（丹阳市），学生集体抗议，学校从本科变成专科。网友：现在封校，百多名警察围堵学校，特警也来了，抓捕学生。学校一直在压制消息，把我们软禁在校园里，不让出去。</a></li>
-<li><a href="/baitai/20210607/1561793.md">一切均无法遁形：上海</a></li>
 <li><a href="/comments/20210607/1561862.md">小女孩一句话，吓死了前世夺命人。2008年9篇“再生人”连载纪实，震惊中国，官方背书。每个人都有前世，只是你弄丢了记忆。</a></li>
+<li><a href="/baitai/20210607/1561793.md">一切均无法遁形：上海</a></li>
 <li><a href="/bannedvideo/20210607/1561865.md">广州广钢观鹤小区，在列入高风险的白鹤洞街，不把楼门焊死了，每个楼梯口都由“太空人 ”把守。视频中：（大意）现在是观鹤小区，要隔离的…居家隔离，每幢楼都有个楼梯口，有个太空人看守…</a></li>
-<li><a href="/comments/20210607/1561663.md">史上最高级别中共官员叛逃美国 证实武汉实验室制造病毒及如何扩散 美国务院内鬼阻调查病毒起源 参议员保罗爆猛料：武汉实验室用&quot;死亡率15%&quot;的病毒做实验 中南海谣言预言_469</a></li>
+<li><a href="/comments/20210607/1561820.md">美航班紧急迫降！疑似遭“劫机”？加拿大多人感染”神秘疾病”致 6死！美军基地遭伊拉克无人机入侵！皆被击落；【希望之声-午夜新闻-2021/06/06】</a></li>
+<li><a href="/cbnews/20210607/1561687.md">天亮时分：恒大房地产的内卷和金融海啸；大通胀来临时，比特币是个好选项吗？如何让资产保值及更多敏感话题（政论天下第439集 20210606）</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210608/1561940.md" target="_blank">何柱国批林郑累香港受制裁 劝港人勿急于移民﹕应先等一两年看谁接任特首</a></li>
+<li><a href="/comments/20210608/1561939.md" target="_blank">网络疯传 复旦大学教师持刀怒杀学院书记</a></li>
+<li><a href="/comments/20210608/1561938.md" target="_blank">复旦大学建分校 匈牙利首都万人抗议 政府软化付公投</a></li>
 <li><a href="/comments/20210608/1561937.md" target="_blank">审查孔子学院 日本、澳大利亚展开行动</a></li>
 <li><a href="/comments/20210608/1561931.md" target="_blank">江苏5校学生抗议本科降级职本 遭武力镇压</a></li>
 <li><a href="/comments/20210608/1561927.md" target="_blank">戴伟绅七月就任英国驻港澳总领事 曾三度派驻中国 和同性丈夫育有三名孩子</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210607/1561886.md" target="_blank">港台《The Pulse》追问世卫台湾资格问题 被建制派追击 通讯局裁定投诉不成立</a></li>
 <li><a href="/comments/20210607/1561885.md" target="_blank">【狱中家书】给囚者妈咪的回信</a></li>
 <li><a href="/comments/20210607/1561884.md" target="_blank">卢文端称支联会只能解散或取缔 蔡耀昌：处惊不变 89 年已被视为“颠覆组织”</a></li>
-<li><a href="/comments/20210607/1561883.md" target="_blank">【电子消费券】陈茂波：料本月下旬公布详情 7 月接受登记</a></li>
-<li><a href="/comments/20210607/1561882.md" target="_blank">【贯明文苑】临窗品茶听雨声</a></li>
-<li><a href="/comments/20210607/1561881.md" target="_blank">加州“中共病毒”雕像落成！病毒是习近平的头</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
 <li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
 
 </ul>
 </div>
