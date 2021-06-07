@@ -14,16 +14,16 @@
 <li><a href="/comments/20210606/1561557.md">武汉历史重演？广州疫情很严重？！ 警告亲友：疫情恐怖“乖乖呆在家”</a></li>
 <li><a href="/cbnews/20210607/1561645.md">66%接种 广州疫情续恶化 中共专家自曝疫苗效性</a></li>
 <li><a href="/cbnews/20210607/1561594.md">5600医护人员驰援广州 网传医生曝疫情内幕示警</a></li>
-<li><a href="/topimagenews/20210607/1561590.md">美媒爆史上最高级别中共官员逃美 揭“生物武器计划”</a></li>
 <li><a href="/bannedvideo/20210607/1561601.md">玩大了!中共生物专家叛逃美国到底带了什么? 中共高端甩锅厉害( 2021年6月6日)</a></li>
+<li><a href="/topimagenews/20210607/1561590.md">美媒爆史上最高级别中共官员逃美 揭“生物武器计划”</a></li>
 <li><a href="/topimagenews/20210606/1561402.md">薛守维：神奇的行贿术</a></li>
 <li><a href="/bannedvideo/20210606/1561458.md">广东疫情持续严重。6月6日凌晨，广东湛江吴川市发现无症状感染者。现在吴川市覃巴镇正在核酸检测下榕村全封，老百姓开始囤积大米</a></li>
-<li><a href="/bannedvideo/20210606/1561468.md">陈破空：什么风向？官媒忽然大赞敏感旧文！习近平要转向？或是反习阵营在行动，反击极左</a></li>
 <li><a href="/baitai/20210607/1561610.md">拜登的胜利！G7达成历史性协议</a></li>
+<li><a href="/bannedvideo/20210606/1561468.md">陈破空：什么风向？官媒忽然大赞敏感旧文！习近平要转向？或是反习阵营在行动，反击极左</a></li>
 <li><a href="/yule/20210607/1561603.md">大S：你有没有后悔娶我？汪小菲支吾3秒惊吐死亡答案</a></li>
 <li><a href="/comments/20210607/1561595.md">【戈壁东专栏】：中共最担心的事已经发生 高级军官叛逃美国揭露生物战真相</a></li>
-<li><a href="/comments/20210606/1561367.md">美国三大议员突访台 其中一人背景特殊 中国“小粉红”崩溃了</a></li>
 <li><a href="/cbnews/20210607/1561646.md">安庆砍人20死伤 胡锡进称“不多”被骂冷血</a></li>
+<li><a href="/comments/20210606/1561367.md">美国三大议员突访台 其中一人背景特殊 中国“小粉红”崩溃了</a></li>
 <li><a href="/comments/20210606/1561513.md">冯崇义教授：中国政变的可能性？民变、兵变、高层政变或是⋯⋯</a></li>
 <li><a href="/lifebaike/20210606/1561460.md">明朝皇帝短命之谜已解? 看似很荒诞，实际很靠谱</a></li>
 <li><a href="/cbnews/20210607/1561644.md">山东男子求爱不成 当众将女硕士残忍杀害</a></li>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210607/1561814.md" target="_blank">卢文端：支联会只有解散或取缔两选项 田飞龙称删纲领可存在误导兼天真</a></li>
+<li><a href="/comments/20210607/1561813.md" target="_blank">川普重批 中共要为疫情赔275兆</a></li>
+<li><a href="/comments/20210607/1561812.md" target="_blank">贺锦丽上任后首度出访 专机起飞半小时故障返航</a></li>
+<li><a href="/comments/20210607/1561811.md" target="_blank">中共推动种族灭绝？新疆20年内恐减少450万人出生</a></li>
 <li><a href="/comments/20210607/1561683.md" target="_blank">中共悔之晚矣，邓小平无意当中种下了亡共之根 — 曾节明</a></li>
 <li><a href="/comments/20210607/1561779.md" target="_blank">布什家族基金会丑闻被曝光！收中共代理人500万美元</a></li>
 <li><a href="/comments/20210607/1561778.md" target="_blank">【广东疫情】今日起禁出省 多地停售感冒药 专家发现病毒一新特点</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210607/1561671.md" target="_blank">大选前最后一场地方选举 或牵动德未来政局走向</a></li>
 <li><a href="/comments/20210607/1561664.md" target="_blank">中共小兄弟朝鲜危机空前悄悄变局 金正恩神秘隐身一个月 朝鲜政局五大异常事件 朝鲜罕见设第一书记新职 金与正接班机会大增 军方权力受限 金正恩：朝鲜近年来遇到史上最困难的时期 进入革新与变化新局面</a></li>
 <li><a href="/comments/20210607/1561663.md" target="_blank">史上最高级别中共官员叛逃美国 证实武汉实验室制造病毒及如何扩散 美国务院内鬼阻调查病毒起源 参议员保罗爆猛料：武汉实验室用&quot;死亡率15%&quot;的病毒做实验 中南海谣言预言_469</a></li>
-<li><a href="/comments/20210607/1561662.md" target="_blank">这一晚，4/6/2021，小王子在香港</a></li>
-<li><a href="/comments/20210607/1561661.md" target="_blank">呼吁全世界向中共索赔疫情损失 川普在集会上发声</a></li>
-<li><a href="/comments/20210607/1561660.md" target="_blank">太惊人！科学实验证实植物竟会读心术</a></li>
-<li><a href="/comments/20210607/1561659.md" target="_blank">太阳花学运後新兴政党的政党定位与发展──政党认同及政党形象</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
 <li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
 <li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
 <li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
 
 </ul>
 </div>
