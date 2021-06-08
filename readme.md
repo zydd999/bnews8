@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/cbnews/20210607/1561767.md">习近平要求改变宣传调子 但是“太晚了”</a></li>
 <li><a href="/comments/20210607/1561827.md">李小鹏二十大前景惹议 ”红色公主“自称：李鹏女儿身份是阻力</a></li>
 <li><a href="/comments/20210607/1561869.md">中共最高级别专家逃美，透露中共军方秘密计划。其级别有多高？与国防情报部已合作3个月，不信任联邦调查局和中情局。</a></li>
 <li><a href="/bannedvideo/20210607/1561864.md">大陆网站爆惊人内幕 广州到底发生了什么?  (2021年6月7日)</a></li>
 <li><a href="/bannedvideo/20210607/1561857.md">网友：去年武汉，今年广州。只要求民众隔离，不管民众死活，三四天没东西吃，也不准别人去买。</a></li>
 <li><a href="/bannedvideo/20210608/1561911.md">6月7日南京师范大学中北学院（丹阳市），学生集体抗议，学校从本科变成专科。网友：现在封校，百多名警察围堵学校，特警也来了，抓捕学生。学校一直在压制消息，把我们软禁在校园里，不让出去。</a></li>
 <li><a href="/comments/20210607/1561683.md">中共悔之晚矣，邓小平无意当中种下了亡共之根 — 曾节明</a></li>
-<li><a href="/cbnews/20210607/1561766.md">广州全市核酸检测 网传医生透露严重疫情</a></li>
 <li><a href="/bannedvideo/20210607/1561868.md">陈破空：突然，毛左派大批被捕！高层斗争决出胜负？习家军败退！美国军机降落台湾，中共哑巴了！说好的必然开战呢</a></li>
 <li><a href="/comments/20210607/1561881.md">加州“中共病毒”雕像落成！病毒是习近平的头</a></li>
 <li><a href="/bannedvideo/20210607/1561852.md">需求强劲，中共要建大批生物实验室；发出警报！习近平可能已经掌握了通过病毒控制世界的能力（20210607 第615期）</a></li>
+<li><a href="/comments/20210608/1561939.md">网络疯传 复旦大学教师持刀怒杀学院书记</a></li>
 <li><a href="/baitai/20210607/1561793.md">一切均无法遁形：上海</a></li>
+<li><a href="/comments/20210608/1561931.md">江苏5校学生抗议本科降级职本 遭武力镇压</a></li>
 <li><a href="/comments/20210607/1561862.md">小女孩一句话，吓死了前世夺命人。2008年9篇“再生人”连载纪实，震惊中国，官方背书。每个人都有前世，只是你弄丢了记忆。</a></li>
 <li><a href="/comments/20210608/1561923.md">美国军机抵台后 “战狼们”变样了！中国网民懵了</a></li>
-<li><a href="/comments/20210608/1561931.md">江苏5校学生抗议本科降级职本 遭武力镇压</a></li>
 <li><a href="/comments/20210608/1561922.md">里根号护航美议员访台 中共没了脾气；拜登访欧发文 三提中共；哈里斯首访 专机出状况折返；南非艾滋患者染疫 新冠病毒在体内变异32次【希望之声TV-环球看点-2021/6/7】</a></li>
-<li><a href="/comments/20210607/1561820.md">美航班紧急迫降！疑似遭“劫机”？加拿大多人感染”神秘疾病”致 6死！美军基地遭伊拉克无人机入侵！皆被击落；【希望之声-午夜新闻-2021/06/06】</a></li>
-<li><a href="/comments/20210608/1561939.md">网络疯传 复旦大学教师持刀怒杀学院书记</a></li>
-<li><a href="/bannedvideo/20210607/1561865.md">广州广钢观鹤小区，在列入高风险的白鹤洞街，不把楼门焊死了，每个楼梯口都由“太空人 ”把守。视频中：（大意）现在是观鹤小区，要隔离的…居家隔离，每幢楼都有个楼梯口，有个太空人看守…</a></li>
 <li><a href="/bannedvideo/20210608/1561920.md">2021年6月7日晚，江苏南通大学杏林学院。江苏部分二本院校把本科和专科学院合并改成职业本科，引发学生抗议。</a></li>
-<li><a href="/funmedia/20210607/1561770.md">世界公认的5张最标致面孔，中国只上榜1人，不是刘亦菲也不是杨幂</a></li>
+<li><a href="/comments/20210607/1561820.md">美航班紧急迫降！疑似遭“劫机”？加拿大多人感染”神秘疾病”致 6死！美军基地遭伊拉克无人机入侵！皆被击落；【希望之声-午夜新闻-2021/06/06】</a></li>
+<li><a href="/bannedvideo/20210607/1561865.md">广州广钢观鹤小区，在列入高风险的白鹤洞街，不把楼门焊死了，每个楼梯口都由“太空人 ”把守。视频中：（大意）现在是观鹤小区，要隔离的…居家隔离，每幢楼都有个楼梯口，有个太空人看守…</a></li>
 <li><a href="/bannedvideo/20210607/1561905.md">到底什么叫作大外宣？郭文贵，周孝正，周周侃，蔡霞，杨恒均和悉尼奶爸，里面哪些人是大外宣？（坐澳观天第352期  20210608）</a></li>
 <li><a href="/bannedvideo/20210607/1561853.md">上海太平洋生活广场，不打疫苗不允许进入商场</a></li>
+<li><a href="/bannedvideo/20210607/1561798.md">💥广州医生吹哨：每天感染2百，乖乖在家！比武汉更大“生物战”基地；大S离婚，汪小菲是战狼？王沪宁迟早得下！习近平转向，查30年帐打江；美军机访台，党媒只骂民进党；北京武统集会？｜新闻拍案惊奇 大宇</a></li>
+<li><a href="/comments/20210607/1561778.md">【广东疫情】今日起禁出省 多地停售感冒药 专家发现病毒一新特点</a></li>
+<li><a href="/bannedvideo/20210607/1561861.md">网友：6月3日上午，甘肃兰州生物制品研究所发生火灾，未见官方报道。据大陆官网资料，兰州生物制品研究所生产新冠灭活疫苗，24小时满负荷生产，投产的两条生产线日产能均在32万剂以上。</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210608/1562002.md" target="_blank">小粉红怂了！武统梦破灭！美军机降落台湾，北京官媒哑火，两个小时夺台湾成笑柄，台湾需要组建国民警卫队│#熊猫侠</a></li>
 <li><a href="/comments/20210608/1561996.md" target="_blank">资深民主党参议员反水！反同僚法案；亚马逊溜掉了？全球企业最低税没网住大鱼；美高院阻非法入境美国持临时身份者拿绿卡； 北卡警局84人离职不处理盗窃案 ；自由女神“姐妹”像今启程【#北美新闻 06/07】</a></li>
 <li><a href="/comments/20210608/1561975.md" target="_blank">美媒报导披露重大信息：武毒所到底有哪些冠状病毒? 谁在阻碍病毒起源调查? “最高阶”中共叛逃者可能带出哪些信息?</a></li>
 <li><a href="/comments/20210608/1561957.md" target="_blank">福西在曼哈顿遭喝下课；Google滥用广告市场 遭法巨额罚款；俄正式退出《开放天空条约》；北约忧俄中挑战 拟扩大亚太合作；广东确诊连环爆！停售感冒药【希望之声-每日头条-2021/06/07】</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210608/1561910.md" target="_blank">普京签署法令 俄国确定退出“开放天空条约”</a></li>
 <li><a href="/comments/20210608/1561909.md" target="_blank">前英军情六处处长：中共可能已销毁武毒所数据</a></li>
 <li><a href="/comments/20210608/1561908.md" target="_blank">“老公”不可乱叫 在中国古代会闹出笑话</a></li>
-<li><a href="/comments/20210608/1561907.md" target="_blank">【世界美景】视频：《天下第一狮》《非洲原始部落》《 比利时- 根特》（独家）</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
+<li><a href="/comments/20210329/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
 <li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
 
 </ul>
 </div>
