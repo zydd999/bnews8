@@ -19,15 +19,15 @@
 <li><a href="/bannedvideo/20210608/1562015.md">💥江泽民要气炸！新党史好难堪；习近平访青海，背后两行字惹人笑；军机访台，美航母台海有备战；“红线就是用来踩的”，小粉红洗版骂中共；布林肯彻查毒源，武毒所销毁证据？高考作文很奇葩｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/cbnews/20210608/1562367.md">时代终结 赵紫阳家人搬离北京老宅</a></li>
 <li><a href="/topimagenews/20210608/1562650.md">退伍老兵协会竟成非法组织？中共民政部一口气公布64家非法组织【阿波罗网报道】</a></li>
-<li><a href="/comments/20210608/1561946.md">我躺平关你屁事？换王思聪躺平你还有意见吗？炒掉福奇上热搜，投机官僚现形记！哈里斯首次出访，专机刚起飞就被迫返回，什么原因？【新闻最嘲点 姜光宇】Mr.FunnyNews(2021.06.07）‬</a></li>
 <li><a href="/cbnews/20210608/1562359.md">有史以来最高级别的中共叛逃者 逃往美国</a></li>
-<li><a href="/bannedvideo/20210608/1561952.md">制裁访台议员，禁止使用华为手机鸿蒙系统；武大郎不允许西门庆买炊饼。</a></li>
+<li><a href="/comments/20210608/1561946.md">我躺平关你屁事？换王思聪躺平你还有意见吗？炒掉福奇上热搜，投机官僚现形记！哈里斯首次出访，专机刚起飞就被迫返回，什么原因？【新闻最嘲点 姜光宇】Mr.FunnyNews(2021.06.07）‬</a></li>
 <li><a href="/cbnews/20210608/1562761.md">中国3省15校学生抗议院校合并 官方暴力维稳爆流血冲突</a></li>
+<li><a href="/bannedvideo/20210608/1561952.md">制裁访台议员，禁止使用华为手机鸿蒙系统；武大郎不允许西门庆买炊饼。</a></li>
 <li><a href="/cbnews/20210608/1562356.md">江泽民哭晕在厕所？中共党报发文 现耐人寻味一幕 【阿波罗网报道】</a></li>
-<li><a href="/comments/20210608/1562016.md">非同一般！美媒再曝证据：中共病毒是“人造怪物”</a></li>
 <li><a href="/cbnews/20210608/1562361.md">纸包不住火?专家揭2证据：新冠病毒是从武汉实验室外泄的人造怪物</a></li>
-<li><a href="/ssgc/20210608/1562150.md">〖微博谈〗不要再讲啥血浓于水</a></li>
 <li><a href="/baitai/20210608/1562746.md">【立此存照】加速真的太快了～连环球时报都刹不住车了</a></li>
+<li><a href="/comments/20210608/1562016.md">非同一般！美媒再曝证据：中共病毒是“人造怪物”</a></li>
+<li><a href="/ssgc/20210608/1562150.md">〖微博谈〗不要再讲啥血浓于水</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210609/1562961.md" target="_blank">蓬佩奥：中共处理疫情渎职 拜登须予以惩罚</a></li>
 <li><a href="/cbnews/20210609/1562953.md" target="_blank">复旦大学学院书记被杀 网揭曾强送学生进精神病院</a></li>
 <li><a href="/cbnews/20210609/1562952.md" target="_blank">卖4厘米枪形钥匙扣 厦门男判3年 网友：这玩意算枪？</a></li>
 <li><a href="/cbnews/20210609/1562927.md" target="_blank">又甩锅？中国网疯传意总理承认疫情起源在米兰 意大使馆：全是谎言</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210608/1562684.md" target="_blank">中国卫生巾内暗藏针头 网络炸锅</a></li>
 <li><a href="/comments/20210608/1562673.md" target="_blank">阻止台海之战的釜底抽薪之策（第六部分）——中国人从希望到绝望（中共命运的轨迹和人类前途  第二十二讲）【袁红冰纵论天下】 06082021</a></li>
 <li><a href="/cbnews/20210608/1562672.md" target="_blank">美投资专家：中共掩盖泄漏病毒真相 全球应索赔</a></li>
-<li><a href="/cbnews/20210608/1562671.md" target="_blank">反常？美军机来台 中共官方态度引议论</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210609/1562971.md" target="_blank">中国新兴科技公司持续亏损</a></li>
+<li><a href="/comments/20210609/1562960.md" target="_blank">政党只为选举而存在吗？</a></li>
+<li><a href="/comments/20210609/1562959.md" target="_blank">谷针谷不起，只能怪自己</a></li>
 <li><a href="/comments/20210609/1562945.md" target="_blank">美国传统文化孕育出的英雄人物———伟大的酋长</a></li>
 <li><a href="/comments/20210609/1562937.md" target="_blank">“够了，我们必须开始反击” 佛州州长签署两项法案 阻中共渗透</a></li>
 <li><a href="/comments/20210609/1562935.md" target="_blank">美市场劳动力短缺创纪录 4月职位空缺达930万</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210608/1562879.md" target="_blank">复旦大学正式通告学院书记被杀 蔡霞点评事件</a></li>
 <li><a href="/comments/20210608/1562878.md" target="_blank">英中关系陷谷底 英任命新驻港总领事</a></li>
 <li><a href="/comments/20210608/1562877.md" target="_blank">世界田联再准35名俄运动员以中立身份参赛</a></li>
-<li><a href="/comments/20210608/1562862.md" target="_blank">贝佐斯计划7月离开地球 赴太空旅行</a></li>
-<li><a href="/comments/20210608/1562838.md" target="_blank">孔子学院又爆大外宣丑闻 上载汉人假扮少数民族P图</a></li>
-<li><a href="/comments/20210608/1562837.md" target="_blank">不是彭斯？川普亲口透露2024总统大选潜在副手人选</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
 <li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
 <li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
 
 </ul>
 </div>
