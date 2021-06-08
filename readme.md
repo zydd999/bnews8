@@ -10,13 +10,12 @@
 <li><a href="/bannedvideo/20210607/1561864.md">大陆网站爆惊人内幕 广州到底发生了什么?  (2021年6月7日)</a></li>
 <li><a href="/bannedvideo/20210607/1561857.md">网友：去年武汉，今年广州。只要求民众隔离，不管民众死活，三四天没东西吃，也不准别人去买。</a></li>
 <li><a href="/bannedvideo/20210608/1561911.md">6月7日南京师范大学中北学院（丹阳市），学生集体抗议，学校从本科变成专科。网友：现在封校，百多名警察围堵学校，特警也来了，抓捕学生。学校一直在压制消息，把我们软禁在校园里，不让出去。</a></li>
-<li><a href="/comments/20210607/1561683.md">中共悔之晚矣，邓小平无意当中种下了亡共之根 — 曾节明</a></li>
 <li><a href="/bannedvideo/20210607/1561868.md">陈破空：突然，毛左派大批被捕！高层斗争决出胜负？习家军败退！美国军机降落台湾，中共哑巴了！说好的必然开战呢</a></li>
 <li><a href="/comments/20210607/1561881.md">加州“中共病毒”雕像落成！病毒是习近平的头</a></li>
 <li><a href="/bannedvideo/20210607/1561852.md">需求强劲，中共要建大批生物实验室；发出警报！习近平可能已经掌握了通过病毒控制世界的能力（20210607 第615期）</a></li>
 <li><a href="/comments/20210608/1561939.md">网络疯传 复旦大学教师持刀怒杀学院书记</a></li>
-<li><a href="/baitai/20210607/1561793.md">一切均无法遁形：上海</a></li>
 <li><a href="/comments/20210608/1561931.md">江苏5校学生抗议本科降级职本 遭武力镇压</a></li>
+<li><a href="/baitai/20210607/1561793.md">一切均无法遁形：上海</a></li>
 <li><a href="/comments/20210607/1561862.md">小女孩一句话，吓死了前世夺命人。2008年9篇“再生人”连载纪实，震惊中国，官方背书。每个人都有前世，只是你弄丢了记忆。</a></li>
 <li><a href="/comments/20210608/1561923.md">美国军机抵台后 “战狼们”变样了！中国网民懵了</a></li>
 <li><a href="/comments/20210608/1561922.md">里根号护航美议员访台 中共没了脾气；拜登访欧发文 三提中共；哈里斯首访 专机出状况折返；南非艾滋患者染疫 新冠病毒在体内变异32次【希望之声TV-环球看点-2021/6/7】</a></li>
@@ -26,8 +25,9 @@
 <li><a href="/bannedvideo/20210607/1561905.md">到底什么叫作大外宣？郭文贵，周孝正，周周侃，蔡霞，杨恒均和悉尼奶爸，里面哪些人是大外宣？（坐澳观天第352期  20210608）</a></li>
 <li><a href="/bannedvideo/20210607/1561853.md">上海太平洋生活广场，不打疫苗不允许进入商场</a></li>
 <li><a href="/bannedvideo/20210607/1561798.md">💥广州医生吹哨：每天感染2百，乖乖在家！比武汉更大“生物战”基地；大S离婚，汪小菲是战狼？王沪宁迟早得下！习近平转向，查30年帐打江；美军机访台，党媒只骂民进党；北京武统集会？｜新闻拍案惊奇 大宇</a></li>
-<li><a href="/comments/20210607/1561778.md">【广东疫情】今日起禁出省 多地停售感冒药 专家发现病毒一新特点</a></li>
+<li><a href="/bannedvideo/20210608/1561924.md">【编译】爆炸消息：乔州造票大女主被取证；福西被抓到合谋取消此药；川普出山造势紧盯向中共索赔；荷兰6.4万家长诉TikTok索17亿美元；朝鲜女兵惨况遭上级凌辱一奇招曝光 CL</a></li>
 <li><a href="/bannedvideo/20210607/1561861.md">网友：6月3日上午，甘肃兰州生物制品研究所发生火灾，未见官方报道。据大陆官网资料，兰州生物制品研究所生产新冠灭活疫苗，24小时满负荷生产，投产的两条生产线日产能均在32万剂以上。</a></li>
+<li><a href="/bannedvideo/20210607/1561894.md">《石涛聚焦》“阿南德6.3公开断言警告：6.20 有大事发生！”英国与以色列迅速恶化 中共国面临残酷真相（07/06）</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/comments/20210329/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
 <li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
 <li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
 <li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
 
 </ul>
 </div>
