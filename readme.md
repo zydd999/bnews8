@@ -10,24 +10,24 @@
 <li><a href="/cbnews/20210609/1562989.md">复旦血案 书记“死有余辜” 姜博士“替天行道”</a></li>
 <li><a href="/cnnews/20210609/1563062.md">中共专家承认国产疫苗不能预防感染 网友怒轰</a></li>
 <li><a href="/topimagenews/20210609/1563248.md">底线深不可测？G7峰会声明将首踩中共一大红线</a></li>
-<li><a href="/cnnews/20210609/1563362.md">“江胡料现身”中共大会？习近平两记耳光 态度已明 【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20210609/1563173.md">习近平头顶七座山？在青海身临“深渊苦海”照火爆</a></li>
+<li><a href="/cnnews/20210609/1563362.md">“江胡料现身”中共大会？习近平两记耳光 态度已明 【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20210609/1563004.md">两女生配一个男留 河北师大“多元课堂”翻车了</a></li>
 <li><a href="/cbnews/20210609/1562927.md">又甩锅？中国网疯传意总理承认疫情起源在米兰 意大使馆：全是谎言</a></li>
 <li><a href="/cnnews/20210609/1563128.md">牛津大学研究报告推翻世卫源头调查报告</a></li>
-<li><a href="/lifebaike/20210609/1563020.md">大众和丰田的差距在哪里？车主用后体验：十万公里后轻易可见</a></li>
 <li><a href="/cnnews/20210609/1563387.md">习近平会拿谁祭旗？盘点“最火”的外交战狼</a></li>
-<li><a href="/cbnews/20210609/1562988.md">兰新线事故遇难员工均为女性 相关帖子被全删</a></li>
+<li><a href="/lifebaike/20210609/1563020.md">大众和丰田的差距在哪里？车主用后体验：十万公里后轻易可见</a></li>
 <li><a href="/cbnews/20210609/1563368.md">中共喉舌报导中彭丽媛享受副国级待遇</a></li>
+<li><a href="/cbnews/20210609/1562988.md">兰新线事故遇难员工均为女性 相关帖子被全删</a></li>
 <li><a href="/bannedvideo/20210609/1563295.md">习近平“遗照”曝光😱，谁这么多大胆？#shorts</a></li>
 <li><a href="/cbnews/20210609/1563367.md">广东染疫者持续上升 大数据防控希望落空</a></li>
+<li><a href="/cbnews/20210609/1563469.md">复旦血案另有内情？遇害学院书记被曝剽窃杀手论文</a></li>
 <li><a href="/bannedvideo/20210609/1563400.md">阿南德直言中国不安全 许多预言不准确原来发生了这件大事(2021年6月9日)</a></li>
 <li><a href="/bannedvideo/20210609/1563054.md">中国叛逃者是送料者?碟中碟!中共内斗公开化( 2021年6月8日)</a></li>
 <li><a href="/cbnews/20210609/1563222.md">复旦割喉事件舆论一边倒 网曝高校“临时工制度”</a></li>
-<li><a href="/cbnews/20210609/1563469.md">复旦血案另有内情？遇害学院书记被曝剽窃杀手论文</a></li>
 <li><a href="/cbnews/20210609/1562953.md">复旦大学学院书记被杀 网揭曾强送学生进精神病院</a></li>
 <li><a href="/cbnews/20210609/1563291.md">江峰：复旦大学怎麽了？数学院书记“躺平”了；野鸡教授当“国师”了；匈牙利不干了！ 高等学府看中共丑态</a></li>
-<li><a href="/comments/20210609/1563201.md">【微博精粹】大学开始卷了 毛邓都知道惹这个群动摇政权</a></li>
+<li><a href="/ssgc/20210609/1563481.md">中共最高级别叛逃者引发连锁反应？</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210610/1563651.md" target="_blank">我不争了可以吧! 都市生活压力引发“丧文化” 中国年轻人流行“躺平”</a></li>
+<li><a href="/comments/20210610/1563648.md" target="_blank">习青海考察临“深渊”高级黑？堕落 师范大学安排留学生配女伴；网军造谣意国承认疫源 遭使馆打脸；纽约家长勇反击左派学校董事会；美放宽对111国旅游建议 【希望之声TV-环球看点-2021/6/9】</a></li>
 <li><a href="/cbnews/20210609/1563589.md" target="_blank">六四期间大陆爆发学潮 多所高校学生抗议文凭被打折</a></li>
 <li><a href="/cbnews/20210609/1563580.md" target="_blank">南京大学也这么低俗：招生广告词引发热议</a></li>
 <li><a href="/cbnews/20210609/1563556.md" target="_blank">英二十所大学受华为等高额资助 引政界担忧</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/comments/20210609/1563189.md" target="_blank">不听话！德州遭拜登政府警告采取行动 ；惊！全球多网站大断线 ；川普与名嘴将开启巡回演讲；民主党极左进程惹翻拉丁裔选民； G7峰会拜登好尴尬  出访前90名大使未确定【#北美新闻 06/08】</a></li>
 <li><a href="/cbnews/20210609/1563173.md" target="_blank">习近平头顶七座山？在青海身临“深渊苦海”照火爆</a></li>
 <li><a href="/cbnews/20210609/1563172.md" target="_blank">开放三胎女性求职难 当局推育儿假或加重职场歧视</a></li>
-<li><a href="/cbnews/20210609/1563138.md" target="_blank">天亮时分：“六四”周年之际，江浙多所院校学生与警方爆发冲突；复旦数学学院党委书记王永珍被刺杀；美国将监管比特币；（政论天下第440集 20210608）</a></li>
-<li><a href="/comments/20210609/1563090.md" target="_blank">美国最红新闻App中国制造？  对抗中共美国动作频频【希望之声TV-新闻焦点解读-2021/06/08】 主持:高洁  嘉宾:曾铮 林晓旭</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,12 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210610/1563648.md" target="_blank">习青海考察临“深渊”高级黑？堕落 师范大学安排留学生配女伴；网军造谣意国承认疫源 遭使馆打脸；纽约家长勇反击左派学校董事会；美放宽对111国旅游建议 【希望之声TV-环球看点-2021/6/9】</a></li>
+<li><a href="/comments/20210610/1563647.md" target="_blank">【反抗两年｜专访】杨子俊的“最后受访” 叹外界期望他“令人对政府愤怒”：我唔系要做呢啲</a></li>
+<li><a href="/comments/20210610/1563646.md" target="_blank">【反抗运动两周年评论】6.9 周年敬告全人类</a></li>
+<li><a href="/comments/20210610/1563643.md" target="_blank">【反抗运动两周年】台湾撑香港阵线记者会 林昶佐：严防中资扮港资渗透台湾</a></li>
+<li><a href="/comments/20210610/1563642.md" target="_blank">习近平会拿谁祭旗？盘点“最凶”外交战狼</a></li>
+<li><a href="/comments/20210610/1563641.md" target="_blank">“三孩”政策遇冷 中南海急推育儿假 有用吗？</a></li>
 <li><a href="/comments/20210610/1563631.md" target="_blank">追查病毒源头并惩罚中共 美政界人士献计献策</a></li>
 <li><a href="/comments/20210610/1563630.md" target="_blank">罗马尼亚议会批准5G网络立法草案 华为再受创</a></li>
 <li><a href="/comments/20210610/1563617.md" target="_blank">怎样刷掉牙菌斑？ 干净清洁有「4步骤」</a></li>
@@ -117,12 +123,6 @@
 <li><a href="/comments/20210609/1563558.md" target="_blank">2012年云南矿工清蝙蝠粪便染疫 佛奇要中共公开相关讯息</a></li>
 <li><a href="/comments/20210609/1563535.md" target="_blank">刘鹤现身陪习近平到青海 同戴墨镜 网友：黑帮</a></li>
 <li><a href="/comments/20210609/1563528.md" target="_blank">复旦大学凶杀事件与不讲理的中国</a></li>
-<li><a href="/comments/20210609/1563506.md" target="_blank">德州州长签法案 将大选舞弊定为二级重罪</a></li>
-<li><a href="/comments/20210609/1563505.md" target="_blank">美议员要求苹果：撤资涉新疆强制劳动的供应商</a></li>
-<li><a href="/comments/20210609/1563504.md" target="_blank">G7峰会本周登场 英斥7千万镑高额安保费护航</a></li>
-<li><a href="/comments/20210609/1563502.md" target="_blank">【未普评论】美国在反思：新冠病毒从中国实验室泄漏之说未必是阴谋论</a></li>
-<li><a href="/comments/20210609/1563498.md" target="_blank">日本断供与挽留特斯拉 早知现在何必当初</a></li>
-<li><a href="/comments/20210609/1563485.md" target="_blank">章天亮：拜登提税 川普降税 拜登思路跟川普完全相反</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
 <li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
 <li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
 
 </ul>
 </div>
