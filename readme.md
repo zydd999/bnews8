@@ -5,19 +5,17 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/cnnews/20210608/1562541.md">中共内斗：想让习近平靠边站？一张图片胜千言 【阿波罗网报道】</a></li>
-<li><a href="/cnnews/20210608/1562493.md">中共大量生产灭活疫苗 专家分析危险性</a></li>
 <li><a href="/cbnews/20210609/1562989.md">复旦血案 书记“死有余辜” 姜博士“替天行道”</a></li>
 <li><a href="/comments/20210608/1562879.md">复旦大学正式通告学院书记被杀 蔡霞点评事件</a></li>
 <li><a href="/cnnews/20210609/1563062.md">中共专家承认国产疫苗不能预防感染 网友怒轰</a></li>
-<li><a href="/topimagenews/20210608/1562813.md">针对中共随时可以开战！美空军战机已部署就位</a></li>
 <li><a href="/ssgc/20210609/1562904.md">〖兲朝浮世绘〗中共能撑7小时？普京说话很给面子</a></li>
+<li><a href="/topimagenews/20210608/1562813.md">针对中共随时可以开战！美空军战机已部署就位</a></li>
 <li><a href="/comments/20210609/1563119.md">港媒：央视报道暗示 彭丽媛地位已有大变化</a></li>
+<li><a href="/cnnews/20210609/1563261.md">新华社给习近平布置灵堂？看看啥叫“高级黑” 【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20210608/1562650.md">退伍老兵协会竟成非法组织？中共民政部一口气公布64家非法组织【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20210608/1562761.md">中国3省15校学生抗议院校合并 官方暴力维稳爆流血冲突</a></li>
-<li><a href="/cnnews/20210609/1563004.md">两女生配一个男留 河北师大“多元课堂”翻车了</a></li>
-<li><a href="/cnnews/20210609/1563261.md">新华社给习近平布置灵堂？看看啥叫“高级黑” 【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20210609/1563173.md">习近平头顶七座山？在青海身临“深渊苦海”照火爆</a></li>
+<li><a href="/cnnews/20210609/1563004.md">两女生配一个男留 河北师大“多元课堂”翻车了</a></li>
 <li><a href="/baitai/20210608/1562746.md">【立此存照】加速真的太快了～连环球时报都刹不住车了</a></li>
 <li><a href="/baitai/20210608/1562620.md">复旦海归副教授持刀杀死了党委书记</a></li>
 <li><a href="/cbnews/20210609/1562927.md">又甩锅？中国网疯传意总理承认疫情起源在米兰 意大使馆：全是谎言</a></li>
@@ -28,6 +26,8 @@
 <li><a href="/comments/20210608/1562817.md">有冇搞错：王沪宁失势和内部毛派被抓</a></li>
 <li><a href="/bannedvideo/20210609/1563054.md">中国叛逃者是送料者?碟中碟!中共内斗公开化( 2021年6月8日)</a></li>
 <li><a href="/cbnews/20210609/1562953.md">复旦大学学院书记被杀 网揭曾强送学生进精神病院</a></li>
+<li><a href="/cnnews/20210609/1563128.md">牛津大学研究报告推翻世卫源头调查报告</a></li>
+<li><a href="/headline/20210609/1562943.md">美C-17运输机访台让「习近平难堪」 中国防部：「政治秀」非常恶劣的挑衅</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210609/1563368.md" target="_blank">中共喉舌报导中彭丽媛享受副国级待遇</a></li>
+<li><a href="/cbnews/20210609/1563367.md" target="_blank">广东染疫者持续上升 大数据防控希望落空</a></li>
 <li><a href="/cbnews/20210609/1563358.md" target="_blank">江浙学潮遭封杀 学生恐被秋后算账</a></li>
 <li><a href="/cbnews/20210609/1563304.md" target="_blank">陆男通宵玩手游 疲劳驾驶坠水塘：水泡到脚才惊醒</a></li>
 <li><a href="/cbnews/20210609/1563292.md" target="_blank">广州疫情再起！政府下令“中高风险区禁贩售退烧药”</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/cbnews/20210609/1562988.md" target="_blank">兰新线事故遇难员工均为女性 相关帖子被全删</a></li>
 <li><a href="/cbnews/20210609/1562987.md" target="_blank">爱子考大学 中国妈妈考场门口香炉烛台大跪拜</a></li>
 <li><a href="/cbnews/20210609/1562961.md" target="_blank">蓬佩奥：中共处理疫情渎职 拜登须予以惩罚</a></li>
-<li><a href="/cbnews/20210609/1562953.md" target="_blank">复旦大学学院书记被杀 网揭曾强送学生进精神病院</a></li>
-<li><a href="/cbnews/20210609/1562952.md" target="_blank">卖4厘米枪形钥匙扣 厦门男判3年 网友：这玩意算枪？</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210609/1563364.md" target="_blank">一点胃口都没有！食欲不振 该从何检查起？</a></li>
+<li><a href="/comments/20210609/1563363.md" target="_blank">“中指黄”黄宜弘患癌逝世 终年 82 岁 临终前于美国医院留医</a></li>
 <li><a href="/comments/20210609/1563346.md" target="_blank">三味中药，治九种邪气</a></li>
 <li><a href="/comments/20210609/1563345.md" target="_blank">3种脂肪颜色功能大不同！ 营养师：这种让人吃不胖</a></li>
 <li><a href="/comments/20210609/1563344.md" target="_blank">买不到血氧侦测机别担心！ 1招看是否「缺氧」</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210609/1563175.md" target="_blank">短片《面试》</a></li>
 <li><a href="/comments/20210609/1563164.md" target="_blank">政府拟夺会计师公会发牌、监管权 会长郑中正：翻天覆地改变欠咨询 忧爆退会潮</a></li>
 <li><a href="/comments/20210609/1563163.md" target="_blank">【胡乃文开讲】小米粥治失眠，小米粥加一样东西，倒头就睡</a></li>
-<li><a href="/comments/20210609/1563162.md" target="_blank">最新研究：1900万年前90%鲨鱼突然神秘灭绝</a></li>
-<li><a href="/comments/20210609/1563161.md" target="_blank">【独家】诗一首：《寄旅》</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/comments/20210329/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
 <li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
 <li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
 
 </ul>
 </div>
