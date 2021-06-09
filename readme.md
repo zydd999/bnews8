@@ -9,18 +9,17 @@
 <li><a href="/comments/20210608/1562879.md">复旦大学正式通告学院书记被杀 蔡霞点评事件</a></li>
 <li><a href="/cbnews/20210609/1562989.md">复旦血案 书记“死有余辜” 姜博士“替天行道”</a></li>
 <li><a href="/ssgc/20210609/1562904.md">〖兲朝浮世绘〗中共能撑7小时？普京说话很给面子</a></li>
-<li><a href="/topimagenews/20210608/1562813.md">针对中共随时可以开战！美空军战机已部署就位</a></li>
 <li><a href="/cnnews/20210609/1563062.md">中共专家承认国产疫苗不能预防感染 网友怒轰</a></li>
+<li><a href="/topimagenews/20210608/1562813.md">针对中共随时可以开战！美空军战机已部署就位</a></li>
 <li><a href="/comments/20210609/1563119.md">港媒：央视报道暗示 彭丽媛地位已有大变化</a></li>
 <li><a href="/cbnews/20210608/1562761.md">中国3省15校学生抗议院校合并 官方暴力维稳爆流血冲突</a></li>
 <li><a href="/topimagenews/20210609/1563248.md">底线深不可测？G7峰会声明将首踩中共一大红线</a></li>
-<li><a href="/cbnews/20210609/1563173.md">习近平头顶七座山？在青海身临“深渊苦海”照火爆</a></li>
 <li><a href="/baitai/20210608/1562746.md">【立此存照】加速真的太快了～连环球时报都刹不住车了</a></li>
+<li><a href="/cbnews/20210609/1563173.md">习近平头顶七座山？在青海身临“深渊苦海”照火爆</a></li>
 <li><a href="/cnnews/20210609/1563004.md">两女生配一个男留 河北师大“多元课堂”翻车了</a></li>
 <li><a href="/cbnews/20210609/1562927.md">又甩锅？中国网疯传意总理承认疫情起源在米兰 意大使馆：全是谎言</a></li>
 <li><a href="/lifebaike/20210609/1563020.md">大众和丰田的差距在哪里？车主用后体验：十万公里后轻易可见</a></li>
 <li><a href="/cbnews/20210609/1562988.md">兰新线事故遇难员工均为女性 相关帖子被全删</a></li>
-<li><a href="/bannedvideo/20210608/1562718.md">陈破空：中南海出了什么事？纷纷与习近平保持距离。把新晋国师请进中南海，当场羞辱王沪宁</a></li>
 <li><a href="/bannedvideo/20210609/1563054.md">中国叛逃者是送料者?碟中碟!中共内斗公开化( 2021年6月8日)</a></li>
 <li><a href="/comments/20210608/1562817.md">有冇搞错：王沪宁失势和内部毛派被抓</a></li>
 <li><a href="/cbnews/20210609/1563222.md">复旦割喉事件舆论一边倒 网曝高校“临时工制度”</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/cbnews/20210609/1562953.md">复旦大学学院书记被杀 网揭曾强送学生进精神病院</a></li>
 <li><a href="/comments/20210609/1563201.md">【微博精粹】大学开始卷了 毛邓都知道惹这个群动摇政权</a></li>
 <li><a href="/headline/20210609/1562943.md">美C-17运输机访台让「习近平难堪」 中国防部：「政治秀」非常恶劣的挑衅</a></li>
+<li><a href="/cnnews/20210608/1562818.md">美日联合声明起作用 日媒揭：解放军行为大变</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210609/1563438.md" target="_blank">台积电是习近平不敢武*统台湾的顾虑？白宫公布供应链审核报告。中共国防部首提美军机访台。中国网民喊没有底线。G7峰会共同宣言，首次强调“台海安定”。</a></li>
 <li><a href="/comments/20210609/1563403.md" target="_blank">前世眺望的地方竟是这世出生地，不丹国王太后，大胆说出自己的轮回转世。神秘国度，百姓幸福度，高达97%？</a></li>
 <li><a href="/cbnews/20210609/1563368.md" target="_blank">中共喉舌报导中彭丽媛享受副国级待遇</a></li>
 <li><a href="/cbnews/20210609/1563367.md" target="_blank">广东染疫者持续上升 大数据防控希望落空</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210609/1563007.md" target="_blank">巴基斯坦发生火车相撞事故 至少40多人丧生</a></li>
 <li><a href="/cbnews/20210609/1562989.md" target="_blank">复旦血案 书记“死有余辜” 姜博士“替天行道”</a></li>
 <li><a href="/cbnews/20210609/1562988.md" target="_blank">兰新线事故遇难员工均为女性 相关帖子被全删</a></li>
-<li><a href="/cbnews/20210609/1562987.md" target="_blank">爱子考大学 中国妈妈考场门口香炉烛台大跪拜</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210609/1563439.md" target="_blank">欧洲美味从早餐开始 推荐七个国家的传统早餐餐点</a></li>
+<li><a href="/comments/20210609/1563438.md" target="_blank">台积电是习近平不敢武*统台湾的顾虑？白宫公布供应链审核报告。中共国防部首提美军机访台。中国网民喊没有底线。G7峰会共同宣言，首次强调“台海安定”。</a></li>
 <li><a href="/comments/20210609/1563429.md" target="_blank">世界第五大洋被承认 南冰洋将改变你的认知</a></li>
 <li><a href="/comments/20210609/1563418.md" target="_blank">澳洲跨党派联手 呼吁联邦从中资夺回达尔文港自主权</a></li>
 <li><a href="/comments/20210609/1563411.md" target="_blank">横河观点：美政科界内部角力 揭病毒溯源之争</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210609/1563213.md" target="_blank">【独家】 诗一首：《人生路》</a></li>
 <li><a href="/comments/20210609/1563211.md" target="_blank">【美味养生素食】披萨：一个平底锅就可以搞定，简单又好吃</a></li>
 <li><a href="/comments/20210609/1563203.md" target="_blank">加速真的太快了…连环时都刹不住车了</a></li>
-<li><a href="/comments/20210609/1563202.md" target="_blank">郑中原：习近平非要一条道走到黑</a></li>
-<li><a href="/comments/20210609/1563201.md" target="_blank">【微博精粹】大学开始卷了 毛邓都知道惹这个群动摇政权</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
 <li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20210329/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
 
 </ul>
 </div>
