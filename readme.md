@@ -10,21 +10,21 @@
 <li><a href="/cnnews/20210609/1563362.md">“江胡料现身”中共大会？习近平两记耳光 态度已明 【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20210609/1563469.md">复旦血案另有内情？遇害学院书记被曝剽窃杀手论文</a></li>
 <li><a href="/ssgc/20210609/1563481.md">中共最高级别叛逃者引发连锁反应？</a></li>
+<li><a href="/comments/20210610/1563791.md">“王岐山叛逃” 魏京生推特发帖后称是假消息紧急删除 中南海谣言预言_471</a></li>
 <li><a href="/cnnews/20210609/1563387.md">习近平会拿谁祭旗？盘点“最火”的外交战狼</a></li>
 <li><a href="/cbnews/20210609/1563367.md">广东染疫者持续上升 大数据防控希望落空</a></li>
-<li><a href="/comments/20210610/1563791.md">“王岐山叛逃” 魏京生推特发帖后称是假消息紧急删除 中南海谣言预言_471</a></li>
 <li><a href="/bannedvideo/20210609/1563295.md">习近平“遗照”曝光😱，谁这么多大胆？#shorts</a></li>
 <li><a href="/cbnews/20210609/1563368.md">中共喉舌报导中彭丽媛享受副国级待遇</a></li>
 <li><a href="/bannedvideo/20210609/1563400.md">阿南德直言中国不安全 许多预言不准确原来发生了这件大事(2021年6月9日)</a></li>
+<li><a href="/comments/20210610/1563607.md">中共高阶投名状！带来什么绝密消息？北京官媒哑火，两个小时夺台湾成笑柄，台湾需要组建国民警卫队；│#熊猫侠</a></li>
 <li><a href="/cbnews/20210609/1563222.md">复旦割喉事件舆论一边倒 网曝高校“临时工制度”</a></li>
 <li><a href="/cbnews/20210609/1563291.md">江峰：复旦大学怎麽了？数学院书记“躺平”了；野鸡教授当“国师”了；匈牙利不干了！ 高等学府看中共丑态</a></li>
-<li><a href="/comments/20210610/1563607.md">中共高阶投名状！带来什么绝密消息？北京官媒哑火，两个小时夺台湾成笑柄，台湾需要组建国民警卫队；│#熊猫侠</a></li>
 <li><a href="/comments/20210609/1563582.md">中共党内已空前分裂 官媒齐刊重磅旧文</a></li>
-<li><a href="/comments/20210609/1563201.md">【微博精粹】大学开始卷了 毛邓都知道惹这个群动摇政权</a></li>
 <li><a href="/comments/20210610/1563701.md">李燕铭：习近平夫人彭丽媛很可能二十大晋升政治局委员出任副总理 彭丽媛首次被曝享中共国级领导人待遇 央视晚间新闻彭丽媛排在胡春华之前 孙春兰即将卸任副总理 继任人选难产</a></li>
 <li><a href="/ssgc/20210609/1563482.md">赔偿必随战争</a></li>
 <li><a href="/comments/20210609/1563562.md">金正恩瘦了！与“前女友”玄松月同场高调放闪成焦点</a></li>
 <li><a href="/cnnews/20210609/1563377.md">受贿数额特别巨大 王岐山大管家董宏被起诉</a></li>
+<li><a href="/cbnews/20210610/1563815.md">江苏装甲车封独立学院 传已定性学生“暴动”</a></li>
 <li><a href="/ssgc/20210609/1563493.md">王沪宁失势和内部毛派被抓</a></li>
 <li><a href="/cbnews/20210609/1563223.md">中国频传疫苗诈骗 打完针竟收到护士暖味短信</a></li>
 <li><a href="/cnnews/20210609/1563361.md">爆炸性视频出土：达扎克描述"中国同事"在开发"杀手"病毒【阿波罗网编译】</a></li>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210610/1563915.md" target="_blank">中国的科技员工被监控软件逼到极限</a></li>
+<li><a href="/comments/20210610/1563914.md" target="_blank">珍珠港军事基地遭威胁被封锁；国税局机密文件外泄！美富豪避税被揭 ；拜登撤川普对tiktok及微信禁令； 拜登与共和党谈判破裂！两党合作落幕？【#北美新闻 2021/06/09】</a></li>
 <li><a href="/cbnews/20210610/1563913.md" target="_blank">江峰：与中共作战！美海军陆战队战略转向，王牌大杀器都放弃究竟要干什么，揭神秘武器面纱。台军的牛奶为什么酸倒了胡锡进？美台联合试射导弹真相</a></li>
 <li><a href="/cbnews/20210610/1563878.md" target="_blank">大纪元：内部文件曝中共迫害法轮功手段</a></li>
 <li><a href="/cbnews/20210610/1563877.md" target="_blank">荔湾区保安：军人白天巡逻我们晚上</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/cbnews/20210609/1563556.md" target="_blank">英二十所大学受华为等高额资助 引政界担忧</a></li>
 <li><a href="/cbnews/20210609/1563496.md" target="_blank">“盛世盛事”：36枚萝卜章从银行骗贷5个亿</a></li>
 <li><a href="/cbnews/20210609/1563491.md" target="_blank">大陆青年注射国药疫苗病危 家人求助无门</a></li>
-<li><a href="/cbnews/20210609/1563483.md" target="_blank">网曝广州芳村被封居民断粮 给隔离者供饭像投猪食</a></li>
-<li><a href="/cbnews/20210609/1563469.md" target="_blank">复旦血案另有内情？遇害学院书记被曝剽窃杀手论文</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210610/1563918.md" target="_blank">陶杰：赔偿必随战争 对华人是个大问题</a></li>
+<li><a href="/comments/20210610/1563917.md" target="_blank">专访资深媒体人程凯: 疫情追责 进入大决战</a></li>
+<li><a href="/comments/20210610/1563914.md" target="_blank">珍珠港军事基地遭威胁被封锁；国税局机密文件外泄！美富豪避税被揭 ；拜登撤川普对tiktok及微信禁令； 拜登与共和党谈判破裂！两党合作落幕？【#北美新闻 2021/06/09】</a></li>
 <li><a href="/comments/20210610/1563890.md" target="_blank">美台重启TIFA贸易谈判 美媒：最快10日对话</a></li>
 <li><a href="/comments/20210610/1563880.md" target="_blank">“大不了死，亦不会避” 倾盆大雨下，他们登山，只为照亮 6 月 9 日的晚上</a></li>
 <li><a href="/comments/20210610/1563879.md" target="_blank">千让日记（8）：不离不弃</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210610/1563773.md" target="_blank">拜登撤抖音微信禁令 宣布调查涉中软件的国安威胁</a></li>
 <li><a href="/comments/20210610/1563759.md" target="_blank">法国总统马克龙6月8日被人隔着围栏扇耳光完整视频</a></li>
 <li><a href="/comments/20210610/1563728.md" target="_blank">北京或成为全球最低企业税率协定的最大阻碍</a></li>
-<li><a href="/comments/20210610/1563717.md" target="_blank">鼓励生育，日本韩国新加坡为何都失败了</a></li>
-<li><a href="/comments/20210610/1563711.md" target="_blank">美参议员提新法案：禁将美国退休金投资中国</a></li>
-<li><a href="/comments/20210610/1563701.md" target="_blank">李燕铭：习近平夫人彭丽媛很可能二十大晋升政治局委员出任副总理 彭丽媛首次被曝享中共国级领导人待遇 央视晚间新闻彭丽媛排在胡春华之前 孙春兰即将卸任副总理 继任人选难产</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
 <li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
 <li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
 
 </ul>
 </div>
