@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/cnnews/20210609/1563261.md">新华社给习近平布置灵堂？看看啥叫“高级黑” 【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20210609/1563362.md">“江胡料现身”中共大会？习近平两记耳光 态度已明 【阿波罗网报道】</a></li>
 <li><a href="/comments/20210610/1563791.md">“王岐山叛逃” 魏京生推特发帖后称是假消息紧急删除 中南海谣言预言_471</a></li>
 <li><a href="/cbnews/20210609/1563469.md">复旦血案另有内情？遇害学院书记被曝剽窃杀手论文</a></li>
@@ -13,8 +12,8 @@
 <li><a href="/cnnews/20210609/1563387.md">习近平会拿谁祭旗？盘点“最火”的外交战狼</a></li>
 <li><a href="/cbnews/20210609/1563367.md">广东染疫者持续上升 大数据防控希望落空</a></li>
 <li><a href="/bannedvideo/20210609/1563295.md">习近平“遗照”曝光😱，谁这么多大胆？#shorts</a></li>
-<li><a href="/cbnews/20210609/1563368.md">中共喉舌报导中彭丽媛享受副国级待遇</a></li>
 <li><a href="/cbnews/20210610/1563815.md">江苏装甲车封独立学院 传已定性学生“暴动”</a></li>
+<li><a href="/cbnews/20210609/1563368.md">中共喉舌报导中彭丽媛享受副国级待遇</a></li>
 <li><a href="/comments/20210610/1563701.md">李燕铭：习近平夫人彭丽媛很可能二十大晋升政治局委员出任副总理 彭丽媛首次被曝享中共国级领导人待遇 央视晚间新闻彭丽媛排在胡春华之前 孙春兰即将卸任副总理 继任人选难产</a></li>
 <li><a href="/bannedvideo/20210609/1563400.md">阿南德直言中国不安全 许多预言不准确原来发生了这件大事(2021年6月9日)</a></li>
 <li><a href="/comments/20210610/1563607.md">中共高阶投名状！带来什么绝密消息？北京官媒哑火，两个小时夺台湾成笑柄，台湾需要组建国民警卫队；│#熊猫侠</a></li>
@@ -27,6 +26,7 @@
 <li><a href="/ssgc/20210609/1563493.md">王沪宁失势和内部毛派被抓</a></li>
 <li><a href="/cnnews/20210609/1563361.md">爆炸性视频出土：达扎克描述"中国同事"在开发"杀手"病毒【阿波罗网编译】</a></li>
 <li><a href="/health/20210609/1563402.md">寿命长的男性常伴有这些特征</a></li>
+<li><a href="/bannedvideo/20210610/1563814.md">内斗加剧，王岐山大秘被诉；中共最高级别叛逃者，引重大连锁反应；美划红线，阻中共趁疫犯台；神秘能量攻击原因浮现；盛典归来！世界第一秀美康州首演！【 #晚间新闻 】｜#新唐人电视台</a></li>
 <li><a href="/cbnews/20210609/1563483.md">网曝广州芳村被封居民断粮 给隔离者供饭像投猪食</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -98,6 +98,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210610/1563976.md" target="_blank">复旦杀人案的制度机制: 高校引进“长聘教轨制”引内卷</a></li>
+<li><a href="/comments/20210610/1563970.md" target="_blank">【反抗运动两周年】港人登狮子山顶亮灯 举 FREE HK、FAITH 字句：让抗争者看到彼此</a></li>
+<li><a href="/comments/20210610/1563969.md" target="_blank">“没有印象”</a></li>
+<li><a href="/comments/20210610/1563966.md" target="_blank">【独家】诗一首：《换位思考》</a></li>
+<li><a href="/comments/20210610/1563965.md" target="_blank">深入解析：萧邦的第一首夜曲，极简又精妙的和声色彩</a></li>
 <li><a href="/comments/20210610/1563957.md" target="_blank">【要闻精粹】一步走错的威胁很恐怖 绝粮计封闭管理是疏忽？</a></li>
 <li><a href="/comments/20210610/1563351.md" target="_blank">流氓软件为何流氓</a></li>
 <li><a href="/comments/20210610/1563939.md" target="_blank">批修改香港选举制度破坏一国两制 欧盟考虑派团访港</a></li>
@@ -118,11 +123,6 @@
 <li><a href="/comments/20210610/1563835.md" target="_blank">【独家】诗一首：《莫 为》</a></li>
 <li><a href="/comments/20210610/1563834.md" target="_blank">杨瑞秋：躺平人的出路在哪里，我给大家想好了</a></li>
 <li><a href="/comments/20210610/1563829.md" target="_blank">拜登政府反习不反共 只想中国恢复到江泽民时代 拜登政府剃习近平眼眉令习在党内威信扫地 下一个大动作将令习近平失去地位 中南海谣言预言_472</a></li>
-<li><a href="/comments/20210610/1563820.md" target="_blank">复旦沦落：中国精英高校的缩影？党领导下的必然结局；美参院通过史上最大额科技法案，对中共反制力度有多大？</a></li>
-<li><a href="/comments/20210610/1563819.md" target="_blank">范畴：“全球芯片末日”？疫苗与台湾经济</a></li>
-<li><a href="/comments/20210610/1563800.md" target="_blank">“枪声”已响！美参院通过《创新竞争法案》 北京强烈不满</a></li>
-<li><a href="/comments/20210610/1563799.md" target="_blank">林保华：躺平主义&#8211;中国内部的不合作运动</a></li>
-<li><a href="/comments/20210610/1563791.md" target="_blank">“王岐山叛逃” 魏京生推特发帖后称是假消息紧急删除 中南海谣言预言_471</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
 <li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
 
 </ul>
 </div>
