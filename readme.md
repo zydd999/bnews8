@@ -9,24 +9,24 @@
 <li><a href="/cbnews/20210610/1563815.md">江苏装甲车封独立学院 传已定性学生“暴动”</a></li>
 <li><a href="/comments/20210610/1563607.md">中共高阶投名状！带来什么绝密消息？北京官媒哑火，两个小时夺台湾成笑柄，台湾需要组建国民警卫队；│#熊猫侠</a></li>
 <li><a href="/comments/20210610/1563701.md">李燕铭：习近平夫人彭丽媛很可能二十大晋升政治局委员出任副总理 彭丽媛首次被曝享中共国级领导人待遇 央视晚间新闻彭丽媛排在胡春华之前 孙春兰即将卸任副总理 继任人选难产</a></li>
-<li><a href="/cbnews/20210610/1563954.md">王岐山有麻烦？官方通报董宏案情有玄机</a></li>
 <li><a href="/bannedvideo/20210610/1563814.md">内斗加剧，王岐山大秘被诉；中共最高级别叛逃者，引重大连锁反应；美划红线，阻中共趁疫犯台；神秘能量攻击原因浮现；盛典归来！世界第一秀美康州首演！【 #晚间新闻 】｜#新唐人电视台</a></li>
+<li><a href="/cbnews/20210610/1563954.md">王岐山有麻烦？官方通报董宏案情有玄机</a></li>
 <li><a href="/comments/20210609/1563582.md">中共党内已空前分裂 官媒齐刊重磅旧文</a></li>
 <li><a href="/cbnews/20210610/1563988.md">习近平“灵堂照”被新华社拿下 国务院官网再登！ 【阿波罗网报道】</a></li>
-<li><a href="/comments/20210609/1563562.md">金正恩瘦了！与“前女友”玄松月同场高调放闪成焦点</a></li>
-<li><a href="/comments/20210610/1563663.md">王沪宁有麻烦？习近平政治局讲话释信号</a></li>
 <li><a href="/bannedvideo/20210610/1564069.md">王沪宁消失三个月要出大事 难道与中国叛逃者有关系?（启明笑谈20210610）</a></li>
+<li><a href="/comments/20210610/1563663.md">王沪宁有麻烦？习近平政治局讲话释信号</a></li>
 <li><a href="/cbnews/20210610/1563995.md">习近平遇反扑 各派系混战 官媒齐释重磅信号</a></li>
 <li><a href="/bannedvideo/20210610/1563875.md">陈破空：盛传王岐山叛逃？若属实，震撼超过林彪！若误传，他急需露面澄清！他的大管家今日被起诉</a></li>
 <li><a href="/cbnews/20210610/1564015.md">习近平讲话泄空前危机 中共已临“九死”之地？【阿波罗网报道】</a></li>
+<li><a href="/cbnews/20210610/1564131.md">马拉松惨案中纪委称彻查 传甘肃景泰县委书记跳楼亡</a></li>
 <li><a href="/cnnews/hknews/20210610/1563882.md">谢金河预告：未来关键的90天，这个世界会有大变化</a></li>
 <li><a href="/bannedvideo/20210610/1563729.md">天意？牛津大学最新研究，推翻了世卫的源头调查报告；向中共低头？拜登取消微信TikTok禁令，却颁布一项的新审查命令</a></li>
 <li><a href="/cnnews/20210610/1563861.md">妈妈带十几岁儿子进女更衣室 网友炸锅了</a></li>
 <li><a href="/yule/20210610/1563805.md">化妆师爆猛料！男星私生活混乱，鼻孔看人太高傲，惹网友猜测纷纷</a></li>
-<li><a href="/cbnews/20210610/1564131.md">马拉松惨案中纪委称彻查 传甘肃景泰县委书记跳楼亡</a></li>
 <li><a href="/cnnews/20210610/1564038.md">以色列凌晨空袭，大批俄罗斯制导弹拦截失败</a></li>
-<li><a href="/cbnews/20210610/1563831.md">中国发了一个通告 缅北中国人排长队通关回国</a></li>
 <li><a href="/cbnews/20210610/1563953.md">传五十京官坐镇广州 居民喊没饭吃 捐赠食品社区当垃圾扔</a></li>
+<li><a href="/cbnews/20210610/1563831.md">中国发了一个通告 缅北中国人排长队通关回国</a></li>
+<li><a href="/bannedvideo/20210610/1564077.md">文睿：亲信被正式起诉，叛逃、倒戈、入狱，王岐山成为中共最大变数</a></li>
 <li><a href="/cbnews/20210610/1563651.md">我不争了可以吧! 都市生活压力引发“丧文化” 中国年轻人流行“躺平”</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210610/1564305.md" target="_blank">广州大搞封闭隔离 女子提2把菜刀上街</a></li>
 <li><a href="/comments/20210610/1564097.md" target="_blank">谨防中共一种常用的暗杀手段 — 曾节明</a></li>
 <li><a href="/cbnews/20210610/1564215.md" target="_blank">江西两幼童被杀 家人崩溃:做好几次试管才生下她</a></li>
 <li><a href="/cbnews/20210610/1564214.md" target="_blank">温州新增确诊病例 网传万全镇连夜检测</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210610/1563987.md" target="_blank">江苏青年打疫苗入ICU无人负责 父母愁白头</a></li>
 <li><a href="/comments/20210610/1563982.md" target="_blank">推特被他封杀了！获川普大赞！场面失控！哈里斯访墨西哥遭大批摩托车队追赶！克鲁兹呼吁脸书审查实验室泄露病毒应被起诉 ！网曝广州被封居民断粮给隔离者供饭像投猪食【希望之声-午夜新闻-2021/06/09】</a></li>
 <li><a href="/cbnews/20210610/1563958.md" target="_blank">薛守维：困难时期我家的三道救命餐</a></li>
-<li><a href="/cbnews/20210610/1563954.md" target="_blank">王岐山有麻烦？官方通报董宏案情有玄机</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,13 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210610/1564315.md" target="_blank">被川普言中 羟氯奎被证实双倍提升新冠重症者存活率</a></li>
+<li><a href="/comments/20210610/1564314.md" target="_blank">端午节这份“健康指南”请收好</a></li>
+<li><a href="/comments/20210610/1564313.md" target="_blank">补充维生素D选什么食物？营养师点名8种</a></li>
+<li><a href="/comments/20210610/1564312.md" target="_blank">食材才能放久又营养？ 营养师分享「一周采买提案」</a></li>
+<li><a href="/comments/20210610/1564293.md" target="_blank">小粉红炮轰自家美女作家 中国官方被迫尴尬灭火</a></li>
+<li><a href="/comments/20210610/1564291.md" target="_blank">法国男子打总统马克宏耳光 最高可处3年有期徒刑</a></li>
+<li><a href="/comments/20210610/1564290.md" target="_blank">【世界美景】视频：《绝景奇树》(独家=中文字幕)</a></li>
 <li><a href="/comments/20210610/1564097.md" target="_blank">谨防中共一种常用的暗杀手段 — 曾节明</a></li>
 <li><a href="/comments/20210610/1564233.md" target="_blank">时事大家谈：“农村土猪拱城里白菜”，励志还是可怕？</a></li>
 <li><a href="/comments/20210610/1564230.md" target="_blank">【清算教师】裁“专业失德”逾月仍未收教育局处分 视艺教师“vawongsir”身心俱疲 辞日校教师工作</a></li>
@@ -116,13 +123,6 @@
 <li><a href="/comments/20210610/1564144.md" target="_blank">【双语诗歌 Bilingual Poetry】：《一个新的开始A New Start》</a></li>
 <li><a href="/comments/20210610/1564128.md" target="_blank">两年 33 名律师离任 郑若骅否认律政司有“离职潮” 称任何机构都有自然流失</a></li>
 <li><a href="/comments/20210610/1564127.md" target="_blank">【反抗运动两周年】本土青年意志展示蒸鱼碟、连侬布墙 声音导航重现抗争期间“重要声音”</a></li>
-<li><a href="/comments/20210610/1564125.md" target="_blank">反送中两周年 — 接不住孩子的遗憾</a></li>
-<li><a href="/comments/20210610/1564124.md" target="_blank">【坚离地倾】郑宇硕：香港民主运动老兵的一生反思</a></li>
-<li><a href="/comments/20210610/1564123.md" target="_blank">【独家】诗一首：七律 《咏谢稚柳青绿山水图》</a></li>
-<li><a href="/comments/20210610/1564122.md" target="_blank">东京奥运倒数43天 首都圈疫情未缓解 纽西兰表态参赛</a></li>
-<li><a href="/comments/20210610/1564121.md" target="_blank">大自然的道法，你静心欣赏过吗？</a></li>
-<li><a href="/comments/20210610/1564116.md" target="_blank">习近平的&#8221;可爱&#8221;战略是羊皮 难掩狼爪 世界对北京的新形象没胃口 【阿波罗网编译】</a></li>
-<li><a href="/comments/20210610/1564111.md" target="_blank">儒学没有资格成为心灵的信仰（东方哲人解析当代人类困惑  第三十讲）【袁红冰杏坛】 06102021</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
-<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
 <li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
+<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
 
 </ul>
 </div>
