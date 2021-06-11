@@ -10,8 +10,8 @@
 <li><a href="/comments/20210611/1564508.md">到底是谁跑了？王岐山？王沪宁？习近平身边的两个最大变量，防不胜防│#熊猫侠</a></li>
 <li><a href="/bannedvideo/20210610/1564202.md">浙江平阳万全镇爆出疫情，已封路封村。网友曝万全镇封锁，患者家附近，和诊所附近全封了，该市平阳县万全镇民众连夜排队做核酸检测。由于官方未公布细节，当地网民不满。</a></li>
 <li><a href="/cbnews/20210611/1564417.md">中国“00后”有些不一样 中共难掌控</a></li>
-<li><a href="/bannedvideo/20210611/1564469.md">王岐山逃亡？美中对抗加剧，中共人大通过《反外国制裁法》，学者：高估自己连自己也骗了；美高官：将联合盟友在国际场合反制</a></li>
 <li><a href="/bannedvideo/20210611/1564490.md">【突发】空前分裂，党媒忽齐重磅反击习近平；上海气氛突紧张；广州被封居民对官员怒吼：“断粮2日2夜，真会死人”；隔离区供饭像投猪食；江苏装甲车封独立学院，传已定性学生暴动 CT</a></li>
+<li><a href="/bannedvideo/20210611/1564469.md">王岐山逃亡？美中对抗加剧，中共人大通过《反外国制裁法》，学者：高估自己连自己也骗了；美高官：将联合盟友在国际场合反制</a></li>
 <li><a href="/cnnews/20210611/1564451.md">当年花16万“断骨增高”的男子，曾长高了7厘米，如今为啥后悔？</a></li>
 <li><a href="/comments/20210611/1564610.md">慈禧唯一真实的一张照片 四十出头的慈禧光彩熠熠</a></li>
 <li><a href="/cbnews/20210611/1564470.md">日首相称台湾为国家 北京难再装聋作哑被迫回应</a></li>
@@ -27,7 +27,7 @@
 <li><a href="/cbnews/20210610/1564305.md">广州大搞封闭隔离 女子提2把菜刀上街</a></li>
 <li><a href="/funmedia/20210611/1564616.md">女子在酒店内脱衣洗澡，俩男子推门而入…</a></li>
 <li><a href="/ssgc/20210610/1564208.md">战狼变熊猫：大错已铸成，悔之晚矣</a></li>
-<li><a href="/cnnews/20210611/1564676.md">复旦血案 学弟发文引关注 他本应该是美国学术圈内小有名气的教授</a></li>
+<li><a href="/cnnews/20210611/1564754.md">罕见！江泽民派系发文：谁来监督习近平 【阿波罗网报道】</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210611/1564849.md" target="_blank">中国学潮/ 每次铁拳落下：有人猛然觉醒，有人继续沉睡</a></li>
 <li><a href="/cbnews/20210611/1564842.md" target="_blank">云南楚雄连发三次地震最高5.1级 2669间房屋受损</a></li>
 <li><a href="/comments/20210611/1564840.md" target="_blank">💥美台贸易主管对话将恢复TIFA会谈；报复西方制裁人大通过”反外国制裁法”；江浙大规模学潮后 传警察秘密抓学生；反送中6.12两周年港人相约坚守拒绝遗忘【希望之声TV-两岸要闻-2021/06/11】</a></li>
 <li><a href="/comments/20210611/1564835.md" target="_blank">乔治亚或迎巨变，16个州参观大峡谷！扎男与福奇通讯曝光。拜登启动奥巴马下一个议程，川普喊话。扎男4亿美元都干了啥？</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/comments/20210611/1564492.md" target="_blank">美物价创13年最大涨幅；澳国防部长：印太军事冲突不再遥远；民意汹涌 匈牙利将公投决定建覆旦；昂山被控贪腐 若定罪恐判15年；抓上千洗钱币农 中共收紧虚拟货币【希望之声-每日头条-2021/06/10】</a></li>
 <li><a href="/comments/20210611/1564491.md" target="_blank">海归数学博士持刀杀人谁的错？归还是不归？【希望之声TV-新闻焦点解读-2021/06/10】 主持:高洁  嘉宾：谢田</a></li>
 <li><a href="/cbnews/20210611/1564470.md" target="_blank">日首相称台湾为国家 北京难再装聋作哑被迫回应</a></li>
-<li><a href="/cbnews/20210611/1564459.md" target="_blank">中共战狼画的红线 美军逼他自打嘴巴</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210611/1564851.md" target="_blank">「小章子怡」穿太美也有事!童瑶封后引争论</a></li>
+<li><a href="/comments/20210611/1564850.md" target="_blank">前香港众志成员周庭将於本周出狱</a></li>
 <li><a href="/comments/20210611/1564840.md" target="_blank">💥美台贸易主管对话将恢复TIFA会谈；报复西方制裁人大通过”反外国制裁法”；江浙大规模学潮后 传警察秘密抓学生；反送中6.12两周年港人相约坚守拒绝遗忘【希望之声TV-两岸要闻-2021/06/11】</a></li>
 <li><a href="/comments/20210611/1564839.md" target="_blank">【国安法元年．专访】19 岁陷国安狱 钟翰林的羁绊与自由</a></li>
 <li><a href="/comments/20210611/1564838.md" target="_blank">中国古代女子的香熏生活</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210611/1564731.md" target="_blank">【世界美景】摄影：《公园里的绿色植物》《三径园的小花 》 (独家)</a></li>
 <li><a href="/comments/20210611/1564714.md" target="_blank">【世界美景】视频：世界上唯一 一家七星级酒店 (独家)</a></li>
 <li><a href="/comments/20210611/1564713.md" target="_blank">【独家】诗一首：《浑》</a></li>
-<li><a href="/comments/20210611/1564703.md" target="_blank">国际特赦：中共对穆斯林的严酷镇压构成“反人类罪”</a></li>
-<li><a href="/comments/20210611/1564699.md" target="_blank">横河观点：美军机降台 一箭三雕 捅破纸老虎</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
 <li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
 <li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
 
 </ul>
 </div>
