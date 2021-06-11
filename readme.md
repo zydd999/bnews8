@@ -21,11 +21,11 @@
 <li><a href="/cnnews/20210611/1564760.md">习近平误判？反外国制裁法被讽“砸脚法”</a></li>
 <li><a href="/bannedvideo/20210611/1564741.md">习王决裂! 习近平党内外一眼望去全是敌人（启明笑谈20210611）</a></li>
 <li><a href="/cbnews/20210611/1564498.md">传当局对江浙学潮秋后算账 江苏秘密抓捕学生</a></li>
+<li><a href="/bannedvideo/20210611/1564834.md">陈破空：习家军密谋：韩正当总理！刘鹤委员长。让李克强出局！副总理全姓习。谁的幸福畅想曲</a></li>
 <li><a href="/health/20210611/1564427.md">半夜醒来，嘴巴又干又苦？别以为是缺水，多半与4个原因有关</a></li>
 <li><a href="/lifebaike/20210611/1564702.md">大门口万万不能放这3样东西，放一世穷三代，再有钱都会变败光光</a></li>
 <li><a href="/cbnews/20210611/1564519.md">天亮时分：王岐山副手被捕！官媒反击习近平？中共通过《反外国制裁法》，自己挖坑自己跳（政论天下第442集 20210610）</a></li>
 <li><a href="/cnnews/20210611/1564493.md">官方实测21款电动车续航：小鹏哭了 特斯拉笑了</a></li>
-<li><a href="/bannedvideo/20210611/1564834.md">陈破空：习家军密谋：韩正当总理！刘鹤委员长。让李克强出局！副总理全姓习。谁的幸福畅想曲</a></li>
 <li><a href="/cnnews/20210611/1564759.md">政商大鳄刘沧龙被捕 传曾为周永康提供色情服务</a></li>
 <li><a href="/funmedia/20210611/1564656.md">“从老婆包里翻出来的东西，朋友看到后劝我离婚，这是为啥？”哈哈哈哈</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210612/1565001.md" target="_blank">美防长：印太局势紧张 美中需要沟通</a></li>
+<li><a href="/comments/20210612/1565000.md" target="_blank">美澳南海军演 美军舰高调开炮 陆军上将：若中共侵台就有能力击退它</a></li>
 <li><a href="/comments/20210612/1564997.md" target="_blank">卢比奥：美跨国企业无视中国奴工问题 令所有人成帮凶</a></li>
 <li><a href="/comments/20210612/1564996.md" target="_blank">结语篇： 纪念“六四”的意义 旨在千秋万代</a></li>
 <li><a href="/comments/20210612/1564985.md" target="_blank">【查禁电影】禁危害国安电影上映 舒琪：订电检条例原则 不因政治禁电影</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210611/1564850.md" target="_blank">前香港众志成员周庭将於本周出狱</a></li>
 <li><a href="/comments/20210611/1564840.md" target="_blank">💥美台贸易主管对话将恢复TIFA会谈；报复西方制裁人大通过”反外国制裁法”；江浙大规模学潮后 传警察秘密抓学生；反送中6.12两周年港人相约坚守拒绝遗忘【希望之声TV-两岸要闻-2021/06/11】</a></li>
 <li><a href="/comments/20210611/1564839.md" target="_blank">【国安法元年．专访】19 岁陷国安狱 钟翰林的羁绊与自由</a></li>
-<li><a href="/comments/20210611/1564838.md" target="_blank">中国古代女子的香熏生活</a></li>
-<li><a href="/comments/20210611/1564837.md" target="_blank">中国传统的扇面画艺术</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
 <li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
 <li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
 <li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
 
 </ul>
 </div>
