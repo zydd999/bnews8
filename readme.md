@@ -14,9 +14,9 @@
 <li><a href="/bannedvideo/20210611/1564490.md">【突发】空前分裂，党媒忽齐重磅反击习近平；上海气氛突紧张；广州被封居民对官员怒吼：“断粮2日2夜，真会死人”；隔离区供饭像投猪食；江苏装甲车封独立学院，传已定性学生暴动 CT</a></li>
 <li><a href="/bannedvideo/20210611/1564469.md">王岐山逃亡？美中对抗加剧，中共人大通过《反外国制裁法》，学者：高估自己连自己也骗了；美高官：将联合盟友在国际场合反制</a></li>
 <li><a href="/cbnews/20210611/1564417.md">中国“00后”有些不一样 中共难掌控</a></li>
+<li><a href="/comments/20210611/1564610.md">慈禧唯一真实的一张照片 四十出头的慈禧光彩熠熠</a></li>
 <li><a href="/bannedvideo/20210610/1564129.md">视频中南京师大中北学院女学生：一小时前市长来给我们讲他会彻查打学生的那些事情，一小时后直接把我们武力镇压</a></li>
 <li><a href="/cbnews/20210611/1564470.md">日首相称台湾为国家 北京难再装聋作哑被迫回应</a></li>
-<li><a href="/comments/20210611/1564610.md">慈禧唯一真实的一张照片 四十出头的慈禧光彩熠熠</a></li>
 <li><a href="/cnnews/20210611/1564451.md">当年花16万“断骨增高”的男子，曾长高了7厘米，如今为啥后悔？</a></li>
 <li><a href="/comments/20210610/1564216.md">王沪宁与习近平渐行渐远 显失势迹象</a></li>
 <li><a href="/comments/20210610/1564097.md">谨防中共一种常用的暗杀手段 — 曾节明</a></li>
@@ -98,6 +98,12 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210611/1564781.md" target="_blank">中共六中全会成二十大内斗关键 陈敏尔将弯道超车？</a></li>
+<li><a href="/comments/20210611/1564780.md" target="_blank">英国发布《香港问题半年报告》 批评北京镇压异议人士</a></li>
+<li><a href="/comments/20210611/1564779.md" target="_blank">当心！这个「隐形杀手」就在你身边</a></li>
+<li><a href="/comments/20210611/1564778.md" target="_blank">《黄帝内经》：有规律的睡眠，到底有多好</a></li>
+<li><a href="/comments/20210611/1564777.md" target="_blank">壮男心肌梗塞 竟是罕见病「血小板增多症」</a></li>
+<li><a href="/comments/20210611/1564776.md" target="_blank">心理学： 看行为！「这种人」很怕感染武汉肺炎</a></li>
 <li><a href="/comments/20210611/1564740.md" target="_blank">【世界美景】摄影：《公园里的绿色植物》《三径园的小花 》《红芍药 》《白芍药 》(独家)</a></li>
 <li><a href="/comments/20210611/1564733.md" target="_blank">包围警总案判监 10 个月 周庭 6.12 出狱</a></li>
 <li><a href="/comments/20210611/1564732.md" target="_blank">【查禁电影】政府称为落实国安法 修订电检指引 危害国安电影“不宜上映”</a></li>
@@ -117,12 +123,6 @@
 <li><a href="/comments/20210611/1564634.md" target="_blank">英首相：G7将承诺捐赠10亿疫苗助全球抗疫</a></li>
 <li><a href="/comments/20210611/1564632.md" target="_blank">视频：诺贝尔奖得主-卢赫·蒙坦格尼尔 : 新冠疫苗导致变种病毒出现</a></li>
 <li><a href="/comments/20210611/1564624.md" target="_blank">王友群：中共最高级别叛逃者引发连锁反应？</a></li>
-<li><a href="/comments/20210611/1564618.md" target="_blank">【微博精粹】惊天秘密：共军科学家去年2月申请疫苗专利 3个月暴亡</a></li>
-<li><a href="/comments/20210611/1564610.md" target="_blank">慈禧唯一真实的一张照片 四十出头的慈禧光彩熠熠</a></li>
-<li><a href="/comments/20210611/1564603.md" target="_blank">美国第45任总统唐纳德-J-川普的声明: 我强烈而有效地对抗了这个捏造的骗局，而且我赢了! 拜登假冒参谋长联席会议谎报军情</a></li>
-<li><a href="/comments/20210611/1564599.md" target="_blank">美台贸易对谈成果丰硕 第11届TIFA会议数周后召开</a></li>
-<li><a href="/comments/20210611/1564590.md" target="_blank">为建火星城市！马斯克卖空房产；选美皇后在美国认罪：帮大毒枭打理贩毒；小扎被质问？脸书审查背后和福西有关；西点学员因拒接种被禁闭 家长将起诉【#北美新闻 06/10】</a></li>
-<li><a href="/comments/20210611/1564589.md" target="_blank">日本首相也称台湾为国家 北京难再装聋作哑被迫回应</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
 <li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
 
 </ul>
 </div>
