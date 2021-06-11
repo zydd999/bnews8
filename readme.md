@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/bannedvideo/20210611/1564372.md">大戏上演!王岐山叛逃有可能吗？他的目的是什么?还是有人故意喂料  (2021年6月10日)</a></li>
 <li><a href="/comments/20210611/1564508.md">到底是谁跑了？王岐山？王沪宁？习近平身边的两个最大变量，防不胜防│#熊猫侠</a></li>
 <li><a href="/ssgc/20210611/1564455.md">〖兲朝浮世绘〗“王岐山叛逃”的消息是真是假？</a></li>
 <li><a href="/bannedvideo/20210611/1564490.md">【突发】空前分裂，党媒忽齐重磅反击习近平；上海气氛突紧张；广州被封居民对官员怒吼：“断粮2日2夜，真会死人”；隔离区供饭像投猪食；江苏装甲车封独立学院，传已定性学生暴动 CT</a></li>
@@ -19,15 +18,16 @@
 <li><a href="/topimagenews/20210611/1564833.md">日本大动作 习近平难再装聋 习能破与诸侯经济暗斗僵局 中国通胀加剧甩锅欧美</a></li>
 <li><a href="/topimagenews/20210611/1564647.md">习近平政敌捡到枪!借俄媒之口：有斯大林风格 【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20210611/1564760.md">习近平误判？反外国制裁法被讽“砸脚法”</a></li>
-<li><a href="/bannedvideo/20210611/1564741.md">习王决裂! 习近平党内外一眼望去全是敌人（启明笑谈20210611）</a></li>
 <li><a href="/bannedvideo/20210611/1564834.md">陈破空：习家军密谋：韩正当总理！刘鹤委员长。让李克强出局！副总理全姓习。谁的幸福畅想曲</a></li>
+<li><a href="/bannedvideo/20210611/1564741.md">习王决裂! 习近平党内外一眼望去全是敌人（启明笑谈20210611）</a></li>
 <li><a href="/cbnews/20210611/1564498.md">传当局对江浙学潮秋后算账 江苏秘密抓捕学生</a></li>
-<li><a href="/health/20210611/1564427.md">半夜醒来，嘴巴又干又苦？别以为是缺水，多半与4个原因有关</a></li>
 <li><a href="/lifebaike/20210611/1564702.md">大门口万万不能放这3样东西，放一世穷三代，再有钱都会变败光光</a></li>
+<li><a href="/health/20210611/1564427.md">半夜醒来，嘴巴又干又苦？别以为是缺水，多半与4个原因有关</a></li>
 <li><a href="/cbnews/20210611/1564519.md">天亮时分：王岐山副手被捕！官媒反击习近平？中共通过《反外国制裁法》，自己挖坑自己跳（政论天下第442集 20210610）</a></li>
 <li><a href="/cnnews/20210611/1564493.md">官方实测21款电动车续航：小鹏哭了 特斯拉笑了</a></li>
 <li><a href="/cnnews/20210611/1564759.md">政商大鳄刘沧龙被捕 传曾为周永康提供色情服务</a></li>
 <li><a href="/funmedia/20210611/1564656.md">“从老婆包里翻出来的东西，朋友看到后劝我离婚，这是为啥？”哈哈哈哈</a></li>
+<li><a href="/funmedia/20210611/1564616.md">女子在酒店内脱衣洗澡，俩男子推门而入…</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210612/1565027.md" target="_blank">美时政专家：苹果公司强化中共并削弱美国</a></li>
+<li><a href="/comments/20210612/1565026.md" target="_blank">阻非法移民 德州欲斥资10亿美元自建边境墙</a></li>
+<li><a href="/comments/20210612/1565025.md" target="_blank">滴滴出行向美国证监会递交IPO文件</a></li>
+<li><a href="/comments/20210612/1565024.md" target="_blank">凉拌豆芽土豆丝 酸辣脆爽 开胃下饭</a></li>
+<li><a href="/comments/20210612/1565014.md" target="_blank">惊！孩童吃雪糕 竟吃出4公分刀片</a></li>
 <li><a href="/comments/20210612/1565007.md" target="_blank">威斯康辛州参院通过法案 增强选举完整性</a></li>
 <li><a href="/comments/20210612/1565006.md" target="_blank">美媒：川普禁美中旅游时 福奇正在资助武毒所</a></li>
 <li><a href="/comments/20210612/1565001.md" target="_blank">美防长：印太局势紧张 美中需要沟通</a></li>
@@ -118,11 +123,6 @@
 <li><a href="/comments/20210611/1564894.md" target="_blank">【双语诗歌 Bilingual Poetry】：《爱 Love》</a></li>
 <li><a href="/comments/20210611/1564872.md" target="_blank">随夫出访 吉尔.拜登：把美国的爱和希望带到欧洲</a></li>
 <li><a href="/comments/20210611/1564860.md" target="_blank">几种在夏天祛湿的饮茶方法（拒绝冷饮）</a></li>
-<li><a href="/comments/20210611/1564859.md" target="_blank">端午将至如何健康吃粽子</a></li>
-<li><a href="/comments/20210611/1564856.md" target="_blank">复旦手刃书记——海龟临时工深度解析</a></li>
-<li><a href="/comments/20210611/1564853.md" target="_blank">【独家】诗一首：《玩》</a></li>
-<li><a href="/comments/20210611/1564851.md" target="_blank">「小章子怡」穿太美也有事!童瑶封后引争论</a></li>
-<li><a href="/comments/20210611/1564850.md" target="_blank">前香港众志成员周庭将於本周出狱</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
 <li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
+<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
 <li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
 
 </ul>
 </div>
