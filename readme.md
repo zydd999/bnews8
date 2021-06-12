@@ -22,12 +22,12 @@
 <li><a href="/cbnews/20210611/1564922.md">浙江温州疫情蔓延 与患者同乘航班感染 民众恐慌</a></li>
 <li><a href="/cnnews/20210611/1564676.md">复旦血案 学弟发文引关注 他本应该是美国学术圈内小有名气的教授</a></li>
 <li><a href="/weiquan/20210611/1564978.md">维稳大清场&#65292;北京将进入一个月的平壤式&#8220;和谐&#8221;景象</a></li>
+<li><a href="/cnnews/20210612/1565115.md">一个中国“傻儿子”，造就了一个顶级家族</a></li>
+<li><a href="/cbnews/20210612/1565038.md">六四期间学潮汹涌 浙江先呼 各地百应 山西大学学生高呼：罢课</a></li>
 <li><a href="/bannedvideo/20210611/1564866.md">入外国籍后悔了，还能恢复中国国籍吗？完全没问题。心在哪里，哪里就是你的祖国 （坐澳观天第355期 20210611）</a></li>
 <li><a href="/cbnews/20210611/1564664.md">不打不让回家！中国接种疫苗又转强制</a></li>
 <li><a href="/cnnews/20210611/1564765.md">最新消息：北美首艘全面接种疫苗的邮轮启航 乘客仍然病毒阳性【阿波罗网编译】</a></li>
-<li><a href="/cbnews/20210612/1565038.md">六四期间学潮汹涌 浙江先呼 各地百应 山西大学学生高呼：罢课</a></li>
-<li><a href="/cnnews/20210612/1565115.md">一个中国“傻儿子”，造就了一个顶级家族</a></li>
-<li><a href="/comments/20210611/1564807.md">不丹王太后亲历，记叙发现“转世灵童”全过程！四岁幼童拥有300年前的记忆，一言一行，震惊惊法王；集体轮回，前世的伙伴，今生再次相聚。</a></li>
+<li><a href="/ssgc/20210612/1565131.md">〖兲朝浮世绘〗逃离中国的是军方病毒细菌专家兼将军</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,9 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210612/1565216.md" target="_blank">广州南沙居民区被设隔离点 引发民众抗议</a></li>
+<li><a href="/cbnews/20210612/1565215.md" target="_blank">北京高考英语作文被指初中水平 网民再轰考制不公</a></li>
+<li><a href="/cbnews/20210612/1565214.md" target="_blank">大赦国际秘书长：中共在新疆制造“地狱般场景”</a></li>
 <li><a href="/comments/20210612/1565183.md" target="_blank">美华裔母亲痛斥校董会视频走红！教育界上演“美国版文革”，华人如何应对？纽约社区领袖分享抗争成功经验</a></li>
 <li><a href="/comments/20210612/1565182.md" target="_blank">阻止台海之战的釜底抽薪之策（第七部分）——习近平把中国社会推向全面绝望（中共命运的轨迹和人类前途  第二十三讲）【袁红冰纵论天下】 06122021</a></li>
 <li><a href="/comments/20210612/1565171.md" target="_blank">家有仙妻还是一人之下？他怎么选择？｜#大雄画里话外 #笔墨传说 #太阴夫人</a></li>
@@ -58,9 +61,6 @@
 <li><a href="/cbnews/20210611/1564981.md" target="_blank">中方通过反制裁法 美国：不受影响 全力制裁</a></li>
 <li><a href="/cbnews/20210611/1564952.md" target="_blank">美防长：印太局势紧张 中美间缺乏红色电话</a></li>
 <li><a href="/cbnews/20210611/1564951.md" target="_blank">内蒙古鄂尔多斯市伊金霍洛旗地震</a></li>
-<li><a href="/cbnews/20210611/1564922.md" target="_blank">浙江温州疫情蔓延 与患者同乘航班感染 民众恐慌</a></li>
-<li><a href="/cbnews/20210611/1564854.md" target="_blank">模拟共军突袭台湾 神秘机构助美军“一招制敌”</a></li>
-<li><a href="/cbnews/20210611/1564849.md" target="_blank">中国学潮/ 每次铁拳落下：有人猛然觉醒，有人继续沉睡</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210612/1565225.md" target="_blank">曈小曈：躺平的误区</a></li>
+<li><a href="/comments/20210612/1565224.md" target="_blank">童大焕：上层早已逃离 你还在“高考公平”的迷梦中内卷挣扎</a></li>
 <li><a href="/comments/20210612/1565204.md" target="_blank">中共山寨版F-35战机实照首曝光 被抬到武汉的假航母上</a></li>
 <li><a href="/comments/20210612/1565198.md" target="_blank">英媒：中共国制定《反外国制裁法》 应对美国“工具箱”的四个看点</a></li>
 <li><a href="/comments/20210612/1565197.md" target="_blank">苏暁康：八九民运的“灰色地带”</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210612/1565072.md" target="_blank">布林肯与杨洁篪电话会谈 其后声明大相径庭</a></li>
 <li><a href="/comments/20210612/1565071.md" target="_blank">制裁隐瞒及歪曲疫情的中共官员 美议员再提立法</a></li>
 <li><a href="/comments/20210612/1565070.md" target="_blank">比尔盖茨成美国最大“地主” 为麦当劳提供土豆</a></li>
-<li><a href="/comments/20210612/1565058.md" target="_blank">【同乐运动会】何君尧再狙击： “正常人”不会参与，同性恋危害人类生存</a></li>
-<li><a href="/comments/20210612/1565057.md" target="_blank">阿隋厨房：芋圆烧仙草 夏日消暑佳品 Grass jelly taro balls</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
 <li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/comments/20210329/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
 
 </ul>
 </div>
