@@ -21,13 +21,13 @@
 <li><a href="/cnnews/20210612/1565116.md">金正恩突然体重下降变瘦接班斗争或已发生将引动荡?</a></li>
 <li><a href="/cbnews/20210611/1564922.md">浙江温州疫情蔓延 与患者同乘航班感染 民众恐慌</a></li>
 <li><a href="/cnnews/20210611/1564857.md">大火怒烧陕西渭南市公安局办公楼 顶烧到楼底</a></li>
-<li><a href="/weiquan/20210611/1564978.md">维稳大清场&#65292;北京将进入一个月的平壤式&#8220;和谐&#8221;景象</a></li>
 <li><a href="/yule/20210612/1565103.md">婚变7天首发声！大S深夜私人IG发声“我被封锁”蔡！屠杀我们</a></li>
-<li><a href="/bannedvideo/20210611/1564866.md">入外国籍后悔了，还能恢复中国国籍吗？完全没问题。心在哪里，哪里就是你的祖国 （坐澳观天第355期 20210611）</a></li>
+<li><a href="/weiquan/20210611/1564978.md">维稳大清场&#65292;北京将进入一个月的平壤式&#8220;和谐&#8221;景象</a></li>
 <li><a href="/cbnews/20210612/1565113.md">“复旦事件”后 想起在美国端7年盘子的数学天才</a></li>
+<li><a href="/bannedvideo/20210611/1564866.md">入外国籍后悔了，还能恢复中国国籍吗？完全没问题。心在哪里，哪里就是你的祖国 （坐澳观天第355期 20210611）</a></li>
 <li><a href="/cnnews/20210611/1564765.md">最新消息：北美首艘全面接种疫苗的邮轮启航 乘客仍然病毒阳性【阿波罗网编译】</a></li>
 <li><a href="/comments/20210612/1564983.md">合力为习挖坑？王沪宁与张维为关系曝光</a></li>
-<li><a href="/comments/20210611/1564807.md">不丹王太后亲历，记叙发现“转世灵童”全过程！四岁幼童拥有300年前的记忆，一言一行，震惊惊法王；集体轮回，前世的伙伴，今生再次相聚。</a></li>
+<li><a href="/cnnews/20210612/1565146.md">近2万亿债务扛不住了：这次谁能救恒大？</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210612/1565309.md" target="_blank">小说预言成真！ 「地狱式反乌托邦」正在建造中~</a></li>
 <li><a href="/comments/20210612/1565300.md" target="_blank">FBI神秘部队出手！破解比特币密码震惊黑客！美驻日代理大使出炉  7月赴任；麦当劳遭黑客攻击！美韩台湾客户数据泄露；中共逮捕数千名加密货币用户 控洗钱罪【希望之声-午夜新闻-2021/06/11】</a></li>
 <li><a href="/comments/20210612/1565299.md" target="_blank">G7峰会登场 美媒：中共问题成为最紧迫议题</a></li>
 <li><a href="/comments/20210612/1565289.md" target="_blank">游说美国遣返郭文贵 神秘富商刘特佐新罪曝光</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210612/1565127.md" target="_blank">项栋梁:大象一路上访 控诉中药砂仁</a></li>
 <li><a href="/comments/20210612/1565123.md" target="_blank">一姐说军史：战场上击毙“武装到牙齿”的美军太难了</a></li>
 <li><a href="/comments/20210612/1565120.md" target="_blank">那夜之后，她已不是支联会的副主席，是香港儿女</a></li>
-<li><a href="/comments/20210612/1565118.md" target="_blank">苹果公司聘用宝马前高管 为圆汽车梦</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
 <li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
 <li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
+<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
 
 </ul>
 </div>
