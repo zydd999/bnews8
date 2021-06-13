@@ -13,21 +13,21 @@
 <li><a href="/cbnews/20210612/1565399.md">邓小平“政治交代”现身江系媒体 邓小平南巡最后通牒的是他！【阿波罗网报道】</a></li>
 <li><a href="/comments/20210612/1565283.md">【要闻精粹】中共军方病菌专家兼将军藏了一年才敢行动？</a></li>
 <li><a href="/cnnews/20210612/1565400.md">越南小兄弟开始攻击中共：结束中共钢铁霸权 加强澳大利亚的原材料出口【阿波罗网编译】</a></li>
-<li><a href="/lifebaike/20210612/1565335.md">饭馆里“最脏”的一道菜，医生从不让家属吃，却被很多人点赞推荐</a></li>
 <li><a href="/ssgc/20210612/1565508.md">G7+美俄会谈风向明确 中共急了</a></li>
+<li><a href="/lifebaike/20210612/1565335.md">饭馆里“最脏”的一道菜，医生从不让家属吃，却被很多人点赞推荐</a></li>
 <li><a href="/lifebaike/20210612/1565453.md">女生需要多长时间才能彻底忘记曾爱过的男生</a></li>
 <li><a href="/bannedvideo/20210612/1565278.md">💥周庭出狱！广东要“封省”，温州现封城、战时状态；学潮扩至天津湖南4省市；北京九区净空；打中共疫苗，智利医院爆满，大陆喊停；山东又获24蝙蝠毒，4种像新冠？美军统帅：有能力护台｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/cbnews/20210612/1565241.md">中共山寨版F-35战机实照首曝光</a></li>
 <li><a href="/funmedia/20210612/1565281.md">看完这个，我终于知道女生为啥都喜欢养大狗了</a></li>
 <li><a href="/cnnews/20210612/1565570.md">半年内惊现中共官员非正常死亡长名单</a></li>
+<li><a href="/cnnews/20210613/1565659.md">湖北60多年超大蚁穴挖出 蚁后体长5公分</a></li>
 <li><a href="/comments/20210612/1565470.md">永远解雇佩洛西，埃莉斯扛大旗。大峡谷的地面行动，拜登司法部真急了。民主党重量级人物反戈，HR1法案被废。</a></li>
-<li><a href="/bannedvideo/20210612/1565437.md">温州瑞安塘下，村民集体维权与警察对峙。村民T恤统一印有标语：村官恶霸、欺上瞒下、还我土地、还我公平</a></li>
 <li><a href="/finance/20210612/1565481.md">压垮复旦才子最后一根稻草 烟雾弹？中国陷严重通膨 中国疫苗外交忽劣势尽显</a></li>
+<li><a href="/bannedvideo/20210612/1565437.md">温州瑞安塘下，村民集体维权与警察对峙。村民T恤统一印有标语：村官恶霸、欺上瞒下、还我土地、还我公平</a></li>
 <li><a href="/comments/20210612/1565300.md">FBI神秘部队出手！破解比特币密码震惊黑客！美驻日代理大使出炉  7月赴任；麦当劳遭黑客攻击！美韩台湾客户数据泄露；中共逮捕数千名加密货币用户 控洗钱罪【希望之声-午夜新闻-2021/06/11】</a></li>
 <li><a href="/cnnews/20210612/1565304.md">建党百年煽情露馅 中共出口转内销愚弄国人遭讽</a></li>
 <li><a href="/cbnews/20210612/1565254.md">中共为何急推反制裁法？学者解析</a></li>
-<li><a href="/cnnews/20210613/1565659.md">湖北60多年超大蚁穴挖出 蚁后体长5公分</a></li>
-<li><a href="/cbnews/20210612/1565568.md">高考后厌世？河南长葛市7人跳河 4人死亡</a></li>
+<li><a href="/comments/20210613/1565632.md">【内幕】疫情爆发前中共军方就在研发疫苗 福奇全都知道 他一直在撒谎</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210613/1565789.md" target="_blank">遗体呈紫红色 内蒙赤峰松山看守所又欠血债</a></li>
 <li><a href="/cbnews/20210613/1565760.md" target="_blank">“搜狗输入法”“QQ输入法”被多家应用商店下架</a></li>
 <li><a href="/cbnews/20210613/1565759.md" target="_blank">“负面人物，有争议人物，坚决停用”</a></li>
 <li><a href="/comments/20210613/1565734.md" target="_blank">解放军军事政变及投奔自由的可行性论证</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/comments/20210612/1565472.md" target="_blank">感悟神韵（之二）：感悟神韵的艺术风格</a></li>
 <li><a href="/comments/20210612/1565470.md" target="_blank">永远解雇佩洛西，埃莉斯扛大旗。大峡谷的地面行动，拜登司法部真急了。民主党重量级人物反戈，HR1法案被废。</a></li>
 <li><a href="/cbnews/20210612/1565450.md" target="_blank">江西吉安一辆载45人公交车侧翻致1死2伤</a></li>
-<li><a href="/cbnews/20210612/1565446.md" target="_blank">大陆时尚名人炫富 每天650元餐费太少 引发网友炮轰</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,16 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210613/1565788.md" target="_blank">美国大陪审团对马来西亚神秘富商刘特佐和美国商人米歇尔)提出新刑事指控: 通过游说活动试图说服川普政府和司法部放弃对“一马发展有限公司”的腐败案的调查并遣返在美富商郭文贵 涉公安副部长孙立军</a></li>
+<li><a href="/comments/20210613/1565770.md" target="_blank">中共来回咬美亲苏与媚苏白苏俩五十年 两面反噬</a></li>
+<li><a href="/comments/20210613/1565769.md" target="_blank">妈妈带10岁儿子进女更衣室 爸爸去哪儿了？</a></li>
+<li><a href="/comments/20210613/1565768.md" target="_blank">戏精：高考一结束 农村来的土猪就被父母开车接走了</a></li>
+<li><a href="/comments/20210613/1565767.md" target="_blank">大陆奇事奇闻与雷人雷语频频惊人</a></li>
+<li><a href="/comments/20210613/1565766.md" target="_blank">海外“地下党”已遍布全世界 工种与机构见缝插针</a></li>
+<li><a href="/comments/20210613/1565765.md" target="_blank">【画缘】立体画：《粽子》（附故事）</a></li>
+<li><a href="/comments/20210613/1565763.md" target="_blank">【独家】诗一首：《祭 端 阳》</a></li>
+<li><a href="/comments/20210613/1565762.md" target="_blank">德州议员提案 禁中共党员购买美土地与房地产</a></li>
+<li><a href="/comments/20210613/1565761.md" target="_blank">中国浙江爆发疫情 瑞安进入战时状态</a></li>
 <li><a href="/comments/20210613/1565742.md" target="_blank">靠TED演讲治好抑郁症？NO！可能还真不如鸡汤</a></li>
 <li><a href="/comments/20210613/1565741.md" target="_blank">程翔《中共党史》： 中共协助苏联瓦解中国</a></li>
 <li><a href="/comments/20210613/1565740.md" target="_blank">中美军力对比 差距到底多大</a></li>
@@ -113,16 +123,6 @@
 <li><a href="/comments/20210613/1565719.md" target="_blank">【画缘】立体画 ：《爱》（附故事）</a></li>
 <li><a href="/comments/20210613/1565717.md" target="_blank">钟原：G7+美俄会谈风向明确 中共急了</a></li>
 <li><a href="/comments/20210613/1565712.md" target="_blank">会拜登将促盟国对抗中共再教育营；FBI吁用《外国代理人法》对抗中共；印尼向意大利订购8艘巡防舰；TikTok提供算法遭质疑；周庭出狱港人冒雨迎接 【希望之声TV-每日头条-2021/06/12】</a></li>
-<li><a href="/comments/20210613/1565710.md" target="_blank">拖稿催债，大师提香的另类人生！皇帝是他的粉丝，教皇是他的拥趸，富贵一生终未逃过黑死病！抢师傅饭碗，狗血师徒斗提香技高一筹！大才成就意大利第一名画！【大话西油姜光宇】(2021.06.12）</a></li>
-<li><a href="/comments/20210613/1565706.md" target="_blank">与拜登会晤在即 普京公开称赞川普</a></li>
-<li><a href="/comments/20210613/1565702.md" target="_blank">【独家】诗一首：《得果》</a></li>
-<li><a href="/comments/20210613/1565701.md" target="_blank">唐靖远：美英明确世界主要威胁 重塑联盟对抗北京</a></li>
-<li><a href="/comments/20210613/1565682.md" target="_blank">民主女神 周庭今天出狱了！获民众迎接 愿早日逃出中共魔爪</a></li>
-<li><a href="/comments/20210613/1565681.md" target="_blank">反送中两周年： 香港闹市已变成警察之都</a></li>
-<li><a href="/comments/20210613/1565678.md" target="_blank">加国律师：世卫主导的滥权防疫已成世界灾难 该收场了</a></li>
-<li><a href="/comments/20210613/1565674.md" target="_blank">大赦国际出新报告 详述中共迫害维族人细节</a></li>
-<li><a href="/comments/20210613/1565673.md" target="_blank">这是“小版RAV4”? 卡罗拉Corolla新推SUV啦</a></li>
-<li><a href="/comments/20210613/1565638.md" target="_blank">【反抗两年】612 香港成“警察城市” 重兵截查、限聚令驱散街站 闯朗豪坊拘 1 男子 称其高声叫嚣</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20210612/1565472.md" target="_blank">感悟神韵（之二）：感悟神韵的艺术风格</a></li>
-<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
 <li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
 
 </ul>
 </div>
