@@ -7,10 +7,8 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/lifebaike/20210612/1565454.md">内幕：杀人灭口 一名中共政治局常委被处决了</a></li>
 <li><a href="/cbnews/20210612/1565438.md">广州疫情恐怖内幕 超6成确诊者当感冒治延误就医</a></li>
-<li><a href="/cbnews/20210612/1565399.md">邓小平“政治交代”现身江系媒体 邓小平南巡最后通牒的是他！【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20210613/1565707.md">网传王岐山叛逃，历史上还有张国焘和林彪叛逃。</a></li>
 <li><a href="/ssgc/20210612/1565508.md">G7+美俄会谈风向明确 中共急了</a></li>
-<li><a href="/cnnews/20210612/1565400.md">越南小兄弟开始攻击中共：结束中共钢铁霸权 加强澳大利亚的原材料出口【阿波罗网编译】</a></li>
 <li><a href="/lifebaike/20210612/1565453.md">女生需要多长时间才能彻底忘记曾爱过的男生</a></li>
 <li><a href="/cnnews/20210613/1565659.md">湖北60多年超大蚁穴挖出 蚁后体长5公分</a></li>
 <li><a href="/cnnews/20210612/1565570.md">半年内惊现中共官员非正常死亡长名单</a></li>
@@ -18,16 +16,18 @@
 <li><a href="/lifebaike/20210613/1565772.md">所有人！注意了，打完新冠疫苗后，这些事千万不能做…</a></li>
 <li><a href="/comments/20210612/1565470.md">永远解雇佩洛西，埃莉斯扛大旗。大峡谷的地面行动，拜登司法部真急了。民主党重量级人物反戈，HR1法案被废。</a></li>
 <li><a href="/comments/20210613/1565734.md">解放军军事政变及投奔自由的可行性论证</a></li>
+<li><a href="/bannedvideo/20210613/1565782.md">🔥🔥大陆媒体拍到2条真龙...青海湖惊现12米长巨龙❗</a></li>
 <li><a href="/finance/20210612/1565481.md">压垮复旦才子最后一根稻草 烟雾弹？中国陷严重通膨 中国疫苗外交忽劣势尽显</a></li>
 <li><a href="/yule/20210613/1565700.md">49岁陶虹打坐照曝光，一身素衣全素颜示人，被吐槽太显老像老太太</a></li>
+<li><a href="/topimagenews/20210613/1565758.md">比利时极右派特种部队军人偷大批军火 追杀知名病毒学家</a></li>
 <li><a href="/bannedvideo/20210612/1565437.md">温州瑞安塘下，村民集体维权与警察对峙。村民T恤统一印有标语：村官恶霸、欺上瞒下、还我土地、还我公平</a></li>
 <li><a href="/comments/20210613/1565632.md">【内幕】疫情爆发前中共军方就在研发疫苗 福奇全都知道 他一直在撒谎</a></li>
 <li><a href="/cbnews/20210612/1565568.md">高考后厌世？河南长葛市7人跳河 4人死亡</a></li>
-<li><a href="/bannedvideo/20210613/1565782.md">🔥🔥大陆媒体拍到2条真龙...青海湖惊现12米长巨龙❗</a></li>
 <li><a href="/cbnews/20210613/1565708.md">山大商务学院爆学潮 学生遭恐吓</a></li>
 <li><a href="/comments/20210613/1565682.md">民主女神 周庭今天出狱了！获民众迎接 愿早日逃出中共魔爪</a></li>
-<li><a href="/topimagenews/20210613/1565758.md">比利时极右派特种部队军人偷大批军火 追杀知名病毒学家</a></li>
 <li><a href="/cnnews/20210613/1565676.md">人情世故“钱3不借 路3不走 礼3不随”</a></li>
+<li><a href="/yule/20210613/1565730.md">一生只演一部戏就红 男星46岁病逝 赵雅芝哭断肠</a></li>
+<li><a href="/bannedvideo/20210612/1565469.md">陈破空：习近平自知不妙，应急打出夫人牌！暗升彭丽媛为副国级。普京曾动歪脑筋</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210613/1565978.md" target="_blank">暴政下的人民反应</a></li>
+<li><a href="/comments/20210613/1565977.md" target="_blank">给周庭小妹妹的一封信</a></li>
 <li><a href="/comments/20210613/1565962.md" target="_blank">豪华游轮上95%游客打过疫苗，两人染疫被隔离</a></li>
 <li><a href="/comments/20210613/1565957.md" target="_blank">【戈壁东专栏】世界正在觉醒</a></li>
 <li><a href="/comments/20210613/1565939.md" target="_blank">6.12 两周年反思：勿轻易判断他人、拉阔国际想像、唔好斗黄</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210613/1565847.md" target="_blank">【微博精粹】共产党的官 自杀都不敢留遗书 死了还怕一件事</a></li>
 <li><a href="/comments/20210613/1565846.md" target="_blank">张杰：在现在中国 知识已难改变低层命运</a></li>
 <li><a href="/comments/20210613/1565840.md" target="_blank">【杰森视角】中共为何不敢打台湾！中共的军事意图让美国没退路！中共在中美军事对抗中有主动权？美国通胀是个定时炸弹？中共新出台的《军人地位和权益保障法》着力备战！</a></li>
-<li><a href="/comments/20210613/1565836.md" target="_blank">唯美之灵在心灵之巅点燃信仰的金灯（第一部分）——混沌是丰饶的虚无（东方哲人解析当代人类困惑  第三十一讲）【袁红冰杏坛】 06132021</a></li>
-<li><a href="/comments/20210613/1565831.md" target="_blank">为什么美国年轻教授走人时不用行凶？</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
 <li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20210329/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
 <li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
 
 </ul>
 </div>
