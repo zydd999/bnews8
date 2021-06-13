@@ -15,8 +15,8 @@
 <li><a href="/ssgc/20210613/1566077.md">习近平尴尬地站在G7峰会的圈外</a></li>
 <li><a href="/topimagenews/20210613/1565965.md">以色列水鬼干的!伊朗3万吨巨舰距港口仅9公里沉没</a></li>
 <li><a href="/cnnews/20210613/1565975.md">护士爆料：医院禁止记录疫苗不良反应 无耻行为遭 117名员工起诉【阿波罗网编译】</a></li>
-<li><a href="/comments/20210613/1566039.md">求得连任支持？谭德塞坦言：不排除武汉实验室泄毒</a></li>
 <li><a href="/topimagenews/20210613/1565974.md">美军大杀器：B-21隐身轰炸机</a></li>
+<li><a href="/comments/20210613/1566039.md">求得连任支持？谭德塞坦言：不排除武汉实验室泄毒</a></li>
 <li><a href="/comments/20210613/1566010.md">日本研究：40%以上酒精可秒杀手指上新冠病毒5秒钟就足够</a></li>
 <li><a href="/comments/20210613/1565905.md">G7 英女王故意用刀背切蛋糕  川普炮轰拜登出卖美国利益 马克龙宰割美国  川普：美国优先！</a></li>
 <li><a href="/cbnews/20210613/1566044.md">中美军力对比 差距到底多大（一）</a></li>
@@ -26,8 +26,8 @@
 <li><a href="/topimagenews/20210613/1565758.md">比利时极右派特种部队军人偷大批军火 追杀知名病毒学家</a></li>
 <li><a href="/comments/20210613/1565840.md">【杰森视角】中共为何不敢打台湾！中共的军事意图让美国没退路！中共在中美军事对抗中有主动权？美国通胀是个定时炸弹？中共新出台的《军人地位和权益保障法》着力备战！</a></li>
 <li><a href="/comments/20210613/1565682.md">民主女神 周庭今天出狱了！获民众迎接 愿早日逃出中共魔爪</a></li>
-<li><a href="/comments/20210613/1565896.md">中方阻病毒调查 专家：美有办法；终止与中国合作 澳防潜艇遭监控；菲独立日数千人中领馆前抗议；冰封2.4万年蛭形轮虫竟重生【希望之声-每日头题-2021/06/12】</a></li>
 <li><a href="/yule/20210613/1565730.md">一生只演一部戏就红 男星46岁病逝 赵雅芝哭断肠</a></li>
+<li><a href="/comments/20210613/1565896.md">中方阻病毒调查 专家：美有办法；终止与中国合作 澳防潜艇遭监控；菲独立日数千人中领馆前抗议；冰封2.4万年蛭形轮虫竟重生【希望之声-每日头题-2021/06/12】</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -67,6 +67,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20210614/1566191.md" target="_blank">寝食难安 中国楼市泡沫夺2个世界第一 澳联美反共最新大动作</a></li>
 <li><a href="/topimagenews/20210613/1565974.md" target="_blank">美军大杀器：B-21隐身轰炸机</a></li>
 <li><a href="/topimagenews/20210613/1565965.md" target="_blank">以色列水鬼干的!伊朗3万吨巨舰距港口仅9公里沉没</a></li>
 <li><a href="/topimagenews/20210613/1565945.md" target="_blank">内斗中被习近平收拾了？江系装样惨呼:小骂大帮忙也不行 【阿波罗网报道】</a></li>
@@ -91,13 +92,15 @@
 <li><a href="/topimagenews/20210606/1561402.md" target="_blank">薛守维：神奇的行贿术</a></li>
 <li><a href="/topimagenews/20210606/1561365.md" target="_blank">恒大现金流遇大麻烦？或成今年房地产领域最大的黑天鹅事件</a></li>
 <li><a href="/comments/20210606/1561346.md" target="_blank">在法国高校讲授《中共军队的军事思想》课程引发的风波</a></li>
-<li><a href="/topimagenews/20210606/1561115.md" target="_blank">何清涟：中澳贸易战输的一塌糊度 北京失算在哪？</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210614/1566192.md" target="_blank">英国站行程结束前 拜登夫妇与英女王茶叙温莎堡</a></li>
+<li><a href="/comments/20210614/1566190.md" target="_blank">涉反送中剧情 鲜浪潮剧情短片《执屋》未获电检处核准 导演︰无意描写政治，只想讲人性状态</a></li>
+<li><a href="/comments/20210614/1566189.md" target="_blank">周庭出狱后 深夜首发声：痛苦终于完结.. 眼前依然是黑暗</a></li>
 <li><a href="/comments/20210614/1566181.md" target="_blank">G7发布公报 在多领域一致对抗中共</a></li>
 <li><a href="/comments/20210614/1566180.md" target="_blank">特斯拉Tesla协助警方，侦破百余起车辆袭击案</a></li>
 <li><a href="/comments/20210614/1566159.md" target="_blank">张建宗：中国共产党孕育一国两制茁壮成长 香港回归是中共百年伟业重要组成部分</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210613/1566070.md" target="_blank">💥G7讨论基础设施计划 替代一带一路；反送中612两周年港警重兵布防截查市民；拜登放行神秘科技公司遭智库质疑；腾讯子公司强制周三晚6时下班 网友批走形式【希望之声TV-两岸要闻-2021/06/13】</a></li>
 <li><a href="/comments/20210613/1566043.md" target="_blank">6.12 过后 贤学思政王逸战黄沅琳凌晨准保释 王逸战：警一度指控网上买卖军火</a></li>
 <li><a href="/comments/20210613/1566042.md" target="_blank">【漫谈成语】不以规矩不成方圆（上下）</a></li>
-<li><a href="/comments/20210613/1566039.md" target="_blank">求得连任支持？谭德塞坦言：不排除武汉实验室泄毒</a></li>
-<li><a href="/comments/20210613/1566026.md" target="_blank">诗一首：《端午抒怀》</a></li>
-<li><a href="/comments/20210613/1566025.md" target="_blank">中国古代的那些女儿节（上）</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
 <li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
 
 </ul>
 </div>
