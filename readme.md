@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/ssgc/20210612/1565508.md">G7+美俄会谈风向明确 中共急了</a></li>
 <li><a href="/bannedvideo/20210613/1565707.md">网传王岐山叛逃，历史上还有张国焘和林彪叛逃。</a></li>
 <li><a href="/cnnews/20210612/1565570.md">半年内惊现中共官员非正常死亡长名单</a></li>
 <li><a href="/cnnews/20210613/1565659.md">湖北60多年超大蚁穴挖出 蚁后体长5公分</a></li>
 <li><a href="/cbnews/20210613/1565688.md">中共驻巴西战狼推文“杀气腾腾”，大批网友骂爆</a></li>
 <li><a href="/lifebaike/20210613/1565772.md">所有人！注意了，打完新冠疫苗后，这些事千万不能做…</a></li>
-<li><a href="/comments/20210613/1565734.md">解放军军事政变及投奔自由的可行性论证</a></li>
 <li><a href="/yule/20210613/1565700.md">49岁陶虹打坐照曝光，一身素衣全素颜示人，被吐槽太显老像老太太</a></li>
+<li><a href="/topimagenews/20210613/1565945.md">内斗中被习近平收拾了？江系装样惨呼:小骂大帮忙也不行 【阿波罗网报道】</a></li>
+<li><a href="/comments/20210613/1565734.md">解放军军事政变及投奔自由的可行性论证</a></li>
 <li><a href="/bannedvideo/20210613/1565782.md">🔥🔥大陆媒体拍到2条真龙...青海湖惊现12米长巨龙❗</a></li>
 <li><a href="/comments/20210613/1565632.md">【内幕】疫情爆发前中共军方就在研发疫苗 福奇全都知道 他一直在撒谎</a></li>
-<li><a href="/topimagenews/20210613/1565945.md">内斗中被习近平收拾了？江系装样惨呼:小骂大帮忙也不行 【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20210613/1565758.md">比利时极右派特种部队军人偷大批军火 追杀知名病毒学家</a></li>
 <li><a href="/comments/20210613/1565905.md">G7 英女王故意用刀背切蛋糕  川普炮轰拜登出卖美国利益 马克龙宰割美国  川普：美国优先！</a></li>
 <li><a href="/cbnews/20210612/1565568.md">高考后厌世？河南长葛市7人跳河 4人死亡</a></li>
 <li><a href="/cbnews/20210613/1565708.md">山大商务学院爆学潮 学生遭恐吓</a></li>
-<li><a href="/comments/20210613/1565682.md">民主女神 周庭今天出狱了！获民众迎接 愿早日逃出中共魔爪</a></li>
 <li><a href="/comments/20210613/1565895.md">神秘的北京大院 揭秘中共官宦子弟潜规则</a></li>
+<li><a href="/comments/20210613/1565682.md">民主女神 周庭今天出狱了！获民众迎接 愿早日逃出中共魔爪</a></li>
+<li><a href="/topimagenews/20210613/1565965.md">以色列水鬼干的!伊朗3万吨巨舰距港口仅9公里沉没</a></li>
 <li><a href="/cnnews/20210613/1565676.md">人情世故“钱3不借 路3不走 礼3不随”</a></li>
 <li><a href="/yule/20210613/1565730.md">一生只演一部戏就红 男星46岁病逝 赵雅芝哭断肠</a></li>
 <li><a href="/comments/20210613/1565840.md">【杰森视角】中共为何不敢打台湾！中共的军事意图让美国没退路！中共在中美军事对抗中有主动权？美国通胀是个定时炸弹？中共新出台的《军人地位和权益保障法》着力备战！</a></li>
-<li><a href="/topimagenews/20210613/1565965.md">以色列水鬼干的!伊朗3万吨巨舰距港口仅9公里沉没</a></li>
 <li><a href="/comments/20210613/1565896.md">中方阻病毒调查 专家：美有办法；终止与中国合作 澳防潜艇遭监控；菲独立日数千人中领馆前抗议；冰封2.4万年蛭形轮虫竟重生【希望之声-每日头题-2021/06/12】</a></li>
 <li><a href="/cnnews/20210613/1565748.md">G7对一大对中共问题谈不拢 一度切断会议室网络</a></li>
+<li><a href="/headline/20210613/1565624.md">维稳大清场：北京将进入一个月的平壤式“和谐”景象</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210613/1566080.md" target="_blank">【生活美学】享受这世间美好，一切都是最好的安排</a></li>
 <li><a href="/comments/20210613/1566070.md" target="_blank">💥G7讨论基础设施计划 替代一带一路；反送中612两周年港警重兵布防截查市民；拜登放行神秘科技公司遭智库质疑；腾讯子公司强制周三晚6时下班 网友批走形式【希望之声TV-两岸要闻-2021/06/13】</a></li>
 <li><a href="/comments/20210613/1566043.md" target="_blank">6.12 过后 贤学思政王逸战黄沅琳凌晨准保释 王逸战：警一度指控网上买卖军火</a></li>
 <li><a href="/comments/20210613/1566042.md" target="_blank">【漫谈成语】不以规矩不成方圆（上下）</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210613/1565957.md" target="_blank">【戈壁东专栏】世界正在觉醒</a></li>
 <li><a href="/comments/20210613/1565939.md" target="_blank">6.12 两周年反思：勿轻易判断他人、拉阔国际想像、唔好斗黄</a></li>
 <li><a href="/comments/20210613/1565938.md" target="_blank">中共政坛诡异信号：纪检高官旧文被27地方政府网站热炒 王岐山之后传王沪宁出事？</a></li>
-<li><a href="/comments/20210613/1565932.md" target="_blank">反了？陆媒群起刊高官旧文：让人民自由放言 遭速删</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
 <li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
 <li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
+<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
 
 </ul>
 </div>
