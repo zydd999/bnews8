@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/comments/20210614/1566413.md">中共国级高官们家属移民美国 名单大曝光 中南海不可告人的秘密_397</a></li>
 <li><a href="/cnnews/20210614/1566521.md">广东核电厂辐射外泄？王定宇：中共处理方式令人不安</a></li>
 <li><a href="/cbnews/20210614/1566552.md">泄漏病毒证据？神秘影片流出：武汉实验室有活着的蝙蝠</a></li>
 <li><a href="/lifebaike/20210614/1566575.md">男童泳池更衣室偷窥起生理反应 舆论疯了</a></li>
@@ -18,16 +17,17 @@
 <li><a href="/cnnews/20210614/1566542.md">江青前秘书阎长贵去世 曝与江关系秘闻</a></li>
 <li><a href="/finance/20210614/1566747.md">这是中国最有钱的500个人！全名单曝光</a></li>
 <li><a href="/cnnews/20210615/1566837.md">习近平对湖北爆炸事故的指示说明了什么</a></li>
+<li><a href="/cbnews/20210615/1566908.md">G7公报让中共难堪 官媒发飙</a></li>
 <li><a href="/topimagenews/20210614/1566582.md">7国峰会9大重点猛踩中共红线 首次包括台海 谈中国议题切断会议室网络</a></li>
 <li><a href="/cbnews/20210614/1566452.md">超恐怖！上海满车热熔沥青车倾泻桥下 四车倒霉</a></li>
-<li><a href="/cbnews/20210615/1566908.md">G7公报让中共难堪 官媒发飙</a></li>
 <li><a href="/cbnews/20210614/1566638.md">98后女孩六四演讲爆红 网友：令中共胆颤心寒</a></li>
+<li><a href="/sports/20210615/1566910.md">噩耗！北京奥运会羽毛球冠军意外去世 年仅36岁</a></li>
 <li><a href="/cbnews/20210615/1566792.md">打脸世卫！武汉实验室饲养蝙蝠影片曝光</a></li>
 <li><a href="/cnnews/20210614/1566554.md">广东台山核电厂疑放射性物质外泄 中方调高检测上线 瞒天过海</a></li>
-<li><a href="/sports/20210615/1566910.md">噩耗！北京奥运会羽毛球冠军意外去世 年仅36岁</a></li>
-<li><a href="/comments/20210614/1566596.md">川普将收到最大生日礼物。</a></li>
 <li><a href="/cnnews/20210614/1566566.md">疫苗接种率高 ！中国疫苗再受质疑？智利与以色列的强大对比</a></li>
+<li><a href="/comments/20210614/1566596.md">川普将收到最大生日礼物。</a></li>
 <li><a href="/lifebaike/20210614/1566426.md">命里有贵气的人，身上都有这三个特征</a></li>
+<li><a href="/headline/20210615/1566846.md">马云传遭软禁、暴打？ 谢金河：中国经济面临空前转折挑战</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210615/1567127.md" target="_blank">微型小说：穿山甲三号-史上最高级别中共官员出逃美国</a></li>
+<li><a href="/comments/20210615/1567118.md" target="_blank">透视姜文华怒杀党委书记事件 — 曾节明</a></li>
 <li><a href="/cbnews/20210615/1567114.md" target="_blank">江峰：冷战后首次！ G7联合抗共三大红线全跨越！惊爆台山核电站核泄露 美国安会介入 中国人受害为什么法国求救 中共辟谣？</a></li>
 <li><a href="/comments/20210615/1567097.md" target="_blank">有人窃听？ G7会议曾秘密“断网”！美高院要审哈佛？意大利反转立场！要求重审“一带一路”；日本将对苹果和谷歌启动调查 【希望之声-午夜新闻-2021/06/14】</a></li>
 <li><a href="/cbnews/20210615/1567086.md" target="_blank">姜文华校友谈复旦血案：王永珍是党文化牺牲品</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/cbnews/20210615/1566825.md" target="_blank">病毒太狡猾 温州人解除隔离后确诊 感染者续增</a></li>
 <li><a href="/cbnews/20210615/1566824.md" target="_blank">安徽高二女生留5封遗书跳楼身亡 生前曾被老师批评</a></li>
 <li><a href="/cbnews/20210615/1566792.md" target="_blank">打脸世卫！武汉实验室饲养蝙蝠影片曝光</a></li>
-<li><a href="/cbnews/20210615/1566778.md" target="_blank">中国台山核电厂辐射燃料量是福岛3倍 曾被揭使用不及格核心组件</a></li>
-<li><a href="/comments/20210615/1566771.md" target="_blank">中国核电站泄漏？法合作方向美求援；以色列新政府 拜登默克尔道贺；变种病毒蔓延 或成美主要毒株；塞国售“黄金护照”赚百亿；巨型大白鲨临近美国东海岸【希望之声TV-环球看点-2021/6/14】</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210615/1567118.md" target="_blank">透视姜文华怒杀党委书记事件 — 曾节明</a></li>
 <li><a href="/comments/20210615/1567113.md" target="_blank">习近平亲自下令抓捕 华信董事长叶简明被抓逾三年处境成谜 上海华信等71家公司合并破产 北京两顶级豪宅1.6亿元拍卖 叶简明背靠江泽民曾庆红上海帮石油帮 中共军方间谍隐秘背景曝光 捷克首富坠机死 曾跟叶简明密切往来</a></li>
 <li><a href="/comments/20210615/1567112.md" target="_blank">澳洲宣布加入英国航母打击群 加深与美英军事合作</a></li>
 <li><a href="/comments/20210615/1567097.md" target="_blank">有人窃听？ G7会议曾秘密“断网”！美高院要审哈佛？意大利反转立场！要求重审“一带一路”；日本将对苹果和谷歌启动调查 【希望之声-午夜新闻-2021/06/14】</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210615/1567005.md" target="_blank">叶书：中共 “红船精神”真相 谎话连篇的党史</a></li>
 <li><a href="/comments/20210615/1567004.md" target="_blank">田云：党媒头版提大爆炸 事故多发中共不安</a></li>
 <li><a href="/comments/20210615/1567003.md" target="_blank">周晓辉：大陆疫苗难言有效安全 中共高官打了吗？</a></li>
-<li><a href="/comments/20210615/1567002.md" target="_blank">岳山：中共一大旧址升级 四桩不堪事挥之不去</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
 <li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
 <li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
 <li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/comments/20210611/1564824.md" target="_blank">【曾铮专栏】感悟神韵（之一）神韵的主旨</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
 
 </ul>
 </div>
