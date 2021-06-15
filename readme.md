@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/lifebaike/20210614/1566575.md">男童泳池更衣室偷窥起生理反应 舆论疯了</a></li>
 <li><a href="/cbnews/20210615/1566842.md">“抖音第一美女”直播滤镜消失 真实样貌疯传…</a></li>
 <li><a href="/cbnews/20210614/1566619.md">中共前军官曝军中骇人乱象：象土匪窝</a></li>
 <li><a href="/cnnews/20210615/1566836.md">马云失踪内幕曝光！他爆遭中共软禁施暴斥：没共产党哪有你</a></li>
@@ -15,11 +14,11 @@
 <li><a href="/comments/20210615/1567037.md">【微博精粹】中共国史上出逃最高级别官员 神秘身份逐渐浮出</a></li>
 <li><a href="/topimagenews/20210615/1567099.md">再被说中？习近平一句最关键的话 被删掉了！ 【阿波罗网独家报道】</a></li>
 <li><a href="/cnnews/20210615/1566837.md">习近平对湖北爆炸事故的指示说明了什么</a></li>
-<li><a href="/cbnews/20210615/1566908.md">G7公报让中共难堪 官媒发飙</a></li>
 <li><a href="/comments/20210615/1567094.md">马云被关进小黑屋软禁遭暴打及死亡恐吓 马云磕头认罪 被逼承认“没党没马云” 中国经济与社会将发生一场巨变 不止马云 更多科技公司面临中共打压 中南海谣言预言_475</a></li>
+<li><a href="/cbnews/20210615/1566908.md">G7公报让中共难堪 官媒发飙</a></li>
 <li><a href="/comments/20210615/1566956.md">习近平内部会议放话十个字 李克强有不同意见 习亲信栗战书秉习旨意主导全国人大常委会立新法 中南海谣言预言_473</a></li>
-<li><a href="/topimagenews/20210614/1566582.md">7国峰会9大重点猛踩中共红线 首次包括台海 谈中国议题切断会议室网络</a></li>
 <li><a href="/comments/20210615/1567096.md">马云传软禁期间被殴打、戏耍、羞辱 获释后性情大变 韩正吴征关系亦曝光</a></li>
+<li><a href="/topimagenews/20210614/1566582.md">7国峰会9大重点猛踩中共红线 首次包括台海 谈中国议题切断会议室网络</a></li>
 <li><a href="/sports/20210615/1566910.md">噩耗！北京奥运会羽毛球冠军意外去世 年仅36岁</a></li>
 <li><a href="/cbnews/20210614/1566638.md">98后女孩六四演讲爆红 网友：令中共胆颤心寒</a></li>
 <li><a href="/cbnews/20210615/1566792.md">打脸世卫！武汉实验室饲养蝙蝠影片曝光</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/headline/20210615/1566846.md">马云传遭软禁、暴打？ 谢金河：中国经济面临空前转折挑战</a></li>
 <li><a href="/ssgc/20210615/1566938.md">〖兲朝浮世绘〗台山核电站泄露 因中共一直降低气体泄露上限值</a></li>
 <li><a href="/cbnews/20210615/1566778.md">中国台山核电厂辐射燃料量是福岛3倍 曾被揭使用不及格核心组件</a></li>
+<li><a href="/comments/20210615/1566814.md">英国作家预言中国将实现“自由的大跃进”</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210615/1567278.md" target="_blank">阻止台海之战的釜底抽薪之策（第八部分）——武装反抗中共暴政从中国的绝望中崛起（中共命运的轨迹和人类前途  第二十四讲）【袁红冰纵论天下】 06152021</a></li>
 <li><a href="/cbnews/20210615/1567257.md" target="_blank">河北唐山一师范学校食堂垄断经营 保安持棍棒挡外卖</a></li>
 <li><a href="/cbnews/20210615/1567226.md" target="_blank">中共遭遇“倒楣周” 国际上谴责 国内事故频发</a></li>
 <li><a href="/cbnews/20210615/1567225.md" target="_blank">北京小粉红举报“台独” 却被罚款三千块 崩溃大哭</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/comments/20210615/1566930.md" target="_blank">北约公告首次点名中共为何被称“历史的转折点”？ 国际关注台山核电站泄漏   中共为何提高标准？【希望之声TV-新闻焦点解读-2021/06/14】 主持:高洁  嘉宾：林晓旭</a></li>
 <li><a href="/comments/20210615/1566929.md" target="_blank">北约公报：需共同应对中共;疫苗覆蓋率破7成 智利首都却封城;美4千亿失业救济金被盗;拜登放过中科曙光遭质疑，关联江泽民;华人绿卡逾期 返美时被拒登机【希望之声-每日头条-2021/06/14】</a></li>
 <li><a href="/comments/20210615/1566919.md" target="_blank">左派又犯病，要给鸟儿改名字！乡下土猪和城里白菜，一个中二青年的狂妄无知！【 新闻最嘲点 姜光宇】Mr.FunnyNews（2021.06.14）‬</a></li>
-<li><a href="/cbnews/20210615/1566908.md" target="_blank">G7公报让中共难堪 官媒发飙</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,14 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210615/1567278.md" target="_blank">阻止台海之战的釜底抽薪之策（第八部分）——武装反抗中共暴政从中国的绝望中崛起（中共命运的轨迹和人类前途  第二十四讲）【袁红冰纵论天下】 06152021</a></li>
+<li><a href="/comments/20210615/1567276.md" target="_blank">欧中关系降温推手 意总理德拉吉拟重审“一带一路”</a></li>
+<li><a href="/comments/20210615/1567275.md" target="_blank">夏季降火！吃这五样不得口腔溃疡</a></li>
+<li><a href="/comments/20210615/1567274.md" target="_blank">鼻咽采样好难受？ 医生说这3个关键</a></li>
+<li><a href="/comments/20210615/1567273.md" target="_blank">感到呼吸困难、血氧浓度低于94％？ 医：这「姿势」可保命</a></li>
+<li><a href="/comments/20210615/1567264.md" target="_blank">【小说连载】天堂梦（2）</a></li>
+<li><a href="/comments/20210615/1567263.md" target="_blank">【第三只眼睛】太空望远镜拍摄到天国世界…上帝、耶稣和天使在天空中漫步</a></li>
+<li><a href="/comments/20210615/1567262.md" target="_blank">【小宇宙传说】神秘的文明：传说中的大西国——沉没的亚特兰蒂斯确实存在过！又为什么最后消失不见？</a></li>
 <li><a href="/comments/20210615/1567260.md" target="_blank">既“战狼”又“专家”还“可爱” 中共弄巧成拙</a></li>
 <li><a href="/comments/20210615/1567249.md" target="_blank">中国古代有哪些着名的「牛」</a></li>
 <li><a href="/comments/20210615/1567241.md" target="_blank">【小说连载】七海归途之雪伦公主（5）</a></li>
@@ -115,14 +123,6 @@
 <li><a href="/comments/20210615/1567169.md" target="_blank">超赞的英国水上乐园 全家一起去享受夏日清凉</a></li>
 <li><a href="/comments/20210615/1567158.md" target="_blank">【中共百年系列】党的诞生捆绑了一桩奸杀案</a></li>
 <li><a href="/comments/20210615/1567149.md" target="_blank">清迈梯田水稻</a></li>
-<li><a href="/comments/20210615/1567135.md" target="_blank">「伉俪」与「贤伉俪」怎么区别应用？</a></li>
-<li><a href="/comments/20210615/1567134.md" target="_blank">天上人间此佳偶 赵孟𫖯与管道升的爱情故事</a></li>
-<li><a href="/comments/20210615/1567130.md" target="_blank">回应何君尧指同乐运动会是“污糟钱” 林郑：不接受撕裂社会族群仇恨言论</a></li>
-<li><a href="/comments/20210615/1567129.md" target="_blank">政治风向不妙？习近平心腹所掌省份再爆核危机！法企：放射性威胁迫在眉睫</a></li>
-<li><a href="/comments/20210615/1567118.md" target="_blank">透视姜文华怒杀党委书记事件 — 曾节明</a></li>
-<li><a href="/comments/20210615/1567113.md" target="_blank">习近平亲自下令抓捕 华信董事长叶简明被抓逾三年处境成谜 上海华信等71家公司合并破产 北京两顶级豪宅1.6亿元拍卖 叶简明背靠江泽民曾庆红上海帮石油帮 中共军方间谍隐秘背景曝光 捷克首富坠机死 曾跟叶简明密切往来</a></li>
-<li><a href="/comments/20210615/1567112.md" target="_blank">澳洲宣布加入英国航母打击群 加深与美英军事合作</a></li>
-<li><a href="/comments/20210615/1567097.md" target="_blank">有人窃听？ G7会议曾秘密“断网”！美高院要审哈佛？意大利反转立场！要求重审“一带一路”；日本将对苹果和谷歌启动调查 【希望之声-午夜新闻-2021/06/14】</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
 <li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
 
 </ul>
 </div>
