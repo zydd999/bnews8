@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/cnnews/20210614/1566521.md">广东核电厂辐射外泄？王定宇：中共处理方式令人不安</a></li>
 <li><a href="/cbnews/20210614/1566552.md">泄漏病毒证据？神秘影片流出：武汉实验室有活着的蝙蝠</a></li>
 <li><a href="/lifebaike/20210614/1566575.md">男童泳池更衣室偷窥起生理反应 舆论疯了</a></li>
 <li><a href="/cbnews/20210614/1566619.md">中共前军官曝军中骇人乱象：象土匪窝</a></li>
@@ -23,10 +22,11 @@
 <li><a href="/sports/20210615/1566910.md">噩耗！北京奥运会羽毛球冠军意外去世 年仅36岁</a></li>
 <li><a href="/cbnews/20210614/1566638.md">98后女孩六四演讲爆红 网友：令中共胆颤心寒</a></li>
 <li><a href="/cbnews/20210615/1566792.md">打脸世卫！武汉实验室饲养蝙蝠影片曝光</a></li>
+<li><a href="/topimagenews/20210615/1567099.md">再被说中？习近平一句最关键的话 被删掉了！ 【阿波罗网独家报道】</a></li>
 <li><a href="/cnnews/20210614/1566566.md">疫苗接种率高 ！中国疫苗再受质疑？智利与以色列的强大对比</a></li>
 <li><a href="/cnnews/20210614/1566554.md">广东台山核电厂疑放射性物质外泄 中方调高检测上线 瞒天过海</a></li>
 <li><a href="/comments/20210614/1566596.md">川普将收到最大生日礼物。</a></li>
-<li><a href="/topimagenews/20210615/1567099.md">再被说中？习近平一句最关键的话 被删掉了！ 【阿波罗网独家报道】</a></li>
+<li><a href="/comments/20210615/1567094.md">马云被关进小黑屋软禁遭暴打及死亡恐吓 马云磕头认罪 被逼承认“没党没马云” 中国经济与社会将发生一场巨变 不止马云 更多科技公司面临中共打压 中南海谣言预言_475</a></li>
 <li><a href="/headline/20210615/1566846.md">马云传遭软禁、暴打？ 谢金河：中国经济面临空前转折挑战</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210615/1567226.md" target="_blank">中共遭遇“倒楣周” 国际上谴责 国内事故频发</a></li>
+<li><a href="/cbnews/20210615/1567225.md" target="_blank">北京小粉红举报“台独” 却被罚款三千块 崩溃大哭</a></li>
 <li><a href="/cbnews/20210615/1567212.md" target="_blank">G7峰会刚落幕 美军南海立即行动 核动力航母打击群来了</a></li>
 <li><a href="/cbnews/20210615/1567211.md" target="_blank">真乱！江西通报专升本151考试作弊 多名大学老师被拘</a></li>
 <li><a href="/cbnews/20210615/1567196.md" target="_blank">知名博主“编程随想”疑遭拘捕 曾发表700多篇反洗脑文章</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/comments/20210615/1566919.md" target="_blank">左派又犯病，要给鸟儿改名字！乡下土猪和城里白菜，一个中二青年的狂妄无知！【 新闻最嘲点 姜光宇】Mr.FunnyNews（2021.06.14）‬</a></li>
 <li><a href="/cbnews/20210615/1566908.md" target="_blank">G7公报让中共难堪 官媒发飙</a></li>
 <li><a href="/cbnews/20210615/1566855.md" target="_blank">美国重拾领导地位 习近平只能是老二</a></li>
-<li><a href="/cbnews/20210615/1566847.md" target="_blank">专栏 | 夜话中南海：谁将是中共国务院的下届女性副总理？</a></li>
-<li><a href="/cbnews/20210615/1566843.md" target="_blank">反转立场 G7峰会后他要求重审“一带一路”</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210615/1567224.md" target="_blank">法国：接种疫苗可免紧急入境理由 中国疫苗除外</a></li>
 <li><a href="/comments/20210615/1567192.md" target="_blank">专家：中共对澳洲铁矿石的依赖是习近平的一个战略弱点</a></li>
 <li><a href="/comments/20210615/1567183.md" target="_blank">公务员本年度冻薪 连续两年无人工加</a></li>
 <li><a href="/comments/20210615/1567182.md" target="_blank">林妙茵：记两年前的那几天</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210615/1567091.md" target="_blank">台湾日本患难见真情，两岸友好互动感人，中共看在眼里，恨在心里。│#熊猫侠</a></li>
 <li><a href="/comments/20210615/1567059.md" target="_blank">这些畅销车款，产自加拿大？有点出乎意料</a></li>
 <li><a href="/comments/20210615/1567051.md" target="_blank">G7峰会公报剑指中共 北京乱了阵脚 骂街似回应</a></li>
-<li><a href="/comments/20210615/1567050.md" target="_blank">三国高人水镜先生如何预言刘备、诸葛亮</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
 <li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
 <li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
 
 </ul>
 </div>
