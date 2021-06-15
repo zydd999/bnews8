@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/bannedvideo/20210615/1566915.md">三记重锤打击中共，石正丽正式露面公开回应，沮丧和抱怨能否洗清“实验室泄漏”质疑？</a></li>
 <li><a href="/comments/20210615/1567037.md">【微博精粹】中共国史上出逃最高级别官员 神秘身份逐渐浮出</a></li>
 <li><a href="/cnnews/20210615/1567205.md">突发事件惊动高层 习李震怒震撼了谁？</a></li>
 <li><a href="/comments/20210615/1566956.md">习近平内部会议放话十个字 李克强有不同意见 习亲信栗战书秉习旨意主导全国人大常委会立新法 中南海谣言预言_473</a></li>
-<li><a href="/cbnews/20210615/1566908.md">G7公报让中共难堪 官媒发飙</a></li>
 <li><a href="/topimagenews/20210615/1567099.md">再被说中？习近平一句最关键的话 被删掉了！ 【阿波罗网独家报道】</a></li>
 <li><a href="/comments/20210615/1567094.md">马云被关进小黑屋软禁遭暴打及死亡恐吓 马云磕头认罪 被逼承认“没党没马云” 中国经济与社会将发生一场巨变 不止马云 更多科技公司面临中共打压 中南海谣言预言_475</a></li>
 <li><a href="/comments/20210615/1567096.md">马云传软禁期间被殴打、戏耍、羞辱 获释后性情大变 韩正吴征关系亦曝光</a></li>
 <li><a href="/cbnews/20210615/1567372.md">传上海外滩数十无人机坠落 砸向豪华游艇、邮轮</a></li>
 <li><a href="/cbnews/20210615/1567195.md">网红美女喝饮料瞬间变脸！220万人看完哀嚎</a></li>
 <li><a href="/cbnews/20210615/1567127.md">微型小说：穿山甲三号-史上最高级别中共官员出逃美国</a></li>
-<li><a href="/sports/20210615/1566910.md">噩耗！北京奥运会羽毛球冠军意外去世 年仅36岁</a></li>
 <li><a href="/comments/20210615/1567415.md">党媒统一口径炮轰习近平，习近平最艰难时刻到来，大小老虎们虎视眈眈，习近平三连任有危机。│#熊猫侠</a></li>
 <li><a href="/headline/20210615/1567221.md">【耳边风】习帝是个无可救药的自大狂</a></li>
 <li><a href="/cbnews/20210615/1567225.md">北京小粉红举报“台独” 却被罚款三千块 崩溃大哭</a></li>
 <li><a href="/bannedvideo/20210615/1567123.md">🚨带新冠机密外逃！投诚官员被指至少副国级；台山核泄威胁5千万人；北约谋参战台海；内塔尼亚胡下台，老川翻版？新政府藏祸，伊朗笑；澳媒揭武毒所养蝙蝠；番禺市爆抗议；湖北爆炸上百死？｜新闻拍案惊奇 大宇</a></li>
-<li><a href="/comments/20210615/1567113.md">习近平亲自下令抓捕 华信董事长叶简明被抓逾三年处境成谜 上海华信等71家公司合并破产 北京两顶级豪宅1.6亿元拍卖 叶简明背靠江泽民曾庆红上海帮石油帮 中共军方间谍隐秘背景曝光 捷克首富坠机死 曾跟叶简明密切往来</a></li>
 <li><a href="/topimagenews/20210615/1567286.md">强大对比 是否中国疫苗?2国天差地别 日本管制尖端技术输中国 中国清华毕业生组团诈骗</a></li>
+<li><a href="/comments/20210615/1567113.md">习近平亲自下令抓捕 华信董事长叶简明被抓逾三年处境成谜 上海华信等71家公司合并破产 北京两顶级豪宅1.6亿元拍卖 叶简明背靠江泽民曾庆红上海帮石油帮 中共军方间谍隐秘背景曝光 捷克首富坠机死 曾跟叶简明密切往来</a></li>
 <li><a href="/cnnews/20210615/1567185.md">中共官媒闹大笑话！百年“病句”竟然一语成谶【阿波罗网独家报道】</a></li>
 <li><a href="/ssgc/20210615/1566938.md">〖兲朝浮世绘〗台山核电站泄露 因中共一直降低气体泄露上限值</a></li>
 <li><a href="/cnnews/20210615/1567126.md">吸血的蝗虫 全国共有多少中共的党书记？</a></li>
 <li><a href="/cbnews/20210615/1567212.md">G7峰会刚落幕 美军南海立即行动 核动力航母打击群来了</a></li>
+<li><a href="/cbnews/20210615/1567354.md">突发事件惊动高层 习李齐喊“建党百年”</a></li>
 <li><a href="/cbnews/20210615/1567137.md">蓬佩奥：美国掌握大量证据 是追责中共的时候了</a></li>
+<li><a href="/funmedia/20210615/1567089.md">终南山“隐士”已达5000人，从荒山变“闹市”，茅草屋租金都倍涨</a></li>
+<li><a href="/cbnews/20210615/1566946.md">文昭：广东核电厂疑发生泄漏！「墨菲定律」诅咒兑现，三重灾祸齐聚广东</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210616/1567612.md" target="_blank">美国土安全部长强调：“边境不开放”有助疫情防护</a></li>
+<li><a href="/comments/20210616/1567611.md" target="_blank">唐朝名家顾况之子发誓再为顾家子的故事</a></li>
 <li><a href="/comments/20210616/1567580.md" target="_blank">何君尧指“同乐运动会”失体面 被林郑斥情绪化 何反驳：黑白系清楚、同性相拒是基本定律</a></li>
 <li><a href="/comments/20210616/1567579.md" target="_blank">中共倒楣的一周 国际上遭谴责国内事故频发</a></li>
 <li><a href="/comments/20210616/1567578.md" target="_blank">【双语诗歌 Bilingual Poetry】：若你微笑时 When You Are Smiling</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210616/1567483.md" target="_blank">澳加入英航母打击群；台湾新规 港澳移居须申报曾否宣誓效忠中共；脱北女炮轰常春藤盟校；印裔记者报集中营获新闻奖；佛州空军基地海滩现大量毒品【希望之声TV-环球看点-2021/6/15】</a></li>
 <li><a href="/comments/20210616/1567482.md" target="_blank">牙刷会选吗？ 5项洁牙工具用法大公开</a></li>
 <li><a href="/comments/20210616/1567481.md" target="_blank">医生说无花果的“害处”</a></li>
-<li><a href="/comments/20210616/1567473.md" target="_blank">： 被誉为泰国屋脊的清迈茵他农山国家公园</a></li>
-<li><a href="/comments/20210616/1567453.md" target="_blank">葵青建制派前区议员端午节派福袋 标示“区议员” 民主派质疑冒认</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
 <li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
 <li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
 
 </ul>
 </div>
