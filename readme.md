@@ -8,26 +8,26 @@
 <li><a href="/cnnews/20210615/1567205.md">突发事件惊动高层 习李震怒震撼了谁？</a></li>
 <li><a href="/comments/20210615/1567415.md">党媒统一口径炮轰习近平，习近平最艰难时刻到来，大小老虎们虎视眈眈，习近平三连任有危机。│#熊猫侠</a></li>
 <li><a href="/cbnews/20210615/1567372.md">传上海外滩数十无人机坠落 砸向豪华游艇、邮轮</a></li>
-<li><a href="/cbnews/20210615/1567195.md">网红美女喝饮料瞬间变脸！220万人看完哀嚎</a></li>
 <li><a href="/comments/20210616/1567519.md">王岐山“大管家”董宏被捕惨状曝光：仰天大哭 一度想自杀 数千页供状抖出中南海高层贪腐重磅内幕 董宏与郭文贵有很多来往 专案组放出董宏情人及私生子留言 中南海谣言预言_476</a></li>
 <li><a href="/cbnews/20210615/1567225.md">北京小粉红举报“台独” 却被罚款三千块 崩溃大哭</a></li>
 <li><a href="/headline/20210615/1567221.md">【耳边风】习帝是个无可救药的自大狂</a></li>
 <li><a href="/cbnews/20210616/1567546.md">一个比一个狗血丢人，电视剧都不敢这么演</a></li>
 <li><a href="/topimagenews/20210615/1567286.md">强大对比 是否中国疫苗?2国天差地别 日本管制尖端技术输中国 中国清华毕业生组团诈骗</a></li>
 <li><a href="/cnnews/20210616/1567646.md">又一位海归女博士被逼的走投无路</a></li>
-<li><a href="/cnnews/20210615/1567185.md">中共官媒闹大笑话！百年“病句”竟然一语成谶【阿波罗网独家报道】</a></li>
 <li><a href="/cbnews/20210616/1567521.md">复旦为遇刺书记募捐 评论大翻车：要捐刀客</a></li>
 <li><a href="/yule/20210616/1567573.md">港媒曝51岁王菲为谢霆锋产子 生产照疑流出</a></li>
 <li><a href="/topimagenews/20210616/1567674.md">“铁证如山”-中共的罪恶震惊世界【阿波罗网报道】</a></li>
+<li><a href="/comments/20210616/1567738.md">【微博精粹】复旦翻车 王书记白死了</a></li>
 <li><a href="/cbnews/20210616/1567734.md">就拿你点东西？青岛城管中队长被居民挥菜刀猛砍</a></li>
 <li><a href="/cbnews/20210615/1567354.md">突发事件惊动高层 习李齐喊“建党百年”</a></li>
-<li><a href="/cbnews/20210615/1567212.md">G7峰会刚落幕 美军南海立即行动 核动力航母打击群来了</a></li>
 <li><a href="/ssgc/20210616/1567624.md">〖兲朝浮世绘〗中共国的大学领导们都成了拉皮条的掮客了</a></li>
-<li><a href="/comments/20210616/1567738.md">【微博精粹】复旦翻车 王书记白死了</a></li>
-<li><a href="/cnnews/20210616/1567459.md">全球楼市泡沫快爆？多地惊现2008年金融海啸警号</a></li>
+<li><a href="/cbnews/20210615/1567212.md">G7峰会刚落幕 美军南海立即行动 核动力航母打击群来了</a></li>
 <li><a href="/cbnews/20210615/1567381.md">大陆知名博主“编程随想”被抓 遭受酷刑</a></li>
+<li><a href="/cnnews/20210616/1567459.md">全球楼市泡沫快爆？多地惊现2008年金融海啸警号</a></li>
 <li><a href="/cnnews/20210616/1567528.md">广东台山核电站事件 背后政治因素引人警觉</a></li>
 <li><a href="/cnnews/20210615/1567390.md">一线采访：疫情失控致大半个广州沦陷</a></li>
+<li><a href="/cnnews/20210615/1567266.md">华盛顿FBI办公大楼空了 木板封门 太不正常了</a></li>
+<li><a href="/health/20210615/1567213.md">热水泡脚的时候加点它，三天逼出体内湿气，可惜很少人知道</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210616/1567901.md" target="_blank">凉拌香辣三丝</a></li>
+<li><a href="/comments/20210616/1567885.md" target="_blank">星岛：区议员七月宣誓 曾参与初选、借出议办、签“墨落无悔”声明都 DQ 料涉 170 人</a></li>
+<li><a href="/comments/20210616/1567884.md" target="_blank">英殖期间人们“没有任何人权民主”— 是真的吗？</a></li>
 <li><a href="/comments/20210616/1567882.md" target="_blank">古代服饰名称总览</a></li>
 <li><a href="/comments/20210616/1567881.md" target="_blank">挑西瓜「红肉、黄肉」？ 营养师：这款「瓜胺酸」较丰富</a></li>
 <li><a href="/comments/20210616/1567880.md" target="_blank">夏季男人养生要注意6点，您知道几个？</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210616/1567724.md" target="_blank">李正宽：集权路上险像环生 习近平凶吉何所趋</a></li>
 <li><a href="/comments/20210616/1567723.md" target="_blank">石山：级别很高的中共外逃官员是谁？</a></li>
 <li><a href="/comments/20210616/1567722.md" target="_blank">夏林：殷勤的西方老朋友和扶不起的共产阿斗</a></li>
-<li><a href="/comments/20210616/1567721.md" target="_blank">周晓辉：“社会主义市场经济”是欺世之谈</a></li>
-<li><a href="/comments/20210616/1567712.md" target="_blank">欧盟：希望进口多元化 离开中国产商；新一波疫情扰全球航运和芯片供应链；亨特·拜登向泄核中企 投资数百万美元；又是人祸？云南野象进城 东北虎入村【希望之声-每日头条-2021/06/15】</a></li>
-<li><a href="/comments/20210616/1567711.md" target="_blank">川普最大“竞争对手”首度表态”；美伊州化工厂发生爆炸！ 拜登访英连番违反皇室规矩 ； 美议员推100年内最严厉反垄断法； 美预期通胀攀至八年高点【#北美新闻  2021/06/15】</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
 <li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
 <li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
 
 </ul>
 </div>
