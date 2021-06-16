@@ -11,12 +11,11 @@
 <li><a href="/cbnews/20210616/1567734.md">就拿你点东西？青岛城管中队长被居民挥菜刀猛砍</a></li>
 <li><a href="/topimagenews/20210616/1567674.md">“铁证如山”-中共的罪恶震惊世界【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20210616/1567958.md">中共国家机密！北京大会堂的掌声响起？大陆学者曝内幕</a></li>
-<li><a href="/topimagenews/20210616/1567809.md">太逗了！新华社刊登董必武65年前8字谶言？【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20210616/1568047.md">级别很高的中共外逃官员是谁？</a></li>
+<li><a href="/topimagenews/20210616/1567809.md">太逗了！新华社刊登董必武65年前8字谶言？【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20210616/1567925.md">美国会正式提案：点名制裁2名中共顶级卫生官员</a></li>
 <li><a href="/cbnews/20210616/1567957.md">李克强接班人是谁？中共二十大7常委存变数</a></li>
 <li><a href="/comments/20210616/1567946.md">李克强去习近平到过的查干湖 一开口又给习上眼药？</a></li>
-<li><a href="/ssgc/20210616/1567624.md">〖兲朝浮世绘〗中共国的大学领导们都成了拉皮条的掮客了</a></li>
 <li><a href="/topimagenews/20210616/1567991.md">台山核电站危机，专家揭秘“白热化” 大企业违约连环爆！高盛：中国不再大到不能倒</a></li>
 <li><a href="/cnnews/20210616/1567976.md">毛泽东长子毛岸英之死 中共否认因蛋炒饭送命</a></li>
 <li><a href="/finance/20210616/1567966.md">深圳跳楼价甩房频发：楼市泡沫真要破了</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/cnnews/20210616/1568004.md">C罗一个动作 可口可乐市值蒸发40亿刀</a></li>
 <li><a href="/health/20210616/1567847.md">远离癌细胞 45岁以后这五种食物撤下餐桌</a></li>
 <li><a href="/baitai/20210616/1567854.md">徐光：俄罗斯天天盼着打台湾</a></li>
+<li><a href="/cbnews/20210616/1568036.md">李克强去查干湖 一开口又给习近平上眼药？还是演双簧</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210617/1568353.md" target="_blank">文昭：2021压轴戏登场：美俄峰回路转，中共四面被围？抗共联盟提速的推手是&#8230;</a></li>
 <li><a href="/cbnews/20210617/1568334.md" target="_blank">女子身份遭盗用 价值千万的北京豪宅竟被卖了</a></li>
 <li><a href="/cbnews/20210617/1568261.md" target="_blank">修炼法轮功 吉林残疾女被劫入看守所非法关押</a></li>
 <li><a href="/cbnews/20210617/1568241.md" target="_blank">一线采访：博主“编程随想”遭上海公安酷刑</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/comments/20210616/1567956.md" target="_blank">4千年前的洪水死亡记忆，延续至今；前世中父女情深，今生走到一起，再续前缘；目睹母亲被害的悔恨，竟是今生“轻生想法”的根源。</a></li>
 <li><a href="/cbnews/20210616/1567939.md" target="_blank">走不远了？专家评中共百年 为掌权不惜代价</a></li>
 <li><a href="/cbnews/20210616/1567925.md" target="_blank">美国会正式提案：点名制裁2名中共顶级卫生官员</a></li>
-<li><a href="/cbnews/20210616/1567924.md" target="_blank">应对中共威胁！美媒：美拟于太平洋仿冷战时期组跨国“海军特遣部队”</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210617/1568363.md" target="_blank">俄美峰会落幕 普京和拜登就战略稳定发表联合声明</a></li>
+<li><a href="/comments/20210617/1568351.md" target="_blank">中国疫苗又惹议 巴国警官接种后猝死画面曝光</a></li>
+<li><a href="/comments/20210617/1568350.md" target="_blank">80岁医生被警察按倒在地背铐 遭枉判三年半</a></li>
 <li><a href="/comments/20210617/1568343.md" target="_blank">由管仲作歌的故事想到的</a></li>
 <li><a href="/comments/20210617/1568308.md" target="_blank">怕啥？中共百年庆防民如敌 北京一辆公交配六名保安</a></li>
 <li><a href="/comments/20210617/1568305.md" target="_blank">拜登普京首脑会获建设性进展 外交关系有所缓和</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210617/1568196.md" target="_blank">国安何时进驻天文台？</a></li>
 <li><a href="/comments/20210617/1568195.md" target="_blank">【紫菱讲故事】阿南德 ：2021年6月20号有大事发生 是骗子？是预言大师？</a></li>
 <li><a href="/comments/20210617/1568194.md" target="_blank">【紫菱讲故事】为何金星从毒舌变“哑巴”，且三档节目齐停播</a></li>
-<li><a href="/comments/20210617/1568193.md" target="_blank">【曾铮专栏】感悟神韵（之二）感悟神韵的艺术风格</a></li>
-<li><a href="/comments/20210617/1568192.md" target="_blank">蓬佩奥创政治行动委员会 誓为共和党夺回两院</a></li>
-<li><a href="/comments/20210617/1568191.md" target="_blank">猪价腰斩 养猪巨头新希望净利下降91%</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
 <li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/comments/20210611/1564824.md" target="_blank">【曾铮专栏】感悟神韵（之一）神韵的主旨</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
 <li><a href="/cbnews/20210331/1516754.md" target="_blank">被传销团伙围杀时 丈夫说了这句话脱险</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
 
 </ul>
 </div>
