@@ -11,21 +11,21 @@
 <li><a href="/cbnews/20210615/1567195.md">网红美女喝饮料瞬间变脸！220万人看完哀嚎</a></li>
 <li><a href="/comments/20210616/1567519.md">王岐山“大管家”董宏被捕惨状曝光：仰天大哭 一度想自杀 数千页供状抖出中南海高层贪腐重磅内幕 董宏与郭文贵有很多来往 专案组放出董宏情人及私生子留言 中南海谣言预言_476</a></li>
 <li><a href="/cbnews/20210615/1567225.md">北京小粉红举报“台独” 却被罚款三千块 崩溃大哭</a></li>
-<li><a href="/cbnews/20210616/1567546.md">一个比一个狗血丢人，电视剧都不敢这么演</a></li>
 <li><a href="/headline/20210615/1567221.md">【耳边风】习帝是个无可救药的自大狂</a></li>
+<li><a href="/cbnews/20210616/1567546.md">一个比一个狗血丢人，电视剧都不敢这么演</a></li>
 <li><a href="/topimagenews/20210615/1567286.md">强大对比 是否中国疫苗?2国天差地别 日本管制尖端技术输中国 中国清华毕业生组团诈骗</a></li>
 <li><a href="/cbnews/20210616/1567521.md">复旦为遇刺书记募捐 评论大翻车：要捐刀客</a></li>
 <li><a href="/cnnews/20210615/1567185.md">中共官媒闹大笑话！百年“病句”竟然一语成谶【阿波罗网独家报道】</a></li>
-<li><a href="/yule/20210616/1567573.md">港媒曝51岁王菲为谢霆锋产子 生产照疑流出</a></li>
 <li><a href="/cnnews/20210616/1567646.md">又一位海归女博士被逼的走投无路</a></li>
+<li><a href="/yule/20210616/1567573.md">港媒曝51岁王菲为谢霆锋产子 生产照疑流出</a></li>
 <li><a href="/cbnews/20210615/1567354.md">突发事件惊动高层 习李齐喊“建党百年”</a></li>
 <li><a href="/cbnews/20210615/1567212.md">G7峰会刚落幕 美军南海立即行动 核动力航母打击群来了</a></li>
 <li><a href="/cnnews/20210616/1567459.md">全球楼市泡沫快爆？多地惊现2008年金融海啸警号</a></li>
 <li><a href="/cbnews/20210615/1567381.md">大陆知名博主“编程随想”被抓 遭受酷刑</a></li>
-<li><a href="/cbnews/20210615/1567137.md">蓬佩奥：美国掌握大量证据 是追责中共的时候了</a></li>
-<li><a href="/cnnews/20210616/1567528.md">广东台山核电站事件 背后政治因素引人警觉</a></li>
-<li><a href="/cnnews/20210615/1567390.md">一线采访：疫情失控致大半个广州沦陷</a></li>
 <li><a href="/ssgc/20210616/1567624.md">〖兲朝浮世绘〗中共国的大学领导们都成了拉皮条的掮客了</a></li>
+<li><a href="/cnnews/20210615/1567390.md">一线采访：疫情失控致大半个广州沦陷</a></li>
+<li><a href="/cnnews/20210616/1567528.md">广东台山核电站事件 背后政治因素引人警觉</a></li>
+<li><a href="/topimagenews/20210616/1567674.md">“铁证如山”-中共的罪恶震惊世界【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20210615/1567266.md">华盛顿FBI办公大楼空了 木板封门 太不正常了</a></li>
 <li><a href="/health/20210615/1567213.md">热水泡脚的时候加点它，三天逼出体内湿气，可惜很少人知道</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210616/1567832.md" target="_blank">【重磅】川普总统的声明:  受德州州长邀请于2021年6月30日与他一起正式访问被摧毁的南部边境  拜登G7 答记者问严重露馅  弗林将军上传视频揭真伪</a></li>
+<li><a href="/comments/20210616/1567830.md" target="_blank">美国二郡叛乱，公然宣布抵抗联邦政府，违法在所不惜。普通公民也有能力对抗政府，只需团结和智慧！│#熊猫侠</a></li>
+<li><a href="/comments/20210616/1567825.md" target="_blank">一人一个被英殖压迫的经历</a></li>
+<li><a href="/comments/20210616/1567824.md" target="_blank">【戈壁东专栏】今天，他们对我说： 住口，否则你有生命危险</a></li>
 <li><a href="/comments/20210616/1567821.md" target="_blank">陈秋实的一段话 看中共无底线的无耻</a></li>
 <li><a href="/comments/20210616/1567803.md" target="_blank">拜普会前普京一句话暗示中俄关系？习近平一动向为1949年以来罕见</a></li>
 <li><a href="/comments/20210616/1567797.md" target="_blank">川普最后一员大将离任！美司法部对华核心权力易主；不寻常？美俄首脑高峰会将登场细节曝光；美欧结束17年飞机关税战！共同应对中共【希望之声-午夜新闻-2021/06/15】</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210616/1567701.md" target="_blank">美英法德防长四方会谈 奥斯汀：共同应对安全挑战</a></li>
 <li><a href="/comments/20210616/1567694.md" target="_blank">陈思敏：广东台山核电站避而不答的核心问题 早就撒过谎</a></li>
 <li><a href="/comments/20210616/1567693.md" target="_blank">财经冷眼：中国外贸顺差爆跌释放什么信号？</a></li>
-<li><a href="/comments/20210616/1567687.md" target="_blank">90岁老人: “你就是抓了我, 我也要讲公道话”</a></li>
-<li><a href="/comments/20210616/1567682.md" target="_blank">王赫：北约开始走向反制中共的前台 某党的噩梦开始了</a></li>
-<li><a href="/comments/20210616/1567677.md" target="_blank">G7北约公报接连点名中共 专家谈世界新格局</a></li>
-<li><a href="/comments/20210616/1567676.md" target="_blank">美前CDC主任亲解：为何相信病毒源自实验室 国会提法案制裁中共顶层卫生官员</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/comments/20210329/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20210611/1564824.md" target="_blank">【曾铮专栏】感悟神韵（之一）神韵的主旨</a></li>
+<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
 
 </ul>
 </div>
