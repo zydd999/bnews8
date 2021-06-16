@@ -15,19 +15,19 @@
 <li><a href="/comments/20210615/1567415.md">党媒统一口径炮轰习近平，习近平最艰难时刻到来，大小老虎们虎视眈眈，习近平三连任有危机。│#熊猫侠</a></li>
 <li><a href="/cbnews/20210615/1567127.md">微型小说：穿山甲三号-史上最高级别中共官员出逃美国</a></li>
 <li><a href="/cbnews/20210615/1567225.md">北京小粉红举报“台独” 却被罚款三千块 崩溃大哭</a></li>
+<li><a href="/comments/20210616/1567519.md">王岐山“大管家”董宏被捕惨状曝光：仰天大哭 一度想自杀 数千页供状抖出中南海高层贪腐重磅内幕 董宏与郭文贵有很多来往 专案组放出董宏情人及私生子留言 中南海谣言预言_476</a></li>
 <li><a href="/headline/20210615/1567221.md">【耳边风】习帝是个无可救药的自大狂</a></li>
 <li><a href="/bannedvideo/20210615/1567123.md">🚨带新冠机密外逃！投诚官员被指至少副国级；台山核泄威胁5千万人；北约谋参战台海；内塔尼亚胡下台，老川翻版？新政府藏祸，伊朗笑；澳媒揭武毒所养蝙蝠；番禺市爆抗议；湖北爆炸上百死？｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/topimagenews/20210615/1567286.md">强大对比 是否中国疫苗?2国天差地别 日本管制尖端技术输中国 中国清华毕业生组团诈骗</a></li>
-<li><a href="/comments/20210616/1567519.md">王岐山“大管家”董宏被捕惨状曝光：仰天大哭 一度想自杀 数千页供状抖出中南海高层贪腐重磅内幕 董宏与郭文贵有很多来往 专案组放出董宏情人及私生子留言 中南海谣言预言_476</a></li>
 <li><a href="/comments/20210615/1567113.md">习近平亲自下令抓捕 华信董事长叶简明被抓逾三年处境成谜 上海华信等71家公司合并破产 北京两顶级豪宅1.6亿元拍卖 叶简明背靠江泽民曾庆红上海帮石油帮 中共军方间谍隐秘背景曝光 捷克首富坠机死 曾跟叶简明密切往来</a></li>
 <li><a href="/cnnews/20210615/1567185.md">中共官媒闹大笑话！百年“病句”竟然一语成谶【阿波罗网独家报道】</a></li>
 <li><a href="/cbnews/20210616/1567521.md">复旦为遇刺书记募捐 评论大翻车：要捐刀客</a></li>
+<li><a href="/cbnews/20210616/1567546.md">一个比一个狗血丢人，电视剧都不敢这么演</a></li>
 <li><a href="/cnnews/20210615/1567126.md">吸血的蝗虫 全国共有多少中共的党书记？</a></li>
 <li><a href="/cbnews/20210615/1567354.md">突发事件惊动高层 习李齐喊“建党百年”</a></li>
-<li><a href="/cbnews/20210616/1567546.md">一个比一个狗血丢人，电视剧都不敢这么演</a></li>
 <li><a href="/cbnews/20210615/1567212.md">G7峰会刚落幕 美军南海立即行动 核动力航母打击群来了</a></li>
-<li><a href="/cbnews/20210615/1567137.md">蓬佩奥：美国掌握大量证据 是追责中共的时候了</a></li>
 <li><a href="/cbnews/20210615/1567381.md">大陆知名博主“编程随想”被抓 遭受酷刑</a></li>
+<li><a href="/cbnews/20210615/1567137.md">蓬佩奥：美国掌握大量证据 是追责中共的时候了</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,9 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210616/1567713.md" target="_blank">萧铭：拜登在G7出人意料的行动，难道他反共最坚决？中共是全球投资最热点，它能否形成自己的阵营对抗西方？</a></li>
+<li><a href="/comments/20210616/1567712.md" target="_blank">欧盟：希望进口多元化 离开中国产商；新一波疫情扰全球航运和芯片供应链；亨特·拜登向泄核中企 投资数百万美元；又是人祸？云南野象进城 东北虎入村【希望之声-每日头条-2021/06/15】</a></li>
+<li><a href="/comments/20210616/1567711.md" target="_blank">川普最大“竞争对手”首度表态”；美伊州化工厂发生爆炸！ 拜登访英连番违反皇室规矩 ； 美议员推100年内最严厉反垄断法； 美预期通胀攀至八年高点【#北美新闻  2021/06/15】</a></li>
 <li><a href="/cbnews/20210616/1567673.md" target="_blank">天亮时分：美俄峰会，俄罗斯很可能做出不利中共的决定；纽约加州全面开放，中共又挨一记重拳（政论天下第446集 20210615）</a></li>
 <li><a href="/cbnews/20210616/1567659.md" target="_blank">中共党媒：2015年以来器官“捐赠者”激增100倍</a></li>
 <li><a href="/cbnews/20210616/1567637.md" target="_blank">揭联合国与中共勾结 内部举报人正面临报复</a></li>
@@ -58,9 +61,6 @@
 <li><a href="/cbnews/20210615/1567372.md" target="_blank">传上海外滩数十无人机坠落 砸向豪华游艇、邮轮</a></li>
 <li><a href="/cbnews/20210615/1567371.md" target="_blank">大陆多省市现H5N8亚型高致病性禽流感</a></li>
 <li><a href="/cbnews/20210615/1567362.md" target="_blank">巨型龙卷风发威 江苏徐州近百房屋损毁 12人伤</a></li>
-<li><a href="/comments/20210615/1567356.md" target="_blank">💥北约首次在公报中剑指中共；G7公报让中共难堪 官媒骂街回应；中共百年 北京禁飞、限行、抓人 ；北京高调宣传首个“虚拟学生” AI技术令人担忧【希望之声TV-两岸要闻-2021/06/15】</a></li>
-<li><a href="/cbnews/20210615/1567355.md" target="_blank">江西专升本考试151人作弊 多名大学教师被刑拘</a></li>
-<li><a href="/cbnews/20210615/1567354.md" target="_blank">突发事件惊动高层 习李齐喊“建党百年”</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,15 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210616/1567724.md" target="_blank">李正宽：集权路上险像环生 习近平凶吉何所趋</a></li>
+<li><a href="/comments/20210616/1567723.md" target="_blank">石山：级别很高的中共外逃官员是谁？</a></li>
+<li><a href="/comments/20210616/1567722.md" target="_blank">夏林：殷勤的西方老朋友和扶不起的共产阿斗</a></li>
+<li><a href="/comments/20210616/1567721.md" target="_blank">周晓辉：“社会主义市场经济”是欺世之谈</a></li>
+<li><a href="/comments/20210616/1567712.md" target="_blank">欧盟：希望进口多元化 离开中国产商；新一波疫情扰全球航运和芯片供应链；亨特·拜登向泄核中企 投资数百万美元；又是人祸？云南野象进城 东北虎入村【希望之声-每日头条-2021/06/15】</a></li>
+<li><a href="/comments/20210616/1567711.md" target="_blank">川普最大“竞争对手”首度表态”；美伊州化工厂发生爆炸！ 拜登访英连番违反皇室规矩 ； 美议员推100年内最严厉反垄断法； 美预期通胀攀至八年高点【#北美新闻  2021/06/15】</a></li>
+<li><a href="/comments/20210616/1567710.md" target="_blank">中共28军机扰台后 美亚太助卿提名人挺台</a></li>
+<li><a href="/comments/20210616/1567708.md" target="_blank">亿万富豪叶简明被抓3年 上海华信71家关联公司合并破产</a></li>
+<li><a href="/comments/20210616/1567707.md" target="_blank">北京小粉红举报“台独” 反被警察罚款3千 当场崩溃 网友笑翻</a></li>
 <li><a href="/comments/20210616/1567701.md" target="_blank">美英法德防长四方会谈 奥斯汀：共同应对安全挑战</a></li>
 <li><a href="/comments/20210616/1567694.md" target="_blank">陈思敏：广东台山核电站避而不答的核心问题 早就撒过谎</a></li>
 <li><a href="/comments/20210616/1567693.md" target="_blank">财经冷眼：中国外贸顺差爆跌释放什么信号？</a></li>
@@ -114,15 +123,6 @@
 <li><a href="/comments/20210616/1567615.md" target="_blank">天路：惟愿花开人得救</a></li>
 <li><a href="/comments/20210616/1567612.md" target="_blank">美国土安全部长强调：“边境不开放”有助疫情防护</a></li>
 <li><a href="/comments/20210616/1567611.md" target="_blank">唐朝名家顾况之子发誓再为顾家子的故事</a></li>
-<li><a href="/comments/20210616/1567580.md" target="_blank">何君尧指“同乐运动会”失体面 被林郑斥情绪化 何反驳：黑白系清楚、同性相拒是基本定律</a></li>
-<li><a href="/comments/20210616/1567579.md" target="_blank">中共倒楣的一周 国际上遭谴责国内事故频发</a></li>
-<li><a href="/comments/20210616/1567578.md" target="_blank">【双语诗歌 Bilingual Poetry】：若你微笑时 When You Are Smiling</a></li>
-<li><a href="/comments/20210616/1567576.md" target="_blank">复旦吁给王书记捐款 人们一边倒想捐给姜博士 评论火爆</a></li>
-<li><a href="/comments/20210616/1567557.md" target="_blank">袁红冰：民主革命意味着什么？</a></li>
-<li><a href="/comments/20210616/1567547.md" target="_blank">担忧香港和新疆人权 英国首相：和盟友站在一起</a></li>
-<li><a href="/comments/20210616/1567545.md" target="_blank">赴美上市 滴滴出行或新晋多位亿万富豪</a></li>
-<li><a href="/comments/20210616/1567544.md" target="_blank">全球最热搜的豪车品牌 2021年前15名排行</a></li>
-<li><a href="/comments/20210616/1567533.md" target="_blank">中国浙江强降雨 数百家企业损失8000万</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/comments/20210611/1564824.md" target="_blank">【曾铮专栏】感悟神韵（之一）神韵的主旨</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
 
 </ul>
 </div>
