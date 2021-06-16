@@ -6,27 +6,27 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/comments/20210615/1567415.md">党媒统一口径炮轰习近平，习近平最艰难时刻到来，大小老虎们虎视眈眈，习近平三连任有危机。│#熊猫侠</a></li>
-<li><a href="/cbnews/20210615/1567372.md">传上海外滩数十无人机坠落 砸向豪华游艇、邮轮</a></li>
 <li><a href="/comments/20210616/1567519.md">王岐山“大管家”董宏被捕惨状曝光：仰天大哭 一度想自杀 数千页供状抖出中南海高层贪腐重磅内幕 董宏与郭文贵有很多来往 专案组放出董宏情人及私生子留言 中南海谣言预言_476</a></li>
 <li><a href="/cbnews/20210616/1567546.md">一个比一个狗血丢人，电视剧都不敢这么演</a></li>
 <li><a href="/cbnews/20210616/1567521.md">复旦为遇刺书记募捐 评论大翻车：要捐刀客</a></li>
-<li><a href="/cnnews/20210616/1567646.md">又一位海归女博士被逼的走投无路</a></li>
 <li><a href="/yule/20210616/1567573.md">港媒曝51岁王菲为谢霆锋产子 生产照疑流出</a></li>
+<li><a href="/cnnews/20210616/1567646.md">又一位海归女博士被逼的走投无路</a></li>
+<li><a href="/bannedvideo/20210616/1567917.md">王岐山叛逃后未来的命运，习近平将采取的应对手段--天钧政经</a></li>
 <li><a href="/comments/20210616/1567738.md">【微博精粹】复旦翻车 王书记白死了</a></li>
 <li><a href="/topimagenews/20210616/1567809.md">太逗了！新华社刊登董必武65年前8字谶言？【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20210616/1567734.md">就拿你点东西？青岛城管中队长被居民挥菜刀猛砍</a></li>
 <li><a href="/topimagenews/20210616/1567674.md">“铁证如山”-中共的罪恶震惊世界【阿波罗网报道】</a></li>
-<li><a href="/bannedvideo/20210616/1567917.md">王岐山叛逃后未来的命运，习近平将采取的应对手段--天钧政经</a></li>
 <li><a href="/ssgc/20210616/1567624.md">〖兲朝浮世绘〗中共国的大学领导们都成了拉皮条的掮客了</a></li>
 <li><a href="/cnnews/20210616/1567459.md">全球楼市泡沫快爆？多地惊现2008年金融海啸警号</a></li>
-<li><a href="/cbnews/20210615/1567381.md">大陆知名博主“编程随想”被抓 遭受酷刑</a></li>
+<li><a href="/cbnews/20210616/1567925.md">美国会正式提案：点名制裁2名中共顶级卫生官员</a></li>
 <li><a href="/cnnews/20210616/1567528.md">广东台山核电站事件 背后政治因素引人警觉</a></li>
 <li><a href="/cnnews/20210615/1567390.md">一线采访：疫情失控致大半个广州沦陷</a></li>
-<li><a href="/cbnews/20210616/1567925.md">美国会正式提案：点名制裁2名中共顶级卫生官员</a></li>
 <li><a href="/comments/20210616/1567723.md">石山：级别很高的中共外逃官员是谁？</a></li>
 <li><a href="/cnnews/20210616/1567749.md">印度神童最新预言 曝4个经济变化时间点 跟因果报应有关</a></li>
-<li><a href="/renquan/xgmyd/20210616/1567461.md">限制出入境手段之滥用与中共的流氓本性</a></li>
+<li><a href="/cbnews/20210616/1567958.md">中共国家机密！北京大会堂的掌声响起？大陆学者曝内幕</a></li>
 <li><a href="/cbnews/20210616/1567810.md">美军事记者曝中美航母“强碰”：战时绝对开打</a></li>
+<li><a href="/renquan/xgmyd/20210616/1567461.md">限制出入境手段之滥用与中共的流氓本性</a></li>
+<li><a href="/comments/20210616/1567946.md">李克强去习近平到过的查干湖 一开口又给习上眼药？</a></li>
 <li><a href="/worldnews/20210616/1567534.md">印度神童预言又应验 英国6／20后真的出大事</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -36,6 +36,9 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210616/1568073.md" target="_blank">虚假宣传？“清华毕业应聘保姆”涉事上海家政公司被立案</a></li>
+<li><a href="/cbnews/20210616/1568072.md" target="_blank">中共领导人为啥爱说废话？大陆学者点评视频网络爆红</a></li>
+<li><a href="/cbnews/20210616/1568071.md" target="_blank">维权律师倪玉兰遭当局骚扰 被断水、断电、断网</a></li>
 <li><a href="/cbnews/20210616/1568056.md" target="_blank">东北多地村庄惊闻虎啸 湖南曾爆“百虎围村”事件</a></li>
 <li><a href="/comments/20210616/1568037.md" target="_blank">💥美考虑成立永久性海军特遣部队 对抗中共；调查武毒所 美议员提法案制裁中共官员；记者曝中美航母“强碰”：战时绝对开打；反送中第一义士逝世两周年 港人悼念【希望之声TV-两岸要闻-2021/06/16】</a></li>
 <li><a href="/cbnews/20210616/1568036.md" target="_blank">李克强去查干湖 一开口又给习近平上眼药？还是演双簧</a></li>
@@ -58,9 +61,6 @@
 <li><a href="/cbnews/20210616/1567713.md" target="_blank">萧铭：拜登在G7出人意料的行动，难道他反共最坚决？中共是全球投资最热点，它能否形成自己的阵营对抗西方？</a></li>
 <li><a href="/comments/20210616/1567712.md" target="_blank">欧盟：希望进口多元化 离开中国产商；新一波疫情扰全球航运和芯片供应链；亨特·拜登向泄核中企 投资数百万美元；又是人祸？云南野象进城 东北虎入村【希望之声-每日头条-2021/06/15】</a></li>
 <li><a href="/comments/20210616/1567711.md" target="_blank">川普最大“竞争对手”首度表态”；美伊州化工厂发生爆炸！ 拜登访英连番违反皇室规矩 ； 美议员推100年内最严厉反垄断法； 美预期通胀攀至八年高点【#北美新闻  2021/06/15】</a></li>
-<li><a href="/cbnews/20210616/1567673.md" target="_blank">天亮时分：美俄峰会，俄罗斯很可能做出不利中共的决定；纽约加州全面开放，中共又挨一记重拳（政论天下第446集 20210615）</a></li>
-<li><a href="/cbnews/20210616/1567659.md" target="_blank">中共党媒：2015年以来器官“捐赠者”激增100倍</a></li>
-<li><a href="/cbnews/20210616/1567637.md" target="_blank">揭联合国与中共勾结 内部举报人正面临报复</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210616/1568076.md" target="_blank">时事大家谈：拜登剑指中国，宁会普京不见习近平？</a></li>
+<li><a href="/comments/20210616/1568075.md" target="_blank">【未普评论】病毒溯源，科学家的良知和祖国的声誉孰轻孰重？</a></li>
+<li><a href="/comments/20210616/1568070.md" target="_blank">工务小组通过 20.2 亿重建西区警察宿舍 警拟装高解像 CCTV 影像直通警署控制室</a></li>
 <li><a href="/comments/20210616/1568061.md" target="_blank">调查：染疫痊愈者或仍有嗅觉障碍 失嗅症倍受关注</a></li>
 <li><a href="/comments/20210616/1568040.md" target="_blank">【梁京评论】习近平帮了拜登大忙</a></li>
 <li><a href="/comments/20210616/1568037.md" target="_blank">💥美考虑成立永久性海军特遣部队 对抗中共；调查武毒所 美议员提法案制裁中共官员；记者曝中美航母“强碰”：战时绝对开打；反送中第一义士逝世两周年 港人悼念【希望之声TV-两岸要闻-2021/06/16】</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210616/1567879.md" target="_blank">研究：许多武汉肺炎患者会产生攻击自身组织和器官的免疫反应</a></li>
 <li><a href="/comments/20210616/1567853.md" target="_blank">东盟防长扩大会议 岸信夫再强调：台海安全稳定很重要</a></li>
 <li><a href="/comments/20210616/1567852.md" target="_blank">专家吁调查：一流科学期刊拒绝病毒实验室泄漏说论文</a></li>
-<li><a href="/comments/20210616/1567832.md" target="_blank">【重磅】川普总统的声明:  受德州州长邀请于2021年6月30日与他一起正式访问被摧毁的南部边境  拜登G7 答记者问严重露馅  弗林将军上传视频揭真伪</a></li>
-<li><a href="/comments/20210616/1567830.md" target="_blank">美国二郡叛乱，公然宣布抵抗联邦政府，违法在所不惜。普通公民也有能力对抗政府，只需团结和智慧！│#熊猫侠</a></li>
-<li><a href="/comments/20210616/1567825.md" target="_blank">一人一个被英殖压迫的经历</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
 <li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
 
 </ul>
 </div>
