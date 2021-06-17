@@ -20,14 +20,14 @@
 <li><a href="/comments/20210616/1567723.md">石山：级别很高的中共外逃官员是谁？</a></li>
 <li><a href="/bannedvideo/20210616/1567943.md">捣乱拜登伊朗大局，内塔尼亚胡终被美国拿下；历史性选择，今天是普京的大日子（20210616 第622期）</a></li>
 <li><a href="/cnnews/20210616/1567749.md">印度神童最新预言 曝4个经济变化时间点 跟因果报应有关</a></li>
+<li><a href="/cnnews/20210617/1568296.md">中共：滞留缅北人员必须回国！学者：背后有蹊跷</a></li>
 <li><a href="/bannedvideo/20210616/1567990.md">陈破空：习近平尴尬！政治老人或拒绝出席百年党庆。那个人会不会现身？最大看点</a></li>
 <li><a href="/cbnews/20210616/1567810.md">美军事记者曝中美航母“强碰”：战时绝对开打</a></li>
 <li><a href="/comments/20210617/1568172.md">拜登普京峰会两阶段会谈 3小时迅速结束</a></li>
 <li><a href="/cbnews/20210616/1568036.md">李克强去查干湖 一开口又给习近平上眼药？还是演双簧</a></li>
 <li><a href="/cnnews/20210616/1568004.md">C罗一个动作 可口可乐市值蒸发40亿刀</a></li>
-<li><a href="/cnnews/20210617/1568296.md">中共：滞留缅北人员必须回国！学者：背后有蹊跷</a></li>
+<li><a href="/bannedvideo/20210617/1568204.md">【铁证如山】中共罪恶震惊世界；曝普京看中共是主要威胁；印度神童预言又应验真出大事；共和党众院3号提案点名制裁2名中共高官；中共网袭美基建；拦UFO？3美F22任务秘密；澳洲民调对中共恶化CL</a></li>
 <li><a href="/baitai/20210616/1567854.md">徐光：俄罗斯天天盼着打台湾</a></li>
-<li><a href="/health/20210616/1567847.md">远离癌细胞 45岁以后这五种食物撤下餐桌</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210617/1568426.md" target="_blank">中共百年党庆前 国际密集开峰会戳北京痛点</a></li>
 <li><a href="/comments/20210617/1568407.md" target="_blank">漫画家大雄最新MV《我们》！#姜光宇 #李沐阳 #大雄 #倾情献唱！【新闻最嘲点 姜光宇】Mr.FunnyNews(2021.06.16）‬</a></li>
 <li><a href="/cbnews/20210617/1568399.md" target="_blank">拜登：跟习近平不是老朋友 纯属业务关系</a></li>
 <li><a href="/comments/20210617/1568395.md" target="_blank">美俄峰会备受瞩目：拜登有意联俄抗中？大陆知名博主“编程随想”被抓，中共建党百年风声鹤唳</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210616/1568056.md" target="_blank">东北多地村庄惊闻虎啸 湖南曾爆“百虎围村”事件</a></li>
 <li><a href="/comments/20210616/1568037.md" target="_blank">💥美考虑成立永久性海军特遣部队 对抗中共；调查武毒所 美议员提法案制裁中共官员；记者曝中美航母“强碰”：战时绝对开打；反送中第一义士逝世两周年 港人悼念【希望之声TV-两岸要闻-2021/06/16】</a></li>
 <li><a href="/cbnews/20210616/1568036.md" target="_blank">李克强去查干湖 一开口又给习近平上眼药？还是演双簧</a></li>
-<li><a href="/comments/20210616/1568034.md" target="_blank">【原始版】AZ总检察长怒斥司法部DOJ，远离地面行动。</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,12 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210617/1568442.md" target="_blank">美飞碟爆料人：五角大楼首份UFO报告将具历史意义</a></li>
+<li><a href="/comments/20210617/1568435.md" target="_blank">关于反制中共暴政二零二一年秋军事围剿V字旅作战计划的公告（二零二一第十号）</a></li>
+<li><a href="/comments/20210617/1568431.md" target="_blank">一声叹息 倒下的首富名单里又多了一位…</a></li>
+<li><a href="/comments/20210617/1568430.md" target="_blank">中共“糖衣炮弹”攻击海外的十大目标</a></li>
+<li><a href="/comments/20210617/1568429.md" target="_blank">学校“性教育”的肮脏历史和致命后果 伪科学骗术</a></li>
+<li><a href="/comments/20210617/1568424.md" target="_blank">拜普会后 拜登一句话定位与习近平关系</a></li>
 <li><a href="/comments/20210617/1568414.md" target="_blank">欧盟列抗共清单 中共重换狼外套</a></li>
 <li><a href="/comments/20210617/1568407.md" target="_blank">漫画家大雄最新MV《我们》！#姜光宇 #李沐阳 #大雄 #倾情献唱！【新闻最嘲点 姜光宇】Mr.FunnyNews(2021.06.16）‬</a></li>
 <li><a href="/comments/20210617/1568401.md" target="_blank">杨百万的一百万相当于现在的多少钱？</a></li>
@@ -117,12 +123,6 @@
 <li><a href="/comments/20210617/1568304.md" target="_blank">防中共偷窃 美议员促商业部速列禁出口技术清单</a></li>
 <li><a href="/comments/20210617/1568303.md" target="_blank">越南女歌手经历神奇：战胜乳癌 生第三娃</a></li>
 <li><a href="/comments/20210617/1568302.md" target="_blank">大瘟疫来临前的警告</a></li>
-<li><a href="/comments/20210617/1568259.md" target="_blank">【世界美景】视频：《美丽的鱼缸太阳室》《日本莫奈的池塘》《菲律宾鱼塔拉维拉新埃西雅鱼》《可爱的小马跑步》</a></li>
-<li><a href="/comments/20210617/1568253.md" target="_blank">中共统计局称就业仍有压力</a></li>
-<li><a href="/comments/20210617/1568235.md" target="_blank">美议员促教育部 调查中共注资美大学情况</a></li>
-<li><a href="/comments/20210617/1568234.md" target="_blank">这6款2021轿车，5年拥有成本最低</a></li>
-<li><a href="/comments/20210617/1568227.md" target="_blank">【世界奇景】视频：《透明鱼》《雪狐》《察尔汗盐湖 》</a></li>
-<li><a href="/comments/20210617/1568221.md" target="_blank">美参院司法委主席：美国必须就疫情向中共追责</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
 <li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
 <li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
 <li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
 <li><a href="/comments/20210329/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
 <li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
 
 </ul>
 </div>
