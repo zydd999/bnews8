@@ -7,27 +7,27 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/ssgc/20210616/1568047.md">级别很高的中共外逃官员是谁？</a></li>
 <li><a href="/comments/20210617/1568497.md">建党百年前噩耗不断？！“最高级”叛逃者惊传是他！百度诡异删履历</a></li>
-<li><a href="/topimagenews/20210616/1567991.md">台山核电站危机，专家揭秘“白热化” 大企业违约连环爆！高盛：中国不再大到不能倒</a></li>
 <li><a href="/cnnews/20210617/1568296.md">中共：滞留缅北人员必须回国！学者：背后有蹊跷</a></li>
+<li><a href="/topimagenews/20210616/1567991.md">台山核电站危机，专家揭秘“白热化” 大企业违约连环爆！高盛：中国不再大到不能倒</a></li>
 <li><a href="/lifebaike/20210617/1568318.md">中共国级高官们家属移民美国部分名单曝光</a></li>
-<li><a href="/cnnews/20210616/1567976.md">毛泽东长子毛岸英之死 中共否认因蛋炒饭送命</a></li>
 <li><a href="/cbnews/20210617/1568531.md">中共史上最高级叛逃者？照片曝光 百度资料全删</a></li>
 <li><a href="/ssgc/20210617/1568278.md">〖兲朝浮世绘〗李中堂非要拿针戳破习总盛世的气球</a></li>
 <li><a href="/bannedvideo/20210617/1568352.md">网传连云港公安局长暗访某派出所视频流出，曝光大陆警察真实日常工作状态。</a></li>
 <li><a href="/cbnews/20210617/1568493.md">王沪宁当常委后从未外访 港媒揭奇怪原因</a></li>
-<li><a href="/finance/20210616/1567966.md">深圳跳楼价甩房频发：楼市泡沫真要破了</a></li>
 <li><a href="/cbnews/20210617/1568226.md">拜登普京会面90分钟 胡锡进中途跳脚反露怯</a></li>
+<li><a href="/topimagenews/20210617/1568586.md">史上最高级别中共投诚官员网络疯传 真的是他吗？【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20210617/1568244.md">新冠症状已改!丧失味觉已罕见 新排名:这症状第一</a></li>
 <li><a href="/bannedvideo/20210616/1567990.md">陈破空：习近平尴尬！政治老人或拒绝出席百年党庆。那个人会不会现身？最大看点</a></li>
+<li><a href="/cbnews/20210617/1568536.md">躺平行动：江泽民等反习势力对习近平发起总攻令</a></li>
+<li><a href="/cnnews/20210617/1568542.md">习讲话乌云压顶内部人士：教培行业要做最坏打算</a></li>
 <li><a href="/bannedvideo/20210617/1568204.md">【铁证如山】中共罪恶震惊世界；曝普京看中共是主要威胁；印度神童预言又应验真出大事；共和党众院3号提案点名制裁2名中共高官；中共网袭美基建；拦UFO？3美F22任务秘密；澳洲民调对中共恶化CL</a></li>
-<li><a href="/topimagenews/20210617/1568586.md">史上最高级别中共投诚官员网络疯传 真的是他吗？【阿波罗网报道】</a></li>
 <li><a href="/lifebaike/20210617/1568294.md">睡醒第一件事是喝水上厕所？你坚持的养生习惯正在摧毁你的身体</a></li>
 <li><a href="/cbnews/20210616/1568036.md">李克强去查干湖 一开口又给习近平上眼药？还是演双簧</a></li>
 <li><a href="/cnnews/20210617/1568267.md">拿报纸去包鱼？特鲁多G7峰会差点捅了大娄子</a></li>
-<li><a href="/cbnews/20210617/1568536.md">躺平行动：江泽民等反习势力对习近平发起总攻令</a></li>
 <li><a href="/comments/20210617/1568172.md">拜登普京峰会两阶段会谈 3小时迅速结束</a></li>
-<li><a href="/cnnews/20210617/1568542.md">习讲话乌云压顶内部人士：教培行业要做最坏打算</a></li>
 <li><a href="/cnnews/20210617/1568340.md">哈佛大学研究 为什么长白发，能重新变黑吗？</a></li>
+<li><a href="/cnnews/20210617/1568272.md">欧盟主要国家不承认中国疫苗 中共扬言报复</a></li>
+<li><a href="/cnnews/20210616/1568004.md">C罗一个动作 可口可乐市值蒸发40亿刀</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210617/1568712.md" target="_blank">唯美之灵在心灵之巅点燃信仰的金灯（第二部分）——绝对真理只能是对心灵的忠诚（东方哲人解析当代人类困惑  第三十二讲）【袁红冰杏坛】 06172021</a></li>
 <li><a href="/cbnews/20210617/1568647.md" target="_blank">以噪制噪？上海老人手动震楼3年：我在你别想睡</a></li>
 <li><a href="/cbnews/20210617/1568600.md" target="_blank">拜登普京峰会刺激北京 专家：中共怕被俄罗斯抛弃</a></li>
 <li><a href="/cbnews/20210617/1568599.md" target="_blank">阿里巴巴遭遇网络爬虫 近12亿用户数据被盗</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/comments/20210617/1568378.md" target="_blank">悟空拜师的原型是谁？一个粗野村夫如何弘扬禅宗？</a></li>
 <li><a href="/comments/20210617/1568369.md" target="_blank">解雇福西法案会 恶记者遭怒斥；法国入境拒认中国疫苗 北京要报覆；挺盟友对抗中共 英国派航母打击群；战狼变可爱：中国愿为世界和平贡献【希望之声-每日头条-2021/06/16】</a></li>
 <li><a href="/comments/20210617/1568368.md" target="_blank">拜登、普京首次会谈    美、俄、中如何选择？  【希望之声TV-新闻焦点解读-2021/06/16】 主持:高洁  嘉宾：秦鹏 蓝述</a></li>
-<li><a href="/cbnews/20210617/1568353.md" target="_blank">文昭：2021压轴戏登场：美俄峰回路转，中共四面被围？抗共联盟提速的推手是&#8230;</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210617/1568712.md" target="_blank">唯美之灵在心灵之巅点燃信仰的金灯（第二部分）——绝对真理只能是对心灵的忠诚（东方哲人解析当代人类困惑  第三十二讲）【袁红冰杏坛】 06172021</a></li>
+<li><a href="/comments/20210617/1568703.md" target="_blank">复旦割喉案 姜文华被判死缓减少海归回国忧虑？</a></li>
+<li><a href="/comments/20210617/1568701.md" target="_blank">诗一首：《寻》</a></li>
+<li><a href="/comments/20210617/1568700.md" target="_blank">诗一首：《一 瞬 间》</a></li>
 <li><a href="/comments/20210617/1568679.md" target="_blank">莫里森：欧洲多国领袖支持澳洲对中共立场</a></li>
 <li><a href="/comments/20210617/1568675.md" target="_blank">【国安拘苹果高层】 执行总编林文宗：同事将尽最大努力如常出版报纸 陈沛敏丈夫：她冷静、坚强</a></li>
 <li><a href="/comments/20210617/1568674.md" target="_blank">【拘苹果高层冻资产】要令《苹果》7.1 前无报纸出？ 李家超： 任何措施都会考虑 拒公开涉案文章</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210617/1568546.md" target="_blank">王沪宁醉心宫廷密室阴谋 当常委后从未外访 仅一次独自离京 中南海不可告人的秘密_398</a></li>
 <li><a href="/comments/20210617/1568545.md" target="_blank">马云被习近平招安？马云处境曝光：“画画，保持低调，将卸任湖畔大学校长” 阿里巴巴二当家蔡崇信曝马云近况 切割马云与阿里巴巴 阿里巴巴与蚂蚁集团风波不断 淘宝11亿条用户资讯外泄 花呗借呗一年内退出市场 蚂蚁集团或需出资5000亿补足资本金 阿里云失大客户被中共政府客户冷落 阿里巴巴金融业务重组 蚂蚁集团成立政府关系部拓展海外计划曝光 阿里系社区团购十荟团 阿里旗下作业帮被顶格罚款</a></li>
 <li><a href="/comments/20210617/1568544.md" target="_blank">日本通过《土地利用规制法》防止外资收购国安要地</a></li>
-<li><a href="/comments/20210617/1568533.md" target="_blank">华人，一个正在被美国社会淘汰出局的族裔</a></li>
-<li><a href="/comments/20210617/1568525.md" target="_blank">和习近平保持距离？拜登否认与习是老朋友</a></li>
-<li><a href="/comments/20210617/1568520.md" target="_blank">触目惊心！川普公布10大控诉清单；美俄首脑峰会成果出炉！两国恢复互派大使； 疑涉间谍活动？美国启动调查疫情初期提前返美的中国留学生 【希望之声-午夜新闻-2021/06/16】</a></li>
-<li><a href="/comments/20210617/1568519.md" target="_blank">传约 170 名区议员下月被 DQ 林进宣布解雇议办职员 议助：真正炒我哋嘅系政权</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
 <li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
 
 </ul>
 </div>
