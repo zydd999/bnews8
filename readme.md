@@ -5,8 +5,8 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/cnnews/20210617/1568296.md">中共：滞留缅北人员必须回国！学者：背后有蹊跷</a></li>
 <li><a href="/lifebaike/20210617/1568318.md">中共国级高官们家属移民美国部分名单曝光</a></li>
+<li><a href="/cnnews/20210617/1568296.md">中共：滞留缅北人员必须回国！学者：背后有蹊跷</a></li>
 <li><a href="/comments/20210617/1568497.md">建党百年前噩耗不断？！“最高级”叛逃者惊传是他！百度诡异删履历</a></li>
 <li><a href="/topimagenews/20210617/1568586.md">史上最高级别中共投诚官员网络疯传 真的是他吗？【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20210617/1568531.md">中共史上最高级叛逃者？照片曝光 百度资料全删</a></li>
@@ -22,12 +22,12 @@
 <li><a href="/lifebaike/20210617/1568294.md">睡醒第一件事是喝水上厕所？你坚持的养生习惯正在摧毁你的身体</a></li>
 <li><a href="/cnnews/20210617/1568267.md">拿报纸去包鱼？特鲁多G7峰会差点捅了大娄子</a></li>
 <li><a href="/comments/20210617/1568533.md">华人，一个正在被美国社会淘汰出局的族裔</a></li>
+<li><a href="/bannedvideo/20210617/1568669.md">习近平盘算中共二十大政治局常委，若让胡春华入常将接替谁？--天钧政经</a></li>
 <li><a href="/comments/20210617/1568172.md">拜登普京峰会两阶段会谈 3小时迅速结束</a></li>
 <li><a href="/cnnews/20210617/1568340.md">哈佛大学研究 为什么长白发，能重新变黑吗？</a></li>
 <li><a href="/cnnews/20210617/1568272.md">欧盟主要国家不承认中国疫苗 中共扬言报复</a></li>
 <li><a href="/yule/20210617/1568188.md">57岁刘欢现身豪华歌厅，挺大肚腩卖力唱，自曝瘦了20斤模样变化大</a></li>
 <li><a href="/yule/20210617/1568359.md">李连杰抛弃黄秋燕原因 渣到令人傻眼</a></li>
-<li><a href="/bannedvideo/20210617/1568669.md">习近平盘算中共二十大政治局常委，若让胡春华入常将接替谁？--天钧政经</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,9 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210617/1568867.md" target="_blank">青海海西州茫崖发生5.8级地震 甘肃敦煌震感强烈</a></li>
+<li><a href="/cbnews/20210617/1568866.md" target="_blank">对法轮功迫害加重：遭跨省绑架 法轮功学员李彬被批捕</a></li>
+<li><a href="/cbnews/20210617/1568865.md" target="_blank">辽宁八旬老太被二十多警察抓捕 并被判刑</a></li>
 <li><a href="/cbnews/20210617/1568848.md" target="_blank">一线采访：七一维稳？广州隔离期满不放人</a></li>
 <li><a href="/cbnews/20210617/1568830.md" target="_blank">香港国安法：警方拘苹果日报5高管搜总部</a></li>
 <li><a href="/cbnews/20210617/1568804.md" target="_blank">印尼逾350名医护打中国疫苗后染疫</a></li>
@@ -58,9 +61,6 @@
 <li><a href="/cbnews/20210617/1568507.md" target="_blank">受难者後代六四演讲爆红 98後女孩令中共肝胆俱裂</a></li>
 <li><a href="/cbnews/20210617/1568502.md" target="_blank">高福赐名“蝙蝠女侠” 拜普密谈中共 396华人年前返美被查</a></li>
 <li><a href="/cbnews/20210617/1568501.md" target="_blank">中共2蠢招回应G7联合声明 专家讽：暴露出它“反人类”的本质</a></li>
-<li><a href="/cbnews/20210617/1568493.md" target="_blank">王沪宁当常委后从未外访 港媒揭奇怪原因</a></li>
-<li><a href="/cbnews/20210617/1568492.md" target="_blank">天亮时分：整顿“饭圈”和民办教育，习近平为“蛋炒饭”翻案；美俄峰会，怼到胡锡进，警告中共意味浓；（政论天下第447集 20210616）</a></li>
-<li><a href="/comments/20210617/1568489.md" target="_blank">川普应邀将访问边境；蓬佩奥打前哨战！自立门户；新国家安全战略!推全民告密；中国公民认罪！欺诈小企业疫情纾困贷款【#希望之声  北美新闻-2021/06/16】</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210617/1568853.md" target="_blank">广东台山核电站虽无大事 费良勇：中共撒谎成性令人不安</a></li>
+<li><a href="/comments/20210617/1568852.md" target="_blank">川普：我仍相信是实验室事故引发瘟疫 否则太可怕</a></li>
 <li><a href="/comments/20210617/1568850.md" target="_blank">【杜耀明评论】电检新指引冲击电影行业秩序</a></li>
 <li><a href="/comments/20210617/1568832.md" target="_blank">割你老母，讲完</a></li>
 <li><a href="/comments/20210617/1568831.md" target="_blank">中美防长首次同框 奥斯汀斥中共在南海违法</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210617/1568719.md" target="_blank">汉心：国人权利灭的根源</a></li>
 <li><a href="/comments/20210617/1568712.md" target="_blank">唯美之灵在心灵之巅点燃信仰的金灯（第二部分）——绝对真理只能是对心灵的忠诚（东方哲人解析当代人类困惑  第三十二讲）【袁红冰杏坛】 06172021</a></li>
 <li><a href="/comments/20210617/1568703.md" target="_blank">复旦割喉案 姜文华被判死缓减少海归回国忧虑？</a></li>
-<li><a href="/comments/20210617/1568701.md" target="_blank">诗一首：《寻》</a></li>
-<li><a href="/comments/20210617/1568700.md" target="_blank">诗一首：《一 瞬 间》</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
 <li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
-<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
 
 </ul>
 </div>
