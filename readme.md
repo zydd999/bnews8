@@ -15,7 +15,6 @@
 <li><a href="/ssgc/20210617/1568278.md">〖兲朝浮世绘〗李中堂非要拿针戳破习总盛世的气球</a></li>
 <li><a href="/cbnews/20210617/1568493.md">王沪宁当常委后从未外访 港媒揭奇怪原因</a></li>
 <li><a href="/cnnews/20210617/1568244.md">新冠症状已改!丧失味觉已罕见 新排名:这症状第一</a></li>
-<li><a href="/cbnews/20210617/1568226.md">拜登普京会面90分钟 胡锡进中途跳脚反露怯</a></li>
 <li><a href="/bannedvideo/20210617/1568669.md">习近平盘算中共二十大政治局常委，若让胡春华入常将接替谁？--天钧政经</a></li>
 <li><a href="/cbnews/20210617/1568536.md">躺平行动：江泽民等反习势力对习近平发起总攻令</a></li>
 <li><a href="/cnnews/20210617/1568542.md">习讲话乌云压顶内部人士：教培行业要做最坏打算</a></li>
@@ -26,8 +25,9 @@
 <li><a href="/comments/20210617/1568533.md">华人，一个正在被美国社会淘汰出局的族裔</a></li>
 <li><a href="/cnnews/20210617/1568267.md">拿报纸去包鱼？特鲁多G7峰会差点捅了大娄子</a></li>
 <li><a href="/topimagenews/20210617/1568585.md">王沪宁弄巧成拙？真实派系色彩被无意暴露？【阿波罗网报道】</a></li>
-<li><a href="/cnnews/20210617/1568340.md">哈佛大学研究 为什么长白发，能重新变黑吗？</a></li>
 <li><a href="/cbnews/20210617/1568647.md">以噪制噪？上海老人手动震楼3年：我在你别想睡</a></li>
+<li><a href="/cnnews/20210617/1568340.md">哈佛大学研究 为什么长白发，能重新变黑吗？</a></li>
+<li><a href="/cnnews/20210617/1568272.md">欧盟主要国家不承认中国疫苗 中共扬言报复</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210618/1568992.md" target="_blank">康奈尔医学院助理教授：应暂停为儿童接种COVID疫苗</a></li>
+<li><a href="/comments/20210618/1568991.md" target="_blank">隐瞒参与中共“千人计划” NASA高级研究员被判刑</a></li>
 <li><a href="/comments/20210618/1568978.md" target="_blank">美弗州第14县通过谴责中共迫害法轮功决议案</a></li>
 <li><a href="/comments/20210618/1568975.md" target="_blank">中共百年党庆前重手铲异议 香港苹果日报：18日加码50万份 奋战到底</a></li>
 <li><a href="/comments/20210618/1568974.md" target="_blank">【笑看世界专栏】原创歌曲：《九字真言》（繁体中文字幕版）</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210618/1568929.md" target="_blank">赴美上市之际 传滴滴遭反垄断调查</a></li>
 <li><a href="/comments/20210618/1568928.md" target="_blank">三伏前每天泡它喝，体内一年的病气扫光光</a></li>
 <li><a href="/comments/20210618/1568920.md" target="_blank">本田Clarity等三款车将在今年停产</a></li>
-<li><a href="/comments/20210617/1568908.md" target="_blank">美两党议员再提“美国制造”法 减少对中国的药物依赖</a></li>
-<li><a href="/comments/20210617/1568907.md" target="_blank">快讯：美高院驳回红州挑战 宣布奥巴马医保仍有效</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20210329/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
 <li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
-<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20210611/1564824.md" target="_blank">【曾铮专栏】感悟神韵（之一）神韵的主旨</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
 
 </ul>
 </div>
