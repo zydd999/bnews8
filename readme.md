@@ -8,7 +8,6 @@
 <li><a href="/lifebaike/20210617/1568318.md">中共国级高官们家属移民美国部分名单曝光</a></li>
 <li><a href="/topimagenews/20210617/1568586.md">史上最高级别中共投诚官员网络疯传 真的是他吗？【阿波罗网报道】</a></li>
 <li><a href="/comments/20210617/1568497.md">建党百年前噩耗不断？！“最高级”叛逃者惊传是他！百度诡异删履历</a></li>
-<li><a href="/cnnews/20210617/1568296.md">中共：滞留缅北人员必须回国！学者：背后有蹊跷</a></li>
 <li><a href="/bannedvideo/20210617/1568352.md">网传连云港公安局长暗访某派出所视频流出，曝光大陆警察真实日常工作状态。</a></li>
 <li><a href="/comments/20210617/1568564.md">中共史上最高级叛逃者照片曝光 百度资料全删 国安部副部长董经纬叛逃美国 握病毒战机密 涉孙力军案 与郭文贵相熟 其女婿蒋凡遭阿里除名合伙人 中南海谣言预言_477</a></li>
 <li><a href="/cbnews/20210617/1568531.md">中共史上最高级叛逃者？照片曝光 百度资料全删</a></li>
@@ -17,17 +16,18 @@
 <li><a href="/cbnews/20210617/1568536.md">躺平行动：江泽民等反习势力对习近平发起总攻令</a></li>
 <li><a href="/cnnews/20210617/1568542.md">习讲话乌云压顶内部人士：教培行业要做最坏打算</a></li>
 <li><a href="/cnnews/20210617/1568706.md">偷苹果核心机密回国高就被FBI逮捕，岂止丢人？</a></li>
-<li><a href="/lifebaike/20210617/1568294.md">睡醒第一件事是喝水上厕所？你坚持的养生习惯正在摧毁你的身体</a></li>
 <li><a href="/cnnews/20210617/1568744.md">32岁植物人 遭性侵产子 1500万元和解</a></li>
+<li><a href="/cbnews/20210617/1568911.md">美握“史上最高级别中国叛逃者”海外华人圈盛传是他</a></li>
 <li><a href="/cnnews/20210617/1568686.md">官媒自曝政权危机：官场怠政成风</a></li>
 <li><a href="/comments/20210617/1568533.md">华人，一个正在被美国社会淘汰出局的族裔</a></li>
-<li><a href="/cbnews/20210617/1568911.md">美握“史上最高级别中国叛逃者”海外华人圈盛传是他</a></li>
-<li><a href="/cbnews/20210617/1568647.md">以噪制噪？上海老人手动震楼3年：我在你别想睡</a></li>
 <li><a href="/topimagenews/20210617/1568585.md">王沪宁弄巧成拙？真实派系色彩被无意暴露？【阿波罗网报道】</a></li>
+<li><a href="/cbnews/20210617/1568647.md">以噪制噪？上海老人手动震楼3年：我在你别想睡</a></li>
 <li><a href="/cnnews/20210617/1568340.md">哈佛大学研究 为什么长白发，能重新变黑吗？</a></li>
 <li><a href="/cbnews/20210617/1568781.md">压力太大？身材瘦削的王健林现身延安引关注</a></li>
 <li><a href="/cnnews/20210617/1568715.md">美国会议员：处理不了UFO；前官员：UFO关闭了美国核武器【阿波罗网编译】</a></li>
 <li><a href="/yule/20210617/1568359.md">李连杰抛弃黄秋燕原因 渣到令人傻眼</a></li>
+<li><a href="/comments/20210617/1568558.md">习近平生日难平静 超凶变种病毒袭深圳！一下感染32人</a></li>
+<li><a href="/cnnews/20210617/1568677.md">亨特·拜登找女模特标准泄露：听话的外国人可以 不能要"黄的"【阿波罗网编译】</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210618/1569039.md" target="_blank">台湾逾6万人组织去大陆打疫苗，别开玩笑了！不抄中国作业等于集体犯*罪，法国又辱华！│#熊猫侠（补发）</a></li>
 <li><a href="/comments/20210618/1569023.md" target="_blank">中共高级叛逃者是他？阿里近12亿条用户资讯外泄；台湾被纳入欧盟“白名单”；印度又发现“Delta+”新变种；欧洲严查外资 大陆投资暴跌【希望之声TV-环球看点-2021/6/17】</a></li>
 <li><a href="/comments/20210618/1569022.md" target="_blank">：泰国北柳府古老传奇灵验的梭通寺</a></li>
 <li><a href="/comments/20210618/1569021.md" target="_blank">民调：71%美国人担心拜登支出计划导致通胀</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210618/1568951.md" target="_blank">【美味养生素食】夏天到了，孩子想吃的水果果冻自己在家做，无添加好吃又安心</a></li>
 <li><a href="/comments/20210618/1568950.md" target="_blank">【美味养生素食】你知道绿豆冰棍怎么做的吗？学会自己在家做，比买的还好吃</a></li>
 <li><a href="/comments/20210618/1568948.md" target="_blank">【美味养生素食】早餐吃西红柿鸡蛋饼，香软好吃</a></li>
-<li><a href="/comments/20210618/1568943.md" target="_blank">中共高级叛逃者是他？百度资料全被删；阿里近12亿条用户资讯外泄；台湾被纳入欧盟“白名单”；印度又发现“Delta+”新变种；欧洲严查外资 大陆投资暴跌【希望之声TV-环球看点-2021/6/17】</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
+<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
 <li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
 <li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
 
 </ul>
 </div>
