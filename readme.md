@@ -18,11 +18,11 @@
 <li><a href="/cnnews/20210616/1567976.md">毛泽东长子毛岸英之死 中共否认因蛋炒饭送命</a></li>
 <li><a href="/finance/20210616/1567966.md">深圳跳楼价甩房频发：楼市泡沫真要破了</a></li>
 <li><a href="/cbnews/20210617/1568226.md">拜登普京会面90分钟 胡锡进中途跳脚反露怯</a></li>
+<li><a href="/bannedvideo/20210617/1568352.md">网传连云港公安局长暗访某派出所视频流出，曝光大陆警察真实日常工作状态。</a></li>
 <li><a href="/bannedvideo/20210616/1567943.md">捣乱拜登伊朗大局，内塔尼亚胡终被美国拿下；历史性选择，今天是普京的大日子（20210616 第622期）</a></li>
 <li><a href="/cnnews/20210617/1568244.md">新冠症状已改!丧失味觉已罕见 新排名:这症状第一</a></li>
 <li><a href="/bannedvideo/20210616/1567990.md">陈破空：习近平尴尬！政治老人或拒绝出席百年党庆。那个人会不会现身？最大看点</a></li>
 <li><a href="/bannedvideo/20210617/1568204.md">【铁证如山】中共罪恶震惊世界；曝普京看中共是主要威胁；印度神童预言又应验真出大事；共和党众院3号提案点名制裁2名中共高官；中共网袭美基建；拦UFO？3美F22任务秘密；澳洲民调对中共恶化CL</a></li>
-<li><a href="/bannedvideo/20210617/1568352.md">网传连云港公安局长暗访某派出所视频流出，曝光大陆警察真实日常工作状态。</a></li>
 <li><a href="/cbnews/20210616/1568036.md">李克强去查干湖 一开口又给习近平上眼药？还是演双簧</a></li>
 <li><a href="/cnnews/20210617/1568267.md">拿报纸去包鱼？特鲁多G7峰会差点捅了大娄子</a></li>
 <li><a href="/comments/20210617/1568172.md">拜登普京峰会两阶段会谈 3小时迅速结束</a></li>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210617/1568553.md" target="_blank">中共史上最高级叛逃者是他？照片曝光 百度资料全删</a></li>
+<li><a href="/comments/20210617/1568546.md" target="_blank">王沪宁醉心宫廷密室阴谋 当常委后从未外访 仅一次独自离京 中南海不可告人的秘密_398</a></li>
+<li><a href="/comments/20210617/1568545.md" target="_blank">马云被习近平招安？马云处境曝光：“画画，保持低调，将卸任湖畔大学校长” 阿里巴巴二当家蔡崇信曝马云近况 切割马云与阿里巴巴 阿里巴巴与蚂蚁集团风波不断 淘宝11亿条用户资讯外泄 花呗借呗一年内退出市场 蚂蚁集团或需出资5000亿补足资本金 阿里云失大客户被中共政府客户冷落 阿里巴巴金融业务重组 蚂蚁集团成立政府关系部拓展海外计划曝光 阿里系社区团购十荟团 阿里旗下作业帮被顶格罚款</a></li>
 <li><a href="/comments/20210617/1568544.md" target="_blank">日本通过《土地利用规制法》防止外资收购国安要地</a></li>
 <li><a href="/comments/20210617/1568533.md" target="_blank">华人，一个正在被美国社会淘汰出局的族裔</a></li>
 <li><a href="/comments/20210617/1568525.md" target="_blank">和习近平保持距离？拜登否认与习是老朋友</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210617/1568442.md" target="_blank">美飞碟爆料人：五角大楼首份UFO报告将具历史意义</a></li>
 <li><a href="/comments/20210617/1568435.md" target="_blank">关于反制中共暴政二零二一年秋军事围剿V字旅作战计划的公告（二零二一第十号）</a></li>
 <li><a href="/comments/20210617/1568431.md" target="_blank">一声叹息 倒下的首富名单里又多了一位…</a></li>
-<li><a href="/comments/20210617/1568430.md" target="_blank">中共“糖衣炮弹”攻击海外的十大目标</a></li>
-<li><a href="/comments/20210617/1568429.md" target="_blank">学校“性教育”的肮脏历史和致命后果 伪科学骗术</a></li>
-<li><a href="/comments/20210617/1568424.md" target="_blank">拜普会后 拜登一句话定位与习近平关系</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
 <li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/cbnews/20210331/1516754.md" target="_blank">被传销团伙围杀时 丈夫说了这句话脱险</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
 
 </ul>
 </div>
