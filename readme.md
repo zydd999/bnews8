@@ -5,15 +5,13 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/topimagenews/20210617/1568586.md">史上最高级别中共投诚官员网络疯传 真的是他吗？【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20210617/1568669.md">习近平盘算中共二十大政治局常委，若让胡春华入常将接替谁？--天钧政经</a></li>
 <li><a href="/comments/20210618/1569091.md">震惊！福克斯主播卡尔森再爆猛料！</a></li>
 <li><a href="/cbnews/20210617/1568911.md">美握“史上最高级别中国叛逃者”海外华人圈盛传是他</a></li>
 <li><a href="/cnnews/20210617/1568706.md">偷苹果核心机密回国高就被FBI逮捕，岂止丢人？</a></li>
-<li><a href="/cbnews/20210618/1568998.md">美国专家：警告过苹果公司 如今恶梦成真</a></li>
 <li><a href="/cnnews/20210617/1568744.md">32岁植物人 遭性侵产子 1500万元和解</a></li>
+<li><a href="/cbnews/20210618/1568998.md">美国专家：警告过苹果公司 如今恶梦成真</a></li>
 <li><a href="/comments/20210618/1569113.md">习近平想恢复党主席 未获内部通过？七一将至 “老领导”传新动向</a></li>
-<li><a href="/topimagenews/20210617/1568585.md">王沪宁弄巧成拙？真实派系色彩被无意暴露？【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20210617/1568686.md">官媒自曝政权危机：官场怠政成风</a></li>
 <li><a href="/cbnews/20210617/1568781.md">压力太大？身材瘦削的王健林现身延安引关注</a></li>
 <li><a href="/comments/20210618/1569023.md">中共高级叛逃者是他？阿里近12亿条用户资讯外泄；台湾被纳入欧盟“白名单”；印度又发现“Delta+”新变种；欧洲严查外资 大陆投资暴跌【希望之声TV-环球看点-2021/6/17】</a></li>
@@ -22,12 +20,14 @@
 <li><a href="/cnnews/20210617/1568715.md">美国会议员：处理不了UFO；前官员：UFO关闭了美国核武器【阿波罗网编译】</a></li>
 <li><a href="/health/20210618/1569033.md">俗话说“眉毛一根长，胜过万担粮”，50岁后眉毛变长，代表了什么</a></li>
 <li><a href="/ssgc/20210618/1569109.md">〖兲朝浮世绘〗叛逃到美国的中共高官原来是他</a></li>
-<li><a href="/cnnews/20210617/1568677.md">亨特·拜登找女模特标准泄露：听话的外国人可以 不能要"黄的"【阿波罗网编译】</a></li>
-<li><a href="/bannedvideo/20210617/1568722.md">陈破空：激斗！习家军公然喊话：李克强汪洋王沪宁都退！成全习近平一人统治。打造文革版中央</a></li>
-<li><a href="/cnnews/20210617/1568604.md">什么？拜登向普京提供了16个"不允许"目标名单 不允许他网络攻击【阿波罗网编译】</a></li>
-<li><a href="/topimagenews/20210618/1569201.md">中共大凶之象！“李大钊行刑时的绞刑台”冲热搜之顶 【阿波罗网报道】</a></li>
-<li><a href="/comments/20210617/1568703.md">复旦割喉案 姜文华被判死缓减少海归回国忧虑？</a></li>
 <li><a href="/comments/20210618/1569217.md">传说跑的是董经纬，此人身怀绝秘，果真是他，大事不妙，习近平将有大麻烦│#熊猫侠</a></li>
+<li><a href="/topimagenews/20210618/1569201.md">中共大凶之象！“李大钊行刑时的绞刑台”冲热搜之顶 【阿波罗网报道】</a></li>
+<li><a href="/bannedvideo/20210617/1568722.md">陈破空：激斗！习家军公然喊话：李克强汪洋王沪宁都退！成全习近平一人统治。打造文革版中央</a></li>
+<li><a href="/cnnews/20210617/1568677.md">亨特·拜登找女模特标准泄露：听话的外国人可以 不能要"黄的"【阿波罗网编译】</a></li>
+<li><a href="/cnnews/20210617/1568604.md">什么？拜登向普京提供了16个"不允许"目标名单 不允许他网络攻击【阿波罗网编译】</a></li>
+<li><a href="/cnnews/20210618/1569240.md">七大迹象证明！中共国安副部长投诚美国 震惊习近平</a></li>
+<li><a href="/comments/20210617/1568703.md">复旦割喉案 姜文华被判死缓减少海归回国忧虑？</a></li>
+<li><a href="/health/20210618/1569049.md">每年洗一次牙，对牙齿健康是有益还是有害？别被无知害惨了</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210618/1569316.md" target="_blank">不要逼我深挖！2020年 这35万人去哪了？</a></li>
 <li><a href="/comments/20210618/1569287.md" target="_blank">【拘苹果高层】电脑被检走 员工张罗后备机开工 《苹果日报》明印50万份</a></li>
 <li><a href="/comments/20210618/1569286.md" target="_blank">哈工程副校长诡异坠楼亡 现场视频疑曝光</a></li>
 <li><a href="/comments/20210618/1569270.md" target="_blank">比核桃还补脑的食物，你有给孩子吃嘛？</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210618/1569187.md" target="_blank">不会真的有人在嘲笑王思聪吧</a></li>
 <li><a href="/comments/20210618/1569186.md" target="_blank">原来高太尉的儿子追姑娘，也是这么费力</a></li>
 <li><a href="/comments/20210618/1569175.md" target="_blank">美众院召开UFO报告机密简报会 议员对国家安全表担忧</a></li>
-<li><a href="/comments/20210618/1569174.md" target="_blank">面对记者提及拘捕反对派领袖 普京话锋一转全场默然</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
 <li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20210329/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
 
 </ul>
 </div>
