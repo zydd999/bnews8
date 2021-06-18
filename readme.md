@@ -9,8 +9,8 @@
 <li><a href="/comments/20210618/1569113.md">习近平想恢复党主席 未获内部通过？七一将至 “老领导”传新动向</a></li>
 <li><a href="/comments/20210618/1569439.md">太震惊了！董身份确认，透露机密信息，令美国难堪。</a></li>
 <li><a href="/cbnews/20210618/1568998.md">美国专家：警告过苹果公司 如今恶梦成真</a></li>
-<li><a href="/comments/20210618/1569217.md">传说跑的是董经纬，此人身怀绝秘，果真是他，大事不妙，习近平将有大麻烦│#熊猫侠</a></li>
 <li><a href="/cnnews/20210618/1569240.md">七大迹象证明！中共国安副部长投诚美国 震惊习近平</a></li>
+<li><a href="/comments/20210618/1569217.md">传说跑的是董经纬，此人身怀绝秘，果真是他，大事不妙，习近平将有大麻烦│#熊猫侠</a></li>
 <li><a href="/topimagenews/20210618/1569201.md">中共大凶之象！“李大钊行刑时的绞刑台”冲热搜之顶 【阿波罗网报道】</a></li>
 <li><a href="/comments/20210618/1569023.md">中共高级叛逃者是他？阿里近12亿条用户资讯外泄；台湾被纳入欧盟“白名单”；印度又发现“Delta+”新变种；欧洲严查外资 大陆投资暴跌【希望之声TV-环球看点-2021/6/17】</a></li>
 <li><a href="/comments/20210618/1569383.md">国安高官董经纬出逃信息混乱 习近平一句话佐证？</a></li>
@@ -24,10 +24,10 @@
 <li><a href="/cbnews/20210618/1569477.md">中共军工高校副校长坠楼身亡 特殊身份曝光</a></li>
 <li><a href="/health/20210618/1569049.md">每年洗一次牙，对牙齿健康是有益还是有害？别被无知害惨了</a></li>
 <li><a href="/cbnews/20210618/1569151.md">天亮时分：国安部副部长疑似叛逃美国；北京媒体大谈“新冷战”；500港警突袭苹果日报，逮捕五名高管（政论天下第448集 20210618）</a></li>
+<li><a href="/topimagenews/20210618/1569604.md">国安部副部长“董经纬”出来辟谣了？身陷外逃传闻【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20210618/1568965.md">16日下午，四川宜宾珙县二中学，车撞13人。当地通报事故导致9人受伤，其中两人伤势较重。</a></li>
 <li><a href="/comments/20210618/1568997.md">诡异！中共一反常态强逼缅北中国人全部回国 众人涌口岸抗议</a></li>
 <li><a href="/comments/20210618/1569252.md">蓬佩奥惊人预测！中共的下一个病毒会害更多人；中共国防部长遭美防长“围攻”！直言中共违法；欧盟法院重击脸书！欧洲27国恐采取法律行动；刘鹤权力扩大？【希望之声-午夜新闻-2021/06/17】</a></li>
-<li><a href="/topimagenews/20210618/1569604.md">国安部副部长“董经纬”出来辟谣了？身陷外逃传闻【阿波罗网报道】</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210619/1569658.md" target="_blank">愿荣光……</a></li>
+<li><a href="/comments/20210619/1569657.md" target="_blank">晕！为提高生育率 北京将出台新禁令 禁学童假期补课</a></li>
 <li><a href="/comments/20210619/1569632.md" target="_blank">潘石屹要跑路？清空中国资产 退出董事会引关注</a></li>
 <li><a href="/comments/20210619/1569627.md" target="_blank">瞒“千人计划” NASA高级研究员被判刑；以色列百万疫苗援敌国？联邦政府查资助武毒所 福奇也被调查；秘鲁新变种已扩散29国；数百万蜘蛛织成蛛网世界【希望之声TV-环球看点-2021/6/18】</a></li>
 <li><a href="/comments/20210619/1569621.md" target="_blank">香港不能没有苹果日报</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210618/1569509.md" target="_blank">【大雄专栏】画里话外：家有仙妻还是一人之下？他怎么选择？</a></li>
 <li><a href="/comments/20210618/1569508.md" target="_blank">被传外逃 中共国安部副部长董经纬“现身” 谈捉间谍内奸</a></li>
 <li><a href="/comments/20210618/1569507.md" target="_blank">罗C影响力惊人!可口可乐踢铁板股票秒跌</a></li>
-<li><a href="/comments/20210618/1569473.md" target="_blank">深陷叛逃传言 董经纬意外现身！但网友议论：缺少一样东西</a></li>
-<li><a href="/comments/20210618/1569472.md" target="_blank">【教育是永恒大计】晓芳姐姐睡前讲故事：弱为什么可以胜强？</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20210329/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
 <li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
 
 </ul>
 </div>
