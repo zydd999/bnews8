@@ -16,18 +16,18 @@
 <li><a href="/cbnews/20210617/1568911.md">美握“史上最高级别中国叛逃者”海外华人圈盛传是他</a></li>
 <li><a href="/cnnews/20210617/1568706.md">偷苹果核心机密回国高就被FBI逮捕，岂止丢人？</a></li>
 <li><a href="/cnnews/20210617/1568744.md">32岁植物人 遭性侵产子 1500万元和解</a></li>
-<li><a href="/comments/20210617/1568533.md">华人，一个正在被美国社会淘汰出局的族裔</a></li>
 <li><a href="/cnnews/20210617/1568686.md">官媒自曝政权危机：官场怠政成风</a></li>
+<li><a href="/comments/20210617/1568533.md">华人，一个正在被美国社会淘汰出局的族裔</a></li>
 <li><a href="/topimagenews/20210617/1568585.md">王沪宁弄巧成拙？真实派系色彩被无意暴露？【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20210617/1568647.md">以噪制噪？上海老人手动震楼3年：我在你别想睡</a></li>
 <li><a href="/cbnews/20210617/1568781.md">压力太大？身材瘦削的王健林现身延安引关注</a></li>
 <li><a href="/cnnews/20210617/1568715.md">美国会议员：处理不了UFO；前官员：UFO关闭了美国核武器【阿波罗网编译】</a></li>
 <li><a href="/comments/20210617/1568558.md">习近平生日难平静 超凶变种病毒袭深圳！一下感染32人</a></li>
 <li><a href="/cnnews/20210617/1568677.md">亨特·拜登找女模特标准泄露：听话的外国人可以 不能要"黄的"【阿波罗网编译】</a></li>
+<li><a href="/cbnews/20210618/1568998.md">美国专家：警告过苹果公司 如今恶梦成真</a></li>
 <li><a href="/bannedvideo/20210617/1568722.md">陈破空：激斗！习家军公然喊话：李克强汪洋王沪宁都退！成全习近平一人统治。打造文革版中央</a></li>
 <li><a href="/cnnews/20210617/1568604.md">什么？拜登向普京提供了16个"不允许"目标名单 不允许他网络攻击【阿波罗网编译】</a></li>
 <li><a href="/comments/20210617/1568703.md">复旦割喉案 姜文华被判死缓减少海归回国忧虑？</a></li>
-<li><a href="/cbnews/20210618/1568998.md">美国专家：警告过苹果公司 如今恶梦成真</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210618/1569126.md" target="_blank">中国留学生被拒签欲起诉美政府 律师：不会胜诉</a></li>
+<li><a href="/comments/20210618/1569111.md" target="_blank">校长：美国教育过去20年发生了什么变化？真正的教育必须帮助学生品格发展</a></li>
 <li><a href="/comments/20210618/1569097.md" target="_blank">互联网再出事 全球航空和银行当机;黑利：如中共拿下台湾 一切都完;耶伦：美国可能与中国脱钩保安全;美元飙升近百点、黄金暴跌;效率太低 印尼放弃科兴疫苗【希望之声-每日头条-2021/06/17】</a></li>
 <li><a href="/comments/20210618/1569096.md" target="_blank">百度热搜第一  最高级别叛逃者是他？中共的回应？逮捕5壹传媒高管  封大楼 冻结资产【希望之声TV-新闻焦点解读-2021/06/17】  所有嘉宾的观点不代表本台观点</a></li>
 <li><a href="/comments/20210618/1569091.md" target="_blank">震惊！福克斯主播卡尔森再爆猛料！</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/cbnews/20210617/1568830.md" target="_blank">香港国安法：警方拘苹果日报5高管搜总部</a></li>
 <li><a href="/cbnews/20210617/1568804.md" target="_blank">印尼逾350名医护打中国疫苗后染疫</a></li>
 <li><a href="/cbnews/20210617/1568807.md" target="_blank">神舟十二号升空 整流罩分裂成2块无目标乱砸</a></li>
-<li><a href="/cbnews/20210617/1568806.md" target="_blank">家长们怒了：优胜教育倒下，我还有30万的课没有上</a></li>
-<li><a href="/cbnews/20210617/1568782.md" target="_blank">罕见！习近平近18个月没出国 拜登撇清两人关系</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,12 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210618/1569121.md" target="_blank">评论 | 沈旭晖：《2021美国创新与竞争法》草案：提及香港的五大重要条文解读</a></li>
+<li><a href="/comments/20210618/1569114.md" target="_blank">【国安拘苹果高层】多间黄店推优惠 感谢《苹果》员工坚守岗位</a></li>
+<li><a href="/comments/20210618/1569113.md" target="_blank">习近平想恢复党主席 未获内部通过？七一将至 “老领导”传新动向</a></li>
+<li><a href="/comments/20210618/1569112.md" target="_blank">美众议员秘密听取UFO简报 被要求三缄其口</a></li>
+<li><a href="/comments/20210618/1569111.md" target="_blank">校长：美国教育过去20年发生了什么变化？真正的教育必须帮助学生品格发展</a></li>
+<li><a href="/comments/20210618/1569110.md" target="_blank">【戈壁东专栏】国际包围圈完成闭合 灭共战阵已枕戈待旦</a></li>
 <li><a href="/comments/20210618/1569108.md" target="_blank">指控中共在新疆种族灭绝 比利时议会7.1表决</a></li>
 <li><a href="/comments/20210618/1569097.md" target="_blank">互联网再出事 全球航空和银行当机;黑利：如中共拿下台湾 一切都完;耶伦：美国可能与中国脱钩保安全;美元飙升近百点、黄金暴跌;效率太低 印尼放弃科兴疫苗【希望之声-每日头条-2021/06/17】</a></li>
 <li><a href="/comments/20210618/1569096.md" target="_blank">百度热搜第一  最高级别叛逃者是他？中共的回应？逮捕5壹传媒高管  封大楼 冻结资产【希望之声TV-新闻焦点解读-2021/06/17】  所有嘉宾的观点不代表本台观点</a></li>
@@ -117,12 +123,6 @@
 <li><a href="/comments/20210618/1568978.md" target="_blank">美弗州第14县通过谴责中共迫害法轮功决议案</a></li>
 <li><a href="/comments/20210618/1568975.md" target="_blank">中共百年党庆前重手铲异议 香港苹果日报：18日加码50万份 奋战到底</a></li>
 <li><a href="/comments/20210618/1568974.md" target="_blank">【笑看世界专栏】原创歌曲：《九字真言》（繁体中文字幕版）</a></li>
-<li><a href="/comments/20210618/1568972.md" target="_blank">【笑看世界专栏】原创音乐：品味古诗+欣赏音乐《彩虹》</a></li>
-<li><a href="/comments/20210618/1568971.md" target="_blank">港警突袭苹果日报大楼 5高层被捕 杨健兴：难以形容的恐怖</a></li>
-<li><a href="/comments/20210618/1568970.md" target="_blank">苹果日报再遭袭 欧盟等直言国安法扼杀言论</a></li>
-<li><a href="/comments/20210618/1568969.md" target="_blank">【天艺创作室】悉尼明慧学校小提琴组在悉尼儿童节上的表演曲目之一小提琴齐奏：《美丽的五月》</a></li>
-<li><a href="/comments/20210618/1568964.md" target="_blank">【重发，看过的可忽略】美国联邦政府调查资金去向。</a></li>
-<li><a href="/comments/20210618/1568955.md" target="_blank">刘鹤权力扩大 习近平野心勃勃安排新任务 为刘鹤预置万亿美元 中南海谣言预言_478</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
 <li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/cbnews/20210331/1516754.md" target="_blank">被传销团伙围杀时 丈夫说了这句话脱险</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
 <li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
 
 </ul>
 </div>
