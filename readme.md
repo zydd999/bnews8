@@ -6,28 +6,28 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/comments/20210618/1569439.md">太震惊了！董身份确认，透露机密信息，令美国难堪。</a></li>
-<li><a href="/cnnews/20210618/1569240.md">七大迹象证明！中共国安副部长投诚美国 震惊习近平</a></li>
 <li><a href="/comments/20210618/1569473.md">深陷叛逃传言 董经纬意外现身！但网友议论：缺少一样东西</a></li>
 <li><a href="/comments/20210618/1569383.md">国安高官董经纬出逃信息混乱 习近平一句话佐证？</a></li>
+<li><a href="/topimagenews/20210619/1569734.md">爆料个个如炸雷！实锤了！美媒报道外逃高官为董经纬！【阿波罗网编译报道 】</a></li>
 <li><a href="/topimagenews/20210618/1569604.md">国安部副部长“董经纬”出来辟谣了？身陷外逃传闻【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20210618/1569358.md">顶级病毒学家承认：为和川普划清界限 不惜在武汉实验室泄密问题上撒谎【阿波罗网编译】</a></li>
-<li><a href="/topimagenews/20210619/1569734.md">爆料个个如炸雷！实锤了！美媒报道外逃高官为董经纬！【阿波罗网编译报道 】</a></li>
 <li><a href="/cbnews/20210618/1569297.md">暗示习近平应让位？江系转发此文为何删掉这一部分？【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20210618/1569477.md">中共军工高校副校长坠楼身亡 特殊身份曝光</a></li>
-<li><a href="/comments/20210618/1569316.md">不要逼我深挖！2020年 这35万人去哪了？</a></li>
 <li><a href="/comments/20210619/1569719.md">中共国安部副部长董经纬逃美更多细节曝光 董经纬向美国国防情报局提供了中共病毒生物战等八大机密情报 并提供了中方掌握的拜登儿子笔记本电脑硬盘的副本 中南海谣言预言_479</a></li>
+<li><a href="/comments/20210618/1569316.md">不要逼我深挖！2020年 这35万人去哪了？</a></li>
+<li><a href="/comments/20210619/1569705.md">余茂春：美国早已掌握中共泄漏病毒证据</a></li>
 <li><a href="/yule/20210618/1569482.md">又有截图！孙一宁曾主动发大肚子照给王思聪</a></li>
 <li><a href="/cbnews/20210618/1569585.md">深圳宝安机场爆疫 逾400航班取消 居民抢购食物</a></li>
-<li><a href="/comments/20210619/1569705.md">余茂春：美国早已掌握中共泄漏病毒证据</a></li>
 <li><a href="/ccpdope/20210618/1569496.md">当哀乐响起 胡耀邦女儿看到惊人画面</a></li>
-<li><a href="/cnnews/20210618/1569347.md">世界第一 中国1.6万富豪落跑国外</a></li>
-<li><a href="/cnnews/20210618/1569431.md">印度神童预言 这4种人平安躲过疫情，经济变化四个时间点；白宫考虑拜习会</a></li>
-<li><a href="/comments/20210618/1569252.md">蓬佩奥惊人预测！中共的下一个病毒会害更多人；中共国防部长遭美防长“围攻”！直言中共违法；欧盟法院重击脸书！欧洲27国恐采取法律行动；刘鹤权力扩大？【希望之声-午夜新闻-2021/06/17】</a></li>
 <li><a href="/comments/20210619/1569745.md">董经纬叛逃现罗生门 中共称现身开会 美媒曝出逃细节</a></li>
-<li><a href="/comments/20210618/1569255.md">李燕铭：习近平绝地反击 紧急调派女将卢江接管江绵恒生化政变大本营 出任国家疾控局副局长 中国疾控中心主任高福出局一度传被调查 医药生工系统已成为习江生死博杀焦点 江绵恒两马仔面临制裁</a></li>
+<li><a href="/cnnews/20210618/1569431.md">印度神童预言 这4种人平安躲过疫情，经济变化四个时间点；白宫考虑拜习会</a></li>
+<li><a href="/cnnews/20210618/1569347.md">世界第一 中国1.6万富豪落跑国外</a></li>
+<li><a href="/comments/20210618/1569252.md">蓬佩奥惊人预测！中共的下一个病毒会害更多人；中共国防部长遭美防长“围攻”！直言中共违法；欧盟法院重击脸书！欧洲27国恐采取法律行动；刘鹤权力扩大？【希望之声-午夜新闻-2021/06/17】</a></li>
 <li><a href="/cnnews/20210619/1569738.md">意大利女子被绑架至UFO！遭外星人强暴产下外星婴儿</a></li>
+<li><a href="/comments/20210618/1569255.md">李燕铭：习近平绝地反击 紧急调派女将卢江接管江绵恒生化政变大本营 出任国家疾控局副局长 中国疾控中心主任高福出局一度传被调查 医药生工系统已成为习江生死博杀焦点 江绵恒两马仔面临制裁</a></li>
 <li><a href="/comments/20210618/1569250.md">时局太敏感？内部人士曝 中国人赴欧美澳旅游探亲或将被禁</a></li>
 <li><a href="/bannedvideo/20210619/1569631.md">普京：我完全理解英语，但副总统拜登说话并不清楚。他正处于痴呆症的早期阶段。他带了一些记忆卡。我觉得它们很可爱 。不管是谁认为这是一个好主意都应该立即被解雇。让真正的美国总统回来 -- 唐纳德-J-川普</a></li>
+<li><a href="/cbnews/20210619/1569720.md">称石正丽应获诺奖 赵立坚被骂翻 受害人怒斥</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210619/1569911.md" target="_blank">赵立坚“颁”石正丽团队诺贝尔奖 网友：病得不轻</a></li>
 <li><a href="/comments/20210619/1569902.md" target="_blank">拜登毁约 恐遭调查； 数百议员翻脸拜登 ！还枪权；亚利桑那审计完成！或有司法行动；德州墙建设战略 首付款到位【#希望之声-北美新闻 -2021/06/02】</a></li>
 <li><a href="/cbnews/20210619/1569901.md" target="_blank">香港苹果报社5董事被抓引国际挞伐 赵立坚“嘴硬”….</a></li>
 <li><a href="/comments/20210619/1569875.md" target="_blank">唐僧取经归来后的故事你知道吗？南派禅宗如何从被打压成为大唐顶流文化的？</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/comments/20210619/1569627.md" target="_blank">瞒“千人计划” NASA高级研究员被判刑；以色列百万疫苗援敌国？联邦政府查资助武毒所 福奇也被调查；秘鲁新变种已扩散29国；数百万蜘蛛织成蛛网世界【希望之声TV-环球看点-2021/6/18】</a></li>
 <li><a href="/cbnews/20210618/1569586.md" target="_blank">批中共腐蚀国际组织 英议会委员会吁民主国家抵制</a></li>
 <li><a href="/cbnews/20210618/1569585.md" target="_blank">深圳宝安机场爆疫 逾400航班取消 居民抢购食物</a></li>
-<li><a href="/cbnews/20210618/1569584.md" target="_blank">东莞疫情窜热搜 变种病毒已扩散80多国</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210619/1569916.md" target="_blank">台湾知名羊毛毡艺术家的故事</a></li>
+<li><a href="/comments/20210619/1569910.md" target="_blank">【文史新韵 】美食篇“东坡肉”家喻户晓！文豪苏轼的美食路线图：猪羊肉、鲜果、生蠔</a></li>
+<li><a href="/comments/20210619/1569909.md" target="_blank">【未解之谜 】4千年前的洪水死亡记忆，延续至今；前世中父女情深，今生走到一起，再续前缘；目睹母亲被害的悔恨，竟是今生“轻生想法”的根源。|</a></li>
 <li><a href="/comments/20210619/1569908.md" target="_blank">广东四地同天爆疫 增两中风险区 东莞连夜全员检测</a></li>
 <li><a href="/comments/20210619/1569907.md" target="_blank">网红的个人安全秘诀或可救你的命</a></li>
 <li><a href="/comments/20210619/1569903.md" target="_blank">【要闻精粹】逃美反间谍主管一锅端情报压垮中共</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210619/1569821.md" target="_blank">荒唐残酷的文革：切菜切出反革命</a></li>
 <li><a href="/comments/20210619/1569818.md" target="_blank">首位文革杀人犯的忏悔：革命逆天、人命关天</a></li>
 <li><a href="/comments/20210619/1569813.md" target="_blank">颜纯钩：苹果应有应变计划 一日生存一日抗争</a></li>
-<li><a href="/comments/20210619/1569799.md" target="_blank">专访前军报记者：亲历六四，惨绝人寰；死亡人数有3类；认清中共党军体制邪恶，30年后再不能保持沉默</a></li>
-<li><a href="/comments/20210619/1569794.md" target="_blank">行刑时绞刑台上热搜 李大钊叛国罪难掩</a></li>
-<li><a href="/comments/20210619/1569793.md" target="_blank">中共跪苏卖国 顾大使维护国土遭恐吓</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
 <li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
 <li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
 
 </ul>
 </div>
