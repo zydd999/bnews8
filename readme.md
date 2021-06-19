@@ -14,20 +14,20 @@
 <li><a href="/cbnews/20210619/1569833.md">董经纬叛逃现罗生门 中共称现身 美媒曝出逃细节</a></li>
 <li><a href="/cnnews/20210619/1569738.md">意大利女子被绑架至UFO！遭外星人强暴产下外星婴儿</a></li>
 <li><a href="/cbnews/20210619/1569948.md">习近平带队宣誓“保守秘密永不叛党” 网友：黑社会毒誓</a></li>
-<li><a href="/cbnews/20210618/1569585.md">深圳宝安机场爆疫 逾400航班取消 居民抢购食物</a></li>
 <li><a href="/cbnews/20210619/1569792.md">文昭：习近平中计！砸万亿美元赌弯道超车，死亡竞赛模式开启；大牛博主「编程随想」疑被抓，中共要对他做什麽？</a></li>
 <li><a href="/cbnews/20210619/1569947.md">如此明显！江派总算抓住机会 压抑不住的高兴【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20210619/1569979.md">王沪宁露面！猛拍习近平马屁 连用10个伟大 能否破除“失势”传言 【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20210619/1569746.md">一段视频震撼人心 谁是中国人民真正的敌人</a></li>
-<li><a href="/cbnews/20210619/1569735.md">宁波一外教杀死女学生 家长发声遭打压</a></li>
 <li><a href="/bannedvideo/20210619/1569834.md">陈破空：叛逃案实锤！王岐山突然现身。董经纬露面是假新闻！国安部出大事，闭门大清洗。叛逃另有其人？</a></li>
-<li><a href="/cbnews/20210619/1569720.md">称石正丽应获诺奖 赵立坚被骂翻 受害人怒斥</a></li>
+<li><a href="/cbnews/20210619/1569735.md">宁波一外教杀死女学生 家长发声遭打压</a></li>
 <li><a href="/ssgc/20210619/1569740.md">中共国安高层现身破叛逃传闻 美专家质疑</a></li>
+<li><a href="/bannedvideo/20210619/1570076.md">董经纬身份确认爆料太猛中共将出现逃亡潮 (2021年6月19日)</a></li>
+<li><a href="/cbnews/20210619/1569720.md">称石正丽应获诺奖 赵立坚被骂翻 受害人怒斥</a></li>
 <li><a href="/cbnews/20210619/1569756.md">宁波一名女大学生被残忍杀害 凶手系外教</a></li>
-<li><a href="/baitai/20210619/1569778.md">姜文华一刀刹掉了百年中共</a></li>
 <li><a href="/bannedvideo/20210619/1569631.md">普京：我完全理解英语，但副总统拜登说话并不清楚。他正处于痴呆症的早期阶段。他带了一些记忆卡。我觉得它们很可爱 。不管是谁认为这是一个好主意都应该立即被解雇。让真正的美国总统回来 -- 唐纳德-J-川普</a></li>
-<li><a href="/cnnews/20210619/1569989.md">美媒独家：武汉实验室2017年就备齐所有病毒基因 足以感染人类【阿波罗网编译】</a></li>
+<li><a href="/baitai/20210619/1569778.md">姜文华一刀刹掉了百年中共</a></li>
 <li><a href="/bannedvideo/20210619/1569888.md">两个董经纬 两个女儿 出逃者是真是假？【走入美国-2021/06/18】</a></li>
+<li><a href="/cbnews/20210619/1570052.md">中共“百年”提心吊胆 刘鹤下令：不准出事</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210619/1570205.md" target="_blank">深圳机场人员已打2剂中国疫苗仍确诊 数百航班取消</a></li>
 <li><a href="/comments/20210619/1570195.md" target="_blank">川普背书齐巴卡 挑战阿拉斯加“反川”参议员</a></li>
 <li><a href="/comments/20210619/1570194.md" target="_blank">美通胀趋势引担忧 共和党人欲控国债上限</a></li>
 <li><a href="/comments/20210619/1570189.md" target="_blank">时事大家谈：中国新一轮疫情未了 疑点多于答案？美国又一款新冠疫苗异军突起 对全球意味着什么？</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210619/1570054.md" target="_blank">警尖沙咀“无牌酒吧”拘 9 人 包括阮民安 阮：身处现场开直播 无光顾无消费</a></li>
 <li><a href="/comments/20210619/1570049.md" target="_blank">联大通过决议对缅甸禁运武器 中俄弃权</a></li>
 <li><a href="/comments/20210619/1570041.md" target="_blank">夏天想要留住“阳气”，要记住三个升阳的妙招</a></li>
-<li><a href="/comments/20210619/1570040.md" target="_blank">地表最简单的运动 研究证实：对健康有6大好处</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/comments/20210611/1564824.md" target="_blank">【曾铮专栏】感悟神韵（之一）神韵的主旨</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
 <li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
 <li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/comments/20210612/1565472.md" target="_blank">感悟神韵（之二）：感悟神韵的艺术风格</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
 
 </ul>
 </div>
