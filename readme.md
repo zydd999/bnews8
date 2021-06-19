@@ -11,8 +11,8 @@
 <li><a href="/topimagenews/20210619/1570003.md">习近平等常委集体默哀？江系高级黑：习近平头发花白 面容憔悴 【阿波罗网报道】</a></li>
 <li><a href="/comments/20210619/1569705.md">余茂春：美国早已掌握中共泄漏病毒证据</a></li>
 <li><a href="/cbnews/20210619/1569833.md">董经纬叛逃现罗生门 中共称现身 美媒曝出逃细节</a></li>
-<li><a href="/bannedvideo/20210619/1570076.md">董经纬身份确认爆料太猛中共将出现逃亡潮 (2021年6月19日)</a></li>
 <li><a href="/cnnews/20210619/1569738.md">意大利女子被绑架至UFO！遭外星人强暴产下外星婴儿</a></li>
+<li><a href="/bannedvideo/20210619/1570076.md">董经纬身份确认爆料太猛中共将出现逃亡潮 (2021年6月19日)</a></li>
 <li><a href="/cbnews/20210619/1569948.md">习近平带队宣誓“保守秘密永不叛党” 网友：黑社会毒誓</a></li>
 <li><a href="/cbnews/20210619/1569792.md">文昭：习近平中计！砸万亿美元赌弯道超车，死亡竞赛模式开启；大牛博主「编程随想」疑被抓，中共要对他做什麽？</a></li>
 <li><a href="/cbnews/20210619/1570052.md">中共“百年”提心吊胆 刘鹤下令：不准出事</a></li>
@@ -25,8 +25,8 @@
 <li><a href="/cbnews/20210619/1570154.md">复旦为被杀书记募捐“翻车” 急发文澄清越描越黑</a></li>
 <li><a href="/bannedvideo/20210619/1569888.md">两个董经纬 两个女儿 出逃者是真是假？【走入美国-2021/06/18】</a></li>
 <li><a href="/cbnews/20210619/1569735.md">宁波一外教杀死女学生 家长发声遭打压</a></li>
-<li><a href="/cbnews/20210619/1569720.md">称石正丽应获诺奖 赵立坚被骂翻 受害人怒斥</a></li>
 <li><a href="/cnnews/20210619/1569989.md">美媒独家：武汉实验室2017年就备齐所有病毒基因 足以感染人类【阿波罗网编译】</a></li>
+<li><a href="/cbnews/20210619/1569720.md">称石正丽应获诺奖 赵立坚被骂翻 受害人怒斥</a></li>
 <li><a href="/ssgc/20210619/1569740.md">中共国安高层现身破叛逃传闻 美专家质疑</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210620/1570281.md" target="_blank">俄飞机坠毁西伯利亚4死15伤 其空难史触目惊心</a></li>
 <li><a href="/comments/20210620/1570277.md" target="_blank">谈西方国家对中共军事战略企图的误判</a></li>
 <li><a href="/comments/20210620/1570276.md" target="_blank">美议员再提法案：禁中共军方科学家入境美国</a></li>
 <li><a href="/comments/20210620/1570275.md" target="_blank">六款夏季养生茶 让您轻松舒适的过夏天</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210619/1570217.md" target="_blank">时事大家谈：美国又一款新冠疫苗异军突起 对全球意味着什么？</a></li>
 <li><a href="/comments/20210619/1570205.md" target="_blank">深圳机场人员已打2剂中国疫苗仍确诊 数百航班取消</a></li>
 <li><a href="/comments/20210619/1570195.md" target="_blank">川普背书齐巴卡 挑战阿拉斯加“反川”参议员</a></li>
-<li><a href="/comments/20210619/1570194.md" target="_blank">美通胀趋势引担忧 共和党人欲控国债上限</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20210329/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
 <li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
 <li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
 
 </ul>
 </div>
