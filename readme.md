@@ -20,14 +20,14 @@
 <li><a href="/bannedvideo/20210619/1569888.md">两个董经纬 两个女儿 出逃者是真是假？【走入美国-2021/06/18】</a></li>
 <li><a href="/cnnews/20210619/1569989.md">美媒独家：武汉实验室2017年就备齐所有病毒基因 足以感染人类【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20210619/1570137.md">高官出逃敏感时刻 习近平带头宣誓“保守秘密”</a></li>
-<li><a href="/cbnews/20210619/1569756.md">宁波一名女大学生被残忍杀害 凶手系外教</a></li>
 <li><a href="/baitai/20210619/1569778.md">姜文华一刀刹掉了百年中共</a></li>
 <li><a href="/comments/20210619/1569900.md">董经纬“现身”引美专家质疑 与习近平特殊关系曝光</a></li>
+<li><a href="/baitai/20210619/1570050.md">【网络民议】三胎宣传广告舆论翻车，网民称“支持男人自己生三胎”</a></li>
 <li><a href="/cbnews/20210619/1570181.md">中国多地派调查队探妇女生不生 网民怒骂：不当人看</a></li>
 <li><a href="/bannedvideo/20210619/1569954.md">文睿：一万亿美元在哭泣，中国不变成最穷的国家就怪了，继续折腾吧</a></li>
-<li><a href="/baitai/20210619/1570050.md">【网络民议】三胎宣传广告舆论翻车，网民称“支持男人自己生三胎”</a></li>
 <li><a href="/bannedvideo/20210619/1570069.md">突发：6月19日13点左右，湖南省郴州汝城县一栋七层楼整体垮塌，伤亡情况不明。网友指建筑从右上倒向左下，压了部分道路，建筑应该是5到7层，框架结构，横向六到七跨，柱子全部粉碎性破坏。</a></li>
 <li><a href="/headline/20210619/1570186.md">党庆前夕传国安官员偕女儿叛逃 国安副部长现身辟谣</a></li>
+<li><a href="/comments/20210619/1569894.md">孤灯书生：那个自杀的县委书记 原来是个奇人</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210620/1570319.md" target="_blank">中国宁波工程学院黑人外教残忍奸杀女生 细节曝光</a></li>
 <li><a href="/cbnews/20210620/1570312.md" target="_blank">一线采访：荔湾区菊树村被封 买孩童奶粉难</a></li>
 <li><a href="/cbnews/20210620/1570301.md" target="_blank">中山大学院系学生会主席 散布女生假裸照遭退学</a></li>
 <li><a href="/comments/20210620/1570277.md" target="_blank">谈西方国家对中共军事战略企图的误判</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210619/1569948.md" target="_blank">习近平带队宣誓“保守秘密永不叛党” 网友：黑社会毒誓</a></li>
 <li><a href="/cbnews/20210619/1569947.md" target="_blank">如此明显！江派总算抓住机会 压抑不住的高兴【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20210619/1569946.md" target="_blank">德媒重磅长文详解：中共对西方的可怕渗透</a></li>
-<li><a href="/cbnews/20210619/1569945.md" target="_blank">江峰：海马士火箭新售台湾，可以直接打击对岸！中共末日张狂迫美国政府终放两岸平衡局限，同意台湾进攻性防御，中共还没渡海即遭灭顶，从此“武统”变“武装饭桶”【台海风云录第7集20210618】</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210620/1570326.md" target="_blank">袁红冰：民主大革命正在逼近</a></li>
+<li><a href="/comments/20210620/1570324.md" target="_blank">大纪元独家：中共用“学习”洗脑 民众无声抵抗</a></li>
+<li><a href="/comments/20210620/1570323.md" target="_blank">名家专栏：谁收买谁？美富豪向中共屈膝</a></li>
+<li><a href="/comments/20210620/1570320.md" target="_blank">美俄峰会后 法德一致认为欧盟应与俄国保持对话</a></li>
 <li><a href="/comments/20210620/1570318.md" target="_blank">升旗易得道：【武装反抗中共】V字旅中国自由军堀起中缅边境，缅甸军方闻风丧胆，中共如临大敌</a></li>
 <li><a href="/comments/20210620/1570315.md" target="_blank">诗一首：《古 建 筑》</a></li>
 <li><a href="/comments/20210620/1570314.md" target="_blank">【世界美景】视频：《宁静乡村》</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210620/1570272.md" target="_blank">【曾铮专栏】亲历独立人民法庭判定中共活摘器官犯下反人类罪……</a></li>
 <li><a href="/comments/20210620/1570271.md" target="_blank">新加坡卫生总监示警：中国科兴疫苗或存在破口风险</a></li>
 <li><a href="/comments/20210620/1570270.md" target="_blank">湖南7层楼房突然垮塌倒地 砸毁许多车辆 伤亡不明</a></li>
-<li><a href="/comments/20210620/1570265.md" target="_blank">美56议员促拜登：解除哈里斯处理边境危机领导角色</a></li>
-<li><a href="/comments/20210620/1570257.md" target="_blank">屈臣氏蒸馏水“香港真系好靓”新包装月初上市 百佳今突下架 员工︰收到 order“收埋”</a></li>
-<li><a href="/comments/20210620/1570256.md" target="_blank">【曾铮专栏】评韩剧《德鲁纳酒店》——一部引人入胜的作品</a></li>
-<li><a href="/comments/20210620/1570255.md" target="_blank">乌云压顶！壹传媒2高管被拒保释 国安法“杀死”香港不同声音</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20210611/1564824.md" target="_blank">【曾铮专栏】感悟神韵（之一）神韵的主旨</a></li>
-<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
 <li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/ganwu/20170705/787156.md" target="_blank">感悟神韵（之四）：感悟神韵音乐</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
 
 </ul>
 </div>
