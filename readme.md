@@ -7,27 +7,27 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/bannedvideo/20210619/1570076.md">董经纬身份确认爆料太猛中共将出现逃亡潮 (2021年6月19日)</a></li>
 <li><a href="/cnnews/20210619/1570139.md">美国早已掌握中共泄漏病毒证据，只想保卫美国的安全并不想把习拉下台</a></li>
-<li><a href="/cbnews/20210619/1570052.md">中共“百年”提心吊胆 刘鹤下令：不准出事</a></li>
 <li><a href="/cbnews/20210620/1570319.md">中国宁波工程学院黑人外教残忍奸杀女生 细节曝光</a></li>
 <li><a href="/topimagenews/20210620/1570532.md">和董经纬有关？中纪委释放重大信号 再提此人！【阿波罗网报道】</a></li>
-<li><a href="/cnnews/20210619/1570053.md">谢金河爆中共干掉特斯拉 快了</a></li>
 <li><a href="/cbnews/20210620/1570329.md">美媒报董经纬叛逃更多细节 党媒两版本辟谣</a></li>
 <li><a href="/cnnews/20210620/1570361.md">潘石屹的儿媳：身家雄厚 貌美如花</a></li>
 <li><a href="/cbnews/20210619/1570154.md">复旦为被杀书记募捐“翻车” 急发文澄清越描越黑</a></li>
 <li><a href="/comments/20210620/1570286.md">复旦数学系命案 暴露了复旦中文系主任的语文水平 宋石男：我为复旦中文系主任改作文</a></li>
 <li><a href="/cbnews/20210619/1570137.md">高官出逃敏感时刻 习近平带头宣誓“保守秘密”</a></li>
+<li><a href="/cbnews/20210620/1570533.md">网曝220辆大巴满载军人开进北京鸟巢</a></li>
 <li><a href="/bannedvideo/20210620/1570381.md">叛逃美国的中共国安部副部长董经纬与习近平的关系非同一般  "核弹级"材料将对中共政权带来无法预料的打击</a></li>
 <li><a href="/cbnews/20210620/1570258.md">山东沂水县政务大厅门前 男子持斧头将前妻砍死</a></li>
-<li><a href="/cbnews/20210620/1570533.md">网曝220辆大巴满载军人开进北京鸟巢</a></li>
+<li><a href="/comments/20210620/1570496.md">【杰森视角】中美两方渠道都确认中共出逃官员是董经纬！董经纬是习近平圈内的人! 普京告诫俄罗斯要对拜登小心！猪坚强和小花狗，活得随机，死得随意!</a></li>
 <li><a href="/cbnews/20210619/1570181.md">中国多地派调查队探妇女生不生 网民怒骂：不当人看</a></li>
 <li><a href="/headline/20210619/1570186.md">党庆前夕传国安官员偕女儿叛逃 国安副部长现身辟谣</a></li>
-<li><a href="/comments/20210620/1570496.md">【杰森视角】中美两方渠道都确认中共出逃官员是董经纬！董经纬是习近平圈内的人! 普京告诫俄罗斯要对拜登小心！猪坚强和小花狗，活得随机，死得随意!</a></li>
 <li><a href="/comments/20210620/1570290.md">袁世凯去世65字遗书令人唏嘘 其密室发现新任总统提名名单 上边9个字出人意料</a></li>
 <li><a href="/bannedvideo/20210620/1570476.md">小道消息: 习近平引发普遍不满   中共百年大庆遭党内元老“躺平”抵制</a></li>
 <li><a href="/cnnews/20210620/1570363.md">上海高档住宅严重群租 39人共住连厨房都有床</a></li>
 <li><a href="/comments/20210620/1570271.md">新加坡卫生总监示警：中国科兴疫苗或存在破口风险</a></li>
 <li><a href="/bannedvideo/20210619/1570069.md">突发：6月19日13点左右，湖南省郴州汝城县一栋七层楼整体垮塌，伤亡情况不明。网友指建筑从右上倒向左下，压了部分道路，建筑应该是5到7层，框架结构，横向六到七跨，柱子全部粉碎性破坏。</a></li>
-<li><a href="/baitai/20210619/1570050.md">【网络民议】三胎宣传广告舆论翻车，网民称“支持男人自己生三胎”</a></li>
+<li><a href="/bannedvideo/20210620/1570322.md">中共有史以来最高级别出逃官员携带“核弹级”猛料逃往美国:  中共国安部副部长董经纬今年2月从香港飞往美国 杨洁篪3月会晤中向美方讨要董经纬被拒，导致双方爆发激烈冲突 中共开始辟谣</a></li>
+<li><a href="/comments/20210620/1570245.md">离谱！入境中国检疫 31名韩国旅客护照全遭销毁</a></li>
+<li><a href="/cnnews/20210620/1570304.md">秦城内外的7604号</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210620/1570621.md" target="_blank">2020年中国了不起的神作。他是皇帝，但不可以认亲妈，必须接受大臣们给他安排娶的妻子，最心爱的女儿婚姻痛苦不堪却不能离婚，孩子宠妃都死了。而他选择接受这一切。为什么？</a></li>
+<li><a href="/comments/20210620/1570609.md" target="_blank">“最后只看谁赢了” — 曾节明</a></li>
 <li><a href="/comments/20210620/1570628.md" target="_blank">唯美之灵在心灵之巅点燃信仰的金灯（第三部分）——传统唯心哲学没有能力回答“心灵的根据是什么” （东方哲人解析当代人类困惑  第三十三讲）【袁红冰杏坛】 06202021</a></li>
 <li><a href="/cbnews/20210620/1570606.md" target="_blank">河南政法系坍塌中 再有公安局长主动投案 3天前还参加会议</a></li>
 <li><a href="/comments/20210620/1570551.md" target="_blank">川普批种族理论如“让全国集体自杀“；56名议员致信拜登喊换人；中国对澳葡萄酒征反倾销税遭起诉；伊朗外长宣布新总统；贝索斯下月上天 网友联署：别再回来【希望之声TV】</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/cbnews/20210620/1570258.md" target="_blank">山东沂水县政务大厅门前 男子持斧头将前妻砍死</a></li>
 <li><a href="/cbnews/20210619/1570181.md" target="_blank">中国多地派调查队探妇女生不生 网民怒骂：不当人看</a></li>
 <li><a href="/cbnews/20210619/1570180.md" target="_blank">七一临近太紧张 网曝北京逾百警犬浩浩荡荡上街</a></li>
-<li><a href="/cbnews/20210619/1570179.md" target="_blank">月薪6000西北当“牧羊人” 大学生抢破头</a></li>
-<li><a href="/cbnews/20210619/1570164.md" target="_blank">《铁证如山》系列讲座第三集发布</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210620/1570632.md" target="_blank">司徒剑：习近平频提永不叛党 官媒连发呼应不寻常</a></li>
+<li><a href="/comments/20210620/1570621.md" target="_blank">2020年中国了不起的神作。他是皇帝，但不可以认亲妈，必须接受大臣们给他安排娶的妻子，最心爱的女儿婚姻痛苦不堪却不能离婚，孩子宠妃都死了。而他选择接受这一切。为什么？</a></li>
+<li><a href="/comments/20210620/1570609.md" target="_blank">“最后只看谁赢了” — 曾节明</a></li>
 <li><a href="/comments/20210620/1570628.md" target="_blank">唯美之灵在心灵之巅点燃信仰的金灯（第三部分）——传统唯心哲学没有能力回答“心灵的根据是什么” （东方哲人解析当代人类困惑  第三十三讲）【袁红冰杏坛】 06202021</a></li>
 <li><a href="/comments/20210620/1570625.md" target="_blank">没有安全感的国家 “我们成了后代的罪人”</a></li>
 <li><a href="/comments/20210620/1570622.md" target="_blank">【文昭思绪飞扬】拍到真龙现身？北京风水的地下秘密：锁龙井！被万人围观的龙骨</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210620/1570512.md" target="_blank">【微博精粹】这骨气 不输躺平</a></li>
 <li><a href="/comments/20210620/1570511.md" target="_blank">网文：从《苹果》事件背后的栗怖 一窥香港“告密者组织”</a></li>
 <li><a href="/comments/20210620/1570510.md" target="_blank">多重敏感时刻 习近平带政治局宣誓 现场照片曝一细节太尴尬</a></li>
-<li><a href="/comments/20210620/1570504.md" target="_blank">加国疫苗接种率全球居首，边境关闭再延期</a></li>
-<li><a href="/comments/20210620/1570498.md" target="_blank">方圆：美国离间中俄，中共有苦自知</a></li>
-<li><a href="/comments/20210620/1570497.md" target="_blank">陶杰:敦刻尔克的博弈 竟是希特勒有意放走英军</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
 <li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
-<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
 <li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
 
 </ul>
 </div>
