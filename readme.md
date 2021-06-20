@@ -13,8 +13,8 @@
 <li><a href="/bannedvideo/20210620/1570381.md">叛逃美国的中共国安部副部长董经纬与习近平的关系非同一般  "核弹级"材料将对中共政权带来无法预料的打击</a></li>
 <li><a href="/comments/20210620/1570286.md">复旦数学系命案 暴露了复旦中文系主任的语文水平 宋石男：我为复旦中文系主任改作文</a></li>
 <li><a href="/comments/20210620/1570592.md">李燕铭：胡锦涛之子胡海峰敏感大动作惊动习近平？浙江高官翁建荣落马 与胡海峰互动密切 翁建荣两个月前高调露面挺胡海峰 胡海峰第六度升官传闻又要泡汤？</a></li>
-<li><a href="/topimagenews/20210620/1570595.md">冲热搜第一！成龙退出林凤娇全资持股公司，发生了什么？</a></li>
 <li><a href="/bannedvideo/20210620/1570476.md">小道消息: 习近平引发普遍不满   中共百年大庆遭党内元老“躺平”抵制</a></li>
+<li><a href="/topimagenews/20210620/1570595.md">冲热搜第一！成龙退出林凤娇全资持股公司，发生了什么？</a></li>
 <li><a href="/comments/20210620/1570672.md">刘胡兰究竟做了什么，而引来杀身之祸？为何电影中的刘胡兰由成年人扮演？中共党魁的题词，是如何出炉的？</a></li>
 <li><a href="/comments/20210620/1570496.md">【杰森视角】中美两方渠道都确认中共出逃官员是董经纬！董经纬是习近平圈内的人! 普京告诫俄罗斯要对拜登小心！猪坚强和小花狗，活得随机，死得随意!</a></li>
 <li><a href="/bannedvideo/20210620/1570614.md">文睿：对抗全球，习近平罕见释放战争言论，无法再回头了</a></li>
@@ -26,8 +26,8 @@
 <li><a href="/renquan/20210620/1570669.md">寒门女硕士公务员的泣血呼救</a></li>
 <li><a href="/bannedvideo/20210620/1570322.md">中共有史以来最高级别出逃官员携带“核弹级”猛料逃往美国:  中共国安部副部长董经纬今年2月从香港飞往美国 杨洁篪3月会晤中向美方讨要董经纬被拒，导致双方爆发激烈冲突 中共开始辟谣</a></li>
 <li><a href="/cbnews/20210620/1570652.md">中共在空间站建党支部和插党旗 被斥是笑话</a></li>
+<li><a href="/bannedvideo/20210620/1570573.md">董经纬出逃可能性多大？他是奉命出逃吗？中共将亡于谁手？｜薇羽看世间 第322期 20210619</a></li>
 <li><a href="/comments/20210620/1570621.md">2020年中国了不起的神作。他是皇帝，但不可以认亲妈，必须接受大臣们给他安排娶的妻子，最心爱的女儿婚姻痛苦不堪却不能离婚，孩子宠妃都死了。而他选择接受这一切。为什么？</a></li>
-<li><a href="/cnnews/20210620/1570304.md">秦城内外的7604号</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210621/1570885.md" target="_blank">比利时学校意外坍塌酿伤亡 国王首相赴现场表关切</a></li>
+<li><a href="/comments/20210621/1570884.md" target="_blank">您想留学荷兰吗？一文读懂参考咨询</a></li>
 <li><a href="/comments/20210621/1570880.md" target="_blank">民主党李永达“出山”当选副主席：我绝对唔会参选立法会</a></li>
 <li><a href="/comments/20210621/1570871.md" target="_blank">历经岁月洗礼 英国老屋的设计充满故事（一）</a></li>
 <li><a href="/comments/20210621/1570845.md" target="_blank">本土青年意志办反送中纪念活动 傅振中踩场赠花劝勿以身试法</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210620/1570676.md" target="_blank">查册安排有漏洞政府又岂会不知？</a></li>
 <li><a href="/comments/20210620/1570675.md" target="_blank">消息：公民党再现集体退党潮 有退党区议员指不同意以党名义签“墨落无悔”声明</a></li>
 <li><a href="/comments/20210620/1570674.md" target="_blank">【田恬专栏】为爱负责</a></li>
-<li><a href="/comments/20210620/1570672.md" target="_blank">刘胡兰究竟做了什么，而引来杀身之祸？为何电影中的刘胡兰由成年人扮演？中共党魁的题词，是如何出炉的？</a></li>
-<li><a href="/comments/20210620/1570662.md" target="_blank">隐形缺氧恐猝死 按摩穴位能自救</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
 <li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/comments/20210612/1565472.md" target="_blank">感悟神韵（之二）：感悟神韵的艺术风格</a></li>
 <li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
 
 </ul>
 </div>
