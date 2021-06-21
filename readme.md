@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210622/1571678.md" target="_blank">一带一路中美洲大变调</a></li>
 <li><a href="/cbnews/20210622/1571658.md" target="_blank">陆大学生吁求装空调 当局严防学生学革命剧</a></li>
 <li><a href="/cbnews/20210622/1571606.md" target="_blank">章家敦：如果董经纬叛逃属实 或导致中共垮台</a></li>
 <li><a href="/cbnews/20210622/1571605.md" target="_blank">中共搞出91种“精神” 专家：这是一场精神病</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210621/1571365.md" target="_blank">大兴安岭地区溃堤 黑龙江陷洪水危机</a></li>
 <li><a href="/comments/20210621/1571364.md" target="_blank">印度男孩最新预言，即将爆发新一波*疫*情。他的预言正在兑现吗？</a></li>
 <li><a href="/cbnews/20210621/1571317.md" target="_blank">恐怖：高速公路上汽车挡风玻璃突被钢筋刺穿…</a></li>
-<li><a href="/comments/20210621/1571304.md" target="_blank">预言二战、总统意外身亡的美国著名先知凯西，通过回溯前世今生，帮人破解此生羁绊。看人遭劫，无动于衷，甚至嘲笑，今生却落得如此下场⋯⋯</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210622/1571683.md" target="_blank">96岁二战老兵跋涉千里首次祭拜76年前救他命的战友</a></li>
+<li><a href="/comments/20210622/1571673.md" target="_blank">【水青读名著 红楼梦】《红楼梦》 001 甄士隐梦幻识通灵 贾雨村风尘怀闺秀</a></li>
+<li><a href="/comments/20210622/1571672.md" target="_blank">【水青读名著 红楼梦】《红楼梦》 002 贾夫人仙逝扬州城 冷子兴演说荣国府</a></li>
+<li><a href="/comments/20210622/1571671.md" target="_blank">诗一首：《宝 岛》</a></li>
 <li><a href="/comments/20210622/1571657.md" target="_blank">孩子戴成人口罩？德国政府计划为孩子制作标准口罩</a></li>
 <li><a href="/comments/20210622/1571642.md" target="_blank">好嚣张！五分钟庭审如儿戏 长春朝阳法院剥夺辩护权</a></li>
 <li><a href="/comments/20210622/1571641.md" target="_blank">诗三首：《封城中见一树桃花》《清平乐.大疫有休》《路遇梨花》</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210622/1571530.md" target="_blank">【最后的苹果？】去或留？任职逾 20 年记者：睇埋熄灯 中层主管忧政府“诛九族”：点解仲要拖？</a></li>
 <li><a href="/comments/20210622/1571529.md" target="_blank">中国多省连续降雨 21条河流超警戒 黑龙江现洪涝灾民爆内情</a></li>
 <li><a href="/comments/20210622/1571528.md" target="_blank">湖北十堰爆炸案惊动习近平 爆炸前一小时内情曝光 应勇仕途或受影响 会上震怒：干部要有半夜惊醒的警觉</a></li>
-<li><a href="/comments/20210622/1571527.md" target="_blank">美国出手 助驾快艇赴台的五港人来美避难</a></li>
-<li><a href="/comments/20210622/1571526.md" target="_blank">贝佐斯下月太空旅行 美国近6万人请愿：别让他回地球</a></li>
-<li><a href="/comments/20210622/1571514.md" target="_blank">快手家常菜！香菇肉酱 拌面拌饭 开胃又下饭</a></li>
-<li><a href="/comments/20210622/1571513.md" target="_blank">最准预言家郑博见最新警告：人类或将有新的大瘟疫</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
 <li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
-<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
+<li><a href="/comments/20210612/1565472.md" target="_blank">感悟神韵（之二）：感悟神韵的艺术风格</a></li>
+<li><a href="/cbnews/20210331/1516754.md" target="_blank">被传销团伙围杀时 丈夫说了这句话脱险</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20210611/1564824.md" target="_blank">【曾铮专栏】感悟神韵（之一）神韵的主旨</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
 
 </ul>
 </div>
