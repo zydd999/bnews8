@@ -14,20 +14,20 @@
 <li><a href="/bannedvideo/20210621/1571257.md">美国发出迄今最严厉警告；病毒问题将是习近平二十大的噩梦；向改革派再次发出呼吁（20210621 第625期）</a></li>
 <li><a href="/cbnews/20210621/1571240.md">湖北爆炸案惊动习近平 事前有人报警 当局不理</a></li>
 <li><a href="/cbnews/20210621/1570958.md">美国安顾问：病毒溯源 中共面临两个选择</a></li>
-<li><a href="/bannedvideo/20210621/1571129.md">💥共和党：董经纬就在美国！先投奔国防部，细节曝光；天安门党庆元老抵制？多军车进“鸟巢”；王沪宁害怕，向习连喊十个“伟大”；半个广东严管，三大城同日封锁；余茂春指美已掌握泄漏证据｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/cbnews/20210621/1571373.md">确定董经纬出逃 美共和党资深委员俞怀松曝消息来源</a></li>
+<li><a href="/bannedvideo/20210621/1571129.md">💥共和党：董经纬就在美国！先投奔国防部，细节曝光；天安门党庆元老抵制？多军车进“鸟巢”；王沪宁害怕，向习连喊十个“伟大”；半个广东严管，三大城同日封锁；余茂春指美已掌握泄漏证据｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/ssgc/20210621/1571022.md">〖兲朝浮世绘〗董经纬叛逃对中共的冲击应该不亚于顾顺章</a></li>
 <li><a href="/cnnews/20210621/1570914.md">舞女当法官 护士当派出所长 原来后面都有官场干爹</a></li>
-<li><a href="/bannedvideo/20210621/1570864.md">董经纬家人信息曝光中共内斗延伸海外(2021年6月20日)</a></li>
+<li><a href="/bannedvideo/20210621/1571355.md">玩大了!董经纬出逃习近平亲自辟谣? 中纪委释放重大信号(启明笑谈21年6月21日)</a></li>
 <li><a href="/topimagenews/20210621/1571162.md">啥信号？中共四次重大路线斗争再被翻炒 耐人寻味 【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20210621/1571238.md">特斯拉“维权”女车主：我被恐吓了！ 网络再炸锅 【阿波罗网报道】</a></li>
 <li><a href="/comments/20210621/1570919.md">视频：成都风声鹤唳 将是第二个武汉？所有车辆都经过消毒才能进入 人员需测量体温后才能放行</a></li>
+<li><a href="/topimagenews/20210621/1571238.md">特斯拉“维权”女车主：我被恐吓了！ 网络再炸锅 【阿波罗网报道】</a></li>
 <li><a href="/comments/20210621/1571160.md">爆料第一人首受访谈获知董经纬“叛逃”内幕 涉习家军</a></li>
 <li><a href="/comments/20210621/1571083.md">建党百年要抓“内奸” 中纪委威胁要将叛逃者灭门？</a></li>
-<li><a href="/bannedvideo/20210621/1571355.md">玩大了!董经纬出逃习近平亲自辟谣? 中纪委释放重大信号(启明笑谈21年6月21日)</a></li>
 <li><a href="/cbnews/20210621/1571213.md">重庆立海大厦发生爆炸导致电梯坠落 致5人受伤 像从地狱里爬出</a></li>
 <li><a href="/worldnews/20210621/1571204.md">印度神童预言再度成真 以色列出事了 “也谈到台湾”</a></li>
 <li><a href="/health/20210621/1571033.md">尽量停止食用这5种鱼，或会携带甲醛和重金属，鱼贩子：别说出去</a></li>
+<li><a href="/cnnews/20210621/1571158.md">习近平自晾书单 博士学历是在十八大后放到简历里去的</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210622/1571504.md" target="_blank">天亮时分：《中华文明史》第7讲 中华文明的特点</a></li>
+<li><a href="/comments/20210622/1571503.md" target="_blank">美超级航母全舰测试 爆破冲击如3.9级地震；阴暗交易 “幽灵舰队”从伊朗开向中国；以色列警告 大国勿与伊朗新政府核谈判；美新任朝鲜特使：冀金正恩恢复对话【希望之声TV-环球看点-2021/6/21】</a></li>
 <li><a href="/cbnews/20210621/1571458.md" target="_blank">邱香果“消失”引爆加国舆论</a></li>
 <li><a href="/cbnews/20210621/1571423.md" target="_blank">三胎能缓解教育焦虑？大学教授奇葩言论火了</a></li>
 <li><a href="/cbnews/20210621/1571422.md" target="_blank">东莞麻涌封镇当地大学现疫情</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/cbnews/20210621/1571130.md" target="_blank">拜登爱犬去世 蔡英文留言令中共喉舌炸锅</a></li>
 <li><a href="/cbnews/20210621/1571087.md" target="_blank">女法官海南买房3年没见着房子 3次官司全输</a></li>
 <li><a href="/cbnews/20210621/1571086.md" target="_blank">天亮时分：美国国安顾问警告将孤立中共；习近平让党内元老“躺平”；习近平极可能自封党主席；美国一月六日谜团与大选审计更新（政论天下第450集 20210620）</a></li>
-<li><a href="/cbnews/20210621/1571070.md" target="_blank">离谱！31名韩国旅客赴北京 防疫隔离期间护照竟被销毁</a></li>
-<li><a href="/cbnews/20210621/1571028.md" target="_blank">陆网约车又出事 “首汽约车”乘客跳车致伤</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210622/1571514.md" target="_blank">快手家常菜！香菇肉酱 拌面拌饭 开胃又下饭</a></li>
+<li><a href="/comments/20210622/1571513.md" target="_blank">最准预言家郑博见最新警告：人类或将有新的大瘟疫</a></li>
+<li><a href="/comments/20210622/1571503.md" target="_blank">美超级航母全舰测试 爆破冲击如3.9级地震；阴暗交易 “幽灵舰队”从伊朗开向中国；以色列警告 大国勿与伊朗新政府核谈判；美新任朝鲜特使：冀金正恩恢复对话【希望之声TV-环球看点-2021/6/21】</a></li>
+<li><a href="/comments/20210622/1571502.md" target="_blank">民阵不申请“七一游行” 香港人将自发上街</a></li>
 <li><a href="/comments/20210622/1571487.md" target="_blank">习近平喊话董经纬，誓言保守党的秘密。叛逃潮势不可挡，政治风暴即将登陆。│#熊猫侠</a></li>
 <li><a href="/comments/20210622/1571485.md" target="_blank">瑞典国会通过倒阁案 总理罗福文下台</a></li>
 <li><a href="/comments/20210621/1571479.md" target="_blank">【文韬政论】「躺平」与「内卷」：中国人民真的不想再当「韭菜」？</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210621/1571354.md" target="_blank">【国安拘苹果高层】壹传媒董事会周五商讨是否停止营运 员工流传周六或为最后见报日</a></li>
 <li><a href="/comments/20210621/1571353.md" target="_blank">探望朱凯廸</a></li>
 <li><a href="/comments/20210621/1571352.md" target="_blank">郑若骅：有人以“流亡”者自居不正确 逃避法律责任是“懦夫”</a></li>
-<li><a href="/comments/20210621/1571351.md" target="_blank">【美味养生素食】夏至一起吃冰爽的凉拌面嘛？甜甜辣辣非常开胃</a></li>
-<li><a href="/comments/20210621/1571350.md" target="_blank">【美味养生素食】藕片凉拌也可以这么好吃，实在太幸福了</a></li>
-<li><a href="/comments/20210621/1571338.md" target="_blank">东京奥运现场观众最多50% 上限不超过1万人</a></li>
-<li><a href="/comments/20210621/1571337.md" target="_blank">刘德华无意参与中国综艺 亲回拒绝原因</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20210611/1564824.md" target="_blank">【曾铮专栏】感悟神韵（之一）神韵的主旨</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
 <li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
-<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
 
 </ul>
 </div>
