@@ -12,13 +12,13 @@
 <li><a href="/cnnews/20210621/1570952.md">看到这个名字的WIFI热点 千万不要加入</a></li>
 <li><a href="/cbnews/20210621/1570913.md">董经纬“讲话”辟谣出逃？与习近平密切关系曝光</a></li>
 <li><a href="/bannedvideo/20210621/1571257.md">美国发出迄今最严厉警告；病毒问题将是习近平二十大的噩梦；向改革派再次发出呼吁（20210621 第625期）</a></li>
+<li><a href="/cbnews/20210621/1571373.md">确定董经纬出逃 美共和党资深委员俞怀松曝消息来源</a></li>
 <li><a href="/cbnews/20210621/1571240.md">湖北爆炸案惊动习近平 事前有人报警 当局不理</a></li>
 <li><a href="/cbnews/20210621/1570958.md">美国安顾问：病毒溯源 中共面临两个选择</a></li>
-<li><a href="/cbnews/20210621/1571373.md">确定董经纬出逃 美共和党资深委员俞怀松曝消息来源</a></li>
 <li><a href="/bannedvideo/20210621/1571129.md">💥共和党：董经纬就在美国！先投奔国防部，细节曝光；天安门党庆元老抵制？多军车进“鸟巢”；王沪宁害怕，向习连喊十个“伟大”；半个广东严管，三大城同日封锁；余茂春指美已掌握泄漏证据｜新闻拍案惊奇 大宇</a></li>
+<li><a href="/bannedvideo/20210621/1571355.md">玩大了!董经纬出逃习近平亲自辟谣? 中纪委释放重大信号(启明笑谈21年6月21日)</a></li>
 <li><a href="/ssgc/20210621/1571022.md">〖兲朝浮世绘〗董经纬叛逃对中共的冲击应该不亚于顾顺章</a></li>
 <li><a href="/cnnews/20210621/1570914.md">舞女当法官 护士当派出所长 原来后面都有官场干爹</a></li>
-<li><a href="/bannedvideo/20210621/1571355.md">玩大了!董经纬出逃习近平亲自辟谣? 中纪委释放重大信号(启明笑谈21年6月21日)</a></li>
 <li><a href="/topimagenews/20210621/1571162.md">啥信号？中共四次重大路线斗争再被翻炒 耐人寻味 【阿波罗网报道】</a></li>
 <li><a href="/comments/20210621/1570919.md">视频：成都风声鹤唳 将是第二个武汉？所有车辆都经过消毒才能进入 人员需测量体温后才能放行</a></li>
 <li><a href="/topimagenews/20210621/1571238.md">特斯拉“维权”女车主：我被恐吓了！ 网络再炸锅 【阿波罗网报道】</a></li>
@@ -27,7 +27,7 @@
 <li><a href="/cbnews/20210621/1571213.md">重庆立海大厦发生爆炸导致电梯坠落 致5人受伤 像从地狱里爬出</a></li>
 <li><a href="/worldnews/20210621/1571204.md">印度神童预言再度成真 以色列出事了 “也谈到台湾”</a></li>
 <li><a href="/health/20210621/1571033.md">尽量停止食用这5种鱼，或会携带甲醛和重金属，鱼贩子：别说出去</a></li>
-<li><a href="/cnnews/20210621/1571158.md">习近平自晾书单 博士学历是在十八大后放到简历里去的</a></li>
+<li><a href="/topimagenews/20210621/1571349.md">中国半壁河山电荒噩梦重演 618购物节消费显疲态 “幽灵舰队”正从伊朗开向中国</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210622/1571528.md" target="_blank">湖北十堰爆炸案惊动习近平 爆炸前一小时内情曝光 应勇仕途或受影响 会上震怒：干部要有半夜惊醒的警觉</a></li>
+<li><a href="/comments/20210622/1571527.md" target="_blank">美国出手 助驾快艇赴台的五港人来美避难</a></li>
+<li><a href="/comments/20210622/1571526.md" target="_blank">贝佐斯下月太空旅行 美国近6万人请愿：别让他回地球</a></li>
 <li><a href="/comments/20210622/1571514.md" target="_blank">快手家常菜！香菇肉酱 拌面拌饭 开胃又下饭</a></li>
 <li><a href="/comments/20210622/1571513.md" target="_blank">最准预言家郑博见最新警告：人类或将有新的大瘟疫</a></li>
 <li><a href="/comments/20210622/1571503.md" target="_blank">美超级航母全舰测试 爆破冲击如3.9级地震；阴暗交易 “幽灵舰队”从伊朗开向中国；以色列警告 大国勿与伊朗新政府核谈判；美新任朝鲜特使：冀金正恩恢复对话【希望之声TV-环球看点-2021/6/21】</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210621/1571376.md" target="_blank">【轮回转世影片】狗狗去世后，转世成小男孩出现在主人面前，看完泪流满面《我在雨中等你》</a></li>
 <li><a href="/comments/20210621/1571366.md" target="_blank">中法俄德英与伊朗再谈核协议 美间接参与；坚拒“一中承诺” 台湾撤走驻港办人员；加纳媒体批北京“反人类罪”中共大使忙到处投书洗白；全球房价飙 加快升息脚步【希望之声TV-两岸要闻-2021/06/21】</a></li>
 <li><a href="/comments/20210621/1571364.md" target="_blank">印度男孩最新预言，即将爆发新一波*疫*情。他的预言正在兑现吗？</a></li>
-<li><a href="/comments/20210621/1571354.md" target="_blank">【国安拘苹果高层】壹传媒董事会周五商讨是否停止营运 员工流传周六或为最后见报日</a></li>
-<li><a href="/comments/20210621/1571353.md" target="_blank">探望朱凯廸</a></li>
-<li><a href="/comments/20210621/1571352.md" target="_blank">郑若骅：有人以“流亡”者自居不正确 逃避法律责任是“懦夫”</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
 <li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
 
 </ul>
 </div>
