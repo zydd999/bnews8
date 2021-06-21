@@ -8,7 +8,6 @@
 <li><a href="/topimagenews/20210620/1570532.md">和董经纬有关？中纪委释放重大信号 再提此人！【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20210620/1570533.md">网曝220辆大巴满载军人开进北京鸟巢</a></li>
 <li><a href="/comments/20210620/1570592.md">李燕铭：胡锦涛之子胡海峰敏感大动作惊动习近平？浙江高官翁建荣落马 与胡海峰互动密切 翁建荣两个月前高调露面挺胡海峰 胡海峰第六度升官传闻又要泡汤？</a></li>
-<li><a href="/bannedvideo/20210620/1570476.md">小道消息: 习近平引发普遍不满   中共百年大庆遭党内元老“躺平”抵制</a></li>
 <li><a href="/comments/20210620/1570672.md">刘胡兰究竟做了什么，而引来杀身之祸？为何电影中的刘胡兰由成年人扮演？中共党魁的题词，是如何出炉的？</a></li>
 <li><a href="/topimagenews/20210620/1570595.md">冲热搜第一！成龙退出林凤娇全资持股公司，发生了什么？</a></li>
 <li><a href="/bannedvideo/20210620/1570614.md">文睿：对抗全球，习近平罕见释放战争言论，无法再回头了</a></li>
@@ -17,16 +16,17 @@
 <li><a href="/cbnews/20210621/1570863.md">网曝福州高速路交警查车被撞翻一片</a></li>
 <li><a href="/bannedvideo/20210620/1570549.md">刘鹤下令不许出事  FBI已遭重创  董经纬的爆料对DS情报机构打击重大   美军方将依法介入 习近平坐不住了: 下令严守秘密!</a></li>
 <li><a href="/cnnews/20210620/1570825.md">美国早已掌握中共泄露病毒的证据 并不想拉习近平下台</a></li>
+<li><a href="/cbnews/20210621/1570935.md">深圳疫情恐比通报严重 网曝核酸检测场面吓人</a></li>
 <li><a href="/renquan/20210620/1570669.md">寒门女硕士公务员的泣血呼救</a></li>
 <li><a href="/bannedvideo/20210620/1570573.md">董经纬出逃可能性多大？他是奉命出逃吗？中共将亡于谁手？｜薇羽看世间 第322期 20210619</a></li>
 <li><a href="/cbnews/20210620/1570652.md">中共在空间站建党支部和插党旗 被斥是笑话</a></li>
-<li><a href="/cbnews/20210621/1570935.md">深圳疫情恐比通报严重 网曝核酸检测场面吓人</a></li>
 <li><a href="/comments/20210620/1570621.md">2020年中国了不起的神作。他是皇帝，但不可以认亲妈，必须接受大臣们给他安排娶的妻子，最心爱的女儿婚姻痛苦不堪却不能离婚，孩子宠妃都死了。而他选择接受这一切。为什么？</a></li>
 <li><a href="/cnnews/20210621/1570915.md">赌上政治生命 美共和党委员：若董经纬未叛逃就辞职</a></li>
 <li><a href="/finance/20210620/1570607.md">历史性的一天！四川比特币矿场被集体断电，所有矿场被关？</a></li>
 <li><a href="/comments/20210620/1570510.md">多重敏感时刻 习近平带政治局宣誓 现场照片曝一细节太尴尬</a></li>
 <li><a href="/topimagenews/20210621/1570856.md">中国低通胀时代恐告终！粮价料处5年迷你超级周期</a></li>
-<li><a href="/health/20210620/1570577.md">肠癌来敲门，排便时，多会出现3个迹象，哪怕有一个，也要早检查</a></li>
+<li><a href="/cnnews/20210621/1570914.md">舞女当法官 护士当派出所长 原来后面都有官场干爹</a></li>
+<li><a href="/bannedvideo/20210621/1570864.md">董经纬家人信息曝光中共内斗延伸海外(2021年6月20日)</a></li>
 <li><a href="/bannedvideo/20210620/1570668.md">陈破空：叛逃疑云压顶！亲习喉舌扬言：要赶走六常委！让习近平独揽大权。或刺激更多叛逃</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210621/1571044.md" target="_blank">李燕铭：高官外逃震动中南海 习近平反复提“永不叛党” 中纪委重提顾顺章叛党案释放恐吓信号 美共和党委员以政治生命作注 赌中共国安部副部长董经纬已叛逃 中共政法委给习近平挖深坑？还是叛逃高官另有其人？</a></li>
 <li><a href="/comments/20210621/1571038.md" target="_blank">杨威：中共乱港再挑衅 西方需反制工具</a></li>
 <li><a href="/comments/20210621/1571037.md" target="_blank">水木丁：体面人真是太好欺负了 专门审判别人的绝不是朋友</a></li>
 <li><a href="/comments/20210621/1571036.md" target="_blank">全国哪里考清华北大最容易</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210621/1570919.md" target="_blank">视频：成都风声鹤唳 将是第二个武汉？所有车辆都经过消毒才能进入 人员需测量体温后才能放行</a></li>
 <li><a href="/comments/20210621/1570918.md" target="_blank">52年前小学生作业 11岁童准确预测未来</a></li>
 <li><a href="/comments/20210621/1570910.md" target="_blank">网友：6月19日、20日，吉林长白山接连下雪</a></li>
-<li><a href="/comments/20210621/1570899.md" target="_blank">俄驻美大使返回华府 称已准备好理顺双边关系</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
+<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
 <li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
-<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
 <li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
 
 </ul>
 </div>
