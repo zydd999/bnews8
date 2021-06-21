@@ -15,19 +15,19 @@
 <li><a href="/cbnews/20210621/1570913.md">董经纬“讲话”辟谣出逃？与习近平密切关系曝光</a></li>
 <li><a href="/cbnews/20210621/1570958.md">美国安顾问：病毒溯源 中共面临两个选择</a></li>
 <li><a href="/bannedvideo/20210621/1571129.md">💥共和党：董经纬就在美国！先投奔国防部，细节曝光；天安门党庆元老抵制？多军车进“鸟巢”；王沪宁害怕，向习连喊十个“伟大”；半个广东严管，三大城同日封锁；余茂春指美已掌握泄漏证据｜新闻拍案惊奇 大宇</a></li>
+<li><a href="/cbnews/20210621/1571240.md">湖北爆炸案惊动习近平 事前有人报警 当局不理</a></li>
 <li><a href="/ssgc/20210621/1571022.md">〖兲朝浮世绘〗董经纬叛逃对中共的冲击应该不亚于顾顺章</a></li>
 <li><a href="/cnnews/20210621/1570914.md">舞女当法官 护士当派出所长 原来后面都有官场干爹</a></li>
 <li><a href="/bannedvideo/20210621/1570864.md">董经纬家人信息曝光中共内斗延伸海外(2021年6月20日)</a></li>
 <li><a href="/comments/20210621/1570919.md">视频：成都风声鹤唳 将是第二个武汉？所有车辆都经过消毒才能进入 人员需测量体温后才能放行</a></li>
-<li><a href="/cbnews/20210621/1571240.md">湖北爆炸案惊动习近平 事前有人报警 当局不理</a></li>
-<li><a href="/topimagenews/20210621/1571162.md">啥信号？中共四次重大路线斗争再被翻炒 耐人寻味 【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20210621/1570856.md">中国低通胀时代恐告终！粮价料处5年迷你超级周期</a></li>
-<li><a href="/comments/20210621/1571160.md">爆料第一人首受访谈获知董经纬“叛逃”内幕 涉习家军</a></li>
-<li><a href="/comments/20210621/1571083.md">建党百年要抓“内奸” 中纪委威胁要将叛逃者灭门？</a></li>
-<li><a href="/health/20210621/1571033.md">尽量停止食用这5种鱼，或会携带甲醛和重金属，鱼贩子：别说出去</a></li>
-<li><a href="/worldnews/20210621/1571204.md">印度神童预言再度成真 以色列出事了 “也谈到台湾”</a></li>
-<li><a href="/cnnews/20210621/1570858.md">曾是最有钱国家之列！科威特如今经济濒崩溃 原因是…</a></li>
 <li><a href="/bannedvideo/20210621/1571257.md">美国发出迄今最严厉警告；病毒问题将是习近平二十大的噩梦；向改革派再次发出呼吁（20210621 第625期）</a></li>
+<li><a href="/topimagenews/20210621/1571162.md">啥信号？中共四次重大路线斗争再被翻炒 耐人寻味 【阿波罗网报道】</a></li>
+<li><a href="/comments/20210621/1571160.md">爆料第一人首受访谈获知董经纬“叛逃”内幕 涉习家军</a></li>
+<li><a href="/topimagenews/20210621/1570856.md">中国低通胀时代恐告终！粮价料处5年迷你超级周期</a></li>
+<li><a href="/comments/20210621/1571083.md">建党百年要抓“内奸” 中纪委威胁要将叛逃者灭门？</a></li>
+<li><a href="/topimagenews/20210621/1571238.md">特斯拉“维权”女车主：我被恐吓了！ 网络再炸锅 【阿波罗网报道】</a></li>
+<li><a href="/worldnews/20210621/1571204.md">印度神童预言再度成真 以色列出事了 “也谈到台湾”</a></li>
+<li><a href="/cbnews/20210621/1571213.md">重庆立海大厦发生爆炸导致电梯坠落 致5人受伤 像从地狱里爬出</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210621/1571423.md" target="_blank">三胎能缓解教育焦虑？大学教授奇葩言论火了</a></li>
+<li><a href="/cbnews/20210621/1571422.md" target="_blank">东莞麻涌封镇当地大学现疫情</a></li>
 <li><a href="/cbnews/20210621/1571381.md" target="_blank">美国加量赠台疫苗 中国网民怒轰国台办：丢人现眼</a></li>
 <li><a href="/cbnews/20210621/1571374.md" target="_blank">七国集团抗共原因曝光 战狼威胁文件惹众怒</a></li>
 <li><a href="/cbnews/20210621/1571373.md" target="_blank">确定董经纬出逃 美共和党资深委员俞怀松曝消息来源</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/cbnews/20210621/1571070.md" target="_blank">离谱！31名韩国旅客赴北京 防疫隔离期间护照竟被销毁</a></li>
 <li><a href="/cbnews/20210621/1571028.md" target="_blank">陆网约车又出事 “首汽约车”乘客跳车致伤</a></li>
 <li><a href="/cbnews/20210621/1571027.md" target="_blank">拿不出15.8万聘金 中国父向未来亲家下跪</a></li>
-<li><a href="/comments/20210621/1570988.md" target="_blank">木棉记 MV    昨日弃舟缘又起，谁载沉浮莫问鱼。</a></li>
-<li><a href="/comments/20210621/1570983.md" target="_blank">美国又出手 华为太平洋海底项目或泡汤；美议员：禁中共军方专家入境美国；俄驻美大使重返华盛顿；佛州派执法人员助边境两州解危机；联合国秘书长被再次任命【希望之声TV-每日头条-2021/6/20】</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210621/1571432.md" target="_blank">卢比奥提案：如中共不配合毒源调查 美将祭新制裁</a></li>
+<li><a href="/comments/20210621/1571431.md" target="_blank">小小的细胞也是大自然魅力的绽放</a></li>
+<li><a href="/comments/20210621/1571430.md" target="_blank">这些食物，养心败火、解暑开胃</a></li>
+<li><a href="/comments/20210621/1571429.md" target="_blank">夏至，谨记这几点，健康过夏</a></li>
+<li><a href="/comments/20210621/1571428.md" target="_blank">中共严打加密货币挖矿及交易 比特币价格周一暴跌</a></li>
 <li><a href="/comments/20210621/1571396.md" target="_blank">欧洲态度大转弯原因曝光！澳洲总理携威胁密件说服G7抗中</a></li>
 <li><a href="/comments/20210621/1571387.md" target="_blank">13岁爱犬“冠军”死亡 拜登夫妇发声明</a></li>
 <li><a href="/comments/20210621/1571376.md" target="_blank">【轮回转世影片】狗狗去世后，转世成小男孩出现在主人面前，看完泪流满面《我在雨中等你》</a></li>
@@ -118,11 +123,6 @@
 <li><a href="/comments/20210621/1571303.md" target="_blank">85万人研究：晚上11点睡觉，患抑郁症风险能降低40%</a></li>
 <li><a href="/comments/20210621/1571299.md" target="_blank">李家超：国安风险减低 但要防软性渗透 港人移民应三思</a></li>
 <li><a href="/comments/20210621/1571298.md" target="_blank">送车的人成为坐车的人 苹果之柱的内刚外柔</a></li>
-<li><a href="/comments/20210621/1571296.md" target="_blank">黄秋智据报辞去紫荆党总裁 党 IG 曾称派“高质蛇斋饼糉” 帖文已消失</a></li>
-<li><a href="/comments/20210621/1571295.md" target="_blank">【小说连载】七海归途之雪伦公主（11）</a></li>
-<li><a href="/comments/20210621/1571294.md" target="_blank">【宁静《大舞台》】精准预言：天人合一 疫后天象</a></li>
-<li><a href="/comments/20210621/1571293.md" target="_blank">【画缘】苹果画法：初学者如何画一个逼真的苹果，一步一步的教程，用彩色铅笔</a></li>
-<li><a href="/comments/20210621/1571290.md" target="_blank">拜登与阿富汗总统将在白宫会晤 讨论撤军及塔利班问题</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
 
 </ul>
 </div>
