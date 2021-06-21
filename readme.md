@@ -16,15 +16,15 @@
 <li><a href="/renquan/20210620/1570669.md">寒门女硕士公务员的泣血呼救</a></li>
 <li><a href="/cnnews/20210621/1570952.md">看到这个名字的WIFI热点 千万不要加入</a></li>
 <li><a href="/cbnews/20210620/1570652.md">中共在空间站建党支部和插党旗 被斥是笑话</a></li>
-<li><a href="/cbnews/20210621/1570913.md">董经纬“讲话”辟谣出逃？与习近平密切关系曝光</a></li>
 <li><a href="/cbnews/20210621/1570958.md">美国安顾问：病毒溯源 中共面临两个选择</a></li>
+<li><a href="/cbnews/20210621/1570913.md">董经纬“讲话”辟谣出逃？与习近平密切关系曝光</a></li>
 <li><a href="/cnnews/20210621/1570914.md">舞女当法官 护士当派出所长 原来后面都有官场干爹</a></li>
+<li><a href="/bannedvideo/20210621/1571129.md">💥共和党：董经纬就在美国！先投奔国防部，细节曝光；天安门党庆元老抵制？多军车进“鸟巢”；王沪宁害怕，向习连喊十个“伟大”；半个广东严管，三大城同日封锁；余茂春指美已掌握泄漏证据｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/comments/20210621/1570919.md">视频：成都风声鹤唳 将是第二个武汉？所有车辆都经过消毒才能进入 人员需测量体温后才能放行</a></li>
 <li><a href="/bannedvideo/20210621/1570864.md">董经纬家人信息曝光中共内斗延伸海外(2021年6月20日)</a></li>
 <li><a href="/topimagenews/20210621/1570856.md">中国低通胀时代恐告终！粮价料处5年迷你超级周期</a></li>
 <li><a href="/ssgc/20210621/1571022.md">〖兲朝浮世绘〗董经纬叛逃对中共的冲击应该不亚于顾顺章</a></li>
 <li><a href="/comments/20210621/1571083.md">建党百年要抓“内奸” 中纪委威胁要将叛逃者灭门？</a></li>
-<li><a href="/bannedvideo/20210621/1571129.md">💥共和党：董经纬就在美国！先投奔国防部，细节曝光；天安门党庆元老抵制？多军车进“鸟巢”；王沪宁害怕，向习连喊十个“伟大”；半个广东严管，三大城同日封锁；余茂春指美已掌握泄漏证据｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/bannedvideo/20210620/1570668.md">陈破空：叛逃疑云压顶！亲习喉舌扬言：要赶走六常委！让习近平独揽大权。或刺激更多叛逃</a></li>
 <li><a href="/cnnews/20210621/1570858.md">曾是最有钱国家之列！科威特如今经济濒崩溃 原因是…</a></li>
 <li><a href="/health/20210621/1571033.md">尽量停止食用这5种鱼，或会携带甲醛和重金属，鱼贩子：别说出去</a></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210621/1571317.md" target="_blank">恐怖：高速公路上汽车挡风玻璃突被钢筋刺穿…</a></li>
 <li><a href="/comments/20210621/1571304.md" target="_blank">预言二战、总统意外身亡的美国著名先知凯西，通过回溯前世今生，帮人破解此生羁绊。看人遭劫，无动于衷，甚至嘲笑，今生却落得如此下场⋯⋯</a></li>
 <li><a href="/cbnews/20210621/1571297.md" target="_blank">风声鹤唳？中共建党百周年临近 北京实施无线电管制</a></li>
 <li><a href="/cbnews/20210621/1571276.md" target="_blank">与美国合作 澳洲恐让中共大伤脑筋</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210621/1570912.md" target="_blank">一日内山东胶州警察绑架至少16名法轮功学员</a></li>
 <li><a href="/cbnews/20210621/1570911.md" target="_blank">三胎能缓解教育焦虑？父亲节重庆大学教授言论上热搜</a></li>
 <li><a href="/cbnews/20210621/1570903.md" target="_blank">江峰：《巴顿将军一》硝烟散英雄返乡 战事定鸟尽弓藏</a></li>
-<li><a href="/cbnews/20210621/1570873.md" target="_blank">薪酬是秘密 打听同事工资被开除 网民吵翻</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210621/1571314.md" target="_blank">澳外长拒置评中共高官叛逃 促展开第二阶段疫情溯源调查</a></li>
+<li><a href="/comments/20210621/1571313.md" target="_blank">俄太平洋舰队太平洋中部军演 与俄美峰会无关？</a></li>
 <li><a href="/comments/20210621/1571304.md" target="_blank">预言二战、总统意外身亡的美国著名先知凯西，通过回溯前世今生，帮人破解此生羁绊。看人遭劫，无动于衷，甚至嘲笑，今生却落得如此下场⋯⋯</a></li>
 <li><a href="/comments/20210621/1571303.md" target="_blank">85万人研究：晚上11点睡觉，患抑郁症风险能降低40%</a></li>
 <li><a href="/comments/20210621/1571299.md" target="_blank">李家超：国安风险减低 但要防软性渗透 港人移民应三思</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210621/1571224.md" target="_blank">文王聪慧绝顶演周易知天下 为何其母功不可没?</a></li>
 <li><a href="/comments/20210621/1571223.md" target="_blank">带您了解德国的垃圾回收分类</a></li>
 <li><a href="/comments/20210621/1571178.md" target="_blank">《诗经》中走出的女子——采桑女(下)</a></li>
-<li><a href="/comments/20210621/1571171.md" target="_blank">【国安拘苹果高层】《苹果》将去信保安局申请解冻户口出粮 保安局：局长会依法处理</a></li>
-<li><a href="/comments/20210621/1571170.md" target="_blank">李家超：研 23 条立法填补国安法不足 料本届政府难完成</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20210329/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
+<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
 
 </ul>
 </div>
