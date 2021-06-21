@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/comments/20210620/1570592.md">李燕铭：胡锦涛之子胡海峰敏感大动作惊动习近平？浙江高官翁建荣落马 与胡海峰互动密切 翁建荣两个月前高调露面挺胡海峰 胡海峰第六度升官传闻又要泡汤？</a></li>
 <li><a href="/comments/20210620/1570672.md">刘胡兰究竟做了什么，而引来杀身之祸？为何电影中的刘胡兰由成年人扮演？中共党魁的题词，是如何出炉的？</a></li>
 <li><a href="/bannedvideo/20210620/1570614.md">文睿：对抗全球，习近平罕见释放战争言论，无法再回头了</a></li>
 <li><a href="/bannedvideo/20210620/1570673.md">💥中共顶级特务头子叛逃细节曝光💥CIA在中国的间谍被处决属实，阴谋论又成真？</a></li>
-<li><a href="/topimagenews/20210620/1570595.md">冲热搜第一！成龙退出林凤娇全资持股公司，发生了什么？</a></li>
 <li><a href="/cbnews/20210621/1570935.md">深圳疫情恐比通报严重 网曝核酸检测场面吓人</a></li>
 <li><a href="/cnnews/20210620/1570825.md">美国早已掌握中共泄露病毒的证据 并不想拉习近平下台</a></li>
 <li><a href="/cbnews/20210621/1570863.md">网曝福州高速路交警查车被撞翻一片</a></li>
 <li><a href="/cnnews/20210621/1570978.md">一位做“人肉”生意女孩的自述</a></li>
 <li><a href="/cnnews/20210621/1570915.md">赌上政治生命 美共和党委员：若董经纬未叛逃就辞职</a></li>
-<li><a href="/cnnews/20210621/1570952.md">看到这个名字的WIFI热点 千万不要加入</a></li>
 <li><a href="/renquan/20210620/1570669.md">寒门女硕士公务员的泣血呼救</a></li>
+<li><a href="/cnnews/20210621/1570952.md">看到这个名字的WIFI热点 千万不要加入</a></li>
 <li><a href="/cbnews/20210620/1570652.md">中共在空间站建党支部和插党旗 被斥是笑话</a></li>
+<li><a href="/cbnews/20210621/1570958.md">美国安顾问：病毒溯源 中共面临两个选择</a></li>
 <li><a href="/cbnews/20210621/1570913.md">董经纬“讲话”辟谣出逃？与习近平密切关系曝光</a></li>
 <li><a href="/cnnews/20210621/1570914.md">舞女当法官 护士当派出所长 原来后面都有官场干爹</a></li>
-<li><a href="/cbnews/20210621/1570958.md">美国安顾问：病毒溯源 中共面临两个选择</a></li>
 <li><a href="/comments/20210620/1570621.md">2020年中国了不起的神作。他是皇帝，但不可以认亲妈，必须接受大臣们给他安排娶的妻子，最心爱的女儿婚姻痛苦不堪却不能离婚，孩子宠妃都死了。而他选择接受这一切。为什么？</a></li>
 <li><a href="/comments/20210621/1570919.md">视频：成都风声鹤唳 将是第二个武汉？所有车辆都经过消毒才能进入 人员需测量体温后才能放行</a></li>
 <li><a href="/topimagenews/20210621/1570856.md">中国低通胀时代恐告终！粮价料处5年迷你超级周期</a></li>
 <li><a href="/bannedvideo/20210621/1570864.md">董经纬家人信息曝光中共内斗延伸海外(2021年6月20日)</a></li>
+<li><a href="/comments/20210621/1571085.md">“董经纬叛逃”爆料第一人：之江新军上海市国安局长黄宝坤已搬进董经纬的办公室 将接任国安部副部长 中南海谣言预言_481</a></li>
 <li><a href="/finance/20210620/1570607.md">历史性的一天！四川比特币矿场被集体断电，所有矿场被关？</a></li>
 <li><a href="/bannedvideo/20210620/1570668.md">陈破空：叛逃疑云压顶！亲习喉舌扬言：要赶走六常委！让习近平独揽大权。或刺激更多叛逃</a></li>
-<li><a href="/comments/20210621/1571085.md">“董经纬叛逃”爆料第一人：之江新军上海市国安局长黄宝坤已搬进董经纬的办公室 将接任国安部副部长 中南海谣言预言_481</a></li>
+<li><a href="/cnnews/20210621/1570858.md">曾是最有钱国家之列！科威特如今经济濒崩溃 原因是…</a></li>
+<li><a href="/ssgc/20210621/1571022.md">〖兲朝浮世绘〗董经纬叛逃对中共的冲击应该不亚于顾顺章</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210621/1571213.md" target="_blank">重庆立海大厦发生爆炸导致电梯坠落 致5人受伤 像从地狱里爬出</a></li>
 <li><a href="/cbnews/20210621/1571163.md" target="_blank">深圳疫情延伸海口市 阳性患者小区封闭管理</a></li>
 <li><a href="/comments/20210621/1571153.md" target="_blank">拜登被疑认知能力？白宫医生敦促拜登接受认知测试！CNN吹中国疫苗“举世无双” 惹议；护照被当垃圾！韩国31名旅客护照遭中国检疫销毁；【希望之声-午夜新闻-2021/06/20】</a></li>
 <li><a href="/cbnews/20210621/1571130.md" target="_blank">拜登爱犬去世 蔡英文留言令中共喉舌炸锅</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210621/1570863.md" target="_blank">网曝福州高速路交警查车被撞翻一片</a></li>
 <li><a href="/cbnews/20210620/1570834.md" target="_blank">遏制中共武力威胁 美军太平洋战略渐成雏形</a></li>
 <li><a href="/cbnews/20210620/1570833.md" target="_blank">专家：中共正为自己挖一个澳洲那么大的坑</a></li>
-<li><a href="/cbnews/20210620/1570832.md" target="_blank">大陆广州基督徒高恒呼吁六四为国家祷告被捕</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
 <li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
 <li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
 
 </ul>
 </div>
