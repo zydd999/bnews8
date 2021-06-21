@@ -18,16 +18,16 @@
 <li><a href="/cbnews/20210620/1570652.md">中共在空间站建党支部和插党旗 被斥是笑话</a></li>
 <li><a href="/cbnews/20210621/1570913.md">董经纬“讲话”辟谣出逃？与习近平密切关系曝光</a></li>
 <li><a href="/cbnews/20210621/1570958.md">美国安顾问：病毒溯源 中共面临两个选择</a></li>
-<li><a href="/comments/20210620/1570621.md">2020年中国了不起的神作。他是皇帝，但不可以认亲妈，必须接受大臣们给他安排娶的妻子，最心爱的女儿婚姻痛苦不堪却不能离婚，孩子宠妃都死了。而他选择接受这一切。为什么？</a></li>
 <li><a href="/cnnews/20210621/1570914.md">舞女当法官 护士当派出所长 原来后面都有官场干爹</a></li>
 <li><a href="/comments/20210621/1570919.md">视频：成都风声鹤唳 将是第二个武汉？所有车辆都经过消毒才能进入 人员需测量体温后才能放行</a></li>
-<li><a href="/topimagenews/20210621/1570856.md">中国低通胀时代恐告终！粮价料处5年迷你超级周期</a></li>
 <li><a href="/bannedvideo/20210621/1570864.md">董经纬家人信息曝光中共内斗延伸海外(2021年6月20日)</a></li>
+<li><a href="/topimagenews/20210621/1570856.md">中国低通胀时代恐告终！粮价料处5年迷你超级周期</a></li>
 <li><a href="/ssgc/20210621/1571022.md">〖兲朝浮世绘〗董经纬叛逃对中共的冲击应该不亚于顾顺章</a></li>
-<li><a href="/bannedvideo/20210620/1570668.md">陈破空：叛逃疑云压顶！亲习喉舌扬言：要赶走六常委！让习近平独揽大权。或刺激更多叛逃</a></li>
 <li><a href="/comments/20210621/1571083.md">建党百年要抓“内奸” 中纪委威胁要将叛逃者灭门？</a></li>
+<li><a href="/bannedvideo/20210620/1570668.md">陈破空：叛逃疑云压顶！亲习喉舌扬言：要赶走六常委！让习近平独揽大权。或刺激更多叛逃</a></li>
 <li><a href="/cnnews/20210621/1570858.md">曾是最有钱国家之列！科威特如今经济濒崩溃 原因是…</a></li>
 <li><a href="/health/20210621/1571033.md">尽量停止食用这5种鱼，或会携带甲醛和重金属，鱼贩子：别说出去</a></li>
+<li><a href="/bannedvideo/20210621/1571129.md">💥共和党：董经纬就在美国！先投奔国防部，细节曝光；天安门党庆元老抵制？多军车进“鸟巢”；王沪宁害怕，向习连喊十个“伟大”；半个广东严管，三大城同日封锁；余茂春指美已掌握泄漏证据｜新闻拍案惊奇 大宇</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,13 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210621/1571290.md" target="_blank">拜登与阿富汗总统将在白宫会晤 讨论撤军及塔利班问题</a></li>
+<li><a href="/comments/20210621/1571289.md" target="_blank">疲劳不一定是累出来的</a></li>
+<li><a href="/comments/20210621/1571288.md" target="_blank">孩子宅家会不会网路成瘾？快看看这些特征是否中了</a></li>
+<li><a href="/comments/20210621/1571287.md" target="_blank">X光、CT、核磁和B超都有什么区别？</a></li>
+<li><a href="/comments/20210621/1571286.md" target="_blank">意大利夏日打折季将于7月初开始 你准备好了吗？</a></li>
+<li><a href="/comments/20210621/1571285.md" target="_blank">历经岁月洗礼 英国老屋的设计充满故事(二)</a></li>
+<li><a href="/comments/20210621/1571278.md" target="_blank">分析：中共“战狼”外交官为何屡屡出丑？</a></li>
 <li><a href="/comments/20210621/1571261.md" target="_blank">【曾铮专栏】感悟神韵（之三）：感悟神韵舞蹈</a></li>
 <li><a href="/comments/20210621/1571260.md" target="_blank">【大事件博物馆】马克思撒旦代言人：可他却为什么害怕下地狱呢？</a></li>
 <li><a href="/comments/20210621/1571259.md" target="_blank">【薇羽时光】圣母像流玫瑰香泪，耶稣像流血泪，大佛闭眼流泪，人类读懂了其中的奥秘吗？</a></li>
@@ -116,13 +123,6 @@
 <li><a href="/comments/20210621/1571142.md" target="_blank">以色列呼吁世界大国勿与伊朗新政府进行核谈判</a></li>
 <li><a href="/comments/20210621/1571138.md" target="_blank">黎智英顾问：董事局今决定是否关闭《苹果日报》</a></li>
 <li><a href="/comments/20210621/1571093.md" target="_blank">岳山：董经纬事件成罗生门 背后国安内幕水深图</a></li>
-<li><a href="/comments/20210621/1571088.md" target="_blank">董经纬到底在哪？中共中纪委突发文疑泄密？美共和党委员大胆撂狠话</a></li>
-<li><a href="/comments/20210621/1571085.md" target="_blank">“董经纬叛逃”爆料第一人：之江新军上海市国安局长黄宝坤已搬进董经纬的办公室 将接任国安部副部长 中南海谣言预言_481</a></li>
-<li><a href="/comments/20210621/1571083.md" target="_blank">建党百年要抓“内奸” 中纪委威胁要将叛逃者灭门？</a></li>
-<li><a href="/comments/20210621/1571076.md" target="_blank">岳山：董经纬事件成罗生门 背后国安内幕水深</a></li>
-<li><a href="/comments/20210621/1571075.md" target="_blank">【微博精粹】中纪委通知：和一切叛徒作斗争 都知道这下美国地下党完了</a></li>
-<li><a href="/comments/20210621/1571067.md" target="_blank">民阵首度无法申请七一游行 港人将自发走上街头</a></li>
-<li><a href="/comments/20210621/1571066.md" target="_blank">台官员拒签「一中承诺书」被逼离港 陆委会：政治打压</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
 <li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/cbnews/20210331/1516754.md" target="_blank">被传销团伙围杀时 丈夫说了这句话脱险</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
 
 </ul>
 </div>
