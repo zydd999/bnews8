@@ -11,23 +11,23 @@
 <li><a href="/bannedvideo/20210621/1571257.md">美国发出迄今最严厉警告；病毒问题将是习近平二十大的噩梦；向改革派再次发出呼吁（20210621 第625期）</a></li>
 <li><a href="/cbnews/20210621/1571240.md">湖北爆炸案惊动习近平 事前有人报警 当局不理</a></li>
 <li><a href="/bannedvideo/20210621/1571355.md">玩大了!董经纬出逃习近平亲自辟谣? 中纪委释放重大信号(启明笑谈21年6月21日)</a></li>
-<li><a href="/ssgc/20210621/1571022.md">〖兲朝浮世绘〗董经纬叛逃对中共的冲击应该不亚于顾顺章</a></li>
 <li><a href="/topimagenews/20210621/1571238.md">特斯拉“维权”女车主：我被恐吓了！ 网络再炸锅 【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20210621/1571162.md">啥信号？中共四次重大路线斗争再被翻炒 耐人寻味 【阿波罗网报道】</a></li>
+<li><a href="/cbnews/20210622/1571606.md">章家敦：如果董经纬叛逃属实 或导致中共垮台</a></li>
 <li><a href="/topimagenews/20210621/1571349.md">中国半壁河山电荒噩梦重演 618购物节消费显疲态 “幽灵舰队”正从伊朗开向中国</a></li>
 <li><a href="/comments/20210621/1571160.md">爆料第一人首受访谈获知董经纬“叛逃”内幕 涉习家军</a></li>
-<li><a href="/cbnews/20210622/1571606.md">章家敦：如果董经纬叛逃属实 或导致中共垮台</a></li>
 <li><a href="/comments/20210621/1571364.md">印度男孩最新预言，即将爆发新一波*疫*情。他的预言正在兑现吗？</a></li>
 <li><a href="/comments/20210621/1571083.md">建党百年要抓“内奸” 中纪委威胁要将叛逃者灭门？</a></li>
 <li><a href="/cbnews/20210621/1571213.md">重庆立海大厦发生爆炸导致电梯坠落 致5人受伤 像从地狱里爬出</a></li>
 <li><a href="/worldnews/20210621/1571204.md">印度神童预言再度成真 以色列出事了 “也谈到台湾”</a></li>
-<li><a href="/health/20210621/1571033.md">尽量停止食用这5种鱼，或会携带甲醛和重金属，鱼贩子：别说出去</a></li>
 <li><a href="/cnnews/20210621/1571158.md">习近平自晾书单 博士学历是在十八大后放到简历里去的</a></li>
 <li><a href="/lifebaike/20210621/1571322.md">你想过吗：打电话的骗子，为什么普通话总说不好</a></li>
-<li><a href="/cbnews/20210621/1571374.md">七国集团抗共原因曝光 战狼威胁文件惹众怒</a></li>
 <li><a href="/health/20210621/1571246.md">40岁后的男人别太节俭，常吃4种食物，补充雄性激素，帮助抗衰老</a></li>
+<li><a href="/cbnews/20210621/1571374.md">七国集团抗共原因曝光 战狼威胁文件惹众怒</a></li>
+<li><a href="/cnnews/20210622/1571589.md">求生欲满满，潘石屹夫妇全身而退了</a></li>
 <li><a href="/comments/20210621/1571088.md">董经纬到底在哪？中共中纪委突发文疑泄密？美共和党委员大胆撂狠话</a></li>
 <li><a href="/comments/20210621/1571304.md">预言二战、总统意外身亡的美国著名先知凯西，通过回溯前世今生，帮人破解此生羁绊。看人遭劫，无动于衷，甚至嘲笑，今生却落得如此下场⋯⋯</a></li>
+<li><a href="/topimagenews/20210621/1571069.md">震撼！美航母硬抗3.9级地震般爆炸冲击测试 30多年来首次</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210622/1571746.md" target="_blank">千百度：三胎宣传广告舆论翻车 网友斥“恶心”</a></li>
+<li><a href="/comments/20210622/1571741.md" target="_blank">【田恬专栏】音乐篇：勇气心中生起 Courage Is Found (中英文)</a></li>
+<li><a href="/comments/20210622/1571740.md" target="_blank">台驻港机构面临关闭 苹果日报或被停刊 美国：与港台湾人民站在一起</a></li>
 <li><a href="/comments/20210622/1571737.md" target="_blank">河北刘君的故事: 临终痛悔不如在世早回首</a></li>
 <li><a href="/comments/20210622/1571723.md" target="_blank">陶杰：再认皇帝的新衣 多想就有新领悟</a></li>
 <li><a href="/comments/20210622/1571722.md" target="_blank">田云：小官贪2亿 内蒙“倒查20年”透何信息</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210622/1571639.md" target="_blank">《苹果日报》资金被冻结周五决定停刊 记协 ：新闻界已“无险可守”</a></li>
 <li><a href="/comments/20210622/1571617.md" target="_blank">哈佛教授：激进左派施压大法官要其退休 将适得其反</a></li>
 <li><a href="/comments/20210622/1571616.md" target="_blank">德国大选倒计时 联盟党候选人对华政策面临挑战</a></li>
-<li><a href="/comments/20210622/1571597.md" target="_blank">非洲第一吼！加纳主流媒体揭“反人类罪” 中共气的直跳脚</a></li>
-<li><a href="/comments/20210622/1571596.md" target="_blank">美高层：中共若不配合查病源 将陷国际孤立</a></li>
-<li><a href="/comments/20210622/1571595.md" target="_blank">美高层称确认董经纬出逃 国际媒体跟进报导</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
 <li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
 <li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
 
 </ul>
 </div>
