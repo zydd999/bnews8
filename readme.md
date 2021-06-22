@@ -16,15 +16,15 @@
 <li><a href="/yule/20210622/1571693.md">网曝吴亦凡退圈：已是高风险艺人 还不如体面离开</a></li>
 <li><a href="/cnnews/20210622/1571590.md">G7峰会这声明一出 中共立马被逼急了？</a></li>
 <li><a href="/cbnews/20210622/1572007.md">赵立坚：美国至少有50万人遭受现代奴役 评论彻底翻车</a></li>
-<li><a href="/cbnews/20210622/1571600.md">跳楼的太多！ 传海口市通知小区锁上天台门</a></li>
 <li><a href="/cnnews/20210622/1572011.md">躺平的韭菜不好割 传中共要求电商下架“躺平”商品</a></li>
+<li><a href="/cbnews/20210622/1571600.md">跳楼的太多！ 传海口市通知小区锁上天台门</a></li>
 <li><a href="/cnnews/20210622/1571812.md">江泽民被降级！习近平把中共百年划分四个阶段 【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20210622/1572074.md">广东佛山爆发群体抗议封城事件 民众高呼：“解封！解封！解封！”</a></li>
 <li><a href="/cnnews/20210622/1571634.md">病毒溯源：紧跟苏利文警告，白宫正式表态</a></li>
 <li><a href="/comments/20210622/1571887.md">中共百年党庆将至 习近平大位受威胁 法媒：出了几件诡异的事</a></li>
 <li><a href="/comments/20210622/1571528.md">湖北十堰爆炸案惊动习近平 爆炸前一小时内情曝光 应勇仕途或受影响 会上震怒：干部要有半夜惊醒的警觉</a></li>
-<li><a href="/bannedvideo/20210622/1571580.md">美国资深中国问题专家: 太爆炸了 ! 董经纬叛逃美国势必导致美中关系彻底断裂 习近平时刻面临一夜之间下台 中国政坛将巨变 董经纬女儿个人资料曝光</a></li>
 <li><a href="/cbnews/20210622/1571884.md">湖北爆炸内情曝光 应勇“半夜惊醒” 仕途受瞩</a></li>
+<li><a href="/bannedvideo/20210622/1571580.md">美国资深中国问题专家: 太爆炸了 ! 董经纬叛逃美国势必导致美中关系彻底断裂 习近平时刻面临一夜之间下台 中国政坛将巨变 董经纬女儿个人资料曝光</a></li>
 <li><a href="/cnnews/20210622/1571766.md">宁波黑人外教奸杀女生事件 胡锡进言论惹议</a></li>
 <li><a href="/comments/20210622/1571082.md">董经纬的叛逃让拜登恼羞成怒、左右为难 — 曾节明</a></li>
 <li><a href="/cbnews/20210622/1571554.md">史上首次 美众议员推法案要求冻结中共资产</a></li>
@@ -98,6 +98,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210623/1572257.md" target="_blank">美专家：应对中共威胁 各国不能光说不做</a></li>
+<li><a href="/comments/20210623/1572256.md" target="_blank">川普：从未承认2020败选 对高院大法官很失望</a></li>
+<li><a href="/comments/20210623/1572252.md" target="_blank">清竹：神韵使关贵敏的艺术人生更加灿烂</a></li>
+<li><a href="/comments/20210623/1572251.md" target="_blank">中共驻美大使突然宣布将离任 传习近平首席礼宾官接任</a></li>
+<li><a href="/comments/20210623/1572250.md" target="_blank">【世界美景】生活随笔摄影：《淘宝》</a></li>
 <li><a href="/comments/20210623/1572245.md" target="_blank">前美官员：应重金鼓励中共官员投诚；白宫：将向中共施压查病毒起源；台驻港官员被迫撤离 美国务院表态与台湾站一起；电信诈骗侵袭大陆校园 一年卷走学生数十亿【希望之声TV-两岸要闻-2021/06/21】</a></li>
 <li><a href="/comments/20210623/1572242.md" target="_blank">夏至后多吃这两种食物，清热消暑，顺利过三伏</a></li>
 <li><a href="/comments/20210623/1572241.md" target="_blank">选择适合你的水果，不生湿、不寒凉、不伤脾</a></li>
@@ -118,11 +123,6 @@
 <li><a href="/comments/20210622/1572161.md" target="_blank">瑞典历史上首次 首相被议会不信任投票推翻</a></li>
 <li><a href="/comments/20210622/1572156.md" target="_blank">消息：英华书院 15 教师将离职 占全校教师约两成 现职教师：忧被清算损士气</a></li>
 <li><a href="/comments/20210622/1572127.md" target="_blank">【林忌评论】特区政府迫死《苹果日报》</a></li>
-<li><a href="/comments/20210622/1572093.md" target="_blank">陈乔恩半夜甜喊「老公」 网友猜测「结婚了？」</a></li>
-<li><a href="/comments/20210622/1572086.md" target="_blank">没有《苹果》的香港</a></li>
-<li><a href="/comments/20210622/1572085.md" target="_blank">【小说连载】天堂梦（3）</a></li>
-<li><a href="/comments/20210622/1572084.md" target="_blank">【小说连载】天堂梦（4）</a></li>
-<li><a href="/comments/20210622/1572083.md" target="_blank">【小说连载】天堂梦（5）</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
 <li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/ganwu/20170705/787156.md" target="_blank">感悟神韵（之四）：感悟神韵音乐</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
 
 </ul>
 </div>
