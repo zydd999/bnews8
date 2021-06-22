@@ -8,9 +8,7 @@
 <li><a href="/cbnews/20210621/1571373.md">确定董经纬出逃 美共和党资深委员俞怀松曝消息来源</a></li>
 <li><a href="/bannedvideo/20210621/1571257.md">美国发出迄今最严厉警告；病毒问题将是习近平二十大的噩梦；向改革派再次发出呼吁（20210621 第625期）</a></li>
 <li><a href="/bannedvideo/20210621/1571355.md">玩大了!董经纬出逃习近平亲自辟谣? 中纪委释放重大信号(启明笑谈21年6月21日)</a></li>
-<li><a href="/cbnews/20210621/1571240.md">湖北爆炸案惊动习近平 事前有人报警 当局不理</a></li>
 <li><a href="/cbnews/20210622/1571606.md">章家敦：如果董经纬叛逃属实 或导致中共垮台</a></li>
-<li><a href="/topimagenews/20210621/1571238.md">特斯拉“维权”女车主：我被恐吓了！ 网络再炸锅 【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20210621/1571349.md">中国半壁河山电荒噩梦重演 618购物节消费显疲态 “幽灵舰队”正从伊朗开向中国</a></li>
 <li><a href="/cnnews/20210622/1571589.md">求生欲满满，潘石屹夫妇全身而退了</a></li>
 <li><a href="/comments/20210621/1571364.md">印度男孩最新预言，即将爆发新一波*疫*情。他的预言正在兑现吗？</a></li>
@@ -18,16 +16,18 @@
 <li><a href="/funmedia/20210622/1571647.md">俗语说“南方开车不知谁穷，北方开车不知谁富”，为何会这样说？</a></li>
 <li><a href="/cbnews/20210622/1571603.md">美共和党高层称确认董经纬出逃 国际媒体跟进报导</a></li>
 <li><a href="/yule/20210622/1571693.md">网曝吴亦凡退圈：已是高风险艺人 还不如体面离开</a></li>
-<li><a href="/health/20210621/1571246.md">40岁后的男人别太节俭，常吃4种食物，补充雄性激素，帮助抗衰老</a></li>
 <li><a href="/lifebaike/20210621/1571322.md">你想过吗：打电话的骗子，为什么普通话总说不好</a></li>
 <li><a href="/cnnews/20210622/1571590.md">G7峰会这声明一出 中共立马被逼急了？</a></li>
 <li><a href="/cbnews/20210622/1571600.md">跳楼的太多！ 传海口市通知小区锁上天台门</a></li>
 <li><a href="/cbnews/20210621/1571374.md">七国集团抗共原因曝光 战狼威胁文件惹众怒</a></li>
 <li><a href="/cnnews/20210622/1571634.md">病毒溯源：紧跟苏利文警告，白宫正式表态</a></li>
+<li><a href="/cnnews/20210622/1571812.md">江泽民被降级！习近平把中共百年划分四个阶段 【阿波罗网报道】</a></li>
+<li><a href="/lifebaike/20210622/1571809.md">突发！各大银行宣布：7月1日起，这些银行卡将被强制注销</a></li>
 <li><a href="/comments/20210621/1571304.md">预言二战、总统意外身亡的美国著名先知凯西，通过回溯前世今生，帮人破解此生羁绊。看人遭劫，无动于衷，甚至嘲笑，今生却落得如此下场⋯⋯</a></li>
 <li><a href="/comments/20210622/1571528.md">湖北十堰爆炸案惊动习近平 爆炸前一小时内情曝光 应勇仕途或受影响 会上震怒：干部要有半夜惊醒的警觉</a></li>
-<li><a href="/cnnews/20210622/1571812.md">江泽民被降级！习近平把中共百年划分四个阶段 【阿波罗网报道】</a></li>
 <li><a href="/comments/20210622/1571487.md">习近平喊话董经纬，誓言保守党的秘密。叛逃潮势不可挡，政治风暴即将登陆。│#熊猫侠</a></li>
+<li><a href="/bannedvideo/20210622/1571580.md">美国资深中国问题专家: 太爆炸了 ! 董经纬叛逃美国势必导致美中关系彻底断裂 习近平时刻面临一夜之间下台 中国政坛将巨变 董经纬女儿个人资料曝光</a></li>
+<li><a href="/topimagenews/20210622/1571863.md">北京或面临更大问题！美媒：董经纬-中共投诚者之谜加深【阿波罗网编译报道】</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210622/1571980.md" target="_blank">美军秀肌肉！F-35B闪电Ⅱ、MV-22B鱼鹰扼守南海门户 曝光“新跳岛”战术</a></li>
 <li><a href="/cbnews/20210622/1571910.md" target="_blank">大纪元：法治还是人治？文件曝中共谎言</a></li>
 <li><a href="/cbnews/20210622/1571909.md" target="_blank">杀复旦数学院党委书记 教师姜文华被批捕</a></li>
 <li><a href="/cbnews/20210622/1571884.md" target="_blank">湖北爆炸内情曝光 应勇“半夜惊醒” 仕途受瞩</a></li>
@@ -60,13 +61,13 @@
 <li><a href="/cbnews/20210622/1571606.md" target="_blank">章家敦：如果董经纬叛逃属实 或导致中共垮台</a></li>
 <li><a href="/cbnews/20210622/1571605.md" target="_blank">中共搞出91种“精神” 专家：这是一场精神病</a></li>
 <li><a href="/cbnews/20210622/1571604.md" target="_blank">参加欧盟安全会议 日本敦促扩大合作对抗中共</a></li>
-<li><a href="/cbnews/20210622/1571603.md" target="_blank">美共和党高层称确认董经纬出逃 国际媒体跟进报导</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20210622/1571979.md" target="_blank">借董经纬一举摧毁习近平？大外宣“帮忙”宣传投诚传闻 【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20210622/1571863.md" target="_blank">北京或面临更大问题！美媒：董经纬-中共投诚者之谜加深【阿波罗网编译报道】</a></li>
 <li><a href="/topimagenews/20210621/1571349.md" target="_blank">中国半壁河山电荒噩梦重演 618购物节消费显疲态 “幽灵舰队”正从伊朗开向中国</a></li>
 <li><a href="/topimagenews/20210621/1571238.md" target="_blank">特斯拉“维权”女车主：我被恐吓了！ 网络再炸锅 【阿波罗网报道】</a></li>
@@ -91,13 +92,15 @@
 <li><a href="/topimagenews/20210614/1566288.md" target="_blank">习近平急了？亲信治下大爆炸150死伤+；广州官方吹风要大爆发？北京变平壤1个月</a></li>
 <li><a href="/topimagenews/20210614/1566204.md" target="_blank">中国大陆国产手机系统已成为中共监控工具【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20210614/1566191.md" target="_blank">寝食难安 中国楼市泡沫夺2个世界第一 澳联美反共最新大动作</a></li>
-<li><a href="/topimagenews/20210613/1565974.md" target="_blank">美军大杀器：B-21隐身轰炸机</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210622/1571973.md" target="_blank">【一分钟料理】小炒香辣豆干</a></li>
+<li><a href="/comments/20210622/1571969.md" target="_blank">【国安拘苹果高层】梁振英向壹传媒董事发律师信 质疑未交代最新营运情况</a></li>
+<li><a href="/comments/20210622/1571968.md" target="_blank">我们心中的苹果，永不枯萎</a></li>
 <li><a href="/comments/20210622/1571939.md" target="_blank">&quot;阴虚&quot;怎么办？补阴十大食物</a></li>
 <li><a href="/comments/20210622/1571938.md" target="_blank">别让维生素变成“危生素”</a></li>
 <li><a href="/comments/20210622/1571937.md" target="_blank">美国：这样吃重症风险降低73％</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210622/1571824.md" target="_blank">“一片混乱” CGTN外国前雇员揭习近平访美内幕</a></li>
 <li><a href="/comments/20210622/1571823.md" target="_blank">入境隔离有所放宽，中国疫苗仍不被加拿大认可</a></li>
 <li><a href="/comments/20210622/1571822.md" target="_blank">香港国安法打击下 导致最后的民主派报业媒体倒闭</a></li>
-<li><a href="/comments/20210622/1571820.md" target="_blank">众议院将“生死表决”！苹果谷歌亚马逊瑟瑟发抖；顶级中共高官董经纬叛逃  章家敦：中共或一夜变天；伊朗新总统强硬回拜登；退伍军人部将支付变性费用【希望之声-北美新闻-2021/06/21】</a></li>
-<li><a href="/comments/20210622/1571808.md" target="_blank">周晓辉：哈工大副校长跳楼与广东核电厂出事 大胆推断</a></li>
-<li><a href="/comments/20210622/1571807.md" target="_blank">叶书：中共事故维稳五部曲</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/comments/20210612/1565472.md" target="_blank">感悟神韵（之二）：感悟神韵的艺术风格</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
 <li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
 
 </ul>
 </div>
