@@ -17,11 +17,11 @@
 <li><a href="/cbnews/20210622/1571603.md">美共和党高层称确认董经纬出逃 国际媒体跟进报导</a></li>
 <li><a href="/lifebaike/20210621/1571322.md">你想过吗：打电话的骗子，为什么普通话总说不好</a></li>
 <li><a href="/yule/20210622/1571693.md">网曝吴亦凡退圈：已是高风险艺人 还不如体面离开</a></li>
+<li><a href="/cnnews/20210622/1571812.md">江泽民被降级！习近平把中共百年划分四个阶段 【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20210622/1571863.md">北京或面临更大问题！美媒：董经纬-中共投诚者之谜加深【阿波罗网编译报道】</a></li>
 <li><a href="/cnnews/20210622/1571590.md">G7峰会这声明一出 中共立马被逼急了？</a></li>
 <li><a href="/cbnews/20210622/1571600.md">跳楼的太多！ 传海口市通知小区锁上天台门</a></li>
-<li><a href="/cnnews/20210622/1571812.md">江泽民被降级！习近平把中共百年划分四个阶段 【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20210621/1571374.md">七国集团抗共原因曝光 战狼威胁文件惹众怒</a></li>
-<li><a href="/topimagenews/20210622/1571863.md">北京或面临更大问题！美媒：董经纬-中共投诚者之谜加深【阿波罗网编译报道】</a></li>
 <li><a href="/cnnews/20210622/1571634.md">病毒溯源：紧跟苏利文警告，白宫正式表态</a></li>
 <li><a href="/comments/20210622/1571528.md">湖北十堰爆炸案惊动习近平 爆炸前一小时内情曝光 应勇仕途或受影响 会上震怒：干部要有半夜惊醒的警觉</a></li>
 <li><a href="/comments/20210621/1571304.md">预言二战、总统意外身亡的美国著名先知凯西，通过回溯前世今生，帮人破解此生羁绊。看人遭劫，无动于衷，甚至嘲笑，今生却落得如此下场⋯⋯</a></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210622/1572007.md" target="_blank">赵立坚：美国至少有50万人遭受现代奴役 评论彻底翻车</a></li>
 <li><a href="/cbnews/20210622/1572002.md" target="_blank">美专家就中俄问题施压拜登：光尖锐批评不够</a></li>
 <li><a href="/comments/20210622/1571998.md" target="_blank">💥瑞典国会通过不信任案 总理勒夫文政府垮台；白俄罗斯强迫客机转降逮人 欧盟制裁主要产业；中共严打虚拟币 央行新指令 比特币暴跌；德国对苹果展开垄断调查【希望之声TV-午夜新闻-2021/06/21】</a></li>
 <li><a href="/cbnews/20210622/1571980.md" target="_blank">美军秀肌肉！F-35B闪电Ⅱ、MV-22B鱼鹰扼守南海门户 曝光“新跳岛”战术</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/comments/20210622/1571685.md" target="_blank">《美国补偿法案》要冻结中共资产？疫情追责能让中共垮台么？【希望之声TV-新闻焦点解读-2021/06/21】主持:高洁  嘉宾： 袁弓夷  林晓旭</a></li>
 <li><a href="/cbnews/20210622/1571678.md" target="_blank">一带一路中美洲大变调</a></li>
 <li><a href="/cbnews/20210622/1571658.md" target="_blank">陆大学生吁求装空调 当局严防学生学革命剧</a></li>
-<li><a href="/cbnews/20210622/1571606.md" target="_blank">章家敦：如果董经纬叛逃属实 或导致中共垮台</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
 <li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
+<li><a href="/comments/20210611/1564824.md" target="_blank">【曾铮专栏】感悟神韵（之一）神韵的主旨</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
 <li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
 
 </ul>
 </div>
