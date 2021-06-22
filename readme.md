@@ -6,9 +6,9 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cbnews/20210622/1571606.md">章家敦：如果董经纬叛逃属实 或导致中共垮台</a></li>
+<li><a href="/lifebaike/20210622/1571809.md">突发！各大银行宣布：7月1日起，这些银行卡将被强制注销</a></li>
 <li><a href="/cnnews/20210622/1571589.md">求生欲满满，潘石屹夫妇全身而退了</a></li>
 <li><a href="/cbnews/20210622/1571830.md">董经纬是某野心家的人？习近平布局三年疑出乱子</a></li>
-<li><a href="/lifebaike/20210622/1571809.md">突发！各大银行宣布：7月1日起，这些银行卡将被强制注销</a></li>
 <li><a href="/topimagenews/20210622/1571979.md">借董经纬一举摧毁习近平？大外宣“帮忙”宣传投诚传闻 【阿波罗网报道】</a></li>
 <li><a href="/funmedia/20210622/1571647.md">俗语说“南方开车不知谁穷，北方开车不知谁富”，为何会这样说？</a></li>
 <li><a href="/topimagenews/20210622/1571863.md">北京或面临更大问题！美媒：董经纬-中共投诚者之谜加深【阿波罗网编译报道】</a></li>
@@ -17,10 +17,10 @@
 <li><a href="/cnnews/20210622/1571590.md">G7峰会这声明一出 中共立马被逼急了？</a></li>
 <li><a href="/cbnews/20210622/1572007.md">赵立坚：美国至少有50万人遭受现代奴役 评论彻底翻车</a></li>
 <li><a href="/cbnews/20210622/1571600.md">跳楼的太多！ 传海口市通知小区锁上天台门</a></li>
-<li><a href="/cnnews/20210622/1571812.md">江泽民被降级！习近平把中共百年划分四个阶段 【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20210622/1572011.md">躺平的韭菜不好割 传中共要求电商下架“躺平”商品</a></li>
-<li><a href="/cnnews/20210622/1571634.md">病毒溯源：紧跟苏利文警告，白宫正式表态</a></li>
+<li><a href="/cnnews/20210622/1571812.md">江泽民被降级！习近平把中共百年划分四个阶段 【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20210622/1572074.md">广东佛山爆发群体抗议封城事件 民众高呼：“解封！解封！解封！”</a></li>
+<li><a href="/cnnews/20210622/1571634.md">病毒溯源：紧跟苏利文警告，白宫正式表态</a></li>
 <li><a href="/comments/20210622/1571887.md">中共百年党庆将至 习近平大位受威胁 法媒：出了几件诡异的事</a></li>
 <li><a href="/comments/20210622/1571528.md">湖北十堰爆炸案惊动习近平 爆炸前一小时内情曝光 应勇仕途或受影响 会上震怒：干部要有半夜惊醒的警觉</a></li>
 <li><a href="/bannedvideo/20210622/1571580.md">美国资深中国问题专家: 太爆炸了 ! 董经纬叛逃美国势必导致美中关系彻底断裂 习近平时刻面临一夜之间下台 中国政坛将巨变 董经纬女儿个人资料曝光</a></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210623/1572245.md" target="_blank">前美官员：应重金鼓励中共官员投诚；白宫：将向中共施压查病毒起源；台驻港官员被迫撤离 美国务院表态与台湾站一起；电信诈骗侵袭大陆校园 一年卷走学生数十亿【希望之声TV-两岸要闻-2021/06/21】</a></li>
 <li><a href="/comments/20210622/1571945.md" target="_blank">中共国新冠生化战的三阶段，及下一波攻击预估 — 曾节明</a></li>
 <li><a href="/cbnews/20210622/1572217.md" target="_blank">我一生中最后悔的事：入党</a></li>
 <li><a href="/cbnews/20210622/1572170.md" target="_blank">麦卡锡提问责中共8大计划 经济制裁</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210622/1571910.md" target="_blank">大纪元：法治还是人治？文件曝中共谎言</a></li>
 <li><a href="/cbnews/20210622/1571909.md" target="_blank">杀复旦数学院党委书记 教师姜文华被批捕</a></li>
 <li><a href="/cbnews/20210622/1571884.md" target="_blank">湖北爆炸内情曝光 应勇“半夜惊醒” 仕途受瞩</a></li>
-<li><a href="/cbnews/20210622/1571874.md" target="_blank">中国教授研究用马克思推翻爱因斯坦 网友直呼荒唐</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210623/1572245.md" target="_blank">前美官员：应重金鼓励中共官员投诚；白宫：将向中共施压查病毒起源；台驻港官员被迫撤离 美国务院表态与台湾站一起；电信诈骗侵袭大陆校园 一年卷走学生数十亿【希望之声TV-两岸要闻-2021/06/21】</a></li>
 <li><a href="/comments/20210623/1572242.md" target="_blank">夏至后多吃这两种食物，清热消暑，顺利过三伏</a></li>
 <li><a href="/comments/20210623/1572241.md" target="_blank">选择适合你的水果，不生湿、不寒凉、不伤脾</a></li>
 <li><a href="/comments/20210623/1572240.md" target="_blank">鸡腿鸡翅营养价值公开！ 富含「这项」营养素</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210622/1572085.md" target="_blank">【小说连载】天堂梦（3）</a></li>
 <li><a href="/comments/20210622/1572084.md" target="_blank">【小说连载】天堂梦（4）</a></li>
 <li><a href="/comments/20210622/1572083.md" target="_blank">【小说连载】天堂梦（5）</a></li>
-<li><a href="/comments/20210622/1572082.md" target="_blank">【小说连载】天堂梦（6）</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
 <li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/ganwu/20170705/787156.md" target="_blank">感悟神韵（之四）：感悟神韵音乐</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
 <li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
 
 </ul>
 </div>
