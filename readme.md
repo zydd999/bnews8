@@ -12,22 +12,22 @@
 <li><a href="/topimagenews/20210623/1572334.md">48岁新华社分社副社长陈晓虎身亡 干过那些大坏事？</a></li>
 <li><a href="/cnnews/20210623/1572352.md">网传上海外滩夜空现巨大三角形不明飞行物</a></li>
 <li><a href="/comments/20210622/1571887.md">中共百年党庆将至 习近平大位受威胁 法媒：出了几件诡异的事</a></li>
-<li><a href="/cbnews/20210623/1572335.md">宁波打桩机砸中轿车两死 死者传为名企老总</a></li>
-<li><a href="/cbnews/20210622/1572120.md">浙江多地紧急通知：相关人员速去检测</a></li>
 <li><a href="/bannedvideo/20210623/1572357.md">6月22号  川普总统重磅声明：真相即将展现 令人震惊！</a></li>
 <li><a href="/yule/20210623/1572353.md">与梁朝伟同居6年分手 独自将儿子抚养长大</a></li>
+<li><a href="/cbnews/20210623/1572335.md">宁波打桩机砸中轿车两死 死者传为名企老总</a></li>
+<li><a href="/cbnews/20210622/1572120.md">浙江多地紧急通知：相关人员速去检测</a></li>
 <li><a href="/cbnews/20210622/1571884.md">湖北爆炸内情曝光 应勇“半夜惊醒” 仕途受瞩</a></li>
 <li><a href="/comments/20210623/1572251.md">中共驻美大使突然宣布将离任 传习近平首席礼宾官接任</a></li>
 <li><a href="/comments/20210623/1572289.md">百年党庆来临，董经纬送花圈，董经纬到底是谁的人？内斗白热化公开化。│#熊猫侠</a></li>
 <li><a href="/cnnews/20210622/1572220.md">广东佛山因封区延长引千人抗议 官方维稳爆冲突</a></li>
+<li><a href="/funmedia/20210623/1572371.md">同学聚会的“怪现象”，有人随叫随到，有人请不动，学霸是哪种？</a></li>
 <li><a href="/cbnews/20210622/1572147.md">CGTN编辑爆习访美出状况 编辑室恐慌大叫</a></li>
+<li><a href="/ssgc/20210623/1572429.md">〖兲朝浮世绘〗这是欺负习近平没文化 骗项目经费的</a></li>
 <li><a href="/cnnews/20210622/1571995.md">甘于被“围猎” 内蒙古前女市长贪腐奢靡打 15万一支美容针</a></li>
 <li><a href="/cbnews/20210622/1572143.md">女儿遭轮奸险被灭口8年不立案 母伸冤被刑拘</a></li>
 <li><a href="/comments/20210622/1571945.md">中共国新冠生化战的三阶段，及下一波攻击预估 — 曾节明</a></li>
-<li><a href="/funmedia/20210623/1572371.md">同学聚会的“怪现象”，有人随叫随到，有人请不动，学霸是哪种？</a></li>
 <li><a href="/cbnews/20210622/1572141.md">福建省龙岩摆酒席突发意外 遮阳布拉倒楼顶围墙 9死7伤</a></li>
 <li><a href="/comments/20210622/1572003.md">王友群：三次叛逃对中共都似晴天霹雳</a></li>
-<li><a href="/cbnews/20210623/1572297.md">堪比抢茅台 590元1粒片仔癀 开店10分钟卖光</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210623/1572616.md" target="_blank">【47 人案】还押近 3 个半月 邹家成获批保释 离开法院时称：坏时代系好作品温床</a></li>
 <li><a href="/comments/20210623/1572590.md" target="_blank">《苹果》传停刊之际 黎智英获「伊菲尔新闻自由奖」</a></li>
 <li><a href="/comments/20210623/1572582.md" target="_blank">指控川普案被驳回 川普状告纽约政府；美被害警察激增超40%；亚利桑那审计公布在即；马斯克受挫  德州调查SpaceX；紧跟苏利文警告 白宫正式对中共表态【希望之声-北美新闻-2021/06/22】</a></li>
 <li><a href="/comments/20210623/1572581.md" target="_blank">港媒爆：“叼盘”胡锡进将退休 人民日报副主任入驻环时交接</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210623/1572457.md" target="_blank">两件事情都是属实的 但这些都不可以说</a></li>
 <li><a href="/comments/20210623/1572456.md" target="_blank">盘点一下这些国家的“多孩福利” 中国爹妈别哭</a></li>
 <li><a href="/comments/20210623/1572447.md" target="_blank">专访程晓农：美中关系是否又要经历一个轮回？ 中共当年为什么非改革不可？中共“改革”铺下了今日中美冲突的基础</a></li>
-<li><a href="/comments/20210623/1572440.md" target="_blank">唯色RFA博客：在冈仁波齐遇到的行脚僧，及圣山南面的藏人与流亡的精神领袖（十二）</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
-<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
 
 </ul>
 </div>
