@@ -13,21 +13,21 @@
 <li><a href="/cbnews/20210622/1572074.md">广东佛山爆发群体抗议封城事件 民众高呼：“解封！解封！解封！”</a></li>
 <li><a href="/cnnews/20210622/1571812.md">江泽民被降级！习近平把中共百年划分四个阶段 【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20210622/1572011.md">躺平的韭菜不好割 传中共要求电商下架“躺平”商品</a></li>
-<li><a href="/comments/20210622/1571887.md">中共百年党庆将至 习近平大位受威胁 法媒：出了几件诡异的事</a></li>
 <li><a href="/topimagenews/20210623/1572334.md">48岁新华社分社副社长陈晓虎身亡 干过那些大坏事？</a></li>
-<li><a href="/cbnews/20210622/1572120.md">浙江多地紧急通知：相关人员速去检测</a></li>
-<li><a href="/cbnews/20210622/1571884.md">湖北爆炸内情曝光 应勇“半夜惊醒” 仕途受瞩</a></li>
-<li><a href="/comments/20210623/1572251.md">中共驻美大使突然宣布将离任 传习近平首席礼宾官接任</a></li>
-<li><a href="/cnnews/20210622/1571766.md">宁波黑人外教奸杀女生事件 胡锡进言论惹议</a></li>
-<li><a href="/comments/20210622/1571082.md">董经纬的叛逃让拜登恼羞成怒、左右为难 — 曾节明</a></li>
+<li><a href="/comments/20210622/1571887.md">中共百年党庆将至 习近平大位受威胁 法媒：出了几件诡异的事</a></li>
 <li><a href="/cnnews/20210623/1572352.md">网传上海外滩夜空现巨大三角形不明飞行物</a></li>
-<li><a href="/cnnews/20210622/1572220.md">广东佛山因封区延长引千人抗议 官方维稳爆冲突</a></li>
+<li><a href="/cbnews/20210622/1572120.md">浙江多地紧急通知：相关人员速去检测</a></li>
+<li><a href="/comments/20210623/1572251.md">中共驻美大使突然宣布将离任 传习近平首席礼宾官接任</a></li>
+<li><a href="/cbnews/20210622/1571884.md">湖北爆炸内情曝光 应勇“半夜惊醒” 仕途受瞩</a></li>
 <li><a href="/cbnews/20210623/1572335.md">宁波打桩机砸中轿车两死 死者传为名企老总</a></li>
+<li><a href="/cnnews/20210622/1572220.md">广东佛山因封区延长引千人抗议 官方维稳爆冲突</a></li>
+<li><a href="/comments/20210623/1572289.md">百年党庆来临，董经纬送花圈，董经纬到底是谁的人？内斗白热化公开化。│#熊猫侠</a></li>
 <li><a href="/cbnews/20210622/1572147.md">CGTN编辑爆习访美出状况 编辑室恐慌大叫</a></li>
 <li><a href="/cnnews/20210622/1571995.md">甘于被“围猎” 内蒙古前女市长贪腐奢靡打 15万一支美容针</a></li>
-<li><a href="/ssgc/20210622/1571771.md">〖兲朝浮世绘〗杀得了一份报纸，杀不死香港人心</a></li>
-<li><a href="/comments/20210623/1572289.md">百年党庆来临，董经纬送花圈，董经纬到底是谁的人？内斗白热化公开化。│#熊猫侠</a></li>
+<li><a href="/yule/20210623/1572353.md">与梁朝伟同居6年分手 独自将儿子抚养长大</a></li>
 <li><a href="/cbnews/20210622/1571831.md">美媒：中共抗日是谎言 毛泽东曾勾结日军</a></li>
+<li><a href="/cbnews/20210622/1572143.md">女儿遭轮奸险被灭口8年不立案 母伸冤被刑拘</a></li>
+<li><a href="/cbnews/20210622/1572141.md">福建省龙岩摆酒席突发意外 遮阳布拉倒楼顶围墙 9死7伤</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210623/1572513.md" target="_blank">石铭：中共抓捕冤判虐杀法轮功学员不停手</a></li>
+<li><a href="/comments/20210623/1572512.md" target="_blank">田云：姜文华被批捕 复旦杀人案后续引关注</a></li>
+<li><a href="/comments/20210623/1572511.md" target="_blank">石山：文革2.0 大陆再批爱因斯坦</a></li>
+<li><a href="/comments/20210623/1572510.md" target="_blank">周晓辉： 国企改革毁掉东北 肥了中共权贵集团</a></li>
 <li><a href="/comments/20210623/1572483.md" target="_blank">胡锡进即将卸职 《环球时报》总编辑接替人选进驻交接 中南海谣言预言_482</a></li>
 <li><a href="/comments/20210623/1572480.md" target="_blank">青年实业家：美需重建身份认知 以克服觉醒主义分裂</a></li>
 <li><a href="/comments/20210623/1572475.md" target="_blank">章天亮: 美国警告将孤立中共 习近平极可能自封党主席</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210623/1572360.md" target="_blank">40多国发联合声明 促北京允许联合国入新疆调查</a></li>
 <li><a href="/comments/20210623/1572359.md" target="_blank">多家银行收紧对恒大融资</a></li>
 <li><a href="/comments/20210623/1572340.md" target="_blank">诗一首：《七绝 品茗 》- 父亲节有感</a></li>
-<li><a href="/comments/20210623/1572339.md" target="_blank">诗一首： 《善》</a></li>
-<li><a href="/comments/20210623/1572330.md" target="_blank">董明珠给自己发7亿红包 被指“吃相难看”</a></li>
-<li><a href="/comments/20210623/1572313.md" target="_blank">【最后的苹果？】 执行总编辑：目标维持报纸运作至 6.25 消息指各组仍有人手应付运作</a></li>
-<li><a href="/comments/20210623/1572312.md" target="_blank">袭警罪成 朋友代发声明将上诉 美籍银行律师：裁决显示法官舍弃基本法律原则</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
 <li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
 <li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
-<li><a href="/comments/20210329/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
 
 </ul>
 </div>
