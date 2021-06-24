@@ -14,6 +14,7 @@
 <li><a href="/topimagenews/20210624/1573598.md">以色列新政府对中共变脸 德百年豪车厂被中收购6年破产 你敢住？中28小时盖好10层楼</a></li>
 <li><a href="/bannedvideo/20210624/1573588.md">郭文贵爆料中共某省安全厅情报处处长三月份全家叛逃</a></li>
 <li><a href="/comments/20210624/1573360.md">董经纬真“露面” 但一细节或非简单巧合？山雨欲来！蔡霞谈中共政局</a></li>
+<li><a href="/cbnews/20210625/1573844.md">俞怀松：董经纬仍在美国 中共释放的是PS照片</a></li>
 <li><a href="/cbnews/20210624/1573454.md">中共官媒报道：董经纬露面 【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20210624/1573345.md">💥美国政府就董经纬发话！含重要信息；又有两高官出逃？！有一人带4千比特币；拜登要约习近平对话，说“是时候了”，拟派人访华；广州可怕变种，14秒感染；港府强逼停刊，苹果社论成热搜｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/comments/20210624/1573407.md">中共多名情报高官携带重大机密情报叛逃 福建驻军对台作战部门高官挟带对台作战机密叛逃 郭文贵帮助某省安全厅情报处长携带军事设施及阿里巴巴数据中心情报叛逃 中南海谣言预言_483</a></li>
@@ -22,7 +23,6 @@
 <li><a href="/cbnews/20210624/1573694.md">旦夕祸福：中国亿万富豪接归国爱女回家 遭打桩机重砸致死</a></li>
 <li><a href="/bannedvideo/20210624/1573460.md">习近平最需要的东西他没有，这只官场老狐狸还想成为政治局常委--天钧政经</a></li>
 <li><a href="/comments/20210624/1573558.md">好消息！</a></li>
-<li><a href="/cbnews/20210625/1573844.md">俞怀松：董经纬仍在美国 中共释放的是PS照片</a></li>
 <li><a href="/cbnews/20210624/1573622.md">赵立坚大意说出真心话？“与各国分享反共经验"</a></li>
 <li><a href="/cnnews/20210624/1573652.md">宁坐宝马里哭 马诺没坐上宝马 日子也不如当年</a></li>
 <li><a href="/topimagenews/20210624/1573398.md">习近平身畔一片“教主千秋万载，一统江湖”声中 暗藏无数杀机【阿波罗网报道】</a></li>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210625/1573902.md" target="_blank">存安全疑虑 瑙鲁拒中资太平洋海底电缆铺设竞标</a></li>
+<li><a href="/comments/20210625/1573897.md" target="_blank">苹果日报被迫停刊 拜登发声谴责北京</a></li>
+<li><a href="/comments/20210625/1573896.md" target="_blank">将参加大陆综艺节目？ 刘德华直接回应了</a></li>
+<li><a href="/comments/20210625/1573894.md" target="_blank">中朝突然展开系列外交活动 金与正强硬怼美国</a></li>
 <li><a href="/comments/20210625/1573893.md" target="_blank">哈佛天文学家：星际天体奥陌陌或是UFO类探测器</a></li>
 <li><a href="/comments/20210625/1573889.md" target="_blank">章家敦：拜登应严惩中共 而非新一轮接触</a></li>
 <li><a href="/comments/20210625/1573888.md" target="_blank">英国更新绿色旅行名单 6月30日起实施</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210625/1573793.md" target="_blank">诡异 董经纬被官方发“露面”照；川普视察边境 哈里斯也争先？《苹果》最后一夜 百万发行市民爆买；真假？美将军自称非“共产者”；上海现巨大三角形UFO【希望之声TV-环球看点-2021/6/24】</a></li>
 <li><a href="/comments/20210625/1573792.md" target="_blank">诗一首：《轮回》</a></li>
 <li><a href="/comments/20210625/1573791.md" target="_blank">【苹果终章．图辑】《苹果日报》编辑室的最后一夜 掌声中编写终章 执总林文宗：多谢香港人</a></li>
-<li><a href="/comments/20210625/1573790.md" target="_blank">汇丰可信吗？</a></li>
-<li><a href="/comments/20210625/1573789.md" target="_blank">无线引消息：李家超升任政务司司长 邓炳强任保安局长 萧泽颐任警务处长</a></li>
-<li><a href="/comments/20210625/1573788.md" target="_blank">风雨中接棒香港记协 陈朗升：坚守价值</a></li>
-<li><a href="/comments/20210625/1573786.md" target="_blank">中国天价拍卖品牵出贪官 主人获无期徒刑</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/ganwu/20170705/787156.md" target="_blank">感悟神韵（之四）：感悟神韵音乐</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
 
 </ul>
 </div>
