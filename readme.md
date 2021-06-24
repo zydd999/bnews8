@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/topimagenews/20210623/1572879.md">罕见！美联邦官员就董经纬事件主动出面发声！【阿波罗网报道】</a></li>
-<li><a href="/cnnews/20210623/1572850.md">朱元璋灭元后如何处置10万蒙古女子</a></li>
 <li><a href="/comments/20210624/1573337.md">没叛逃？董经纬陪赵克志开会 官方发露面照</a></li>
 <li><a href="/health/20210624/1573130.md">中国的“性传播疾病”增长太快了！常见的有5种，男女都要小心了</a></li>
 <li><a href="/cbnews/20210623/1572941.md">杨威：崔天凯“擅自”宣布离任 背后有隐情？</a></li>
@@ -16,18 +15,19 @@
 <li><a href="/cnnews/20210624/1573194.md">山雨欲来！前中共党校教授：中国局势恐失控</a></li>
 <li><a href="/cnnews/20210623/1572915.md">福奇再次改口：新冠病毒不可能来自中国实验室</a></li>
 <li><a href="/cbnews/20210624/1573191.md">习近平同航天员通话 网友：对话事先编好的</a></li>
+<li><a href="/bannedvideo/20210624/1573345.md">💥美国政府就董经纬发话！含重要信息；又有两高官出逃？！有一人带4千比特币；拜登要约习近平对话，说“是时候了”，拟派人访华；广州可怕变种，14秒感染；港府强逼停刊，苹果社论成热搜｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/comments/20210624/1573217.md">国会议员称有2位叛逃者！美官员辟谣了？“叛逃者”大戏扑簌迷离；崔天凯离任；疫情追责下，美中关系无可缓和？</a></li>
 <li><a href="/health/20210624/1573118.md">99%的血栓无征兆，记住一个字，让你一生无栓</a></li>
-<li><a href="/bannedvideo/20210624/1573345.md">💥美国政府就董经纬发话！含重要信息；又有两高官出逃？！有一人带4千比特币；拜登要约习近平对话，说“是时候了”，拟派人访华；广州可怕变种，14秒感染；港府强逼停刊，苹果社论成热搜｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/bannedvideo/20210624/1573002.md">首钢断煤！山西救命！红头求援函泄漏暴露中共窘境，禁购澳煤后连遭天灾人祸，为保颜面硬撑憋出内出血（坐澳观天第365期 20210624）</a></li>
-<li><a href="/ssgc/20210624/1573150.md">〖兲朝浮世绘〗中国人终于又回到了那个战天斗地的年代</a></li>
+<li><a href="/comments/20210624/1573352.md">李燕铭：董经纬陪赵克志开会 公安部官网刊登现场照 董经纬外逃被证伪 谣言水深意在分化离间习家军 中美各方势力生死搏杀正在升级 俞怀松会辞任美国共和党全国委员会委员？</a></li>
 <li><a href="/topimagenews/20210624/1573292.md">武警总队教官：干部都感觉每天是坐在火药桶上</a></li>
+<li><a href="/ssgc/20210624/1573150.md">〖兲朝浮世绘〗中国人终于又回到了那个战天斗地的年代</a></li>
 <li><a href="/worldnews/20210624/1573075.md">上海宣布调涨最低工资！中国网民一看调幅怒了</a></li>
 <li><a href="/cbnews/20210624/1573113.md">“工龄归零”逼上绝路 川男社保局割腹自杀</a></li>
 <li><a href="/comments/20210624/1573204.md">7月起强推“供销社” 未雨绸缪还是历史的倒退？中共《数据安全法》恐成美中另一以引爆点？【希望之声TV-新闻焦点解读-2021/06/23】主持:高洁  嘉宾：秦鹏  蓝述</a></li>
-<li><a href="/cbnews/20210623/1572849.md">数据证实 中国疫苗根本压不住变种病毒</a></li>
-<li><a href="/comments/20210624/1573352.md">李燕铭：董经纬陪赵克志开会 公安部官网刊登现场照 董经纬外逃被证伪 谣言水深意在分化离间习家军 中美各方势力生死搏杀正在升级 俞怀松会辞任美国共和党全国委员会委员？</a></li>
+<li><a href="/cbnews/20210624/1573415.md">萧铭：（独家）我采访了知道叛逃官员详情的官员；投诚者有两位；病毒来自生化武器项目；美国政府内有很多内奸；拜登调查病毒来源的真正原因 ｜萧茗看世界</a></li>
 <li><a href="/cnnews/20210623/1572863.md">华裔女性第一人 她将登上25美分硬币</a></li>
+<li><a href="/bannedvideo/20210624/1573146.md">赵立坚不打自招？美媒独家：美国国会正调查大疫是否最早起于2019年10月武汉军运会；武毒所一个神秘会议隐藏着什么秘密？【#秦鹏观察 6/23】</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
 <li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20210612/1565472.md" target="_blank">感悟神韵（之二）：感悟神韵的艺术风格</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/cbnews/20210331/1516754.md" target="_blank">被传销团伙围杀时 丈夫说了这句话脱险</a></li>
 <li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
 <li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
 
 </ul>
 </div>
