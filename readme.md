@@ -16,12 +16,12 @@
 <li><a href="/health/20210624/1573118.md">99%的血栓无征兆，记住一个字，让你一生无栓</a></li>
 <li><a href="/topimagenews/20210624/1573598.md">以色列新政府对中共变脸 德百年豪车厂被中收购6年破产 你敢住？中28小时盖好10层楼</a></li>
 <li><a href="/cbnews/20210624/1573454.md">中共官媒报道：董经纬露面 【阿波罗网报道】</a></li>
+<li><a href="/bannedvideo/20210624/1573588.md">郭文贵爆料中共某省安全厅情报处处长三月份全家叛逃</a></li>
 <li><a href="/bannedvideo/20210624/1573345.md">💥美国政府就董经纬发话！含重要信息；又有两高官出逃？！有一人带4千比特币；拜登要约习近平对话，说“是时候了”，拟派人访华；广州可怕变种，14秒感染；港府强逼停刊，苹果社论成热搜｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/comments/20210624/1573360.md">董经纬真“露面” 但一细节或非简单巧合？山雨欲来！蔡霞谈中共政局</a></li>
-<li><a href="/bannedvideo/20210624/1573588.md">郭文贵爆料中共某省安全厅情报处处长三月份全家叛逃</a></li>
 <li><a href="/ssgc/20210624/1573150.md">〖兲朝浮世绘〗中国人终于又回到了那个战天斗地的年代</a></li>
-<li><a href="/comments/20210624/1573352.md">李燕铭：董经纬陪赵克志开会 公安部官网刊登现场照 董经纬外逃被证伪 谣言水深意在分化离间习家军 中美各方势力生死搏杀正在升级 俞怀松会辞任美国共和党全国委员会委员？</a></li>
 <li><a href="/comments/20210624/1573407.md">中共多名情报高官携带重大机密情报叛逃 福建驻军对台作战部门高官挟带对台作战机密叛逃 郭文贵帮助某省安全厅情报处长携带军事设施及阿里巴巴数据中心情报叛逃 中南海谣言预言_483</a></li>
+<li><a href="/comments/20210624/1573352.md">李燕铭：董经纬陪赵克志开会 公安部官网刊登现场照 董经纬外逃被证伪 谣言水深意在分化离间习家军 中美各方势力生死搏杀正在升级 俞怀松会辞任美国共和党全国委员会委员？</a></li>
 <li><a href="/topimagenews/20210624/1573292.md">武警总队教官：干部都感觉每天是坐在火药桶上</a></li>
 <li><a href="/worldnews/20210624/1573075.md">上海宣布调涨最低工资！中国网民一看调幅怒了</a></li>
 <li><a href="/bannedvideo/20210624/1573460.md">习近平最需要的东西他没有，这只官场老狐狸还想成为政治局常委--天钧政经</a></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210625/1573793.md" target="_blank">诡异 董经纬被官方发“露面”照；川普视察边境 哈里斯也争先？《苹果》最后一夜 百万发行市民爆买；真假？美将军自称非“共产者”；上海现巨大三角形UFO【希望之声TV-环球看点-2021/6/24】</a></li>
 <li><a href="/cbnews/20210624/1573737.md" target="_blank">董经纬叛逃与否？中共官方发“露面”照</a></li>
 <li><a href="/cbnews/20210624/1573728.md" target="_blank">中国21条河流发生超警洪水 或遭50年一遇洪灾</a></li>
 <li><a href="/cbnews/20210624/1573710.md" target="_blank">中共百年内部分裂 三十多人组建毛派新党被秘密关押</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210624/1573365.md" target="_blank">黑龙江出现大洪水 民众：多年没见过这么大的水</a></li>
 <li><a href="/cbnews/20210624/1573354.md" target="_blank">祸起武汉疫情 王晓东去向已定 蒋超良下落不明</a></li>
 <li><a href="/cbnews/20210624/1573348.md" target="_blank">美参议员：中国人民是好人 但中共撒谎如呼吸</a></li>
-<li><a href="/cbnews/20210624/1573338.md" target="_blank">长期遭警察骚扰 吉林规划院总工程师含冤离世</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,15 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210625/1573797.md" target="_blank">美情报总监：病毒起源可能永远无法确定</a></li>
+<li><a href="/comments/20210625/1573793.md" target="_blank">诡异 董经纬被官方发“露面”照；川普视察边境 哈里斯也争先？《苹果》最后一夜 百万发行市民爆买；真假？美将军自称非“共产者”；上海现巨大三角形UFO【希望之声TV-环球看点-2021/6/24】</a></li>
+<li><a href="/comments/20210625/1573792.md" target="_blank">诗一首：《轮回》</a></li>
+<li><a href="/comments/20210625/1573791.md" target="_blank">【苹果终章．图辑】《苹果日报》编辑室的最后一夜 掌声中编写终章 执总林文宗：多谢香港人</a></li>
+<li><a href="/comments/20210625/1573790.md" target="_blank">汇丰可信吗？</a></li>
+<li><a href="/comments/20210625/1573789.md" target="_blank">无线引消息：李家超升任政务司司长 邓炳强任保安局长 萧泽颐任警务处长</a></li>
+<li><a href="/comments/20210625/1573788.md" target="_blank">风雨中接棒香港记协 陈朗升：坚守价值</a></li>
+<li><a href="/comments/20210625/1573786.md" target="_blank">中国天价拍卖品牵出贪官 主人获无期徒刑</a></li>
+<li><a href="/comments/20210625/1573785.md" target="_blank">美国加大制裁！ 又有5家中企被列入黑名单</a></li>
 <li><a href="/comments/20210625/1573782.md" target="_blank">美弗州费市通过谴责中共强摘器官决议案</a></li>
 <li><a href="/comments/20210625/1573762.md" target="_blank">诗一首：《故 里》</a></li>
 <li><a href="/comments/20210625/1573761.md" target="_blank">诗一首：：《轮回》</a></li>
@@ -114,15 +123,6 @@
 <li><a href="/comments/20210624/1573733.md" target="_blank">印度神童屡说中？以色列疫情再起 某国不安全</a></li>
 <li><a href="/comments/20210624/1573729.md" target="_blank">我曾是国企工程师，出国后成了修路工，月薪三万</a></li>
 <li><a href="/comments/20210624/1573712.md" target="_blank">董经纬陪赵克志开会露面辟谣 美国共和党全国委员会委员俞怀松再次确认：DIA依然看护着董经纬 中共官方照片是PS的 “董经纬叛逃”十大事件回顾 中南海谣言预言_484</a></li>
-<li><a href="/comments/20210624/1573707.md" target="_blank">39岁布兰妮遭父监管13年 怒喊「真的够了」</a></li>
-<li><a href="/comments/20210624/1573690.md" target="_blank">【贾先生讲故事】清平乐：范仲淹（一）北京不是北京，何为丁忧？北宋官阶</a></li>
-<li><a href="/comments/20210624/1573689.md" target="_blank">【贾先生讲故事】清平乐：范仲淹（二）长烟落日孤城闭，北宋最大违章建筑，成了西夏人的噩梦</a></li>
-<li><a href="/comments/20210624/1573688.md" target="_blank">回应俄国黑海冲突 英相约翰逊：英军舰行动完全合法</a></li>
-<li><a href="/comments/20210624/1573687.md" target="_blank">德法倡议欧俄峰会 克宫：普京也赞同</a></li>
-<li><a href="/comments/20210624/1573686.md" target="_blank">【信不信由你】神话不再是神话：宇宙文明分7等级，最后一级远超一切；人类灵魂被证实，原来形态竟是“这样”</a></li>
-<li><a href="/comments/20210624/1573685.md" target="_blank">李燕铭：董经纬陪赵克志开会露面辟谣 新华社与人民日报为何只字不提？原因揭秘 中共高层活动报道潜规则曝光</a></li>
-<li><a href="/comments/20210624/1573656.md" target="_blank">时事大家谈：百年党庆加紧内控外宣，中共自信何在？</a></li>
-<li><a href="/comments/20210624/1573644.md" target="_blank">【苹果终章】屈颖妍：《壹周刊》转攻政治“自掘坟墓” “下场只有自取灭亡”</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
 <li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
 <li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
 <li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
 
 </ul>
 </div>
