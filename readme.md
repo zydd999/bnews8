@@ -12,22 +12,22 @@
 <li><a href="/bannedvideo/20210623/1572812.md">陈破空：快讯：习近平急调三万重兵入京！不再信任国安公安。七一会不会出大事</a></li>
 <li><a href="/health/20210624/1573130.md">中国的“性传播疾病”增长太快了！常见的有5种，男女都要小心了</a></li>
 <li><a href="/cbnews/20210624/1573114.md">中共搬叛党者遭灭门案示警 蔡霞：山雨欲来</a></li>
-<li><a href="/topimagenews/20210623/1572689.md">中共恶警暴力执法 罔顾人命 激怒民众：人肉搜索他</a></li>
 <li><a href="/cbnews/20210623/1572941.md">杨威：崔天凯“擅自”宣布离任 背后有隐情？</a></li>
 <li><a href="/cbnews/20210623/1572967.md">武毒所爆丑闻 急删中共军方和国际专家信息</a></li>
-<li><a href="/comments/20210623/1572683.md">崔天凯自行宣布离任 亲北京媒体大呼：两大“意外”</a></li>
 <li><a href="/comments/20210624/1573225.md">习近平结局悲惨必将毁于此人之手，此人不是董经纬。大祸临头不可能，一尊压根儿就没错过。│#熊猫侠</a></li>
-<li><a href="/cnnews/20210624/1573194.md">山雨欲来！前中共党校教授：中国局势恐失控</a></li>
 <li><a href="/comments/20210624/1573337.md">没叛逃？董经纬陪赵克志开会 官方发露面照</a></li>
-<li><a href="/cnnews/20210623/1572714.md">辉瑞公司前执行科学家警告：接种COVID疫苗的儿童 死亡风险高50倍【阿波罗网编译】</a></li>
+<li><a href="/cnnews/20210624/1573194.md">山雨欲来！前中共党校教授：中国局势恐失控</a></li>
 <li><a href="/cbnews/20210624/1573191.md">习近平同航天员通话 网友：对话事先编好的</a></li>
+<li><a href="/cnnews/20210623/1572714.md">辉瑞公司前执行科学家警告：接种COVID疫苗的儿童 死亡风险高50倍【阿波罗网编译】</a></li>
 <li><a href="/cnnews/20210623/1572915.md">福奇再次改口：新冠病毒不可能来自中国实验室</a></li>
 <li><a href="/health/20210624/1573118.md">99%的血栓无征兆，记住一个字，让你一生无栓</a></li>
+<li><a href="/comments/20210624/1573217.md">国会议员称有2位叛逃者！美官员辟谣了？“叛逃者”大戏扑簌迷离；崔天凯离任；疫情追责下，美中关系无可缓和？</a></li>
 <li><a href="/bannedvideo/20210624/1573002.md">首钢断煤！山西救命！红头求援函泄漏暴露中共窘境，禁购澳煤后连遭天灾人祸，为保颜面硬撑憋出内出血（坐澳观天第365期 20210624）</a></li>
 <li><a href="/ssgc/20210624/1573150.md">〖兲朝浮世绘〗中国人终于又回到了那个战天斗地的年代</a></li>
 <li><a href="/cbnews/20210623/1572849.md">数据证实 中国疫苗根本压不住变种病毒</a></li>
-<li><a href="/comments/20210624/1573217.md">国会议员称有2位叛逃者！美官员辟谣了？“叛逃者”大戏扑簌迷离；崔天凯离任；疫情追责下，美中关系无可缓和？</a></li>
 <li><a href="/cbnews/20210624/1573113.md">“工龄归零”逼上绝路 川男社保局割腹自杀</a></li>
+<li><a href="/comments/20210624/1573204.md">7月起强推“供销社” 未雨绸缪还是历史的倒退？中共《数据安全法》恐成美中另一以引爆点？【希望之声TV-新闻焦点解读-2021/06/23】主持:高洁  嘉宾：秦鹏  蓝述</a></li>
+<li><a href="/cnnews/20210623/1572863.md">华裔女性第一人 她将登上25美分硬币</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210624/1573415.md" target="_blank">萧铭：（独家）我采访了知道叛逃官员详情的官员；投诚者有两位；病毒来自生化武器项目；美国政府内有很多内奸；拜登调查病毒来源的真正原因 ｜萧茗看世界</a></li>
 <li><a href="/cbnews/20210624/1573365.md" target="_blank">黑龙江出现大洪水 民众：多年没见过这么大的水</a></li>
 <li><a href="/cbnews/20210624/1573354.md" target="_blank">祸起武汉疫情 王晓东去向已定 蒋超良下落不明</a></li>
 <li><a href="/cbnews/20210624/1573348.md" target="_blank">美参议员：中国人民是好人 但中共撒谎如呼吸</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210624/1573151.md" target="_blank">文昭：广东爆发反疫情封锁抗议，由疫生乱「事赶事」，铁腕模式Hold不住了！危机自我催化</a></li>
 <li><a href="/cbnews/20210624/1573114.md" target="_blank">中共搬叛党者遭灭门案示警 蔡霞：山雨欲来</a></li>
 <li><a href="/cbnews/20210624/1573113.md" target="_blank">“工龄归零”逼上绝路 川男社保局割腹自杀</a></li>
-<li><a href="/cbnews/20210624/1573098.md" target="_blank">拜登政府被爆跟中共接触 讨论拜习会</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210624/1573407.md" target="_blank">中共多名情报高官携带重大机密情报叛逃 福建驻军对台作战部门高官挟带对台作战机密叛逃 郭文贵帮助某省安全厅情报处长携带军事设施及阿里巴巴数据中心情报叛逃 中南海谣言预言_483</a></li>
+<li><a href="/comments/20210624/1573404.md" target="_blank">「东方之盾」美日最大联合军演今登场 专家：直指中共</a></li>
+<li><a href="/comments/20210624/1573403.md" target="_blank">预防失智症 美研究：从睡饱开始</a></li>
+<li><a href="/comments/20210624/1573402.md" target="_blank">一天究竟可以吃几颗蛋？</a></li>
 <li><a href="/comments/20210624/1573367.md" target="_blank">响应国际行动 全球逾50城市吁抵制2022北京奥运会</a></li>
 <li><a href="/comments/20210624/1573364.md" target="_blank">俄军舰战机鸣枪投弹警告英驱逐舰 英国防部否认俄国防部说法 俄军公布现场视频 英军随舰记者：头上有20多架俄军飞机</a></li>
 <li><a href="/comments/20210624/1573363.md" target="_blank">【图辑】最后的苹果 最后的使命</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210624/1573305.md" target="_blank">诗二首：《登高瞰》《观天象》</a></li>
 <li><a href="/comments/20210624/1573304.md" target="_blank">【世界美景】摄影：《克罗地亚16湖国家公园》</a></li>
 <li><a href="/comments/20210624/1573301.md" target="_blank">老鱼爱吹牛： 李子丰凭啥推翻相对论？</a></li>
-<li><a href="/comments/20210624/1573300.md" target="_blank">德媒:《苹果日报》末日前夕三名记者的自白</a></li>
-<li><a href="/comments/20210624/1573299.md" target="_blank">网络民议：街上没了游行 维园没了烛光 报摊没了苹果</a></li>
-<li><a href="/comments/20210624/1573298.md" target="_blank">血案背后的复旦：中国高校的缩影</a></li>
-<li><a href="/comments/20210624/1573288.md" target="_blank">美查封伊朗国家新闻网站 ；董经纬去向成谜！美官员罕见发声！挑战川普移民政策案 最高院驳回； 密歇根县要求选举审计 ；纽约市长初选杨安泽承认败选 【希望之声-北美新闻-2021/06/23】</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
 <li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
 
 </ul>
 </div>
