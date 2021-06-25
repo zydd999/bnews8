@@ -11,8 +11,8 @@
 <li><a href="/cnnews/20210625/1574004.md">中国街头现惊悚标语 网友：中共承认附在人民身上</a></li>
 <li><a href="/topimagenews/20210625/1574189.md">新华社和习近平不同调 悄悄让江泽民露面！【阿波罗网独家报道】</a></li>
 <li><a href="/comments/20210625/1573853.md">“战狼”赵立坚也反共？官媒急剪镜头</a></li>
-<li><a href="/cnnews/20210625/1573911.md">愿生三孩育龄女子比重？西安调查结果出炉</a></li>
 <li><a href="/cbnews/20210625/1573933.md">网曝上海中环隧道轿车起火 有人惨叫 长时间没人救</a></li>
+<li><a href="/cnnews/20210625/1573911.md">愿生三孩育龄女子比重？西安调查结果出炉</a></li>
 <li><a href="/bannedvideo/20210625/1574224.md">今天北京街头，中国核应急。中共百年党庆临近，如临大敌。</a></li>
 <li><a href="/cbnews/20210625/1574020.md">俞怀松：董经纬照片是PS的</a></li>
 <li><a href="/cbnews/20210625/1573827.md">这才是拥有通天纹的正黄旗 见识下啥叫通天纹</a></li>
@@ -21,8 +21,8 @@
 <li><a href="/bannedvideo/20210625/1573909.md">🔥🔥地下挖出龙，惊动中共高层❗❗</a></li>
 <li><a href="/cnnews/20210625/1573910.md">外星人在观察人类</a></li>
 <li><a href="/comments/20210625/1574036.md">惊！拜登政府强迫他立即离职；《炒掉福奇法案》出炉：减薪到零再查他；迈阿密12层房屋倒塌 99人失踪 ；拜登就苹果日报停刊事件发表声明【希望之声-北美新闻-2021/06/24】</a></li>
-<li><a href="/comments/20210625/1573866.md">花旗：全球经济依赖中国的时代将结束</a></li>
 <li><a href="/cnnews/20210625/1574238.md">再反转？中共官媒规劝特斯拉维权女车主</a></li>
+<li><a href="/comments/20210625/1573866.md">花旗：全球经济依赖中国的时代将结束</a></li>
 <li><a href="/cbnews/20210625/1574143.md">声称“分享反共经验" 赵立坚爆“真话”视频热传</a></li>
 <li><a href="/cnnews/20210625/1574108.md">中共为建党百年删记录“不让人知道其历史”</a></li>
 <li><a href="/bannedvideo/20210625/1574187.md">最后一盏灯熄灭，香港进入准戒严状态；延长封国一年，以疫情的名义，中国已进入半军管状态（20210625 第627期）</a></li>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210626/1574480.md" target="_blank">克鲁兹提法案吁结束批判种族理论 保守派民众关注</a></li>
+<li><a href="/comments/20210626/1574479.md" target="_blank">美议员：和中共做生意有风险 必须保护产权和数据</a></li>
 <li><a href="/comments/20210626/1574458.md" target="_blank">【世界美景】视频：《伊瓜苏大瀑布》《蝴蝶龙鲤》</a></li>
 <li><a href="/comments/20210626/1574457.md" target="_blank">【画缘】怎么样画 青苹果？</a></li>
 <li><a href="/comments/20210625/1574456.md" target="_blank">拜登：我们达成了万亿美金的两党基础设施协议</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210625/1574261.md" target="_blank">洪博学：党庆到来，中南海杯弓蛇影</a></li>
 <li><a href="/comments/20210625/1574258.md" target="_blank">奇闻！西藏高僧竟转生为“西班牙人”，面对存疑的弟子，他只说了一句话，就让弟子震惊落泪；不是所有的“转世灵童”都能重回寺院，真灵童如果流落俗世，竟会是这样的结局⋯⋯</a></li>
 <li><a href="/comments/20210625/1574257.md" target="_blank">日本防卫相：台湾局势 「与日本直接相关」</a></li>
-<li><a href="/comments/20210625/1574251.md" target="_blank">亚洲出版协会卓越新闻奖《苹果》夺两奖 铿锵集〈7.21 谁主真相〉夺公共服务新闻大奖</a></li>
-<li><a href="/comments/20210625/1574250.md" target="_blank">升官</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
 <li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
 
 </ul>
 </div>
