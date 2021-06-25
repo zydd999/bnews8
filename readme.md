@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/cnnews/20210625/1573882.md">特殊嗜好 毛泽东特爱看这种片</a></li>
 <li><a href="/topimagenews/20210625/1574040.md">董经纬信息会逐步放出？资深媒体人再爆猛料：俩官员投诚！【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20210625/1574004.md">中国街头现惊悚标语 网友：中共承认附在人民身上</a></li>
 <li><a href="/topimagenews/20210625/1574189.md">新华社和习近平不同调 悄悄让江泽民露面！【阿波罗网独家报道】</a></li>
@@ -20,14 +19,15 @@
 <li><a href="/bannedvideo/20210625/1573909.md">🔥🔥地下挖出龙，惊动中共高层❗❗</a></li>
 <li><a href="/cnnews/20210625/1573910.md">外星人在观察人类</a></li>
 <li><a href="/comments/20210625/1574036.md">惊！拜登政府强迫他立即离职；《炒掉福奇法案》出炉：减薪到零再查他；迈阿密12层房屋倒塌 99人失踪 ；拜登就苹果日报停刊事件发表声明【希望之声-北美新闻-2021/06/24】</a></li>
-<li><a href="/cnnews/20210625/1574238.md">再反转？中共官媒规劝特斯拉维权女车主</a></li>
 <li><a href="/cbnews/20210625/1574392.md">遮天蔽日：中共建党百年前急删档案</a></li>
-<li><a href="/cbnews/20210625/1574143.md">声称“分享反共经验" 赵立坚爆“真话”视频热传</a></li>
+<li><a href="/cnnews/20210625/1574238.md">再反转？中共官媒规劝特斯拉维权女车主</a></li>
 <li><a href="/cnnews/20210625/1574374.md">朝鲜牡丹峰乐团集体消失！剩她1人被金正恩宠爱</a></li>
+<li><a href="/cbnews/20210625/1574143.md">声称“分享反共经验" 赵立坚爆“真话”视频热传</a></li>
 <li><a href="/cnnews/20210625/1574108.md">中共为建党百年删记录“不让人知道其历史”</a></li>
-<li><a href="/bannedvideo/20210625/1574297.md">陈破空：算计二十大，习近平最怕他！连夜召回崔天凯。美国总统撑苹果！赵立坚公开反共</a></li>
 <li><a href="/cnnews/20210625/1574411.md">一场中共不想让您看的演出</a></li>
 <li><a href="/bannedvideo/20210625/1574187.md">最后一盏灯熄灭，香港进入准戒严状态；延长封国一年，以疫情的名义，中国已进入半军管状态（20210625 第627期）</a></li>
+<li><a href="/bannedvideo/20210625/1574297.md">陈破空：算计二十大，习近平最怕他！连夜召回崔天凯。美国总统撑苹果！赵立坚公开反共</a></li>
+<li><a href="/ssgc/20210625/1574010.md">〖兲朝浮世绘〗赵立坚要分享反共经验 他原来是潜入共匪内部的反贼</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210626/1574597.md" target="_blank">喉舌滚动报佛州塌楼淡化商丘火灾 网络不满</a></li>
 <li><a href="/cbnews/20210626/1574581.md" target="_blank">中共加强言论审查 封锁外国学者LinkedIn账户</a></li>
 <li><a href="/cbnews/20210626/1574580.md" target="_blank">李现习被关押1个月致死 河南安阳看守所酷刑曝光</a></li>
 <li><a href="/cbnews/20210626/1574579.md" target="_blank">北京上海“小三”、“二奶”培训班生意火爆</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210625/1574268.md" target="_blank">中国南方迎入汛以来最强降雨 局地有特大暴雨</a></li>
 <li><a href="/cbnews/20210625/1574267.md" target="_blank">贫困寨办合作社传承彝族文化遭强拆</a></li>
 <li><a href="/comments/20210625/1574258.md" target="_blank">奇闻！西藏高僧竟转生为“西班牙人”，面对存疑的弟子，他只说了一句话，就让弟子震惊落泪；不是所有的“转世灵童”都能重回寺院，真灵童如果流落俗世，竟会是这样的结局⋯⋯</a></li>
-<li><a href="/cbnews/20210625/1574143.md" target="_blank">声称“分享反共经验&#8221; 赵立坚爆“真话”视频热传</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210626/1574602.md" target="_blank">美众议员乔丹抨击大科技资助病毒研究又阻挡溯源</a></li>
+<li><a href="/comments/20210626/1574601.md" target="_blank">德法提议遇阻 欧盟领导人拒绝重启与俄高峰会</a></li>
+<li><a href="/comments/20210626/1574596.md" target="_blank">【当苹果堕下．2】香港最后一份异见报纸 黎智英和《苹果日报》的时代抉择</a></li>
+<li><a href="/comments/20210626/1574595.md" target="_blank">网曝上海隧道轿车起火 女子惨叫直至无声 没人敢救</a></li>
+<li><a href="/comments/20210626/1574594.md" target="_blank">【笑看世界专栏】 真人真事改编的微电影：《一次成功的审问》二十年来中共对善良百姓的镇压一直没有停止过</a></li>
 <li><a href="/comments/20210626/1574593.md" target="_blank">美副总统视察边境遇民众抗议 被嘲“来得太晚”</a></li>
 <li><a href="/comments/20210626/1574584.md" target="_blank">范畴：台湾未来90天总体统战开始</a></li>
 <li><a href="/comments/20210626/1574577.md" target="_blank">德国突发街头砍人3死5重伤 索马里嫌犯被捕</a></li>
@@ -118,11 +123,6 @@
 <li><a href="/comments/20210626/1574502.md" target="_blank">【警察政府】立场盘点 林郑上任四年“武官上、文官退” 蔡子强：由讲专业变要政治忠诚</a></li>
 <li><a href="/comments/20210626/1574501.md" target="_blank">【警察政府】邓炳强录音流出 以保安局长身分告别警队 美好回忆包括“打暴动”</a></li>
 <li><a href="/comments/20210626/1574498.md" target="_blank">联合国人权专员：北京不配合也将调查新疆问题</a></li>
-<li><a href="/comments/20210626/1574495.md" target="_blank">传中共拟在蚂蚁集团高管中安插“党代表”</a></li>
-<li><a href="/comments/20210626/1574485.md" target="_blank">💥有的看了！国防情报局正在酝酿一步大棋，习近平将派亲信前往美国，越来越精彩，一切都刚刚开始。│#熊猫侠</a></li>
-<li><a href="/comments/20210626/1574482.md" target="_blank">加国终止孔子学院 中共“龙虾”施压；赵立坚不愧战狼？狠起来自己都反；黑龙江洪水来袭  多省地震 ；自己人打自己人？穆斯林配合中共打击维族【希望之声TV-环球看点-2021/6/25】</a></li>
-<li><a href="/comments/20210626/1574481.md" target="_blank">【田恬专栏】音乐篇：恩雅指环王（魔戒）主题曲中文版原创歌词翻唱《启明星》 （May It Be Chinese Cover: Stars at Dawn）</a></li>
-<li><a href="/comments/20210626/1574480.md" target="_blank">克鲁兹提法案吁结束批判种族理论 保守派民众关注</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
 <li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
 
 </ul>
 </div>
