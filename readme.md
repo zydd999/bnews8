@@ -23,9 +23,9 @@
 <li><a href="/topimagenews/20210624/1573398.md">习近平身畔一片“教主千秋万载，一统江湖”声中 暗藏无数杀机【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20210624/1573622.md">赵立坚大意说出真心话？“与各国分享反共经验"</a></li>
 <li><a href="/worldnews/20210624/1573499.md">冷战后首次 俄军在黑海对英国军舰开火了…</a></li>
-<li><a href="/comments/20210624/1573230.md">北京百忙了？！美国专家：成功恢复部分遭删除病毒序列</a></li>
-<li><a href="/cnnews/20210624/1573366.md">“高考状元”遭禁 江西官媒报：考得好的两个人</a></li>
+<li><a href="/cnnews/20210625/1573882.md">特殊嗜好 毛泽东特爱看这种片</a></li>
 <li><a href="/cbnews/20210624/1573737.md">董经纬叛逃与否？中共官方发“露面”照</a></li>
+<li><a href="/cnnews/20210624/1573366.md">“高考状元”遭禁 江西官媒报：考得好的两个人</a></li>
 <li><a href="/bannedvideo/20210624/1573307.md">大反转!太诡异叛逃者董经纬在美国还是已经被带回中国?( 启明笑谈 2021年6月24日)</a></li>
 <li><a href="/comments/20210624/1573735.md">mRNA技术发明者后悔打莫德纳了？</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210625/1573948.md" target="_blank">贷款公司到处装天眼 女员工打伞护私隐遭开除</a></li>
 <li><a href="/cbnews/20210625/1573933.md" target="_blank">网曝上海中环隧道轿车起火 有人惨叫 长时间没人救</a></li>
 <li><a href="/comments/20210625/1573923.md" target="_blank">苹果百万绝版被抢空  世界是否觉醒？ 首部《数字安全法》是否美中另一引爆点？【希望之声TV-新闻焦点解读-2021/06/24】主持:高洁  嘉宾： 谢田教授</a></li>
 <li><a href="/comments/20210625/1573907.md" target="_blank">中共要求NIH删病毒基因序列;杀毒软件创始人McAfee死西班牙狱;瑙鲁拒中共建海底电缆求助澳洲;法宣布台湾没打疫苗也可入境;中共犯罪首脑藉一带一路不法谋利【希望之声-每日头条-2021/06/24】</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/comments/20210624/1573527.md" target="_blank">唯美之灵在心灵之巅点燃信仰的金灯（第四部分）—— 佛学和古犹太智慧的遗憾（东方哲人解析当代人类困惑  第三十四讲）【袁红冰杏坛】 06242021</a></li>
 <li><a href="/cbnews/20210624/1573503.md" target="_blank">阻止共军攻台 学者：美军在台常驻装甲旅战斗队</a></li>
 <li><a href="/cbnews/20210624/1573498.md" target="_blank">胡锡进否认将退休 港媒爆接班人“很能干”已进驻环时</a></li>
-<li><a href="/cbnews/20210624/1573479.md" target="_blank">厦门男手机充电 半夜爆炸！…</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210625/1573971.md" target="_blank">拜登谴责中共打压新闻自由 吁释苹果日报高管</a></li>
+<li><a href="/comments/20210625/1573970.md" target="_blank">欧盟拟举行欧俄峰会 莫斯科积极回应</a></li>
+<li><a href="/comments/20210625/1573956.md" target="_blank">李怡：怎能向一种精神道别？ 黎智英最大的失误</a></li>
+<li><a href="/comments/20210625/1573955.md" target="_blank">【欺世大观】70 烧脑案 谁杀了李公朴 闻一多</a></li>
 <li><a href="/comments/20210625/1573938.md" target="_blank">陶杰：滥称“阴谋论” 还不是川规拜随</a></li>
 <li><a href="/comments/20210625/1573923.md" target="_blank">苹果百万绝版被抢空  世界是否觉醒？ 首部《数字安全法》是否美中另一引爆点？【希望之声TV-新闻焦点解读-2021/06/24】主持:高洁  嘉宾： 谢田教授</a></li>
 <li><a href="/comments/20210625/1573922.md" target="_blank">苹果殉道</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210625/1573852.md" target="_blank">【快讯】俄国一架进行飞行训练的直升机坠毁 3人丧生</a></li>
 <li><a href="/comments/20210625/1573843.md" target="_blank">美议员驳赵立坚：台湾产芯片 中共却产武汉病毒</a></li>
 <li><a href="/comments/20210625/1573842.md" target="_blank">匈牙利抗议者：当局叛变 讨好北京</a></li>
-<li><a href="/comments/20210625/1573825.md" target="_blank">从《苹果》非自然死亡看畸形香港</a></li>
-<li><a href="/comments/20210625/1573824.md" target="_blank">我们对得起母校</a></li>
-<li><a href="/comments/20210625/1573823.md" target="_blank">再逮捕一百人？《苹果》紧急停刊 市民半夜排队抢购 蔡英文发声</a></li>
-<li><a href="/comments/20210625/1573818.md" target="_blank">马斯克德州住宅仅37平米 可折叠并方便拖拽</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
 <li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/cbnews/20210331/1516754.md" target="_blank">被传销团伙围杀时 丈夫说了这句话脱险</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
 <li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
-<li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
 
 </ul>
 </div>
