@@ -18,16 +18,16 @@
 <li><a href="/cbnews/20210625/1573827.md">这才是拥有通天纹的正黄旗 见识下啥叫通天纹</a></li>
 <li><a href="/topimagenews/20210625/1574140.md">信息量很大！中纪委再提王明 、张国焘 高喊“四个服从”【阿波罗网独家报道】</a></li>
 <li><a href="/cbnews/20210625/1574041.md">中国大陆业内人士揭秘骗了上亿人的保险真相</a></li>
+<li><a href="/cnnews/20210625/1574348.md">爆炸性新闻：佩洛西宣布众议院正式成立1月6日专门委会【阿波罗网编译】</a></li>
 <li><a href="/bannedvideo/20210625/1573909.md">🔥🔥地下挖出龙，惊动中共高层❗❗</a></li>
 <li><a href="/cnnews/20210625/1573910.md">外星人在观察人类</a></li>
-<li><a href="/cnnews/20210625/1574348.md">爆炸性新闻：佩洛西宣布众议院正式成立1月6日专门委会【阿波罗网编译】</a></li>
 <li><a href="/comments/20210625/1574036.md">惊！拜登政府强迫他立即离职；《炒掉福奇法案》出炉：减薪到零再查他；迈阿密12层房屋倒塌 99人失踪 ；拜登就苹果日报停刊事件发表声明【希望之声-北美新闻-2021/06/24】</a></li>
 <li><a href="/cnnews/20210625/1574238.md">再反转？中共官媒规劝特斯拉维权女车主</a></li>
+<li><a href="/cbnews/20210625/1574390.md">太恶心：深圳15万/平住宅竟供应粪水 业主们喝了2个月</a></li>
 <li><a href="/comments/20210625/1573866.md">花旗：全球经济依赖中国的时代将结束</a></li>
 <li><a href="/cbnews/20210625/1574143.md">声称“分享反共经验" 赵立坚爆“真话”视频热传</a></li>
 <li><a href="/cnnews/20210625/1574108.md">中共为建党百年删记录“不让人知道其历史”</a></li>
 <li><a href="/bannedvideo/20210625/1574187.md">最后一盏灯熄灭，香港进入准戒严状态；延长封国一年，以疫情的名义，中国已进入半军管状态（20210625 第627期）</a></li>
-<li><a href="/cbnews/20210625/1574390.md">太恶心：深圳15万/平住宅竟供应粪水 业主们喝了2个月</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210626/1574515.md" target="_blank">中国释出董经纬开会影音！网曝“PS手法”点出破绽</a></li>
 <li><a href="/cbnews/20210626/1574483.md" target="_blank">法阵风战机空中加油7次 创12小时连飞纪录直奔印太</a></li>
 <li><a href="/comments/20210626/1574482.md" target="_blank">加国终止孔子学院 中共“龙虾”施压；赵立坚不愧战狼？狠起来自己都反；黑龙江洪水来袭  多省地震 ；自己人打自己人？穆斯林配合中共打击维族【希望之声TV-环球看点-2021/6/25】</a></li>
 <li><a href="/cbnews/20210625/1574409.md" target="_blank">北京烟火彩排被揭耗七千万 再传重兵入京</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210625/1574075.md" target="_blank">神奇酒具“贪心杯” 七一送给中共贪官</a></li>
 <li><a href="/cbnews/20210625/1574041.md" target="_blank">中国大陆业内人士揭秘骗了上亿人的保险真相</a></li>
 <li><a href="/comments/20210625/1574036.md" target="_blank">惊！拜登政府强迫他立即离职；《炒掉福奇法案》出炉：减薪到零再查他；迈阿密12层房屋倒塌 99人失踪 ；拜登就苹果日报停刊事件发表声明【希望之声-北美新闻-2021/06/24】</a></li>
-<li><a href="/cbnews/20210625/1574021.md" target="_blank">肯尼亚人起诉 要求政府公开与中共的项目协议</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210626/1574512.md" target="_blank">东京奥运又添阴影 已有5国6选手确诊</a></li>
+<li><a href="/comments/20210626/1574503.md" target="_blank">被捕《苹果》前副社长 入禀高院促警方交还新闻材料等文件</a></li>
+<li><a href="/comments/20210626/1574502.md" target="_blank">【警察政府】立场盘点 林郑上任四年“武官上、文官退” 蔡子强：由讲专业变要政治忠诚</a></li>
+<li><a href="/comments/20210626/1574501.md" target="_blank">【警察政府】邓炳强录音流出 以保安局长身分告别警队 美好回忆包括“打暴动”</a></li>
 <li><a href="/comments/20210626/1574498.md" target="_blank">联合国人权专员：北京不配合也将调查新疆问题</a></li>
 <li><a href="/comments/20210626/1574495.md" target="_blank">传中共拟在蚂蚁集团高管中安插“党代表”</a></li>
 <li><a href="/comments/20210626/1574485.md" target="_blank">💥有的看了！国防情报局正在酝酿一步大棋，习近平将派亲信前往美国，越来越精彩，一切都刚刚开始。│#熊猫侠</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210625/1574362.md" target="_blank">【宫崎骏音乐 】水晶纯音乐~《天空之城》静坐 -冥想-减压</a></li>
 <li><a href="/comments/20210625/1574360.md" target="_blank">新视野 第241期 20210625</a></li>
 <li><a href="/comments/20210625/1574356.md" target="_blank">人类第一张太空地图 百万量级的黑洞囊括其中</a></li>
-<li><a href="/comments/20210625/1574345.md" target="_blank">💥美外交官：台湾不再仅是对中关系的问题之一；被删除的新冠病毒序列部分已被恢复；美众院外委会下周审议抗衡中共的法案；杜汶泽义聘《苹果》失业员工 网民大赞【希望之声TV-两岸要闻-2021/06/25】</a></li>
-<li><a href="/comments/20210625/1574305.md" target="_blank">你的血液依然温热，兼记专栏完结的方式</a></li>
-<li><a href="/comments/20210625/1574300.md" target="_blank">【警察政府】张建宗离任成“代罪羔羊”？ 林郑：不评价离任官员 张：乐意继续贡献国家</a></li>
-<li><a href="/comments/20210625/1574299.md" target="_blank">中囯传统文化启蒙学什么？</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
 <li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20210612/1565472.md" target="_blank">感悟神韵（之二）：感悟神韵的艺术风格</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
 
 </ul>
 </div>
