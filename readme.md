@@ -17,7 +17,6 @@
 <li><a href="/bannedvideo/20210625/1574224.md">今天北京街头，中国核应急。中共百年党庆临近，如临大敌。</a></li>
 <li><a href="/cnnews/20210625/1574348.md">爆炸性新闻：佩洛西宣布众议院正式成立1月6日专门委会【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20210625/1574140.md">信息量很大！中纪委再提王明 、张国焘 高喊“四个服从”【阿波罗网独家报道】</a></li>
-<li><a href="/cbnews/20210625/1573827.md">这才是拥有通天纹的正黄旗 见识下啥叫通天纹</a></li>
 <li><a href="/cbnews/20210625/1574041.md">中国大陆业内人士揭秘骗了上亿人的保险真相</a></li>
 <li><a href="/cbnews/20210625/1574390.md">太恶心：深圳15万/平住宅竟供应粪水 业主们喝了2个月</a></li>
 <li><a href="/bannedvideo/20210625/1573909.md">🔥🔥地下挖出龙，惊动中共高层❗❗</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/cbnews/20210625/1574143.md">声称“分享反共经验" 赵立坚爆“真话”视频热传</a></li>
 <li><a href="/cnnews/20210625/1574108.md">中共为建党百年删记录“不让人知道其历史”</a></li>
 <li><a href="/bannedvideo/20210625/1574187.md">最后一盏灯熄灭，香港进入准戒严状态；延长封国一年，以疫情的名义，中国已进入半军管状态（20210625 第627期）</a></li>
+<li><a href="/cbnews/20210625/1574392.md">遮天蔽日：中共建党百年前急删档案</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210626/1574551.md" target="_blank">加教育厅长曝：将终止孔子学院 中共以龙虾施压</a></li>
+<li><a href="/cbnews/20210626/1574550.md" target="_blank">孟晚舟要求禁公开汇丰新提供文件被法院驳回</a></li>
 <li><a href="/cbnews/20210626/1574516.md" target="_blank">广西男子被小虫咬了一下 数日后多器官衰竭险丧命</a></li>
 <li><a href="/cbnews/20210626/1574515.md" target="_blank">中国释出董经纬开会影音！网曝“PS手法”点出破绽</a></li>
 <li><a href="/cbnews/20210626/1574483.md" target="_blank">法阵风战机空中加油7次 创12小时连飞纪录直奔印太</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/cbnews/20210625/1574117.md" target="_blank">瞄准中国大陆 美军计划部署中程导弹</a></li>
 <li><a href="/cbnews/20210625/1574116.md" target="_blank">江峰：《苹果日报》停刊， 两周弄垮上市大报，中共的疯狂看其绝望中的方寸大乱；胡锡进退休，为什么难善终？【江峰漫谈20210624第338期】</a></li>
 <li><a href="/comments/20210625/1574100.md" target="_blank">💥法院暂停朱利安尼的律师执照；拜登与参议院小组达成协议 基建计划缩水近2万亿；德美就应对中俄挑战目标达成一致；中国疫苗起反效果？4国接种后确诊数翻倍【希望之声-午夜新闻-2021/06/24】</a></li>
-<li><a href="/cbnews/20210625/1574075.md" target="_blank">神奇酒具“贪心杯” 七一送给中共贪官</a></li>
-<li><a href="/cbnews/20210625/1574041.md" target="_blank">中国大陆业内人士揭秘骗了上亿人的保险真相</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210626/1574549.md" target="_blank">张建宗被炒 林郑最惊惊</a></li>
+<li><a href="/comments/20210626/1574548.md" target="_blank">蔡奇、陈敏尔紧跟习近平 群起跟风“发毒誓”</a></li>
+<li><a href="/comments/20210626/1574547.md" target="_blank">【信不信由你】夺命无数，而有一类人绝对不在其中</a></li>
+<li><a href="/comments/20210626/1574546.md" target="_blank">中共大使很嚣张！贴侮辱手势自称战狼 台前官员发文嘲讽</a></li>
 <li><a href="/comments/20210626/1574535.md" target="_blank">美众院外委会下周审议大范围抗共法案</a></li>
 <li><a href="/comments/20210626/1574534.md" target="_blank">中国加密货币挖矿机如废铁般贱卖</a></li>
 <li><a href="/comments/20210626/1574531.md" target="_blank">怕啥？中共百年党庆前夕 港府大换班 香港沦为“警察之都”</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210626/1574457.md" target="_blank">【画缘】怎么样画 青苹果？</a></li>
 <li><a href="/comments/20210625/1574456.md" target="_blank">拜登：我们达成了万亿美金的两党基础设施协议</a></li>
 <li><a href="/comments/20210625/1574455.md" target="_blank">夏天别再喝饮料了！这两个老方子，解暑祛湿还补虚</a></li>
-<li><a href="/comments/20210625/1574422.md" target="_blank">【薇羽时光】古希腊神预言人类社会的走向，太准了！宇宙和人类的结局大反转</a></li>
-<li><a href="/comments/20210625/1574421.md" target="_blank">【戈壁东专栏】生活随笔：《旅途见闻分享》</a></li>
-<li><a href="/comments/20210625/1574420.md" target="_blank">【曾铮专栏】生活随笔：“好人多的地方”</a></li>
-<li><a href="/comments/20210625/1574388.md" target="_blank">【当苹果堕下・1】最后一纸诞生后 末代享新闻自由的记者何处去？</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
 <li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/comments/20210612/1565472.md" target="_blank">感悟神韵（之二）：感悟神韵的艺术风格</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
 <li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
 
 </ul>
 </div>
