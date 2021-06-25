@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/comments/20210624/1573225.md">习近平结局悲惨必将毁于此人之手，此人不是董经纬。大祸临头不可能，一尊压根儿就没错过。│#熊猫侠</a></li>
 <li><a href="/comments/20210624/1573337.md">没叛逃？董经纬陪赵克志开会 官方发露面照</a></li>
 <li><a href="/cbnews/20210624/1573415.md">萧铭：（独家）我采访了知道叛逃官员详情的官员；投诚者有两位；病毒来自生化武器项目；美国政府内有很多内奸；拜登调查病毒来源的真正原因 ｜萧茗看世界</a></li>
-<li><a href="/comments/20210624/1573217.md">国会议员称有2位叛逃者！美官员辟谣了？“叛逃者”大戏扑簌迷离；崔天凯离任；疫情追责下，美中关系无可缓和？</a></li>
-<li><a href="/topimagenews/20210624/1573598.md">以色列新政府对中共变脸 德百年豪车厂被中收购6年破产 你敢住？中28小时盖好10层楼</a></li>
 <li><a href="/cbnews/20210625/1573844.md">俞怀松：董经纬仍在美国 中共释放的是PS照片</a></li>
+<li><a href="/topimagenews/20210624/1573598.md">以色列新政府对中共变脸 德百年豪车厂被中收购6年破产 你敢住？中28小时盖好10层楼</a></li>
 <li><a href="/bannedvideo/20210624/1573588.md">郭文贵爆料中共某省安全厅情报处处长三月份全家叛逃</a></li>
 <li><a href="/comments/20210624/1573360.md">董经纬真“露面” 但一细节或非简单巧合？山雨欲来！蔡霞谈中共政局</a></li>
 <li><a href="/cbnews/20210624/1573454.md">中共官媒报道：董经纬露面 【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20210624/1573345.md">💥美国政府就董经纬发话！含重要信息；又有两高官出逃？！有一人带4千比特币；拜登要约习近平对话，说“是时候了”，拟派人访华；广州可怕变种，14秒感染；港府强逼停刊，苹果社论成热搜｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/comments/20210624/1573407.md">中共多名情报高官携带重大机密情报叛逃 福建驻军对台作战部门高官挟带对台作战机密叛逃 郭文贵帮助某省安全厅情报处长携带军事设施及阿里巴巴数据中心情报叛逃 中南海谣言预言_483</a></li>
 <li><a href="/cbnews/20210624/1573694.md">旦夕祸福：中国亿万富豪接归国爱女回家 遭打桩机重砸致死</a></li>
-<li><a href="/topimagenews/20210624/1573292.md">武警总队教官：干部都感觉每天是坐在火药桶上</a></li>
 <li><a href="/comments/20210624/1573352.md">李燕铭：董经纬陪赵克志开会 公安部官网刊登现场照 董经纬外逃被证伪 谣言水深意在分化离间习家军 中美各方势力生死搏杀正在升级 俞怀松会辞任美国共和党全国委员会委员？</a></li>
+<li><a href="/topimagenews/20210624/1573292.md">武警总队教官：干部都感觉每天是坐在火药桶上</a></li>
 <li><a href="/bannedvideo/20210624/1573460.md">习近平最需要的东西他没有，这只官场老狐狸还想成为政治局常委--天钧政经</a></li>
 <li><a href="/comments/20210624/1573558.md">好消息！</a></li>
-<li><a href="/topimagenews/20210624/1573398.md">习近平身畔一片“教主千秋万载，一统江湖”声中 暗藏无数杀机【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20210624/1573652.md">宁坐宝马里哭 马诺没坐上宝马 日子也不如当年</a></li>
+<li><a href="/topimagenews/20210624/1573398.md">习近平身畔一片“教主千秋万载，一统江湖”声中 暗藏无数杀机【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20210624/1573622.md">赵立坚大意说出真心话？“与各国分享反共经验"</a></li>
 <li><a href="/worldnews/20210624/1573499.md">冷战后首次 俄军在黑海对英国军舰开火了…</a></li>
 <li><a href="/comments/20210624/1573230.md">北京百忙了？！美国专家：成功恢复部分遭删除病毒序列</a></li>
 <li><a href="/cnnews/20210624/1573366.md">“高考状元”遭禁 江西官媒报：考得好的两个人</a></li>
 <li><a href="/cbnews/20210624/1573737.md">董经纬叛逃与否？中共官方发“露面”照</a></li>
+<li><a href="/bannedvideo/20210624/1573307.md">大反转!太诡异叛逃者董经纬在美国还是已经被带回中国?( 启明笑谈 2021年6月24日)</a></li>
+<li><a href="/comments/20210624/1573735.md">mRNA技术发明者后悔打莫德纳了？</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,13 +36,13 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210625/1573933.md" target="_blank">网曝上海中环隧道轿车起火 有人惨叫 长时间没人救</a></li>
 <li><a href="/comments/20210625/1573923.md" target="_blank">苹果百万绝版被抢空  世界是否觉醒？ 首部《数字安全法》是否美中另一引爆点？【希望之声TV-新闻焦点解读-2021/06/24】主持:高洁  嘉宾： 谢田教授</a></li>
 <li><a href="/comments/20210625/1573907.md" target="_blank">中共要求NIH删病毒基因序列;杀毒软件创始人McAfee死西班牙狱;瑙鲁拒中共建海底电缆求助澳洲;法宣布台湾没打疫苗也可入境;中共犯罪首脑藉一带一路不法谋利【希望之声-每日头条-2021/06/24】</a></li>
 <li><a href="/cbnews/20210625/1573856.md" target="_blank">加国新省终止孔子学院 中共领事上门施“龙虾外交”</a></li>
 <li><a href="/cbnews/20210625/1573845.md" target="_blank">美NIH应中共要求删除的病毒序列 部分已被恢复</a></li>
 <li><a href="/cbnews/20210625/1573844.md" target="_blank">俞怀松：董经纬仍在美国 中共释放的是PS照片</a></li>
 <li><a href="/cbnews/20210625/1573827.md" target="_blank">这才是拥有通天纹的正黄旗 见识下啥叫通天纹</a></li>
-<li><a href="/comments/20210625/1573793.md" target="_blank">诡异 董经纬被官方发“露面”照；川普视察边境 哈里斯也争先？《苹果》最后一夜 百万发行市民爆买；真假？美将军自称非“共产者”；上海现巨大三角形UFO【希望之声TV-环球看点-2021/6/24】</a></li>
 <li><a href="/cbnews/20210624/1573737.md" target="_blank">董经纬叛逃与否？中共官方发“露面”照</a></li>
 <li><a href="/cbnews/20210624/1573728.md" target="_blank">中国21条河流发生超警洪水 或遭50年一遇洪灾</a></li>
 <li><a href="/cbnews/20210624/1573710.md" target="_blank">中共百年内部分裂 三十多人组建毛派新党被秘密关押</a></li>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210625/1573938.md" target="_blank">陶杰：滥称“阴谋论” 还不是川规拜随</a></li>
 <li><a href="/comments/20210625/1573923.md" target="_blank">苹果百万绝版被抢空  世界是否觉醒？ 首部《数字安全法》是否美中另一引爆点？【希望之声TV-新闻焦点解读-2021/06/24】主持:高洁  嘉宾： 谢田教授</a></li>
 <li><a href="/comments/20210625/1573922.md" target="_blank">苹果殉道</a></li>
 <li><a href="/comments/20210625/1573921.md" target="_blank">港人伴《苹果日报》走完“最后一里路” 劫后《苹果》能否海外涅槃重生？</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210625/1573824.md" target="_blank">我们对得起母校</a></li>
 <li><a href="/comments/20210625/1573823.md" target="_blank">再逮捕一百人？《苹果》紧急停刊 市民半夜排队抢购 蔡英文发声</a></li>
 <li><a href="/comments/20210625/1573818.md" target="_blank">马斯克德州住宅仅37平米 可折叠并方便拖拽</a></li>
-<li><a href="/comments/20210625/1573810.md" target="_blank">狼又来了？中国恒大再陷财务危机</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
 <li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20210329/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
 
 </ul>
 </div>
