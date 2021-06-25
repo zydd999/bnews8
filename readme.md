@@ -20,14 +20,14 @@
 <li><a href="/cbnews/20210625/1574041.md">中国大陆业内人士揭秘骗了上亿人的保险真相</a></li>
 <li><a href="/bannedvideo/20210625/1573909.md">🔥🔥地下挖出龙，惊动中共高层❗❗</a></li>
 <li><a href="/cnnews/20210625/1573910.md">外星人在观察人类</a></li>
+<li><a href="/cnnews/20210625/1574348.md">爆炸性新闻：佩洛西宣布众议院正式成立1月6日专门委会【阿波罗网编译】</a></li>
 <li><a href="/comments/20210625/1574036.md">惊！拜登政府强迫他立即离职；《炒掉福奇法案》出炉：减薪到零再查他；迈阿密12层房屋倒塌 99人失踪 ；拜登就苹果日报停刊事件发表声明【希望之声-北美新闻-2021/06/24】</a></li>
 <li><a href="/cnnews/20210625/1574238.md">再反转？中共官媒规劝特斯拉维权女车主</a></li>
 <li><a href="/comments/20210625/1573866.md">花旗：全球经济依赖中国的时代将结束</a></li>
 <li><a href="/cbnews/20210625/1574143.md">声称“分享反共经验" 赵立坚爆“真话”视频热传</a></li>
 <li><a href="/cnnews/20210625/1574108.md">中共为建党百年删记录“不让人知道其历史”</a></li>
 <li><a href="/bannedvideo/20210625/1574187.md">最后一盏灯熄灭，香港进入准戒严状态；延长封国一年，以疫情的名义，中国已进入半军管状态（20210625 第627期）</a></li>
-<li><a href="/cnnews/20210625/1574348.md">爆炸性新闻：佩洛西宣布众议院正式成立1月6日专门委会【阿波罗网编译】</a></li>
-<li><a href="/ssgc/20210625/1574010.md">〖兲朝浮世绘〗赵立坚要分享反共经验 他原来是潜入共匪内部的反贼</a></li>
+<li><a href="/cbnews/20210625/1574390.md">太恶心：深圳15万/平住宅竟供应粪水 业主们喝了2个月</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210626/1574498.md" target="_blank">联合国人权专员：北京不配合也将调查新疆问题</a></li>
+<li><a href="/comments/20210626/1574495.md" target="_blank">传中共拟在蚂蚁集团高管中安插“党代表”</a></li>
 <li><a href="/comments/20210626/1574485.md" target="_blank">💥有的看了！国防情报局正在酝酿一步大棋，习近平将派亲信前往美国，越来越精彩，一切都刚刚开始。│#熊猫侠</a></li>
 <li><a href="/comments/20210626/1574482.md" target="_blank">加国终止孔子学院 中共“龙虾”施压；赵立坚不愧战狼？狠起来自己都反；黑龙江洪水来袭  多省地震 ；自己人打自己人？穆斯林配合中共打击维族【希望之声TV-环球看点-2021/6/25】</a></li>
 <li><a href="/comments/20210626/1574481.md" target="_blank">【田恬专栏】音乐篇：恩雅指环王（魔戒）主题曲中文版原创歌词翻唱《启明星》 （May It Be Chinese Cover: Stars at Dawn）</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210625/1574305.md" target="_blank">你的血液依然温热，兼记专栏完结的方式</a></li>
 <li><a href="/comments/20210625/1574300.md" target="_blank">【警察政府】张建宗离任成“代罪羔羊”？ 林郑：不评价离任官员 张：乐意继续贡献国家</a></li>
 <li><a href="/comments/20210625/1574299.md" target="_blank">中囯传统文化启蒙学什么？</a></li>
-<li><a href="/comments/20210625/1574279.md" target="_blank">【中共百年系列之五】从党附体到割韭菜</a></li>
-<li><a href="/comments/20210625/1574262.md" target="_blank">“人民公社”这牌子谁敢挂我就敢摘</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/ganwu/20170705/787156.md" target="_blank">感悟神韵（之四）：感悟神韵音乐</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
 <li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20210329/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
 <li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
 
 </ul>
 </div>
