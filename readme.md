@@ -10,14 +10,12 @@
 <li><a href="/bannedvideo/20210624/1573588.md">郭文贵爆料中共某省安全厅情报处处长三月份全家叛逃</a></li>
 <li><a href="/cnnews/20210625/1573882.md">特殊嗜好 毛泽东特爱看这种片</a></li>
 <li><a href="/cbnews/20210624/1573694.md">旦夕祸福：中国亿万富豪接归国爱女回家 遭打桩机重砸致死</a></li>
-<li><a href="/cbnews/20210624/1573454.md">中共官媒报道：董经纬露面 【阿波罗网报道】</a></li>
-<li><a href="/bannedvideo/20210624/1573460.md">习近平最需要的东西他没有，这只官场老狐狸还想成为政治局常委--天钧政经</a></li>
-<li><a href="/cbnews/20210624/1573622.md">赵立坚大意说出真心话？“与各国分享反共经验"</a></li>
 <li><a href="/topimagenews/20210625/1574040.md">董经纬信息会逐步放出？资深媒体人再爆猛料：俩官员投诚！【阿波罗网报道】</a></li>
+<li><a href="/cbnews/20210624/1573622.md">赵立坚大意说出真心话？“与各国分享反共经验"</a></li>
 <li><a href="/cnnews/20210624/1573652.md">宁坐宝马里哭 马诺没坐上宝马 日子也不如当年</a></li>
 <li><a href="/comments/20210624/1573558.md">好消息！</a></li>
-<li><a href="/comments/20210625/1573853.md">“战狼”赵立坚也反共？官媒急剪镜头</a></li>
 <li><a href="/cnnews/20210625/1574004.md">中国街头现惊悚标语 网友：中共承认附在人民身上</a></li>
+<li><a href="/comments/20210625/1573853.md">“战狼”赵立坚也反共？官媒急剪镜头</a></li>
 <li><a href="/worldnews/20210624/1573499.md">冷战后首次 俄军在黑海对英国军舰开火了…</a></li>
 <li><a href="/cbnews/20210625/1573933.md">网曝上海中环隧道轿车起火 有人惨叫 长时间没人救</a></li>
 <li><a href="/cnnews/20210625/1573911.md">愿生三孩育龄女子比重？西安调查结果出炉</a></li>
@@ -28,6 +26,8 @@
 <li><a href="/cnnews/20210624/1573623.md">潘石屹：先富先跑路，我不带后富 …</a></li>
 <li><a href="/cnnews/20210625/1573910.md">外星人在观察人类</a></li>
 <li><a href="/comments/20210625/1573866.md">花旗：全球经济依赖中国的时代将结束</a></li>
+<li><a href="/cbnews/20210624/1573696.md">复旦中文系主任朱刚：一个护蛋高手的荣辱</a></li>
+<li><a href="/bannedvideo/20210625/1573909.md">🔥🔥地下挖出龙，惊动中共高层❗❗</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,13 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210625/1574203.md" target="_blank">它抗癌人人都知道，但冷泡好还是热泡好呢？</a></li>
+<li><a href="/comments/20210625/1574202.md" target="_blank">效果胜过吃生菜！巧用它可以有效降血糖</a></li>
+<li><a href="/comments/20210625/1574201.md" target="_blank">人为何会生病？影响从母体怀孕就开始</a></li>
+<li><a href="/comments/20210625/1574200.md" target="_blank">它被誉为“果中玛瑙”，清脂、抑菌还解乏</a></li>
+<li><a href="/comments/20210625/1574199.md" target="_blank">疫苗注射后如何发现是否血栓？</a></li>
+<li><a href="/comments/20210625/1574198.md" target="_blank">研究：太阳底下不戴帽子，小心你的脑子</a></li>
+<li><a href="/comments/20210625/1574194.md" target="_blank">气功高手李家超</a></li>
 <li><a href="/comments/20210625/1574186.md" target="_blank">【一分钟料理】凉拌秋葵</a></li>
 <li><a href="/comments/20210625/1574144.md" target="_blank">中共百年前灾难不断！河南武术馆惊传火灾 死者多为寄宿生</a></li>
 <li><a href="/comments/20210625/1574138.md" target="_blank">加国教育厅长曝：将终止孔子学院 中共总领事以「龙虾」施压</a></li>
@@ -116,13 +123,6 @@
 <li><a href="/comments/20210625/1574106.md" target="_blank">【紫菱讲故事】中国最后一个流氓 牛玉强</a></li>
 <li><a href="/comments/20210625/1574105.md" target="_blank">【笑看世界专栏】 原创音乐：品味古诗+欣赏音乐《荷花》</a></li>
 <li><a href="/comments/20210625/1574104.md" target="_blank">【宇连空间】珍妮演唱：《天灭中共进行曲》（中英文字幕）</a></li>
-<li><a href="/comments/20210625/1574100.md" target="_blank">💥法院暂停朱利安尼的律师执照；拜登与参议院小组达成协议 基建计划缩水近2万亿；德美就应对中俄挑战目标达成一致；中国疫苗起反效果？4国接种后确诊数翻倍【希望之声-午夜新闻-2021/06/24】</a></li>
-<li><a href="/comments/20210625/1574094.md" target="_blank">【苹果终章】《苹果》主笔李平凌晨获保释</a></li>
-<li><a href="/comments/20210625/1574093.md" target="_blank">诗一首：《思 君》</a></li>
-<li><a href="/comments/20210625/1574092.md" target="_blank">诗一首：《云游》</a></li>
-<li><a href="/comments/20210625/1574091.md" target="_blank">【文昭思绪飞扬】逆天的发现！苏美尔泥板揭示挪亚方舟是圆的，而且不是“舟”、是高科技潜艇</a></li>
-<li><a href="/comments/20210625/1574089.md" target="_blank">【玄乎神乎】揭秘死亡状态：原来人不会真的死，死亡只是个过渡，结束了人世间的生命后进入了另一个维度，那死后的人都在做什么呢？</a></li>
-<li><a href="/comments/20210625/1574088.md" target="_blank">【玄乎神乎】这个地方到底有多神秘？美国出动了4700人和13艘船舰去那里执行绝密军事行动…</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20210612/1565472.md" target="_blank">感悟神韵（之二）：感悟神韵的艺术风格</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
 <li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
 
 </ul>
 </div>
