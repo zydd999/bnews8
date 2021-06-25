@@ -8,16 +8,14 @@
 <li><a href="/cbnews/20210625/1573844.md">俞怀松：董经纬仍在美国 中共释放的是PS照片</a></li>
 <li><a href="/cnnews/20210625/1573882.md">特殊嗜好 毛泽东特爱看这种片</a></li>
 <li><a href="/topimagenews/20210625/1574040.md">董经纬信息会逐步放出？资深媒体人再爆猛料：俩官员投诚！【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20210625/1574189.md">新华社和习近平不同调 悄悄让江泽民露面！【阿波罗网独家报道】</a></li>
 <li><a href="/cnnews/20210625/1574004.md">中国街头现惊悚标语 网友：中共承认附在人民身上</a></li>
+<li><a href="/topimagenews/20210625/1574189.md">新华社和习近平不同调 悄悄让江泽民露面！【阿波罗网独家报道】</a></li>
 <li><a href="/comments/20210625/1573853.md">“战狼”赵立坚也反共？官媒急剪镜头</a></li>
 <li><a href="/cnnews/20210625/1573911.md">愿生三孩育龄女子比重？西安调查结果出炉</a></li>
 <li><a href="/cbnews/20210625/1573933.md">网曝上海中环隧道轿车起火 有人惨叫 长时间没人救</a></li>
 <li><a href="/cbnews/20210625/1574020.md">俞怀松：董经纬照片是PS的</a></li>
-<li><a href="/cbnews/20210625/1573827.md">这才是拥有通天纹的正黄旗 见识下啥叫通天纹</a></li>
-<li><a href="/comments/20210624/1573735.md">mRNA技术发明者后悔打莫德纳了？</a></li>
-<li><a href="/cbnews/20210624/1573737.md">董经纬叛逃与否？中共官方发“露面”照</a></li>
 <li><a href="/bannedvideo/20210625/1574224.md">今天北京街头，中国核应急。中共百年党庆临近，如临大敌。</a></li>
+<li><a href="/cbnews/20210625/1573827.md">这才是拥有通天纹的正黄旗 见识下啥叫通天纹</a></li>
 <li><a href="/topimagenews/20210625/1574140.md">信息量很大！中纪委再提王明 、张国焘 高喊“四个服从”【阿波罗网独家报道】</a></li>
 <li><a href="/cbnews/20210625/1574041.md">中国大陆业内人士揭秘骗了上亿人的保险真相</a></li>
 <li><a href="/bannedvideo/20210625/1573909.md">🔥🔥地下挖出龙，惊动中共高层❗❗</a></li>
@@ -26,8 +24,10 @@
 <li><a href="/comments/20210625/1573866.md">花旗：全球经济依赖中国的时代将结束</a></li>
 <li><a href="/cnnews/20210625/1574108.md">中共为建党百年删记录“不让人知道其历史”</a></li>
 <li><a href="/cbnews/20210625/1574143.md">声称“分享反共经验" 赵立坚爆“真话”视频热传</a></li>
+<li><a href="/cnnews/20210625/1574238.md">再反转？中共官媒规劝特斯拉维权女车主</a></li>
+<li><a href="/bannedvideo/20210625/1574187.md">最后一盏灯熄灭，香港进入准戒严状态；延长封国一年，以疫情的名义，中国已进入半军管状态（20210625 第627期）</a></li>
 <li><a href="/renquan/20210625/1573806.md">拜登总统就香港苹果日报被迫停刊事件发表声明</a></li>
-<li><a href="/cnnews/20210625/1573900.md">佛州公寓倒塌增至99人失踪 塌楼一刻片段曝光</a></li>
+<li><a href="/ssgc/20210625/1574010.md">〖兲朝浮世绘〗赵立坚要分享反共经验 他原来是潜入共匪内部的反贼</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210625/1574456.md" target="_blank">拜登：我们达成了万亿美金的两党基础设施协议</a></li>
+<li><a href="/comments/20210625/1574455.md" target="_blank">夏天别再喝饮料了！这两个老方子，解暑祛湿还补虚</a></li>
 <li><a href="/comments/20210625/1574422.md" target="_blank">【薇羽时光】古希腊神预言人类社会的走向，太准了！宇宙和人类的结局大反转</a></li>
 <li><a href="/comments/20210625/1574421.md" target="_blank">【戈壁东专栏】生活随笔：《旅途见闻分享》</a></li>
 <li><a href="/comments/20210625/1574420.md" target="_blank">【曾铮专栏】生活随笔：“好人多的地方”</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210625/1574250.md" target="_blank">升官</a></li>
 <li><a href="/comments/20210625/1574249.md" target="_blank">石塘咀图书馆“馆长推介”书架 摆满黎智英著作 建制派跟进 职员取走</a></li>
 <li><a href="/comments/20210625/1574248.md" target="_blank">让我们成为彼此身旁的巨人</a></li>
-<li><a href="/comments/20210625/1574247.md" target="_blank">【小说连载】七海归途之雪伦公主（15）</a></li>
-<li><a href="/comments/20210625/1574241.md" target="_blank">贝佐斯飞太空 风险太高保险业不敢接单</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
 <li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
 <li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
 <li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
 
 </ul>
 </div>
