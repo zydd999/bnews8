@@ -14,20 +14,20 @@
 <li><a href="/topimagenews/20210626/1574848.md">中共政法系一片哀嚎 “回马枪”又杀回来了！ 【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20210626/1574691.md">暴雨加冰雹 北京鸟巢七一焰火演出几乎被搞黄</a></li>
 <li><a href="/cbnews/20210626/1574562.md">专栏 | 夜话中南海：十堰大爆炸案的真实死亡人数与应勇的副国级晋升前景</a></li>
-<li><a href="/cbnews/20210626/1574864.md">对越反击战惨烈事件 自己人冲进指挥部扫射 军长中弹</a></li>
 <li><a href="/comments/20210626/1574660.md">历史罕见一幕：江青坐在邓小平与华国锋中间 当时谁能想到三人结局迥异？</a></li>
+<li><a href="/cbnews/20210626/1574864.md">对越反击战惨烈事件 自己人冲进指挥部扫射 军长中弹</a></li>
 <li><a href="/cnnews/20210626/1574653.md">专家：Novavax才是最佳新冠疫苗 具有大优势</a></li>
 <li><a href="/comments/20210626/1574485.md">💥有的看了！国防情报局正在酝酿一步大棋，习近平将派亲信前往美国，越来越精彩，一切都刚刚开始。│#熊猫侠</a></li>
 <li><a href="/ssgc/20210626/1574637.md">〖兲朝浮世绘〗全美国人都要认识胡锡进了</a></li>
-<li><a href="/cbnews/20210626/1574770.md">对付谁？江西警察无人机装备机关枪</a></li>
 <li><a href="/cbnews/20210626/1574839.md">江峰：驻美大使崔天凯自行宣布卸任大蹊跷！外交部不知情？看中共内部方寸大乱；农村供销社、信用社开始试点，7月份一起回归毛时代【江峰漫谈20210625第339期】</a></li>
-<li><a href="/worldnews/20210626/1574536.md">白宫记者看傻！拜登3度“用力对麦克风耳语”画面疯传</a></li>
+<li><a href="/cbnews/20210626/1574770.md">对付谁？江西警察无人机装备机关枪</a></li>
 <li><a href="/ssgc/20210626/1574564.md">专栏 | 夜话中南海：为习近平背锅的蒋超良下场如此凄凉</a></li>
+<li><a href="/worldnews/20210626/1574536.md">白宫记者看傻！拜登3度“用力对麦克风耳语”画面疯传</a></li>
+<li><a href="/cbnews/20210626/1574940.md">美媒：中美关系更加恶化 外交真空时刻来临</a></li>
 <li><a href="/bannedvideo/20210626/1574539.md">【董经纬信息放出】投诚的不只一个！"夺回美国"川普回击朱利安尼被停牌；美基建缩水2万亿；德州诉拜登政府；CIA：病源可能将无法确定 ；美职棒收视率降49%；拜登警告对付政府需F15与核武CL</a></li>
 <li><a href="/lifebaike/20210626/1574913.md">改善脑供血不足的冠军，洋葱靠边站，常吃，血管会谢谢你</a></li>
 <li><a href="/worldnews/20210626/1574538.md">重大发现！新研究揭白发生成原因“逆转返黑”方法曝光</a></li>
 <li><a href="/cbnews/20210626/1574550.md">孟晚舟要求禁公开汇丰新提供文件被法院驳回</a></li>
-<li><a href="/cnnews/20210626/1574574.md">华裔大妈纽约跳广场舞歌颂中共 伤华人形象</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
 <li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
+<li><a href="/comments/20210611/1564824.md" target="_blank">【曾铮专栏】感悟神韵（之一）神韵的主旨</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
 <li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20210612/1565472.md" target="_blank">感悟神韵（之二）：感悟神韵的艺术风格</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/cbnews/20210331/1516754.md" target="_blank">被传销团伙围杀时 丈夫说了这句话脱险</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
 
 </ul>
 </div>
