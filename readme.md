@@ -6,28 +6,28 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/topimagenews/20210625/1574040.md">董经纬信息会逐步放出？资深媒体人再爆猛料：俩官员投诚！【阿波罗网报道】</a></li>
-<li><a href="/cnnews/20210625/1574004.md">中国街头现惊悚标语 网友：中共承认附在人民身上</a></li>
 <li><a href="/topimagenews/20210625/1574189.md">新华社和习近平不同调 悄悄让江泽民露面！【阿波罗网独家报道】</a></li>
 <li><a href="/bannedvideo/20210625/1574224.md">今天北京街头，中国核应急。中共百年党庆临近，如临大敌。</a></li>
 <li><a href="/cbnews/20210625/1574020.md">俞怀松：董经纬照片是PS的</a></li>
 <li><a href="/cnnews/20210625/1574348.md">爆炸性新闻：佩洛西宣布众议院正式成立1月6日专门委会【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20210625/1574140.md">信息量很大！中纪委再提王明 、张国焘 高喊“四个服从”【阿波罗网独家报道】</a></li>
 <li><a href="/cbnews/20210625/1574390.md">太恶心：深圳15万/平住宅竟供应粪水 业主们喝了2个月</a></li>
-<li><a href="/cbnews/20210625/1574041.md">中国大陆业内人士揭秘骗了上亿人的保险真相</a></li>
 <li><a href="/cbnews/20210626/1574515.md">中国释出董经纬开会影音！网曝“PS手法”点出破绽</a></li>
-<li><a href="/cbnews/20210625/1574392.md">遮天蔽日：中共建党百年前急删档案</a></li>
+<li><a href="/cbnews/20210625/1574041.md">中国大陆业内人士揭秘骗了上亿人的保险真相</a></li>
 <li><a href="/cbnews/20210626/1574579.md">北京上海“小三”、“二奶”培训班生意火爆</a></li>
+<li><a href="/cbnews/20210625/1574392.md">遮天蔽日：中共建党百年前急删档案</a></li>
 <li><a href="/comments/20210625/1574036.md">惊！拜登政府强迫他立即离职；《炒掉福奇法案》出炉：减薪到零再查他；迈阿密12层房屋倒塌 99人失踪 ；拜登就苹果日报停刊事件发表声明【希望之声-北美新闻-2021/06/24】</a></li>
 <li><a href="/cnnews/20210625/1574238.md">再反转？中共官媒规劝特斯拉维权女车主</a></li>
 <li><a href="/cnnews/20210625/1574374.md">朝鲜牡丹峰乐团集体消失！剩她1人被金正恩宠爱</a></li>
 <li><a href="/cnnews/20210625/1574411.md">一场中共不想让您看的演出</a></li>
 <li><a href="/cbnews/20210625/1574143.md">声称“分享反共经验" 赵立坚爆“真话”视频热传</a></li>
 <li><a href="/bannedvideo/20210625/1574297.md">陈破空：算计二十大，习近平最怕他！连夜召回崔天凯。美国总统撑苹果！赵立坚公开反共</a></li>
-<li><a href="/bannedvideo/20210625/1574187.md">最后一盏灯熄灭，香港进入准戒严状态；延长封国一年，以疫情的名义，中国已进入半军管状态（20210625 第627期）</a></li>
 <li><a href="/headline/20210625/1574423.md">“死去的老人躺在武汉的人行道上” 法新社摄影今获奖</a></li>
+<li><a href="/bannedvideo/20210625/1574187.md">最后一盏灯熄灭，香港进入准戒严状态；延长封国一年，以疫情的名义，中国已进入半军管状态（20210625 第627期）</a></li>
 <li><a href="/cnnews/20210625/1574108.md">中共为建党百年删记录“不让人知道其历史”</a></li>
 <li><a href="/ssgc/20210625/1574010.md">〖兲朝浮世绘〗赵立坚要分享反共经验 他原来是潜入共匪内部的反贼</a></li>
 <li><a href="/comments/20210626/1574485.md">💥有的看了！国防情报局正在酝酿一步大棋，习近平将派亲信前往美国，越来越精彩，一切都刚刚开始。│#熊猫侠</a></li>
+<li><a href="/bannedvideo/20210625/1574383.md">中共军方和国安激烈搏杀的内幕，2021年6月22日视频重新上传--天钧政经</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210626/1574709.md" target="_blank">中共鼓吹”新型政党制度” 被指做政治宣传</a></li>
+<li><a href="/cbnews/20210626/1574707.md" target="_blank">在中国打疫苗不但免费还能赢万元大奖 网友：不寻常</a></li>
 <li><a href="/cbnews/20210626/1574706.md" target="_blank">天亮时分：董经纬露面，真的假的？供销总社启动，习近平为内循环做准备？苹果日报被迫关闭（政论天下第454集 20210625）</a></li>
 <li><a href="/comments/20210626/1574671.md" target="_blank">香气四溢的昙花，一年只有几个小时的绽放，你可知道它们为谁而开？｜#大雄画里话外 #笔墨传说 #昙花一现</a></li>
 <li><a href="/cbnews/20210626/1574663.md" target="_blank">中共欲通过党员标准控制社会 高学历年轻人成目标</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/cbnews/20210625/1574409.md" target="_blank">北京烟火彩排被揭耗七千万 再传重兵入京</a></li>
 <li><a href="/cbnews/20210625/1574392.md" target="_blank">遮天蔽日：中共建党百年前急删档案</a></li>
 <li><a href="/cbnews/20210625/1574391.md" target="_blank">怕输给民主版一带一路？习近平、王毅急喊话</a></li>
-<li><a href="/cbnews/20210625/1574390.md" target="_blank">太恶心：深圳15万/平住宅竟供应粪水 业主们喝了2个月</a></li>
-<li><a href="/cbnews/20210625/1574366.md" target="_blank">中共用“龙虾”为孔子学院续命 内幕曝光</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210626/1574736.md" target="_blank">董经纬百度词条悄然出现 大量网友敏感评论涌入未删</a></li>
+<li><a href="/comments/20210626/1574735.md" target="_blank">中共“党庆”之际 多位美两党议员揭其百年罪恶</a></li>
+<li><a href="/comments/20210626/1574726.md" target="_blank">基督徒公义联盟：清算中共百年反人类罪行</a></li>
+<li><a href="/comments/20210626/1574725.md" target="_blank">罗慰年：百年较量的拐点</a></li>
+<li><a href="/comments/20210626/1574724.md" target="_blank">自鸣得意的俏皮话 换得22年右派</a></li>
 <li><a href="/comments/20210626/1574686.md" target="_blank">田云：反普世人权 中共最新白皮书自揭底牌</a></li>
 <li><a href="/comments/20210626/1574685.md" target="_blank">周晓辉：洗脑片避中英声明内容 英前首相不信中共</a></li>
 <li><a href="/comments/20210626/1574684.md" target="_blank">大量黑人移民美国 左派无法解释</a></li>
@@ -118,11 +123,6 @@
 <li><a href="/comments/20210626/1574614.md" target="_blank">迈阿密大楼瞬间垮塌 4死159失踪</a></li>
 <li><a href="/comments/20210626/1574612.md" target="_blank">中南海催赵紫阳家人搬离故居 家属透露内情 赵紫阳女儿待新居确定有心将赵紫阳书房照旧保持 北京富强胡同6号先后见证两名中共领导人被罢黜 下一个住进去的会是谁？中南海不可告人的秘密_404</a></li>
 <li><a href="/comments/20210626/1574611.md" target="_blank">后默克尔时代 德国对华政策何去何从？</a></li>
-<li><a href="/comments/20210626/1574602.md" target="_blank">美众议员乔丹抨击大科技资助病毒研究又阻挡溯源</a></li>
-<li><a href="/comments/20210626/1574601.md" target="_blank">德法提议遇阻 欧盟领导人拒绝重启与俄高峰会</a></li>
-<li><a href="/comments/20210626/1574596.md" target="_blank">【当苹果堕下．2】香港最后一份异见报纸 黎智英和《苹果日报》的时代抉择</a></li>
-<li><a href="/comments/20210626/1574595.md" target="_blank">网曝上海隧道轿车起火 女子惨叫直至无声 没人敢救</a></li>
-<li><a href="/comments/20210626/1574594.md" target="_blank">【笑看世界专栏】 真人真事改编的微电影：《一次成功的审问》二十年来中共对善良百姓的镇压一直没有停止过</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/ganwu/20170705/787156.md" target="_blank">感悟神韵（之四）：感悟神韵音乐</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20210611/1564824.md" target="_blank">【曾铮专栏】感悟神韵（之一）神韵的主旨</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
 
 </ul>
 </div>
