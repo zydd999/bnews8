@@ -9,25 +9,25 @@
 <li><a href="/cbnews/20210625/1574390.md">太恶心：深圳15万/平住宅竟供应粪水 业主们喝了2个月</a></li>
 <li><a href="/cbnews/20210626/1574515.md">中国释出董经纬开会影音！网曝“PS手法”点出破绽</a></li>
 <li><a href="/cbnews/20210625/1574392.md">遮天蔽日：中共建党百年前急删档案</a></li>
-<li><a href="/cnnews/20210625/1574411.md">一场中共不想让您看的演出</a></li>
 <li><a href="/lifebaike/20210626/1574587.md">终于明白为何80年代要封杀邓丽君</a></li>
+<li><a href="/cnnews/20210625/1574411.md">一场中共不想让您看的演出</a></li>
 <li><a href="/lifebaike/20210626/1574590.md">一千个中央级干部离奇消失的秘密及名单</a></li>
 <li><a href="/topimagenews/20210626/1574848.md">中共政法系一片哀嚎 “回马枪”又杀回来了！ 【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20210626/1574633.md">华春莹“反习”后 赵立坚“反党”言论引议</a></li>
+<li><a href="/topimagenews/20210626/1574894.md">中共二十大权力争夺战！江系为周强造势！想让他干... 【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20210626/1574562.md">专栏 | 夜话中南海：十堰大爆炸案的真实死亡人数与应勇的副国级晋升前景</a></li>
 <li><a href="/cnnews/20210626/1574691.md">暴雨加冰雹 北京鸟巢七一焰火演出几乎被搞黄</a></li>
-<li><a href="/comments/20210626/1574660.md">历史罕见一幕：江青坐在邓小平与华国锋中间 当时谁能想到三人结局迥异？</a></li>
 <li><a href="/cbnews/20210626/1574864.md">对越反击战惨烈事件 自己人冲进指挥部扫射 军长中弹</a></li>
+<li><a href="/comments/20210626/1574660.md">历史罕见一幕：江青坐在邓小平与华国锋中间 当时谁能想到三人结局迥异？</a></li>
 <li><a href="/headline/20210625/1574423.md">“死去的老人躺在武汉的人行道上” 法新社摄影今获奖</a></li>
 <li><a href="/cnnews/20210626/1574653.md">专家：Novavax才是最佳新冠疫苗 具有大优势</a></li>
 <li><a href="/cnnews/20210625/1574374.md">朝鲜牡丹峰乐团集体消失！剩她1人被金正恩宠爱</a></li>
 <li><a href="/comments/20210626/1574485.md">💥有的看了！国防情报局正在酝酿一步大棋，习近平将派亲信前往美国，越来越精彩，一切都刚刚开始。│#熊猫侠</a></li>
-<li><a href="/topimagenews/20210626/1574894.md">中共二十大权力争夺战！江系为周强造势！想让他干... 【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20210626/1574637.md">〖兲朝浮世绘〗全美国人都要认识胡锡进了</a></li>
+<li><a href="/cbnews/20210626/1574770.md">对付谁？江西警察无人机装备机关枪</a></li>
+<li><a href="/cbnews/20210626/1574839.md">江峰：驻美大使崔天凯自行宣布卸任大蹊跷！外交部不知情？看中共内部方寸大乱；农村供销社、信用社开始试点，7月份一起回归毛时代【江峰漫谈20210625第339期】</a></li>
 <li><a href="/worldnews/20210626/1574536.md">白宫记者看傻！拜登3度“用力对麦克风耳语”画面疯传</a></li>
 <li><a href="/ssgc/20210626/1574564.md">专栏 | 夜话中南海：为习近平背锅的蒋超良下场如此凄凉</a></li>
-<li><a href="/cbnews/20210626/1574839.md">江峰：驻美大使崔天凯自行宣布卸任大蹊跷！外交部不知情？看中共内部方寸大乱；农村供销社、信用社开始试点，7月份一起回归毛时代【江峰漫谈20210625第339期】</a></li>
-<li><a href="/bannedvideo/20210626/1574539.md">【董经纬信息放出】投诚的不只一个！"夺回美国"川普回击朱利安尼被停牌；美基建缩水2万亿；德州诉拜登政府；CIA：病源可能将无法确定 ；美职棒收视率降49%；拜登警告对付政府需F15与核武CL</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
 <li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
 
 </ul>
 </div>
