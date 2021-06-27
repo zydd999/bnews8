@@ -7,8 +7,8 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cbnews/20210627/1575299.md">网传中共红歌歌手李双江西藏旅游时失踪</a></li>
 <li><a href="/comments/20210626/1575091.md">习近平“复活”供销社 专家铁口直断：死的更快</a></li>
-<li><a href="/comments/20210627/1575314.md">交易果然达成，董经纬被拜登秘密潜返，中共以病毒称霸不是梦 — 曾节明</a></li>
 <li><a href="/cbnews/20210627/1575178.md">中国多地限办护照，多人因疫情前频繁出境被查…</a></li>
+<li><a href="/comments/20210627/1575314.md">交易果然达成，董经纬被拜登秘密潜返，中共以病毒称霸不是梦 — 曾节明</a></li>
 <li><a href="/cnnews/20210627/1575177.md">给学校送牛？今天，广东高州一中爆出内幕了</a></li>
 <li><a href="/cbnews/20210627/1575168.md">华春莹吹中共人权白皮书 评论大翻车</a></li>
 <li><a href="/cnnews/20210627/1575281.md">顾顺章投诚后惊人爆料：中共总书记强奸女下级 霸占下级老婆</a></li>
@@ -17,17 +17,17 @@
 <li><a href="/headline/20210627/1575136.md">新冠病毒溯源研究三项新发现：条条不利中共掩盖真相的努力</a></li>
 <li><a href="/yule/20210627/1575169.md">高晓松暴瘦26斤现身街头！脸部松垮挂不住肉</a></li>
 <li><a href="/lifebaike/20210627/1575279.md">加拿大研究：蒲公英能在48小时内杀死98%的癌细胞，是真的吗？</a></li>
-<li><a href="/yule/20210627/1575170.md">昔日当红童星现状：家庭变故精神分裂，流落街头捡垃圾桶食物果腹</a></li>
 <li><a href="/cbnews/20210627/1575429.md">韩战震撼视频曝光中共作的恶 那些被活活冻死的战士</a></li>
+<li><a href="/yule/20210627/1575170.md">昔日当红童星现状：家庭变故精神分裂，流落街头捡垃圾桶食物果腹</a></li>
 <li><a href="/topimagenews/20210627/1575184.md">江系凤凰卫视创始人刘长乐出售加州豪宅</a></li>
+<li><a href="/topimagenews/20210627/1575468.md">“江泽民”马屁歌被消音 江系给习近平上眼药：东方红重现【阿波罗网报道】</a></li>
 <li><a href="/yule/20210627/1575263.md">章泽天早年芭蕾舞旧照曝光 网友：差点认不出</a></li>
 <li><a href="/yule/20210627/1575171.md">张学友夫妇被曝搬进新豪宅，出售旧居开价4.3亿，比购入价高出8倍</a></li>
-<li><a href="/topimagenews/20210627/1575468.md">“江泽民”马屁歌被消音 江系给习近平上眼药：东方红重现【阿波罗网报道】</a></li>
+<li><a href="/comments/20210627/1575458.md">李燕铭：习与江曾生死搏杀面临摊牌 朱镕基父子小心翼翼与江派势力切割 凤凰卫视财经峰会主题《新局与敢为》挑战习近平？江派人马集结三十余高官与会 朱镕基之子朱云来50分钟演讲闭幕压轴 朱云来演讲题目与峰会主题大相径庭暗藏玄机 峰会结束第二天 江泽民父子马仔刘长乐被免去凤凰卫视董事会主席及执行董事</a></li>
 <li><a href="/bannedvideo/20210627/1575174.md">99%的人想不到！独家解读：道士预言毛泽东的密语 #金泉看世界#金泉#金泉看世界 汉字藏天机#8341 毛泽东#预言</a></li>
 <li><a href="/cbnews/20210627/1575167.md">毒株载量高发病快 Delta变种攻入广东</a></li>
-<li><a href="/comments/20210627/1575458.md">李燕铭：习与江曾生死搏杀面临摊牌 朱镕基父子小心翼翼与江派势力切割 凤凰卫视财经峰会主题《新局与敢为》挑战习近平？江派人马集结三十余高官与会 朱镕基之子朱云来50分钟演讲闭幕压轴 朱云来演讲题目与峰会主题大相径庭暗藏玄机 峰会结束第二天 江泽民父子马仔刘长乐被免去凤凰卫视董事会主席及执行董事</a></li>
-<li><a href="/cbnews/20210626/1575050.md">郑州公安：死囚如何被强摘器官</a></li>
-<li><a href="/comments/20210627/1575211.md">什么是PUA 有多可怕 pua男有哪些特征</a></li>
+<li><a href="/bannedvideo/20210627/1575474.md">中南海秘闻！中央警卫局怎么保护习近平，中南海保镖的日常生活--天钧政经</a></li>
+<li><a href="/comments/20210627/1575406.md">海外华人的最大担忧</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210627/1575615.md" target="_blank">神韵重回世界舞台 康州首演爆满</a></li>
 <li><a href="/comments/20210627/1575608.md" target="_blank">💥前员工：北京母公司严控Tiktok 美用户数据全共享；美与印尼联合海事中心动工；中共建党百年 扩大灰色地带扰台；【希望之声TV-两岸要闻-2021/06/27】</a></li>
 <li><a href="/comments/20210627/1575552.md" target="_blank">新视野 第245期</a></li>
 <li><a href="/cbnews/20210627/1575479.md" target="_blank">喜欢美国的理由 — 曾节明</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210627/1575133.md" target="_blank">北京风雨雷雹齐降 多区砸鸡蛋大冰雹</a></li>
 <li><a href="/cbnews/20210627/1575126.md" target="_blank">手机充电器半夜爆炸 福建男子眼部被炸伤</a></li>
 <li><a href="/cbnews/20210627/1575117.md" target="_blank">三只松鼠90后总监偷卖废纸贪34万元 网叹为小钱毁前途</a></li>
-<li><a href="/cbnews/20210626/1575062.md" target="_blank">接境外电话 浙大教授遭警察上门“备案”</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20210611/1564824.md" target="_blank">【曾铮专栏】感悟神韵（之一）神韵的主旨</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
 <li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
 
 </ul>
 </div>
