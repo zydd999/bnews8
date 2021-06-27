@@ -11,15 +11,15 @@
 <li><a href="/cbnews/20210626/1574940.md">美媒：中美关系更加恶化 外交真空时刻来临</a></li>
 <li><a href="/comments/20210626/1575091.md">习近平“复活”供销社 专家铁口直断：死的更快</a></li>
 <li><a href="/cnnews/20210627/1575177.md">给学校送牛？今天，广东高州一中爆出内幕了</a></li>
+<li><a href="/cbnews/20210627/1575299.md">网传中共红歌歌手李双江西藏旅游时失踪</a></li>
 <li><a href="/cbnews/20210627/1575178.md">中国多地限办护照，多人因疫情前频繁出境被查…</a></li>
 <li><a href="/cbnews/20210627/1575168.md">华春莹吹中共人权白皮书 评论大翻车</a></li>
-<li><a href="/cbnews/20210627/1575299.md">网传中共红歌歌手李双江西藏旅游时失踪</a></li>
 <li><a href="/cbnews/20210626/1574965.md">中共驻巴外交官“竖中指” 分析：习近平最新指示效应</a></li>
 <li><a href="/bannedvideo/20210626/1574977.md">陈破空：中共辟谣董经纬，发布影像出漏洞，惊现少了一个人！叛逃者是他？</a></li>
+<li><a href="/cnnews/20210627/1575281.md">顾顺章投诚后惊人爆料：中共总书记强奸女下级 霸占下级老婆</a></li>
 <li><a href="/cbnews/20210626/1574931.md">如今离婚率这么高，跟女权毒鸡汤脱不了关系，当初我也差点被洗脑</a></li>
 <li><a href="/cbnews/20210626/1575062.md">接境外电话 浙大教授遭警察上门“备案”</a></li>
 <li><a href="/headline/20210627/1575136.md">新冠病毒溯源研究三项新发现：条条不利中共掩盖真相的努力</a></li>
-<li><a href="/cnnews/20210627/1575281.md">顾顺章投诚后惊人爆料：中共总书记强奸女下级 霸占下级老婆</a></li>
 <li><a href="/yule/20210627/1575169.md">高晓松暴瘦26斤现身街头！脸部松垮挂不住肉</a></li>
 <li><a href="/yule/20210627/1575170.md">昔日当红童星现状：家庭变故精神分裂，流落街头捡垃圾桶食物果腹</a></li>
 <li><a href="/lifebaike/20210626/1574925.md">刚刚才知道，原来保存大米这么简单！不生虫不发霉，放1年不会坏</a></li>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210627/1575433.md" target="_blank">传承百年都不过时的生活妙招，你用过几个？</a></li>
+<li><a href="/comments/20210627/1575432.md" target="_blank">生活中牙膏的几个妙用</a></li>
+<li><a href="/comments/20210627/1575431.md" target="_blank">年轻人接种辉瑞和莫德纳疫苗出现心脏发炎频次高</a></li>
 <li><a href="/comments/20210627/1575425.md" target="_blank">玫瑰花蕾</a></li>
 <li><a href="/comments/20210627/1575410.md" target="_blank">若谈判停滞 美或退出伊核协议；维基创始人阿桑奇将在监狱结婚；涉弗洛伊德案警察被判22年半；中共威胁扣疫苗 逼乌退人权声明；变种毒株攻入广东 传染只需14秒【希望之声-午夜新闻-2021/06/26】</a></li>
 <li><a href="/comments/20210627/1575409.md" target="_blank">火灾使援救难度加大 迈阿密倒塌大楼死者增为5人</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210627/1575332.md" target="_blank">禁止公办高中复读，这是一个巨大信号</a></li>
 <li><a href="/comments/20210627/1575331.md" target="_blank">袁斌：清华教授郭于华为何声明退党？</a></li>
 <li><a href="/comments/20210627/1575330.md" target="_blank">没有《苹果》的第一天创作人接力自制“头版”</a></li>
-<li><a href="/comments/20210627/1575315.md" target="_blank">【杰森视角】香港是现代版温泉关战役! 台湾已不再是美国的麻烦！美情军方出“飞碟”报告！</a></li>
-<li><a href="/comments/20210627/1575310.md" target="_blank">【微博精粹】敌人来了就发情 战狼官方Logo出台</a></li>
-<li><a href="/comments/20210627/1575309.md" target="_blank">杨威：习近平会拜登无期 普京临时被凑数？</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20210611/1564824.md" target="_blank">【曾铮专栏】感悟神韵（之一）神韵的主旨</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
 
 </ul>
 </div>
