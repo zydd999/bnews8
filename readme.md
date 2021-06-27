@@ -17,17 +17,17 @@
 <li><a href="/topimagenews/20210627/1575468.md">“江泽民”马屁歌被消音 江系给习近平上眼药：东方红重现【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20210627/1575429.md">韩战震撼视频曝光中共作的恶 那些被活活冻死的战士</a></li>
 <li><a href="/lifebaike/20210627/1575279.md">加拿大研究：蒲公英能在48小时内杀死98%的癌细胞，是真的吗？</a></li>
-<li><a href="/yule/20210627/1575170.md">昔日当红童星现状：家庭变故精神分裂，流落街头捡垃圾桶食物果腹</a></li>
 <li><a href="/cnnews/20210627/1575539.md">数据说话：东三省发不出养老金，需要用你的钱？</a></li>
+<li><a href="/yule/20210627/1575170.md">昔日当红童星现状：家庭变故精神分裂，流落街头捡垃圾桶食物果腹</a></li>
 <li><a href="/bannedvideo/20210627/1575474.md">中南海秘闻！中央警卫局怎么保护习近平，中南海保镖的日常生活--天钧政经</a></li>
-<li><a href="/topimagenews/20210627/1575184.md">江系凤凰卫视创始人刘长乐出售加州豪宅</a></li>
 <li><a href="/comments/20210627/1575458.md">李燕铭：习与江曾生死搏杀面临摊牌 朱镕基父子小心翼翼与江派势力切割 凤凰卫视财经峰会主题《新局与敢为》挑战习近平？江派人马集结三十余高官与会 朱镕基之子朱云来50分钟演讲闭幕压轴 朱云来演讲题目与峰会主题大相径庭暗藏玄机 峰会结束第二天 江泽民父子马仔刘长乐被免去凤凰卫视董事会主席及执行董事</a></li>
-<li><a href="/yule/20210627/1575171.md">张学友夫妇被曝搬进新豪宅，出售旧居开价4.3亿，比购入价高出8倍</a></li>
-<li><a href="/headline/20210627/1575497.md">习近平将颁7.1勋章 没有江泽民胡锦涛引关注</a></li>
-<li><a href="/yule/20210627/1575263.md">章泽天早年芭蕾舞旧照曝光 网友：差点认不出</a></li>
-<li><a href="/comments/20210627/1575332.md">禁止公办高中复读，这是一个巨大信号</a></li>
 <li><a href="/ssgc/20210627/1575610.md">美国推出决议结束中国共产党</a></li>
-<li><a href="/comments/20210627/1575406.md">海外华人的最大担忧</a></li>
+<li><a href="/topimagenews/20210627/1575184.md">江系凤凰卫视创始人刘长乐出售加州豪宅</a></li>
+<li><a href="/headline/20210627/1575497.md">习近平将颁7.1勋章 没有江泽民胡锦涛引关注</a></li>
+<li><a href="/yule/20210627/1575171.md">张学友夫妇被曝搬进新豪宅，出售旧居开价4.3亿，比购入价高出8倍</a></li>
+<li><a href="/yule/20210627/1575263.md">章泽天早年芭蕾舞旧照曝光 网友：差点认不出</a></li>
+<li><a href="/bannedvideo/20210627/1575547.md">陈破空：惊！大使馆集体公开汉奸身份！随时叛逃？美国推出最强决议：终结中共，支持中国人民</a></li>
+<li><a href="/comments/20210627/1575332.md">禁止公办高中复读，这是一个巨大信号</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210628/1575667.md" target="_blank">李燕铭：江泽民父子马仔刘长乐出局凤凰卫视 抛售洛杉矶豪宅 亲习阵营媒体罕见点名 刘长乐凶多吉少</a></li>
 <li><a href="/comments/20210628/1575661.md" target="_blank">美第一夫人拟出访日本奥运会 两国政府安排事宜</a></li>
 <li><a href="/comments/20210628/1575654.md" target="_blank">春天教会宣布解散 堂主任：红线处处难评风险 改个人名义免牵连他人</a></li>
 <li><a href="/comments/20210628/1575653.md" target="_blank">罗致光：心中既要有香港亦要有大湾区 盼更多港式安老院落户大湾区</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210627/1575490.md" target="_blank">研究发现：东亚人2万年前曾对抗过冠状病毒</a></li>
 <li><a href="/comments/20210627/1575489.md" target="_blank">预防抑郁症八大招</a></li>
 <li><a href="/comments/20210627/1575488.md" target="_blank">英国配偶签证（Spouse Visa）续签 成功后的经验分享（上）</a></li>
-<li><a href="/comments/20210627/1575487.md" target="_blank">唯美之灵在心灵之巅点燃信仰的金灯（第五部分）—— 科学理性不是属于心灵的真理（东方哲人解析当代人类困惑  第三十五讲）【袁红冰杏坛】 06272021</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
 <li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
-<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
 
 </ul>
 </div>
