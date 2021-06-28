@@ -15,7 +15,6 @@
 <li><a href="/health/20210628/1575775.md">老实说，发现癌症后不治疗，最终结局会怎样？会不会活得更久？组图</a></li>
 <li><a href="/comments/20210628/1576143.md">赊刀人现身，人间必有大事。他们留下一谶语，预言2021年，令人震惊！</a></li>
 <li><a href="/cbnews/20210628/1575891.md">中共路线大战！七一前释出惊人信号 【阿波罗网报道】</a></li>
-<li><a href="/cnnews/20210628/1575705.md">孙女出嫁外公突冲出…紧抓不放还“狂翻口袋”！原因逼哭网</a></li>
 <li><a href="/comments/20210628/1576081.md">中纪委点名两人 军方警告野心家 中共党庆暗潮汹涌</a></li>
 <li><a href="/cbnews/20210628/1576209.md">七一前北京出事 网曝有人在中共外交部门口放火</a></li>
 <li><a href="/cnnews/20210628/1576057.md">拜登接连出台对北京强硬政策 中外企业震惊</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/cnnews/20210628/1575895.md">不是咳嗽！Delta病毒新5大症状曝光 第1名超意外</a></li>
 <li><a href="/cnnews/20210628/1575763.md">中共官员承认国产疫苗效力低 意总理亦公开给差评</a></li>
 <li><a href="/cnnews/20210628/1576003.md">广州再建5千人隔离站 疫情有多严重 你懂的</a></li>
+<li><a href="/cbnews/20210628/1576293.md">慎入！青岛法院前院长初鲁宁跳楼自杀 虽退休两年 苍天不饶</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210629/1576365.md" target="_blank">薄纱正妹辣跳广场舞！大妈竟为1理由 怒“扯发开扁”</a></li>
 <li><a href="/cbnews/20210629/1576357.md" target="_blank">传北京七一前不卖菜刀 东华门停天然气不准做饭</a></li>
 <li><a href="/cbnews/20210629/1576350.md" target="_blank">揭同业乱收费黑幕 医师：治疗肿瘤月花2000就够</a></li>
 <li><a href="/comments/20210629/1576326.md" target="_blank">美军空袭伊朗傻眼；金正恩暴瘦？人民“心痛流泪”【希望之声TV-环球看点-2021/6/28】</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210628/1575961.md" target="_blank">神韵2021世界巡演预告片</a></li>
 <li><a href="/cbnews/20210628/1576008.md" target="_blank">暴雨黄色预警：中国大陆10省区市部分地区将现大到暴雨 警惕三峡大坝</a></li>
 <li><a href="/cbnews/20210628/1576007.md" target="_blank">中共百年党庆 天安门广场周边污水井盖打封安检</a></li>
-<li><a href="/cbnews/20210628/1575970.md" target="_blank">中共删逾千万份判决书 疑图谋抹去不光彩记录</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210629/1576362.md" target="_blank">美研究：中共69010部队或网攻中亚 与美竞争</a></li>
 <li><a href="/comments/20210629/1576353.md" target="_blank">今年7.1太敏感！港府禁英国飞机 香港开启文字狱时代</a></li>
 <li><a href="/comments/20210629/1576346.md" target="_blank">银行暂停房贷？分析：房地产从经济支柱变最大“灰犀牛”</a></li>
 <li><a href="/comments/20210629/1576337.md" target="_blank">警方以防疫为由反对七一游行 社民连等主办方：警向中共献媚，将提上诉</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210628/1576238.md" target="_blank">变魔术的时间</a></li>
 <li><a href="/comments/20210628/1576237.md" target="_blank">时事大家谈：“别让他跑了！” 潘石屹能平安撤离吗？</a></li>
 <li><a href="/comments/20210628/1576236.md" target="_blank">评论 | 沈旭晖：《苹果日报》突然死亡：解读《港区国安法》与“人质外交”</a></li>
-<li><a href="/comments/20210628/1576228.md" target="_blank">中共推百年大事记 形容六四为“平息反革命暴乱”、“捍卫国家政权”</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
 <li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
 <li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/comments/20210329/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
 
 </ul>
 </div>
