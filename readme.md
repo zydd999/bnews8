@@ -12,22 +12,22 @@
 <li><a href="/bannedvideo/20210627/1575547.md">陈破空：惊！大使馆集体公开汉奸身份！随时叛逃？美国推出最强决议：终结中共，支持中国人民</a></li>
 <li><a href="/ssgc/20210628/1575724.md">〖兲朝浮世绘〗习近平的初心和你想象的不一样</a></li>
 <li><a href="/comments/20210628/1575822.md">中共元老集体“躺平”抵制百年党庆？习近平一招逼得元老们不敢现身 江泽民胡锦涛缺席“七一勋章”29人名单 中南海谣言预言_485</a></li>
-<li><a href="/headline/20210627/1575497.md">习近平将颁7.1勋章 没有江泽民胡锦涛引关注</a></li>
-<li><a href="/cnnews/20210628/1575712.md">特斯拉锂电池输了 固态电池准备量产</a></li>
 <li><a href="/comments/20210627/1575458.md">李燕铭：习与江曾生死搏杀面临摊牌 朱镕基父子小心翼翼与江派势力切割 凤凰卫视财经峰会主题《新局与敢为》挑战习近平？江派人马集结三十余高官与会 朱镕基之子朱云来50分钟演讲闭幕压轴 朱云来演讲题目与峰会主题大相径庭暗藏玄机 峰会结束第二天 江泽民父子马仔刘长乐被免去凤凰卫视董事会主席及执行董事</a></li>
+<li><a href="/cnnews/20210628/1575712.md">特斯拉锂电池输了 固态电池准备量产</a></li>
+<li><a href="/headline/20210627/1575497.md">习近平将颁7.1勋章 没有江泽民胡锦涛引关注</a></li>
 <li><a href="/lifebaike/20210628/1575802.md">宝马和奥迪有多大差距？听修车师傅一席话，车主就后悔买错了</a></li>
 <li><a href="/cnnews/20210627/1575548.md">美国CDC承认：疫苗副作用住院的年轻人 比因中共病毒住院的更多【阿波罗网编译】</a></li>
 <li><a href="/bannedvideo/20210627/1575649.md">【军政】习近平搞砸了 两国投美；美军陆战队亚太大动作；特斯拉于中国急召回；中国平安市值蒸发4000亿或被债务拖垮；朝鲜用中国手机等同间谍；微软Windows11恐让大量旧电脑淘汰？KL</a></li>
 <li><a href="/cnnews/20210628/1575705.md">孙女出嫁外公突冲出…紧抓不放还“狂翻口袋”！原因逼哭网</a></li>
-<li><a href="/lifebaike/20210627/1575457.md">不管衣柜多大，里面别放这3样东西，不是迷信，早提示家人长记性，太重要了</a></li>
 <li><a href="/cnnews/20210628/1575670.md">河南柘城震兴武馆大火事件遇难孩子家长游行示威 要尸体要说法</a></li>
 <li><a href="/health/20210628/1575775.md">老实说，发现癌症后不治疗，最终结局会怎样？会不会活得更久？组图</a></li>
 <li><a href="/cbnews/20210628/1575728.md">集体跑步也“非法” 中共大力清理民间团体</a></li>
 <li><a href="/worldnews/20210628/1575760.md">高空中“掉出飞机” 跳伞教练与客人重摔地面惨死</a></li>
-<li><a href="/cnnews/20210627/1575538.md">无产者的反击？美团遭沈阳骑手“深夜报复”</a></li>
 <li><a href="/cbnews/20210628/1575787.md">东莞女子染Delta快餐店这样传染2人 奇怪的是…</a></li>
-<li><a href="/topimagenews/20210627/1575454.md">政法大学教授罗翔揭露活摘器官罪恶 活摘双肾就是故意杀人罪</a></li>
+<li><a href="/cnnews/20210627/1575538.md">无产者的反击？美团遭沈阳骑手“深夜报复”</a></li>
 <li><a href="/bannedvideo/20210627/1575491.md">广西省南宁市宾阳县 游街示众</a></li>
+<li><a href="/cnnews/20210627/1575550.md">爆炸性新闻：FDA对莫德纳和辉瑞疫苗增加心肌炎、心包炎的警告【阿波罗网编译】</a></li>
+<li><a href="/comments/20210628/1575702.md">病毒溯源3大新发现 中共无法甩锅</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210628/1575991.md" target="_blank">【李欣随想 】管理人间的神有哪些？阎王的判官、鬼王、鬼卒、土地神、城隍爷、孟婆、地基主真的存在吗？他们都负责什么？</a></li>
+<li><a href="/comments/20210628/1575990.md" target="_blank">【李欣随想 】日常“小事”竟成罪状！？清朝大孝子想出让人匪夷所思的方法，令母亲免遭劫难</a></li>
+<li><a href="/comments/20210628/1575989.md" target="_blank">诗一首：《释缚》</a></li>
+<li><a href="/comments/20210628/1575988.md" target="_blank">【未解之谜 】奇闻！西藏高僧竟转生为“西班牙人”，面对存疑的弟子，他只说了一句话，就让弟子震惊落泪；不是所有的“转世灵童”都能重回寺院……</a></li>
 <li><a href="/comments/20210628/1575984.md" target="_blank">李燕铭：二十大人事博弈白热化 北戴河会大战在即 习近平展示打虎战果震慑江泽民曾庆红：453名省部级以上高官落马 逾400万人被查 4.2万人主动投案 王岐山旧部重提习近平打虎金句：打虎无禁区全覆盖零容忍 不管什么人职位有多高 反腐败斗争是一场输不起也决不能输的重大政治斗争，必须决战决胜……</a></li>
 <li><a href="/comments/20210628/1575967.md" target="_blank">疑问的痕迹</a></li>
 <li><a href="/comments/20210628/1575966.md" target="_blank">风声鹤唳 寒蝉惊鸟的北京【图／视频】</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210628/1575871.md" target="_blank">中国法学家怒揭有人定期被活摘器官</a></li>
 <li><a href="/comments/20210628/1575870.md" target="_blank">七一前夕 东京法轮功学员在日本外务省和国会请愿</a></li>
 <li><a href="/comments/20210628/1575869.md" target="_blank">科兴疫苗对Delta变种病毒效力低 义大利总理拒中国疫苗</a></li>
-<li><a href="/comments/20210628/1575862.md" target="_blank">钟原：钟南山欲唱赞歌 却泄漏实情 高官注射美国疫苗仍然怕得要死</a></li>
-<li><a href="/comments/20210628/1575861.md" target="_blank">千百度：警察升港府二号 网友：枪杆子政权来了</a></li>
-<li><a href="/comments/20210628/1575860.md" target="_blank">田云：六月冰雹示警 中共七一前作恶不停</a></li>
-<li><a href="/comments/20210628/1575859.md" target="_blank">获奖小说家：就CAVPAC与蓬佩奥的谈话</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
 <li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
 <li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/ganwu/20170705/787156.md" target="_blank">感悟神韵（之四）：感悟神韵音乐</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
 
 </ul>
 </div>
