@@ -13,19 +13,19 @@
 <li><a href="/cbnews/20210629/1576801.md">胡锦涛等多名退休高层缺席中共党庆活动</a></li>
 <li><a href="/cbnews/20210629/1576427.md">演员昏倒狗上台 中共党庆演出状况不断</a></li>
 <li><a href="/cbnews/20210629/1576405.md">越过红线：习近平为何决心“全面管治”香港</a></li>
-<li><a href="/comments/20210629/1576732.md">军方将领密谋在中共百年庆典当日发动政变 反恐特种部队雪豹突击队参与其中 被习近平阵营破获 一名将军与数百军人被抓 中南海谣言预言_487</a></li>
 <li><a href="/comments/20210629/1576472.md">澳媒公布中共呈交联合国的文件，里面承认人造病毒外泄，足以危害全人类；【希望之声-每日头条-2021/06/28】</a></li>
+<li><a href="/comments/20210629/1576732.md">军方将领密谋在中共百年庆典当日发动政变 反恐特种部队雪豹突击队参与其中 被习近平阵营破获 一名将军与数百军人被抓 中南海谣言预言_487</a></li>
+<li><a href="/ssgc/20210629/1576880.md">中国崩溃已经开始</a></li>
 <li><a href="/cnnews/20210629/1576777.md">中共百年党庆 阴森视频曝光 网友：黑老大过寿</a></li>
 <li><a href="/ssgc/20210629/1576586.md">〖兲朝浮世绘〗习近平让普京当道具，普京拉习近平当卖国贼示众</a></li>
-<li><a href="/ssgc/20210629/1576880.md">中国崩溃已经开始</a></li>
 <li><a href="/comments/20210629/1576326.md">美军空袭伊朗傻眼；金正恩暴瘦？人民“心痛流泪”【希望之声TV-环球看点-2021/6/28】</a></li>
 <li><a href="/cbnews/20210629/1576800.md">向习逼宫？中共重提路线斗争 对内喊话要求服从</a></li>
 <li><a href="/cbnews/20210629/1576365.md">薄纱正妹辣跳广场舞！大妈竟为1理由 怒“扯发开扁”</a></li>
 <li><a href="/cnnews/20210629/1576582.md">印度神童三度预言成真 这5个国家出事了 这个时间小心</a></li>
 <li><a href="/comments/20210629/1576346.md">银行暂停房贷？分析：房地产从经济支柱变最大“灰犀牛”</a></li>
 <li><a href="/cbnews/20210629/1576514.md">天亮时分：罕见！中纪委与军方异动，凸显亡党危机；天安门党庆演出竟提前！香港自由沦丧，仅剩两道闸门未落；贸易版北约，欧美对北京的王炸（政论天下第456集 20210628）</a></li>
-<li><a href="/cbnews/20210629/1576482.md">文昭：「七一勋章」无江泽民和胡锦涛，有蹊跷；中共「百年之後」会被意外闪击？</a></li>
 <li><a href="/cnnews/20210629/1576654.md">陈云临终遗言真是句句说出了党的心里话</a></li>
+<li><a href="/cbnews/20210629/1576482.md">文昭：「七一勋章」无江泽民和胡锦涛，有蹊跷；中共「百年之後」会被意外闪击？</a></li>
 <li><a href="/ssgc/20210629/1576642.md">〖微博谈〗党国经济还能支撑多久？</a></li>
 <li><a href="/cbnews/20210629/1576562.md">俄国侵占的中国国士何时还？ 习近平连线普京宣布中俄条约延期</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210630/1577030.md" target="_blank">💥王毅将视频出席G20会议；义外长：中国只是生意伙伴；白宫：强化美台经贸关系；中共党庆 港首席法官破惯例出席；社民连七一游行遭拒将申诉；中共党庆草木皆兵【希望之声TV-两岸要闻-2021/06/29】</a></li>
 <li><a href="/cbnews/20210629/1576974.md" target="_blank">广东书记李希罕见缺席习主持的两个活动</a></li>
 <li><a href="/cbnews/20210629/1576973.md" target="_blank">“战狼画手”乌合麒麟捧华为芯片引群嘲 无奈道歉</a></li>
 <li><a href="/cbnews/20210629/1576972.md" target="_blank">中共百年10万字大事记 五大灾难、冤案均被抹掉</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/comments/20210629/1485911.md" target="_blank">敏感时期大量翻墙VPN失效 推荐高速有效翻墙VPN</a></li>
 <li><a href="/cbnews/20210629/1576666.md" target="_blank">犹如灾难片 逾百米高沙尘暴巨墙滚滚袭击内蒙</a></li>
 <li><a href="/cbnews/20210629/1576665.md" target="_blank">14奈米芯片“叠加”比肩7奈米的效能 “战狼画手”捧华为芯片引群嘲</a></li>
-<li><a href="/cbnews/20210629/1576650.md" target="_blank">江峰：建党百年文艺演出神秘提前，危机还是怕雷劈？中央重提王明、张国焘，意味习近平遇到了怎样的党内劲敌？【江峰漫谈20210628第340期】</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210630/1577030.md" target="_blank">💥王毅将视频出席G20会议；义外长：中国只是生意伙伴；白宫：强化美台经贸关系；中共党庆 港首席法官破惯例出席；社民连七一游行遭拒将申诉；中共党庆草木皆兵【希望之声TV-两岸要闻-2021/06/29】</a></li>
 <li><a href="/comments/20210630/1577004.md" target="_blank">继香港后 又因拒签“一中承诺书” 台驻澳门代表返台</a></li>
 <li><a href="/comments/20210629/1577000.md" target="_blank">中共党庆晚会突提前 胡锦涛温家宝等缺席引猜测</a></li>
 <li><a href="/comments/20210629/1576999.md" target="_blank">台湾驻澳门代表因签证无法延期而被迫返回</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210629/1576853.md" target="_blank">教宗会晤布林肯 中国人权与宗教自由问题难以回避</a></li>
 <li><a href="/comments/20210629/1576850.md" target="_blank">新视野 第248期 20210629</a></li>
 <li><a href="/comments/20210629/1576841.md" target="_blank">习近平发动台海之战的意志是千古不赦的罪恶（上）—— 中共暴政是中国人的死敌（中共命运的轨迹和人类前途  第二十八讲）【袁红冰纵论天下】 06292021</a></li>
-<li><a href="/comments/20210629/1576836.md" target="_blank">一根钢针“撬”动整个人类文明</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
 <li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
 
 </ul>
 </div>
