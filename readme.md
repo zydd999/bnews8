@@ -12,17 +12,17 @@
 <li><a href="/comments/20210628/1576143.md">赊刀人现身，人间必有大事。他们留下一谶语，预言2021年，令人震惊！</a></li>
 <li><a href="/bannedvideo/20210629/1576443.md">大反转？唯一曾在武毒所工作的国际专家发声，中共外交部要求调查200个美国实验室；蓬佩奥说对了，中共100年党庆风声鹤唳，但最担心的事是这个！【#秦鹏观察 6/28】</a></li>
 <li><a href="/cbnews/20210628/1576209.md">七一前北京出事 网曝有人在中共外交部门口放火</a></li>
-<li><a href="/cnnews/20210629/1576398.md">最新重磅研究：这种疫苗可能会产生永久抗体</a></li>
 <li><a href="/cnnews/20210628/1576057.md">拜登接连出台对北京强硬政策 中外企业震惊</a></li>
+<li><a href="/cnnews/20210629/1576398.md">最新重磅研究：这种疫苗可能会产生永久抗体</a></li>
 <li><a href="/lifebaike/20210628/1575997.md">汽车内使用一个小时空调耗多少油？实测结果出来后，表示有些意外</a></li>
 <li><a href="/cbnews/20210628/1576262.md">中共党庆文艺演出罕见提前 原因不明引猜测</a></li>
-<li><a href="/cbnews/20210629/1576427.md">演员昏倒狗上台 中共党庆演出状况不断</a></li>
+<li><a href="/bannedvideo/20210629/1576559.md">突然分裂！中共百年党庆演出高层7+1露面，李克强全程臭脸；江胡朱温四政治老人缺席！出了什麽情况？</a></li>
 <li><a href="/cbnews/20210629/1576405.md">越过红线：习近平为何决心“全面管治”香港</a></li>
+<li><a href="/cbnews/20210629/1576427.md">演员昏倒狗上台 中共党庆演出状况不断</a></li>
 <li><a href="/comments/20210629/1576472.md">澳媒公布中共呈交联合国的文件，里面承认人造病毒外泄，足以危害全人类；【希望之声-每日头条-2021/06/28】</a></li>
 <li><a href="/cnnews/20210628/1576110.md">美国公布UFO报告，NASA局长“汗毛都立起来了”</a></li>
 <li><a href="/ssgc/20210628/1576091.md">党庆大型文艺演出临时改期</a></li>
 <li><a href="/comments/20210629/1576326.md">美军空袭伊朗傻眼；金正恩暴瘦？人民“心痛流泪”【希望之声TV-环球看点-2021/6/28】</a></li>
-<li><a href="/bannedvideo/20210629/1576559.md">突然分裂！中共百年党庆演出高层7+1露面，李克强全程臭脸；江胡朱温四政治老人缺席！出了什麽情况？</a></li>
 <li><a href="/cbnews/20210629/1576365.md">薄纱正妹辣跳广场舞！大妈竟为1理由 怒“扯发开扁”</a></li>
 <li><a href="/comments/20210628/1576016.md">Delta病毒平均1传6人！医曝「保命3招」</a></li>
 <li><a href="/cnnews/20210628/1576003.md">广州再建5千人隔离站 疫情有多严重 你懂的</a></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210629/1576706.md" target="_blank">清零？广东兴建健康驿站代替隔离酒店 引民众质疑</a></li>
 <li><a href="/comments/20210629/1485911.md" target="_blank">敏感时期大量翻墙VPN失效 推荐高速有效翻墙VPN</a></li>
 <li><a href="/cbnews/20210629/1576666.md" target="_blank">犹如灾难片 逾百米高沙尘暴巨墙滚滚袭击内蒙</a></li>
 <li><a href="/cbnews/20210629/1576665.md" target="_blank">14奈米芯片“叠加”比肩7奈米的效能 “战狼画手”捧华为芯片引群嘲</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210629/1576377.md" target="_blank">中共百年临近 专家：给全球带来巨大危险</a></li>
 <li><a href="/cbnews/20210629/1576376.md" target="_blank">网传视频：中共外交部前老人纵火抗议被抓</a></li>
 <li><a href="/cbnews/20210629/1576375.md" target="_blank">大陆红歌比赛被狗闹场 引舆论热议</a></li>
-<li><a href="/cbnews/20210629/1576365.md" target="_blank">薄纱正妹辣跳广场舞！大妈竟为1理由 怒“扯发开扁”</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
 <li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
 <li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
 
 </ul>
 </div>
