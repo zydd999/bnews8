@@ -22,12 +22,12 @@
 <li><a href="/cnnews/20210629/1576582.md">印度神童三度预言成真 这5个国家出事了 这个时间小心</a></li>
 <li><a href="/cbnews/20210629/1576482.md">文昭：「七一勋章」无江泽民和胡锦涛，有蹊跷；中共「百年之後」会被意外闪击？</a></li>
 <li><a href="/comments/20210629/1576346.md">银行暂停房贷？分析：房地产从经济支柱变最大“灰犀牛”</a></li>
-<li><a href="/cbnews/20210628/1576218.md">七一前暗潮汹涌：中纪委点名两人 军方警告野心家</a></li>
 <li><a href="/cbnews/20210629/1576514.md">天亮时分：罕见！中纪委与军方异动，凸显亡党危机；天安门党庆演出竟提前！香港自由沦丧，仅剩两道闸门未落；贸易版北约，欧美对北京的王炸（政论天下第456集 20210628）</a></li>
-<li><a href="/cbnews/20210628/1576153.md">白银马拉松致21死 官方报告出炉 细节惊人</a></li>
+<li><a href="/cbnews/20210628/1576218.md">七一前暗潮汹涌：中纪委点名两人 军方警告野心家</a></li>
+<li><a href="/comments/20210629/1576732.md">军方将领密谋在中共百年庆典当日发动政变 反恐特种部队雪豹突击队参与其中 被习近平阵营破获 一名将军与数百军人被抓 中南海谣言预言_487</a></li>
 <li><a href="/ssgc/20210629/1576642.md">〖微博谈〗党国经济还能支撑多久？</a></li>
+<li><a href="/cbnews/20210628/1576153.md">白银马拉松致21死 官方报告出炉 细节惊人</a></li>
 <li><a href="/cbnews/20210629/1576562.md">俄国侵占的中国国士何时还？ 习近平连线普京宣布中俄条约延期</a></li>
-<li><a href="/cbnews/20210629/1576376.md">网传视频：中共外交部前老人纵火抗议被抓</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210629/1576853.md" target="_blank">教宗会晤布林肯 中国人权与宗教自由问题难以回避</a></li>
 <li><a href="/comments/20210629/1576850.md" target="_blank">新视野 第248期 20210629</a></li>
 <li><a href="/comments/20210629/1576841.md" target="_blank">习近平发动台海之战的意志是千古不赦的罪恶（上）—— 中共暴政是中国人的死敌（中共命运的轨迹和人类前途  第二十八讲）【袁红冰纵论天下】 06292021</a></li>
 <li><a href="/comments/20210629/1576836.md" target="_blank">一根钢针“撬”动整个人类文明</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210629/1576727.md" target="_blank">古有门风家训 现有老辈传的家规 知多少？</a></li>
 <li><a href="/comments/20210629/1576726.md" target="_blank">四道最受欢迎凉拌香辣杏鲍菇</a></li>
 <li><a href="/comments/20210629/1576682.md" target="_blank">李燕铭：习近平盖过毛泽东 胡锦涛头衔不同毛邓江习 中共百年大事记暗藏玄机 党魁划代有新说法 人民日报刊文捧习封杀江泽民胡锦涛 习近平政治局讲话四字暗藏政治信号 江泽民胡锦涛被降格</a></li>
-<li><a href="/comments/20210629/1576675.md" target="_blank">驻港国安署长郑雁雄：独立司法须体现国家意志利益 港人应尊重警察</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
 <li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
 
 </ul>
 </div>
