@@ -11,23 +11,23 @@
 <li><a href="/cbnews/20210630/1577250.md">天亮时分：中共百年党庆，八常委缺席，原因何在？习近平敢亲赴G20峰会吗？（政论天下第457集 20210629）</a></li>
 <li><a href="/ssgc/20210630/1577274.md">〖兲朝浮世绘〗普京以个人名义祝中共百年党庆 这回中共就像吃了个苍蝇一样难受</a></li>
 <li><a href="/headline/20210630/1577160.md">习近平为什么再提我将无我</a></li>
-<li><a href="/topimagenews/20210630/1577019.md">百物皆涨民叫苦 专家：还未到顶</a></li>
-<li><a href="/comments/20210630/1577298.md">中共不敢让国人看到的12段话 中共党报：中国最大的缺点是缺乏民主；限制自由，镇压人民，完全是法西斯的一脉真传…… 中南海不可告人的秘密_409</a></li>
 <li><a href="/funmedia/20210630/1577281.md">一等夫妻分房睡，二等夫妻分床睡，三等夫妻同床睡？</a></li>
+<li><a href="/comments/20210630/1577298.md">中共不敢让国人看到的12段话 中共党报：中国最大的缺点是缺乏民主；限制自由，镇压人民，完全是法西斯的一脉真传…… 中南海不可告人的秘密_409</a></li>
 <li><a href="/cnnews/20210630/1577434.md">前贵州书记被抓 传是前湖北省长王晓东揭发</a></li>
 <li><a href="/comments/20210630/1577335.md">习近平严禁高官及家属出国与翻墙 军队展开新一轮清洗 国防大学教授乔良被处分 中共内部文件曝光 新一轮肃反清洗运动拉开大幕 中南海谣言预言_488</a></li>
 <li><a href="/topimagenews/20210630/1577424.md">中纪委再提三大“特殊人物” 中共已“严重分裂”、“极大混乱”？【阿波罗网报道】</a></li>
-<li><a href="/cnnews/20210630/1577116.md">以色列军方发明隐身术 肉眼看不到 设备搜不到</a></li>
-<li><a href="/cbnews/20210630/1577363.md">高级黑习？网络惊图：和尚跟党走？十里山路不换肩？</a></li>
-<li><a href="/comments/20210630/1577295.md">习近平百年党庆游行灵照走红，地位已超毛泽东，天天还要被人坑，全世界围观看笑话。│#熊猫侠</a></li>
-<li><a href="/cbnews/20210630/1577352.md">不正常？中共党庆演出突改期3天后才准发布</a></li>
-<li><a href="/cnnews/20210630/1577022.md">印度神童预言股灾！时间就系今年呢日之后…</a></li>
-<li><a href="/finance/20210630/1577226.md">这才是北京面临最大的经济危机</a></li>
 <li><a href="/bannedvideo/20210630/1577492.md">要习近平下台的人是他?中共给普京送大礼 牵出卖国贼（启明笑谈20210630）</a></li>
+<li><a href="/cnnews/20210630/1577116.md">以色列军方发明隐身术 肉眼看不到 设备搜不到</a></li>
+<li><a href="/cbnews/20210630/1577623.md">中南海传分裂信号 七一天安门 这5人成焦点</a></li>
+<li><a href="/comments/20210630/1577295.md">习近平百年党庆游行灵照走红，地位已超毛泽东，天天还要被人坑，全世界围观看笑话。│#熊猫侠</a></li>
+<li><a href="/cbnews/20210630/1577363.md">高级黑习？网络惊图：和尚跟党走？十里山路不换肩？</a></li>
+<li><a href="/cbnews/20210630/1577352.md">不正常？中共党庆演出突改期3天后才准发布</a></li>
+<li><a href="/finance/20210630/1577226.md">这才是北京面临最大的经济危机</a></li>
 <li><a href="/yule/20210630/1577322.md">46岁天后变疯女人 当年叫板王菲如今无家可归</a></li>
 <li><a href="/cnnews/20210630/1577128.md">七一临近 蔡霞：中共比表面看起来更脆弱</a></li>
-<li><a href="/cbnews/20210630/1577623.md">中南海传分裂信号 七一天安门 这5人成焦点</a></li>
+<li><a href="/topimagenews/20210630/1577541.md">破产？中国债务竟是GDP... 学生变奴工，湖北传跳楼 Win11降低对CPU要求</a></li>
 <li><a href="/headline/20210630/1577080.md">澳大利亚中国留学生：出国也跳不出中共的监控</a></li>
+<li><a href="/cnnews/20210630/1577113.md">千年难遇!北美这波高温干旱多恐怖?鸟都活活晒死了</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,16 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210701/1577725.md" target="_blank">国安法实施一年 美两党议员再推保护港人法案</a></li>
+<li><a href="/comments/20210701/1577724.md" target="_blank">刷新赛道记录的保时捷SUV：2022卡宴Turbo GT</a></li>
+<li><a href="/comments/20210701/1577723.md" target="_blank">【国安法元年．专访】还押逾 7 个月 “美队 2.0”马俊文由坚执到放手</a></li>
+<li><a href="/comments/20210701/1577722.md" target="_blank">七一起自行车毅行三千公里 流亡美国两年 抗争者愿为流亡人士筹款</a></li>
+<li><a href="/comments/20210701/1577721.md" target="_blank">《台苹》报纸已停刊 壹传媒：拟出售桃园印刷厂房及员工宿舍</a></li>
+<li><a href="/comments/20210701/1577720.md" target="_blank">【中共百年暴行与谎言】系列之四：中共摧毁传统文化与道德</a></li>
+<li><a href="/comments/20210701/1577719.md" target="_blank">诗一首： 《圣 缘》</a></li>
+<li><a href="/comments/20210701/1577718.md" target="_blank">七一临近 党校教授：中共比表面看起来更脆弱</a></li>
+<li><a href="/comments/20210701/1577717.md" target="_blank">诗一首：《舍》</a></li>
+<li><a href="/comments/20210701/1577716.md" target="_blank">【戈壁东专栏】今夜，我们在美国自由雕塑公园守护正义</a></li>
 <li><a href="/comments/20210630/1577711.md" target="_blank">评论 | 何清涟：美国曾是中国“依法治国”的领路人</a></li>
 <li><a href="/comments/20210630/1577704.md" target="_blank">中共党庆五大异常三天后才准发布 多名元老“躺平” 胡春华观看党庆演出罕见“拒不鼓掌” 接连发生“随地倒” 中南海不可告人的秘密_410</a></li>
 <li><a href="/comments/20210630/1577677.md" target="_blank">美日同盟加强对中共抑制 日教授：日本承担更大</a></li>
@@ -113,16 +123,6 @@
 <li><a href="/comments/20210630/1577598.md" target="_blank">💥香港警方手握黑名单 港人出逃更难【希望之声TV-两岸要闻-2021/06/30】</a></li>
 <li><a href="/comments/20210630/1577560.md" target="_blank">美日欧同步挺台称“国家” 习近平穷兵黩武成“推手”</a></li>
 <li><a href="/comments/20210630/1577552.md" target="_blank">央视专访 李家超：感谢中央施展治港“组合拳” 要加强情报监察 《经济》指李将掌资审会</a></li>
-<li><a href="/comments/20210630/1577551.md" target="_blank">指疑被“某司人员”跟踪 邹幸彤：辛苦你哋喺楼下吹成晚风</a></li>
-<li><a href="/comments/20210630/1577549.md" target="_blank">杏林觉醒宣布解散 FB 专页未能登入</a></li>
-<li><a href="/comments/20210630/1577548.md" target="_blank">消息：七一全港动员过万警力布防 不排除封维园 水炮车装甲车亦出动</a></li>
-<li><a href="/comments/20210630/1577547.md" target="_blank">纽大学者孔杰荣﹕香港国安法允未审先无限期囚禁 审判沦为次要</a></li>
-<li><a href="/comments/20210630/1577546.md" target="_blank">董建华：若非中央果断出手 香港情况会每况愈下</a></li>
-<li><a href="/comments/20210630/1577545.md" target="_blank">【苹果终章】壹传媒：拟出售《台苹》网上版等台湾媒体业务 7.30 或之前签正式协议</a></li>
-<li><a href="/comments/20210630/1577544.md" target="_blank">防疫为由禁七一游行 升旗及酒会获豁免 民政署：庆祝回归重点活动</a></li>
-<li><a href="/comments/20210630/1577543.md" target="_blank">7.1 起暂停免费 PBS 台 D100：以同事安全为前提，迫不得已采取措施</a></li>
-<li><a href="/comments/20210630/1577542.md" target="_blank">FCC 前主席 Steve Vines 宣布辞任港台节目主持 指国安法下不宜留任</a></li>
-<li><a href="/comments/20210630/1577540.md" target="_blank">【新视野】重磅好消息，比奇提出D-法案。大陆百年庆怪事多。</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
 <li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
 
 </ul>
 </div>
