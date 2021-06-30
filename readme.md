@@ -19,15 +19,15 @@
 <li><a href="/ssgc/20210629/1576642.md">〖微博谈〗党国经济还能支撑多久？</a></li>
 <li><a href="/cbnews/20210629/1576514.md">天亮时分：罕见！中纪委与军方异动，凸显亡党危机；天安门党庆演出竟提前！香港自由沦丧，仅剩两道闸门未落；贸易版北约，欧美对北京的王炸（政论天下第456集 20210628）</a></li>
 <li><a href="/bannedvideo/20210629/1576819.md">中共党内要逼习近平下台军队高喊军旗永远跟着党旗走    (2021年6月29日)</a></li>
-<li><a href="/cbnews/20210629/1576900.md">警方通报歌手李双江并没有失踪 失踪的是…</a></li>
 <li><a href="/cbnews/20210629/1576974.md">广东书记李希罕见缺席习主持的两个活动</a></li>
+<li><a href="/cbnews/20210629/1576900.md">警方通报歌手李双江并没有失踪 失踪的是…</a></li>
 <li><a href="/bannedvideo/20210629/1576849.md">陈破空：有情况！党庆演出意外提前。政治老人拒绝捧场！中纪委突然发文，强烈暗示高层分裂</a></li>
 <li><a href="/cbnews/20210629/1576562.md">俄国侵占的中国国士何时还？ 习近平连线普京宣布中俄条约延期</a></li>
-<li><a href="/cnnews/20210629/1576486.md">“状元”不许提，于是出现了笑死人的骚操作</a></li>
 <li><a href="/cnnews/20210629/1576851.md">习近平延长江卖国条约 普京表态打脸 巴铁也不铁 这小国让中共恼怒</a></li>
 <li><a href="/cnnews/20210629/1576517.md">民国三大女流氓：她才是上海青帮的真正创始人</a></li>
 <li><a href="/topimagenews/20210630/1577019.md">百物皆涨民叫苦 专家：还未到顶</a></li>
 <li><a href="/cbnews/20210629/1576717.md">迟浩田：战争离我们不远，它是中华世纪的产婆</a></li>
+<li><a href="/health/20210629/1576744.md">癌细胞是如何“杀死”一个人的？它喜欢你干五件事，别给它机会</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210630/1577196.md" target="_blank">中共特务头领进入美国为了法轮功？31国际专家连署追查病毒源  B计划出台【希望之声TV-新闻焦点解读-2021/06/29】主持:高洁  嘉宾：汪致远</a></li>
 <li><a href="/comments/20210630/1577193.md" target="_blank">【新视野】江胡缺席，躺平抵制？高尚全手稿，透露大秘密。</a></li>
 <li><a href="/cbnews/20210630/1577192.md" target="_blank">炒作日本地下水“超标110倍” 党媒集体翻车</a></li>
 <li><a href="/comments/20210630/1577180.md" target="_blank">看过UFO报告 NASA局长：人在宇宙不孤单;雷神发威！美空军新武器无声瞬杀数百架无人机;以色列外长正式访问阿联酋 史上首见【希望之声-每日头条-2021/06/29】</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/comments/20210629/1576841.md" target="_blank">习近平发动台海之战的意志是千古不赦的罪恶（上）—— 中共暴政是中国人的死敌（中共命运的轨迹和人类前途  第二十八讲）【袁红冰纵论天下】 06292021</a></li>
 <li><a href="/cbnews/20210629/1576735.md" target="_blank">老太太追“亲共分子”，善化美国西人老共产党</a></li>
 <li><a href="/cbnews/20210629/1576733.md" target="_blank">“活摘双肾故意杀人”中国千万粉丝法学教授揭暴行</a></li>
-<li><a href="/cbnews/20210629/1576767.md" target="_blank">【百年透视】共产主义是国际恐怖主义</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210630/1577210.md" target="_blank">林保华：我的中共党史书籍 都是中共不敢公布的</a></li>
+<li><a href="/comments/20210630/1577209.md" target="_blank">陈铭尧：中国崩溃已经开始</a></li>
+<li><a href="/comments/20210630/1577196.md" target="_blank">中共特务头领进入美国为了法轮功？31国际专家连署追查病毒源  B计划出台【希望之声TV-新闻焦点解读-2021/06/29】主持:高洁  嘉宾：汪致远</a></li>
+<li><a href="/comments/20210630/1577194.md" target="_blank">从油菜籽到龙虾 中共持续用经贸威胁加拿大</a></li>
 <li><a href="/comments/20210630/1577193.md" target="_blank">【新视野】江胡缺席，躺平抵制？高尚全手稿，透露大秘密。</a></li>
 <li><a href="/comments/20210630/1577180.md" target="_blank">看过UFO报告 NASA局长：人在宇宙不孤单;雷神发威！美空军新武器无声瞬杀数百架无人机;以色列外长正式访问阿联酋 史上首见【希望之声-每日头条-2021/06/29】</a></li>
 <li><a href="/comments/20210630/1577170.md" target="_blank">【中共百年暴行与谎言】系列之三 ：中共暴政的杀人历史</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210630/1577084.md" target="_blank">曝习近平想回到 前北大副教授：死得更快</a></li>
 <li><a href="/comments/20210630/1577081.md" target="_blank">波斯湾首座以色列驻外使馆揭幕 川普总统功不可没</a></li>
 <li><a href="/comments/20210630/1577071.md" target="_blank">🔥川普神秘宣告，本周有大事发生！佛州带头作用已现，反共从娃娃教育抓起，红州纷纷立法效仿│#熊猫侠</a></li>
-<li><a href="/comments/20210630/1577065.md" target="_blank">评论 | 陈破空：百年大党，中共不会反省，但这个民族应该反省</a></li>
-<li><a href="/comments/20210630/1577064.md" target="_blank">禁书解读 | 余杰：为什么必须与中国保持社交距离？ 宫崎正弘《新冠后，中国与世界的最终战争》</a></li>
-<li><a href="/comments/20210630/1577063.md" target="_blank">增强抗共竞争力 众议员齐推法案；党庆来临 洪水滔天；福克斯名嘴被监视？前国安顾问炮轰：专家成中共同谋；新西兰敲警钟 共谍监视入课堂【希望之声TV-环球看点-2021/6/29</a></li>
-<li><a href="/comments/20210630/1577061.md" target="_blank">天象示警？七一前夕 中国多省暴雨成灾 洪水冲垮两座桥</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
 <li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
 <li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
 
 </ul>
 </div>
