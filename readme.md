@@ -7,7 +7,6 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/comments/20210630/1485911.md">敏感时期大量翻墙VPN失效 推荐高速有效翻墙VPN</a></li>
 <li><a href="/topimagenews/20210630/1577446.md">中共大乱斗现罕见一幕！胡春华“拒不鼓掌” 江泽民派系“精心”宣传 【阿波罗网报道】</a></li>
-<li><a href="/ssgc/20210630/1577274.md">〖兲朝浮世绘〗普京以个人名义祝中共百年党庆 这回中共就像吃了个苍蝇一样难受</a></li>
 <li><a href="/comments/20210630/1577298.md">中共不敢让国人看到的12段话 中共党报：中国最大的缺点是缺乏民主；限制自由，镇压人民，完全是法西斯的一脉真传…… 中南海不可告人的秘密_409</a></li>
 <li><a href="/cbnews/20210630/1577623.md">中南海传分裂信号 七一天安门 这5人成焦点</a></li>
 <li><a href="/comments/20210630/1577335.md">习近平严禁高官及家属出国与翻墙 军队展开新一轮清洗 国防大学教授乔良被处分 中共内部文件曝光 新一轮肃反清洗运动拉开大幕 中南海谣言预言_488</a></li>
@@ -16,18 +15,19 @@
 <li><a href="/cnnews/20210630/1577662.md">大陆体制内的朋友们是不是快崩溃了</a></li>
 <li><a href="/cbnews/20210630/1577660.md">慎入！一妇人遭遇抢劫 用“我老公是警察 ”震慑劫匪 结果......</a></li>
 <li><a href="/bannedvideo/20210630/1577570.md">陈破空：叛逃疑云中，政治局惊传少一人！习近平毫无安全感，天安门党庆严控人数</a></li>
-<li><a href="/topimagenews/20210630/1577424.md">中纪委再提三大“特殊人物” 中共已“严重分裂”、“极大混乱”？【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20210630/1577492.md">要习近平下台的人是他?中共给普京送大礼 牵出卖国贼（启明笑谈20210630）</a></li>
+<li><a href="/topimagenews/20210630/1577424.md">中纪委再提三大“特殊人物” 中共已“严重分裂”、“极大混乱”？【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20210701/1577765.md">网曝海南文昌目前犹如鬼城</a></li>
 <li><a href="/cbnews/20210630/1577643.md">英文是剽窃中文的产物 中国一网站总裁语出惊人</a></li>
-<li><a href="/cbnews/20210630/1577644.md">法媒发现中共党庆遗漏了几个重大事件</a></li>
 <li><a href="/cbnews/20210701/1577835.md">石正丽被曝与两中共军方专家有联系 一人已死</a></li>
-<li><a href="/cbnews/20210630/1577363.md">高级黑习？网络惊图：和尚跟党走？十里山路不换肩？</a></li>
+<li><a href="/cbnews/20210630/1577644.md">法媒发现中共党庆遗漏了几个重大事件</a></li>
 <li><a href="/comments/20210630/1577295.md">习近平百年党庆游行灵照走红，地位已超毛泽东，天天还要被人坑，全世界围观看笑话。│#熊猫侠</a></li>
 <li><a href="/topimagenews/20210630/1577541.md">破产？中国债务竟是GDP... 学生变奴工，湖北传跳楼 Win11降低对CPU要求</a></li>
+<li><a href="/cbnews/20210630/1577363.md">高级黑习？网络惊图：和尚跟党走？十里山路不换肩？</a></li>
 <li><a href="/cbnews/20210630/1577352.md">不正常？中共党庆演出突改期3天后才准发布</a></li>
 <li><a href="/cnnews/20210630/1577626.md">江泽民骗软禁中的赵紫阳出去打球 被识破拒绝</a></li>
 <li><a href="/topimagenews/20210630/1577706.md">传中国6省市财务紧张 相关国企债券遭大举抛售…</a></li>
+<li><a href="/yule/20210630/1577322.md">46岁天后变疯女人 当年叫板王菲如今无家可归</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210701/1578009.md" target="_blank">报告：中俄利用联合国反美 反击已刻不容缓</a></li>
 <li><a href="/comments/20210701/1577998.md" target="_blank">路过一个恐怖旅店的商人，他的好奇心不仅救了自己，还收获了一头自带GPS 的大黑驴。 #大雄画里话外 #笔墨传说 #板桥三娘子 #唐传奇</a></li>
 <li><a href="/cbnews/20210701/1577975.md" target="_blank">美国思想领袖：资深中东问题专家 迈克·多兰：以哈冲突和中共在中东的野心！中东为何是「一带一路」计划王冠上的宝石？中共对新疆维族实施种族灭绝的用意为何？（预告片）| 大纪元</a></li>
 <li><a href="/comments/20210701/1577966.md" target="_blank">中共百年是什么样的历史？习普视频会外界聚焦中共出卖领土；蔡霞长文称中共可能“突然崩溃”</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210701/1577834.md" target="_blank">中共党庆前夜 北京再发冰雹雷雨预警</a></li>
 <li><a href="/cbnews/20210701/1577796.md" target="_blank">只要2千元！小粉红“秒背叛祖国”：中国是台湾的</a></li>
 <li><a href="/comments/20210701/1577789.md" target="_blank">教宗会布林肯 中国是绕不开的话题；【希望之声TV-环球看点-2021/6/30】</a></li>
-<li><a href="/cbnews/20210701/1577784.md" target="_blank">姊结婚弟穿2.8米高大黄蜂战甲“护嫁” 新郎吓到“打哆嗦”</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,13 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210701/1578036.md" target="_blank">天安门党庆两元老缺席 习着毛装宣称进入全面小康</a></li>
+<li><a href="/comments/20210701/1578028.md" target="_blank">袁斌：白色恐怖笼罩香港传媒界</a></li>
+<li><a href="/comments/20210701/1578027.md" target="_blank">德媒：前党校教授：中美价值观对立对抗难以避免</a></li>
+<li><a href="/comments/20210701/1578026.md" target="_blank">乌合麒麟们的真理：科学性没有、政治性极强</a></li>
+<li><a href="/comments/20210701/1578025.md" target="_blank">德媒：中共走到了权力巅峰 自己庆祝自己</a></li>
+<li><a href="/comments/20210701/1578024.md" target="_blank">百年中共政权：黑帮+流氓+邪教</a></li>
+<li><a href="/comments/20210701/1578023.md" target="_blank">周晓辉：中俄条约早自动延长 新声明藏玄机</a></li>
 <li><a href="/comments/20210701/1577998.md" target="_blank">路过一个恐怖旅店的商人，他的好奇心不仅救了自己，还收获了一头自带GPS 的大黑驴。 #大雄画里话外 #笔墨传说 #板桥三娘子 #唐传奇</a></li>
 <li><a href="/comments/20210701/1577987.md" target="_blank">中共把“三大法宝”用到了美国</a></li>
 <li><a href="/comments/20210701/1577986.md" target="_blank">国民收入人均超1万美元？网民“乐”开锅了</a></li>
@@ -116,13 +123,6 @@
 <li><a href="/comments/20210701/1577943.md" target="_blank">党庆蔡霞胡佛研究所刊“万言书”中共百年欺骗美国人太天真</a></li>
 <li><a href="/comments/20210701/1577923.md" target="_blank">中共百年 何事改变了您的认知？【希望之声TV-新闻焦点解读-2021/06/30】主持:高洁  嘉宾：方伟  秦鹏  陈光诚</a></li>
 <li><a href="/comments/20210701/1577921.md" target="_blank">【微视频】武汉市场被拆 美溯源报告怎么写？</a></li>
-<li><a href="/comments/20210701/1577909.md" target="_blank">佛州公寓倒塌恐因开发商加盖顶楼;美多州停发失业金 劳动力市场加速覆苏;皮尤调查：多数国对中共厌恶度创纪录【希望之声TV-每日头条-2021/6/30】</a></li>
-<li><a href="/comments/20210701/1577908.md" target="_blank">七一前香港爆逃难潮 忧“走不了”贵价抢票</a></li>
-<li><a href="/comments/20210701/1577884.md" target="_blank">蓬佩奥警告习近平：若攻台 将付巨大代价</a></li>
-<li><a href="/comments/20210701/1577883.md" target="_blank">中共党庆“战机射飞弹”盗用印度影片 官媒被揭穿急删</a></li>
-<li><a href="/comments/20210701/1577882.md" target="_blank">夜空中橘光闪烁！美舰遭遇UFO新影片曝光</a></li>
-<li><a href="/comments/20210701/1577881.md" target="_blank">中共党庆动员“唱支山歌给党听” 外媒踢爆：大撒币</a></li>
-<li><a href="/comments/20210701/1577873.md" target="_blank">钟原：党媒为啥不敢报道政治局会议</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
 <li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
 
 </ul>
 </div>
