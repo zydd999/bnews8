@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/comments/20210630/1485911.md">敏感时期大量翻墙VPN失效 推荐高速有效翻墙VPN</a></li>
 <li><a href="/topimagenews/20210630/1577446.md">中共大乱斗现罕见一幕！胡春华“拒不鼓掌” 江泽民派系“精心”宣传 【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20210630/1577623.md">中南海传分裂信号 七一天安门 这5人成焦点</a></li>
 <li><a href="/topimagenews/20210701/1577976.md">着装罕见！习近平亮相天安门 江泽民没影了 【阿波罗网报道】</a></li>
@@ -20,14 +19,15 @@
 <li><a href="/bannedvideo/20210630/1577492.md">要习近平下台的人是他?中共给普京送大礼 牵出卖国贼（启明笑谈20210630）</a></li>
 <li><a href="/topimagenews/20210630/1577424.md">中纪委再提三大“特殊人物” 中共已“严重分裂”、“极大混乱”？【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20210701/1577858.md">闫丽梦：丈夫来美协助中共 想让她消失</a></li>
-<li><a href="/cbnews/20210630/1577644.md">法媒发现中共党庆遗漏了几个重大事件</a></li>
 <li><a href="/headline/20210701/1577895.md">中共党庆要面子 外国政要贺电有多少</a></li>
+<li><a href="/cbnews/20210630/1577644.md">法媒发现中共党庆遗漏了几个重大事件</a></li>
+<li><a href="/cnnews/20210701/1578078.md">中共党庆两元老缺席 天安门城楼习近平着毛装宣称进入全面小康</a></li>
+<li><a href="/cbnews/20210701/1578040.md">天亮时分：天安门百年党庆，江泽民朱镕基缺席；最后通牒！中共必须配合新冠溯源调查;CNN变身Xi-N-N，为习近平唱赞歌（政论天下第458集 20210630）</a></li>
 <li><a href="/topimagenews/20210701/1577804.md">低薪优势没了！求制造业别走 深圳要砍加班费、奖金</a></li>
 <li><a href="/topimagenews/20210630/1577541.md">破产？中国债务竟是GDP... 学生变奴工，湖北传跳楼 Win11降低对CPU要求</a></li>
-<li><a href="/cbnews/20210701/1578040.md">天亮时分：天安门百年党庆，江泽民朱镕基缺席；最后通牒！中共必须配合新冠溯源调查;CNN变身Xi-N-N，为习近平唱赞歌（政论天下第458集 20210630）</a></li>
-<li><a href="/cnnews/20210701/1578078.md">中共党庆两元老缺席 天安门城楼习近平着毛装宣称进入全面小康</a></li>
 <li><a href="/cnnews/20210630/1577626.md">江泽民骗软禁中的赵紫阳出去打球 被识破拒绝</a></li>
 <li><a href="/topimagenews/20210630/1577706.md">传中国6省市财务紧张 相关国企债券遭大举抛售…</a></li>
+<li><a href="/cbnews/20210701/1577934.md">文昭：中共八老一起「躺平」，习近平的百年党庆面临「1938大坎」，中纪委和枪杆子发强烈警告</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210701/1578149.md" target="_blank">七一全球退党日 易蓉：抛弃中共 最好选择</a></li>
 <li><a href="/cbnews/20210701/1578135.md" target="_blank">学者揭中国人入党目的：主要为私利</a></li>
 <li><a href="/cbnews/20210701/1578134.md" target="_blank">72村庄现身海底“留居住痕迹”专家难解释：西游记龙宫？</a></li>
 <li><a href="/comments/20210701/1578128.md" target="_blank">多国濒空前缺粮 世界粮食计划署吁赶紧行动；冰雹大风袭北京 断网、禁天然气与菜刀迎百年党庆【希望之声-午夜新闻-2021/06/30】</a></li>
@@ -60,13 +61,13 @@
 <li><a href="/cbnews/20210701/1577934.md" target="_blank">文昭：中共八老一起「躺平」，习近平的百年党庆面临「1938大坎」，中纪委和枪杆子发强烈警告</a></li>
 <li><a href="/comments/20210701/1577923.md" target="_blank">中共百年 何事改变了您的认知？【希望之声TV-新闻焦点解读-2021/06/30】主持:高洁  嘉宾：方伟  秦鹏  陈光诚</a></li>
 <li><a href="/comments/20210701/1577909.md" target="_blank">佛州公寓倒塌恐因开发商加盖顶楼;美多州停发失业金 劳动力市场加速覆苏;皮尤调查：多数国对中共厌恶度创纪录【希望之声TV-每日头条-2021/6/30】</a></li>
-<li><a href="/cbnews/20210701/1577897.md" target="_blank">G20外长会议聚焦疫情 布林肯王毅暗战</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20210701/1578148.md" target="_blank">大外宣曝光：林彪外逃 毛泽东赶尽转移住处 【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20210701/1578123.md" target="_blank">惊人！李克强 胡春华 王沪宁等人为何这副表情 【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20210701/1578104.md" target="_blank">鬼使神差！习近平建党百年讲话用了这个词！ 【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20210701/1578070.md" target="_blank">谐音令人笑喷！中共建党百年 党员人数再现奇异数字 【阿波罗网报道】</a></li>
@@ -91,13 +92,22 @@
 <li><a href="/topimagenews/20210627/1575468.md" target="_blank">“江泽民”马屁歌被消音 江系给习近平上眼药：东方红重现【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20210627/1575454.md" target="_blank">政法大学教授罗翔揭露活摘器官罪恶 活摘双肾就是故意杀人罪</a></li>
 <li><a href="/topimagenews/20210627/1575428.md" target="_blank">突然炸雷！充值送新股，上市第一天暴跌30%！股民彻底怒了：被连割了两拨韭菜</a></li>
-<li><a href="/topimagenews/20210627/1575184.md" target="_blank">江系凤凰卫视创始人刘长乐出售加州豪宅</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210701/1578153.md" target="_blank">中共百年大庆安保内幕 中南海周围大楼顶上布置激光炮 北京故宫突然增加5千特种兵 中部战区空军保障部直属保障队发出通知 习亲信公安部副部长王小洪指令曝光 北京间歇性断网 当局挨家挨户抢液化气罐 封闭高楼层平台 严禁鸽子回巢…… 中南海不可告人的秘密_412</a></li>
+<li><a href="/comments/20210701/1578147.md" target="_blank">七一讲话暗藏党庆目的？习近平握拳模仿他 李克强黑眼圈亮了</a></li>
+<li><a href="/comments/20210701/1578145.md" target="_blank">民主中国阵线主席秦晋博士：不要指望共产党改变</a></li>
+<li><a href="/comments/20210701/1578144.md" target="_blank">【专访】《经济学人》编辑谈中共百年﹕习近平上台后，中国和平演变的可能性是零</a></li>
+<li><a href="/comments/20210701/1578143.md" target="_blank">《苹果》停刊后 7.1 报章头版清一色贺党庆 社评赞中共伟业</a></li>
+<li><a href="/comments/20210701/1578142.md" target="_blank">署理特首身份主礼七一酒会 李家超：好光荣 香港有条件低谷反弹</a></li>
+<li><a href="/comments/20210701/1578141.md" target="_blank">郑若骅：《国安法》令香港回复理性包容 人大决定助发展“香港特色新民主选举”</a></li>
+<li><a href="/comments/20210701/1578140.md" target="_blank">仍被羁押荃湾警署 邹幸彤：你抓我一个 也堵不住众人的悠悠之口</a></li>
+<li><a href="/comments/20210701/1578139.md" target="_blank">诗一首：《云 游》</a></li>
+<li><a href="/comments/20210701/1578138.md" target="_blank">禁止“清洗中央” 中共百年封杀关键词 其中两条亮了</a></li>
 <li><a href="/comments/20210701/1578137.md" target="_blank">继香港《苹果日报》之后 壹传媒宣布七一起停止运营</a></li>
 <li><a href="/comments/20210701/1578128.md" target="_blank">多国濒空前缺粮 世界粮食计划署吁赶紧行动；冰雹大风袭北京 断网、禁天然气与菜刀迎百年党庆【希望之声-午夜新闻-2021/06/30】</a></li>
 <li><a href="/comments/20210701/1578125.md" target="_blank">💰最新大陆财富密码:唱红歌。红歌一曲一千元，全民狂欢皆演员。连唱带跳忠字舞，纽约华人也入伍│#熊猫侠</a></li>
@@ -113,16 +123,6 @@
 <li><a href="/comments/20210701/1578097.md" target="_blank">港社民七一抗议中共百年党庆 吁释政治犯</a></li>
 <li><a href="/comments/20210701/1578086.md" target="_blank">天安门百年大庆 三“元老”拒露面 104岁的他引关注 小道消息传军队将大整肃</a></li>
 <li><a href="/comments/20210701/1578083.md" target="_blank">CNN吹捧习近平？美网友：合法化中共就是一种罪恶</a></li>
-<li><a href="/comments/20210701/1578082.md" target="_blank">支联会副主席再被捕 国际特赦︰香港恐沦为“人权荒地”</a></li>
-<li><a href="/comments/20210701/1578075.md" target="_blank">退网背后装正义: “他们”就喜欢欺负老实人</a></li>
-<li><a href="/comments/20210701/1578068.md" target="_blank">纽约初选又出包！票数多出十几万；加州奇葩事！禁公费去17个共和党州旅行；美高院护！驱逐租户令第三次被延长；马斯克披露更多星链细节；美国西部遭遇历史性高温（希望之声TV-北美新闻-2021/06/30）</a></li>
-<li><a href="/comments/20210701/1578065.md" target="_blank">夏日开车，人、车保养两不误？</a></li>
-<li><a href="/comments/20210701/1578060.md" target="_blank">一尊带头狂抄袭，抄完香港青年再抄李登辉。“我将无我”？笑掉大牙！说好的创新呢？│#熊猫侠</a></li>
-<li><a href="/comments/20210701/1578053.md" target="_blank">暴压无休止，或走或留排一下你的筹码</a></li>
-<li><a href="/comments/20210701/1578052.md" target="_blank">程翔： 苏联指示中共武装乱华与军事援助</a></li>
-<li><a href="/comments/20210701/1578051.md" target="_blank">名家专栏：不懂共产主义危害的美高级将领</a></li>
-<li><a href="/comments/20210701/1578038.md" target="_blank">罕见！央视记者竟接受澳媒采访 谈成蕾案措辞微妙 知情人曝内部气氛紧张</a></li>
-<li><a href="/comments/20210701/1578036.md" target="_blank">天安门党庆两元老缺席 习着毛装宣称进入全面小康</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
 <li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
 <li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/comments/20210612/1565472.md" target="_blank">感悟神韵（之二）：感悟神韵的艺术风格</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
 <li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/comments/20210611/1564824.md" target="_blank">【曾铮专栏】感悟神韵（之一）神韵的主旨</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
 
 </ul>
 </div>
