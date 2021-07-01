@@ -11,23 +11,23 @@
 <li><a href="/cnnews/20210701/1578078.md">中共党庆两元老缺席 天安门城楼习近平着毛装宣称进入全面小康</a></li>
 <li><a href="/cbnews/20210701/1577765.md">网曝海南文昌目前犹如鬼城</a></li>
 <li><a href="/cbnews/20210701/1577835.md">石正丽被曝与两中共军方专家有联系 一人已死</a></li>
-<li><a href="/topimagenews/20210701/1578104.md">鬼使神差！习近平建党百年讲话用了这个词！ 【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20210701/1578040.md">天亮时分：天安门百年党庆，江泽民朱镕基缺席；最后通牒！中共必须配合新冠溯源调查;CNN变身Xi-N-N，为习近平唱赞歌（政论天下第458集 20210630）</a></li>
+<li><a href="/topimagenews/20210701/1578104.md">鬼使神差！习近平建党百年讲话用了这个词！ 【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20210701/1578156.md">习近平在天安门放狠话 警告要让人头破血流</a></li>
+<li><a href="/cbnews/20210701/1578293.md">中共党庆大批红后代现身北京 引网民议论</a></li>
 <li><a href="/cbnews/20210701/1577858.md">闫丽梦：丈夫来美协助中共 想让她消失</a></li>
 <li><a href="/comments/20210701/1578119.md">李克强黑眼圈亮了！习近平讲话曝七一党庆目的？！两大动作威吓台湾</a></li>
-<li><a href="/topimagenews/20210701/1578070.md">谐音令人笑喷！中共建党百年 党员人数再现奇异数字 【阿波罗网报道】</a></li>
-<li><a href="/cnnews/20210701/1578096.md">病重临死？中共建党百年七一活动 胡温现身江泽民未出席</a></li>
-<li><a href="/cbnews/20210701/1578293.md">中共党庆大批红后代现身北京 引网民议论</a></li>
-<li><a href="/bannedvideo/20210701/1578112.md">七一天安门，江泽民彻底躺平！朱熔基成疑；胡温向习近平示好？大陆各界借献礼猛黑习，胡锡进夹三添堵</a></li>
-<li><a href="/headline/20210701/1577895.md">中共党庆要面子 外国政要贺电有多少</a></li>
 <li><a href="/cbnews/20210701/1578327.md">习近平七一着毛装亮相 引发两大猜测</a></li>
-<li><a href="/ssgc/20210701/1577997.md">〖兲朝浮世绘〗习近平上墙了 太不吉利了</a></li>
+<li><a href="/topimagenews/20210701/1578070.md">谐音令人笑喷！中共建党百年 党员人数再现奇异数字 【阿波罗网报道】</a></li>
+<li><a href="/bannedvideo/20210701/1578112.md">七一天安门，江泽民彻底躺平！朱熔基成疑；胡温向习近平示好？大陆各界借献礼猛黑习，胡锡进夹三添堵</a></li>
+<li><a href="/cnnews/20210701/1578096.md">病重临死？中共建党百年七一活动 胡温现身江泽民未出席</a></li>
+<li><a href="/headline/20210701/1577895.md">中共党庆要面子 外国政要贺电有多少</a></li>
 <li><a href="/cnnews/20210701/1578201.md">习近平讲话暴露中共要害 有个人真说到点子上了！【阿波罗网报道】</a></li>
+<li><a href="/ssgc/20210701/1577997.md">〖兲朝浮世绘〗习近平上墙了 太不吉利了</a></li>
 <li><a href="/topimagenews/20210701/1577804.md">低薪优势没了！求制造业别走 深圳要砍加班费、奖金</a></li>
 <li><a href="/cbnews/20210701/1577934.md">文昭：中共八老一起「躺平」，习近平的百年党庆面临「1938大坎」，中纪委和枪杆子发强烈警告</a></li>
 <li><a href="/cbnews/20210701/1578047.md">“祝党长命百岁”成敏感词 毛新宇竟遭全网封杀</a></li>
-<li><a href="/topimagenews/20210630/1577706.md">传中国6省市财务紧张 相关国企债券遭大举抛售…</a></li>
+<li><a href="/cnnews/20210701/1577867.md">女子无意拍下“爬过月亮的怪兽” 坚决否认是天线</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
-<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
+<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
 <li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
+<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
 <li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
 
 </ul>
 </div>
