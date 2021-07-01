@@ -10,24 +10,24 @@
 <li><a href="/cnnews/20210630/1577662.md">大陆体制内的朋友们是不是快崩溃了</a></li>
 <li><a href="/bannedvideo/20210701/1577913.md">6月30号刚刚发生： 郭文贵发视频称未来二十几个小时北京会发生历史性的巨变！大家走着看！</a></li>
 <li><a href="/cbnews/20210630/1577660.md">慎入！一妇人遭遇抢劫 用“我老公是警察 ”震慑劫匪 结果......</a></li>
-<li><a href="/bannedvideo/20210630/1577570.md">陈破空：叛逃疑云中，政治局惊传少一人！习近平毫无安全感，天安门党庆严控人数</a></li>
 <li><a href="/cnnews/20210701/1578078.md">中共党庆两元老缺席 天安门城楼习近平着毛装宣称进入全面小康</a></li>
+<li><a href="/bannedvideo/20210630/1577570.md">陈破空：叛逃疑云中，政治局惊传少一人！习近平毫无安全感，天安门党庆严控人数</a></li>
 <li><a href="/cbnews/20210701/1577765.md">网曝海南文昌目前犹如鬼城</a></li>
 <li><a href="/cbnews/20210701/1577835.md">石正丽被曝与两中共军方专家有联系 一人已死</a></li>
 <li><a href="/cbnews/20210630/1577643.md">英文是剽窃中文的产物 中国一网站总裁语出惊人</a></li>
 <li><a href="/cbnews/20210701/1578040.md">天亮时分：天安门百年党庆，江泽民朱镕基缺席；最后通牒！中共必须配合新冠溯源调查;CNN变身Xi-N-N，为习近平唱赞歌（政论天下第458集 20210630）</a></li>
 <li><a href="/bannedvideo/20210630/1577492.md">要习近平下台的人是他?中共给普京送大礼 牵出卖国贼（启明笑谈20210630）</a></li>
-<li><a href="/cbnews/20210701/1577858.md">闫丽梦：丈夫来美协助中共 想让她消失</a></li>
-<li><a href="/headline/20210701/1577895.md">中共党庆要面子 外国政要贺电有多少</a></li>
 <li><a href="/topimagenews/20210701/1578123.md">惊人！李克强 胡春华 王沪宁等人为何这副表情 【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20210701/1578104.md">鬼使神差！习近平建党百年讲话用了这个词！ 【阿波罗网报道】</a></li>
+<li><a href="/cbnews/20210701/1577858.md">闫丽梦：丈夫来美协助中共 想让她消失</a></li>
+<li><a href="/headline/20210701/1577895.md">中共党庆要面子 外国政要贺电有多少</a></li>
+<li><a href="/topimagenews/20210701/1578070.md">谐音令人笑喷！中共建党百年 党员人数再现奇异数字 【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20210630/1577644.md">法媒发现中共党庆遗漏了几个重大事件</a></li>
 <li><a href="/topimagenews/20210701/1577804.md">低薪优势没了！求制造业别走 深圳要砍加班费、奖金</a></li>
-<li><a href="/topimagenews/20210701/1578070.md">谐音令人笑喷！中共建党百年 党员人数再现奇异数字 【阿波罗网报道】</a></li>
+<li><a href="/cnnews/20210701/1578096.md">病重临死？中共建党百年七一活动 胡温现身江泽民未出席</a></li>
 <li><a href="/cbnews/20210701/1577934.md">文昭：中共八老一起「躺平」，习近平的百年党庆面临「1938大坎」，中纪委和枪杆子发强烈警告</a></li>
 <li><a href="/topimagenews/20210630/1577541.md">破产？中国债务竟是GDP... 学生变奴工，湖北传跳楼 Win11降低对CPU要求</a></li>
-<li><a href="/cnnews/20210701/1578096.md">病重临死？中共建党百年七一活动 胡温现身江泽民未出席</a></li>
-<li><a href="/cnnews/20210630/1577626.md">江泽民骗软禁中的赵紫阳出去打球 被识破拒绝</a></li>
+<li><a href="/ssgc/20210701/1577997.md">〖兲朝浮世绘〗习近平上墙了 太不吉利了</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210701/1578270.md" target="_blank">林郑称控制疫情靠《国安法》网友酸：广州没有国安法？</a></li>
 <li><a href="/comments/20210701/1578235.md" target="_blank">中三生党庆观升旗感兴奋：“共产党行到今时今日唔容易”</a></li>
 <li><a href="/comments/20210701/1578234.md" target="_blank">【不断更新】没有游行的 7.1 警方中午封维园球场草坪 多处截查市民及记者</a></li>
 <li><a href="/comments/20210701/1578233.md" target="_blank">【世界美景】摄影：莫斯科东北方“金环小镇”</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210701/1578137.md" target="_blank">继香港《苹果日报》之后 壹传媒宣布七一起停止运营</a></li>
 <li><a href="/comments/20210701/1578128.md" target="_blank">多国濒空前缺粮 世界粮食计划署吁赶紧行动；冰雹大风袭北京 断网、禁天然气与菜刀迎百年党庆【希望之声-午夜新闻-2021/06/30】</a></li>
 <li><a href="/comments/20210701/1578125.md" target="_blank">💰最新大陆财富密码:唱红歌。红歌一曲一千元，全民狂欢皆演员。连唱带跳忠字舞，纽约华人也入伍│#熊猫侠</a></li>
-<li><a href="/comments/20210701/1578120.md" target="_blank">罕见！七一前央视记者公开谈成蕾案 措辞微妙 知情人曝内部气氛紧张</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20210612/1565472.md" target="_blank">感悟神韵（之二）：感悟神韵的艺术风格</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
 
 </ul>
 </div>
