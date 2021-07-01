@@ -9,22 +9,22 @@
 <li><a href="/topimagenews/20210701/1577976.md">着装罕见！习近平亮相天安门 江泽民没影了 【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20210630/1577662.md">大陆体制内的朋友们是不是快崩溃了</a></li>
 <li><a href="/bannedvideo/20210701/1577913.md">6月30号刚刚发生： 郭文贵发视频称未来二十几个小时北京会发生历史性的巨变！大家走着看！</a></li>
-<li><a href="/cbnews/20210630/1577660.md">慎入！一妇人遭遇抢劫 用“我老公是警察 ”震慑劫匪 结果......</a></li>
 <li><a href="/cnnews/20210701/1578078.md">中共党庆两元老缺席 天安门城楼习近平着毛装宣称进入全面小康</a></li>
+<li><a href="/cbnews/20210630/1577660.md">慎入！一妇人遭遇抢劫 用“我老公是警察 ”震慑劫匪 结果......</a></li>
 <li><a href="/bannedvideo/20210630/1577570.md">陈破空：叛逃疑云中，政治局惊传少一人！习近平毫无安全感，天安门党庆严控人数</a></li>
 <li><a href="/cbnews/20210701/1577765.md">网曝海南文昌目前犹如鬼城</a></li>
 <li><a href="/cbnews/20210701/1577835.md">石正丽被曝与两中共军方专家有联系 一人已死</a></li>
-<li><a href="/cbnews/20210630/1577643.md">英文是剽窃中文的产物 中国一网站总裁语出惊人</a></li>
 <li><a href="/cbnews/20210701/1578040.md">天亮时分：天安门百年党庆，江泽民朱镕基缺席；最后通牒！中共必须配合新冠溯源调查;CNN变身Xi-N-N，为习近平唱赞歌（政论天下第458集 20210630）</a></li>
-<li><a href="/bannedvideo/20210630/1577492.md">要习近平下台的人是他?中共给普京送大礼 牵出卖国贼（启明笑谈20210630）</a></li>
 <li><a href="/topimagenews/20210701/1578123.md">惊人！李克强 胡春华 王沪宁等人为何这副表情 【阿波罗网报道】</a></li>
+<li><a href="/cbnews/20210630/1577643.md">英文是剽窃中文的产物 中国一网站总裁语出惊人</a></li>
+<li><a href="/bannedvideo/20210630/1577492.md">要习近平下台的人是他?中共给普京送大礼 牵出卖国贼（启明笑谈20210630）</a></li>
 <li><a href="/topimagenews/20210701/1578104.md">鬼使神差！习近平建党百年讲话用了这个词！ 【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20210701/1577858.md">闫丽梦：丈夫来美协助中共 想让她消失</a></li>
 <li><a href="/headline/20210701/1577895.md">中共党庆要面子 外国政要贺电有多少</a></li>
 <li><a href="/topimagenews/20210701/1578070.md">谐音令人笑喷！中共建党百年 党员人数再现奇异数字 【阿波罗网报道】</a></li>
+<li><a href="/cnnews/20210701/1578096.md">病重临死？中共建党百年七一活动 胡温现身江泽民未出席</a></li>
 <li><a href="/cbnews/20210630/1577644.md">法媒发现中共党庆遗漏了几个重大事件</a></li>
 <li><a href="/topimagenews/20210701/1577804.md">低薪优势没了！求制造业别走 深圳要砍加班费、奖金</a></li>
-<li><a href="/cnnews/20210701/1578096.md">病重临死？中共建党百年七一活动 胡温现身江泽民未出席</a></li>
 <li><a href="/cbnews/20210701/1577934.md">文昭：中共八老一起「躺平」，习近平的百年党庆面临「1938大坎」，中纪委和枪杆子发强烈警告</a></li>
 <li><a href="/topimagenews/20210630/1577541.md">破产？中国债务竟是GDP... 学生变奴工，湖北传跳楼 Win11降低对CPU要求</a></li>
 <li><a href="/ssgc/20210701/1577997.md">〖兲朝浮世绘〗习近平上墙了 太不吉利了</a></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210701/1578293.md" target="_blank">中共党庆大批红后代现身北京 引网民议论</a></li>
 <li><a href="/cbnews/20210701/1578156.md" target="_blank">习近平在天安门放狠话 警告要让人头破血流</a></li>
 <li><a href="/cbnews/20210701/1578149.md" target="_blank">七一全球退党日 易蓉：抛弃中共 最好选择</a></li>
 <li><a href="/cbnews/20210701/1578135.md" target="_blank">学者揭中国人入党目的：主要为私利</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210701/1577940.md" target="_blank">中共以医疗和移动应用程序为武器对付异见者</a></li>
 <li><a href="/cbnews/20210701/1577939.md" target="_blank">中共新型政党制度 学者：任何政治改革都徒劳</a></li>
 <li><a href="/cbnews/20210701/1577934.md" target="_blank">文昭：中共八老一起「躺平」，习近平的百年党庆面临「1938大坎」，中纪委和枪杆子发强烈警告</a></li>
-<li><a href="/comments/20210701/1577923.md" target="_blank">中共百年 何事改变了您的认知？【希望之声TV-新闻焦点解读-2021/06/30】主持:高洁  嘉宾：方伟  秦鹏  陈光诚</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
 <li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
 <li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
 
 </ul>
 </div>
