@@ -24,10 +24,10 @@
 <li><a href="/headline/20210701/1577895.md">中共党庆要面子 外国政要贺电有多少</a></li>
 <li><a href="/cnnews/20210701/1578201.md">习近平讲话暴露中共要害 有个人真说到点子上了！【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20210701/1577997.md">〖兲朝浮世绘〗习近平上墙了 太不吉利了</a></li>
-<li><a href="/topimagenews/20210701/1577804.md">低薪优势没了！求制造业别走 深圳要砍加班费、奖金</a></li>
-<li><a href="/cbnews/20210701/1577934.md">文昭：中共八老一起「躺平」，习近平的百年党庆面临「1938大坎」，中纪委和枪杆子发强烈警告</a></li>
-<li><a href="/cbnews/20210701/1578047.md">“祝党长命百岁”成敏感词 毛新宇竟遭全网封杀</a></li>
 <li><a href="/bannedvideo/20210701/1578313.md">百年庆典满台丧气，习近平一人自嗨扮演毛泽东；中共走到了权力巅峰？中共将以怎样的方式倒台（20210701 第631期）</a></li>
+<li><a href="/topimagenews/20210701/1577804.md">低薪优势没了！求制造业别走 深圳要砍加班费、奖金</a></li>
+<li><a href="/bannedvideo/20210701/1578349.md">陈破空：天安门有诡：万主席压倒习主席！某群体集体缺席。毛泽东孙子遭封禁！习近平讲话处处黑，王沪宁是搞手</a></li>
+<li><a href="/cbnews/20210701/1577934.md">文昭：中共八老一起「躺平」，习近平的百年党庆面临「1938大坎」，中纪委和枪杆子发强烈警告</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210702/1578534.md" target="_blank">党庆 习天安门上再作捆绑；闫丽梦：中共利用家人要她消失【希望之声TV-环球看点-2021/7/1】</a></li>
 <li><a href="/cbnews/20210701/1578479.md" target="_blank">7.1党庆高官表情凝重 专家：习像念悼词</a></li>
 <li><a href="/cbnews/20210701/1578478.md" target="_blank">中国野生动物养殖场改头换面 新冠溯源难上加难</a></li>
 <li><a href="/cbnews/20210701/1578460.md" target="_blank">中共党庆大批红后代现身北京 毛新宇缺席 网民热议</a></li>
@@ -60,13 +61,13 @@
 <li><a href="/cbnews/20210701/1578072.md" target="_blank">中共党庆 山东济南刮恐怖大风 犹如世界末日</a></li>
 <li><a href="/cbnews/20210701/1578071.md" target="_blank">中共为党庆限制交通 北京多条地铁停运</a></li>
 <li><a href="/comments/20210701/1578068.md" target="_blank">纽约初选又出包！票数多出十几万；加州奇葩事！禁公费去17个共和党州旅行；美高院护！驱逐租户令第三次被延长；马斯克披露更多星链细节；美国西部遭遇历史性高温（希望之声TV-北美新闻-2021/06/30）</a></li>
-<li><a href="/cbnews/20210701/1578047.md" target="_blank">“祝党长命百岁”成敏感词 毛新宇竟遭全网封杀</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20210702/1578533.md" target="_blank">美国人加薪幅度追不上物价升幅 拜登刺激经济计划或遇阻？</a></li>
 <li><a href="/topimagenews/20210701/1578374.md" target="_blank">炸锅 中国人均收入超1万美元？6省市财务紧张抛售国企债券 海南自贸一年文昌如鬼城</a></li>
 <li><a href="/topimagenews/20210701/1578148.md" target="_blank">大外宣曝光：林彪外逃 毛泽东赶尽转移住处 【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20210701/1578123.md" target="_blank">惊人！李克强 胡春华 王沪宁等人为何这副表情 【阿波罗网报道】</a></li>
@@ -91,13 +92,14 @@
 <li><a href="/topimagenews/20210628/1575968.md" target="_blank">内斗白热化！中共军方表态：阴谋家反不了&#8230; 【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20210628/1575844.md" target="_blank">东莞女染Delta在外传2陌生人同住家人却没事</a></li>
 <li><a href="/topimagenews/20210627/1575468.md" target="_blank">“江泽民”马屁歌被消音 江系给习近平上眼药：东方红重现【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20210627/1575454.md" target="_blank">政法大学教授罗翔揭露活摘器官罪恶 活摘双肾就是故意杀人罪</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210702/1578534.md" target="_blank">党庆 习天安门上再作捆绑；闫丽梦：中共利用家人要她消失【希望之声TV-环球看点-2021/7/1】</a></li>
+<li><a href="/comments/20210702/1578532.md" target="_blank">【东洲专栏】美文篇：东大特训班2</a></li>
 <li><a href="/comments/20210702/1578528.md" target="_blank">马来西亚5G网络选用爱立信 华为出局</a></li>
 <li><a href="/comments/20210702/1578519.md" target="_blank">国庆日前抵美 法赠迷你自由女神像登上艾利斯岛</a></li>
 <li><a href="/comments/20210702/1578518.md" target="_blank">地瓜叶的4类营养素对这类人很好</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210701/1578438.md" target="_blank">时事大家谈：中共百年梦醒时分：李南央、胡平、巫宁坤、丁一夫讲述父辈和个人如何走过中共治下的百年</a></li>
 <li><a href="/comments/20210701/1578436.md" target="_blank">《自由风自由 Phone》再取消评论环节 主持杨健兴：连多观点评论都怕敏感？</a></li>
 <li><a href="/comments/20210701/1578435.md" target="_blank">【7.1 旺角】逾 20 警包围街站 警告或拘捕 职工盟：今日讲嘢特别易犯法？</a></li>
-<li><a href="/comments/20210701/1578434.md" target="_blank">【7.1铜锣湾】警禁职工盟开街站 举黄旗大规模截查 王婆婆、举五一手势女子被捕</a></li>
-<li><a href="/comments/20210701/1578433.md" target="_blank">【7.1 铜锣湾】警跑入商场追截 少男被截停受惊 被搜出《苹果》途人遭票控限聚令</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
 <li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20210329/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
 
 </ul>
 </div>
