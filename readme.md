@@ -23,8 +23,8 @@
 <li><a href="/cnnews/20210702/1578892.md">中共百年党庆 大陆女记者吐槽场面宛若恐怖片</a></li>
 <li><a href="/cnnews/20210702/1578769.md">中国取消复读 一半人大学无望？</a></li>
 <li><a href="/cbnews/20210702/1579097.md">中共党庆日许家印等大佬现身 不见马云</a></li>
-<li><a href="/worldnews/20210702/1578611.md">不信妻子确诊亡！印尼男挖出下葬5天尸体 全村毁了</a></li>
 <li><a href="/bannedvideo/20210702/1579122.md">陈破空：天安门有戏！胡锦涛加持李克强。美女风头盖过习近平！党媒剽窃被抓，小粉红震怒</a></li>
+<li><a href="/worldnews/20210702/1578611.md">不信妻子确诊亡！印尼男挖出下葬5天尸体 全村毁了</a></li>
 <li><a href="/cbnews/20210702/1578754.md">中共“断卡行动” 多家银行配合当局“清卡”</a></li>
 <li><a href="/health/20210702/1578583.md">小伙坚持慢跑一个月后，怎么样了？改变的不止是身材，值得尝试</a></li>
 <li><a href="/yule/20210702/1578745.md">保母纵火烧死妻儿 深情丈夫3年后再婚生女 妻舅痛揭不堪真相</a></li>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210703/1579341.md" target="_blank">驻阿富汗近20年 美与北约完成从最大军事基地撤军</a></li>
+<li><a href="/comments/20210703/1579340.md" target="_blank">比贝佐斯更早？维珍创办人宣布11日飞太空</a></li>
+<li><a href="/comments/20210703/1579338.md" target="_blank">【天艺创作室】原创音乐：《勿忘草》 （音频）</a></li>
+<li><a href="/comments/20210703/1579337.md" target="_blank">【天艺创作室】原创音乐：《飞旋的法轮》 （音频）</a></li>
 <li><a href="/comments/20210703/1579332.md" target="_blank">脑中风、帕金森氏、失智症能打武肺疫苗吗？</a></li>
 <li><a href="/comments/20210703/1579331.md" target="_blank">6大健康饮食小秘诀吃出防护力</a></li>
 <li><a href="/comments/20210703/1579323.md" target="_blank">美西遭遇严重旱灾 粮食价格或进一步飙涨</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210702/1579276.md" target="_blank">美将四家亲缅甸军方公司列入黑名单 中企上榜</a></li>
 <li><a href="/comments/20210702/1579275.md" target="_blank">椰香莲子紫米露</a></li>
 <li><a href="/comments/20210702/1579270.md" target="_blank">【文韬政论】中共百年党庆下的政治打压 催生香港的「觉醒年代」</a></li>
-<li><a href="/comments/20210702/1579243.md" target="_blank">中共百年梦醒时分：郭于华、安华托帝、赵思乐、美国之音墙内听众讲述个人在中共治下的经验</a></li>
-<li><a href="/comments/20210702/1579238.md" target="_blank">“防止中共武统台湾” 美太平洋舰队司令：这是我的职责</a></li>
-<li><a href="/comments/20210702/1579233.md" target="_blank">中共亡党的时间和方式</a></li>
-<li><a href="/comments/20210702/1579224.md" target="_blank">英媒：马云抵押股权给投资银行以获取贷款</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
 
 </ul>
 </div>
