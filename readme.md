@@ -16,15 +16,15 @@
 <li><a href="/lifebaike/20210702/1578650.md">苏俄共军集体强暴德国妇女狂潮 慎入</a></li>
 <li><a href="/bannedvideo/20210701/1578313.md">百年庆典满台丧气，习近平一人自嗨扮演毛泽东；中共走到了权力巅峰？中共将以怎样的方式倒台（20210701 第631期）</a></li>
 <li><a href="/cnnews/20210701/1578201.md">习近平讲话暴露中共要害 有个人真说到点子上了！【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20210701/1578460.md">中共党庆大批红后代现身北京 毛新宇缺席 网民热议</a></li>
 <li><a href="/cbnews/20210701/1578479.md">7.1党庆高官表情凝重 专家：习像念悼词</a></li>
+<li><a href="/cbnews/20210701/1578460.md">中共党庆大批红后代现身北京 毛新宇缺席 网民热议</a></li>
 <li><a href="/comments/20210701/1578319.md">中国老中医的集体结晶，最好背下来</a></li>
 <li><a href="/topimagenews/20210701/1578374.md">炸锅 中国人均收入超1万美元？6省市财务紧张抛售国企债券 海南自贸一年文昌如鬼城</a></li>
 <li><a href="/comments/20210701/1578147.md">七一讲话暗藏党庆目的？习近平握拳模仿他 李克强黑眼圈亮了</a></li>
 <li><a href="/health/20210702/1578614.md">“性猝死”的产生，可能与这4个因素有关，希望你早知道</a></li>
 <li><a href="/headline/20210702/1578562.md">魏京生：习近平想当伟大领袖，但没有真材实料</a></li>
-<li><a href="/bannedvideo/20210701/1578157.md">文睿：浅色中山装扎眼，习近平不想回头了，中国全面进入黑夜</a></li>
 <li><a href="/bannedvideo/20210702/1578608.md">北京百年党庆天安门广场传出真实画面： 天气相当差下着大雨 浇成落汤鸡了</a></li>
+<li><a href="/bannedvideo/20210701/1578157.md">文睿：浅色中山装扎眼，习近平不想回头了，中国全面进入黑夜</a></li>
 <li><a href="/bannedvideo/20210702/1578529.md">中共百年党庆北京遇罕见恶劣天气  当局发射几千发催雨弹打散云团后 一团黑云却突然显现并快速移动到天安门广场上方......吓得官员纷纷祈祷</a></li>
 <li><a href="/cbnews/20210701/1578303.md">中共党庆无视疫情 7万人不戴口罩齐聚天安门</a></li>
 <li><a href="/cnnews/20210701/1578485.md">人民币跌至一周新低 6月创近两年最大贬幅</a></li>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210702/1578890.md" target="_blank">中共党庆 七常委表情凝重 习讲话如念悼词</a></li>
+<li><a href="/comments/20210702/1578882.md" target="_blank">💥 #习近平 对台发出强硬信号 美国务院：勿施压  #台湾 【希望之声-午夜新闻-2021/07/01】</a></li>
 <li><a href="/cbnews/20210702/1578879.md" target="_blank">江峰：习近平七一讲话，老领导不来其实是这个原因，中山装里的秘密；奴役中国人的外国势力究竟是谁？【江峰漫谈20210701第341期】</a></li>
 <li><a href="/cbnews/20210702/1578851.md" target="_blank">习近平扬言解决台湾问题 魏京生：说给国内愤青听</a></li>
 <li><a href="/cbnews/20210702/1578835.md" target="_blank">天亮时分：百年党庆，五大细节耐人寻味；江泽民大概只能再活几个月；两个关键问题，绝大多数人都搞错了；（政论天下第459集 20210701）</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/comments/20210702/1578534.md" target="_blank">党庆 习天安门上再作捆绑；闫丽梦：中共利用家人要她消失【希望之声TV-环球看点-2021/7/1】</a></li>
 <li><a href="/cbnews/20210701/1578479.md" target="_blank">7.1党庆高官表情凝重 专家：习像念悼词</a></li>
 <li><a href="/cbnews/20210701/1578478.md" target="_blank">中国野生动物养殖场改头换面 新冠溯源难上加难</a></li>
-<li><a href="/cbnews/20210701/1578460.md" target="_blank">中共党庆大批红后代现身北京 毛新宇缺席 网民热议</a></li>
-<li><a href="/cbnews/20210701/1578459.md" target="_blank">七一天安门上空黑压压 习讲话突下雨掌声混乱</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210702/1578882.md" target="_blank">💥 #习近平 对台发出强硬信号 美国务院：勿施压  #台湾 【希望之声-午夜新闻-2021/07/01】</a></li>
 <li><a href="/comments/20210702/1578880.md" target="_blank">⚡️党庆大会披麻戴孝，一尊教主务必拿下台湾。台湾的明星叛徒们高兴了，敬贺一尊踏平台湾。欢迎来台湾!│#熊猫侠</a></li>
 <li><a href="/comments/20210702/1578875.md" target="_blank">被控从维族“强迫劳动”获利 4家跨国服装巨擘遭法国调查</a></li>
 <li><a href="/comments/20210702/1578874.md" target="_blank">港府反对被列《美国贩运人口报告》二级监察名单 中国三级齐名北韩</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210702/1578794.md" target="_blank">哈佛博士：中共被美国制裁后打“歧视”牌</a></li>
 <li><a href="/comments/20210702/1578779.md" target="_blank">川普顾问独立日将推全新社交平台 挑战大社媒垄断</a></li>
 <li><a href="/comments/20210702/1578768.md" target="_blank">周晓辉：日美再强硬表态 北京若攻台必加速垮掉</a></li>
-<li><a href="/comments/20210702/1578767.md" target="_blank">金言：北京百年党庆暗藏哪些天机？</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
 <li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
+<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
 
 </ul>
 </div>
