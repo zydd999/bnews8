@@ -23,11 +23,11 @@
 <li><a href="/bannedvideo/20210701/1578313.md">百年庆典满台丧气，习近平一人自嗨扮演毛泽东；中共走到了权力巅峰？中共将以怎样的方式倒台（20210701 第631期）</a></li>
 <li><a href="/ssgc/20210701/1577997.md">〖兲朝浮世绘〗习近平上墙了 太不吉利了</a></li>
 <li><a href="/cbnews/20210701/1578047.md">“祝党长命百岁”成敏感词 毛新宇竟遭全网封杀</a></li>
-<li><a href="/cbnews/20210701/1577934.md">文昭：中共八老一起「躺平」，习近平的百年党庆面临「1938大坎」，中纪委和枪杆子发强烈警告</a></li>
 <li><a href="/cbnews/20210701/1578460.md">中共党庆大批红后代现身北京 毛新宇缺席 网民热议</a></li>
 <li><a href="/cbnews/20210701/1578479.md">7.1党庆高官表情凝重 专家：习像念悼词</a></li>
 <li><a href="/comments/20210701/1578319.md">中国老中医的集体结晶，最好背下来</a></li>
 <li><a href="/comments/20210701/1578147.md">七一讲话暗藏党庆目的？习近平握拳模仿他 李克强黑眼圈亮了</a></li>
+<li><a href="/topimagenews/20210701/1578374.md">炸锅 中国人均收入超1万美元？6省市财务紧张抛售国企债券 海南自贸一年文昌如鬼城</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,10 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210702/1578712.md" target="_blank">【新视野】中共确立建党日，竟牵出一桩命案和毛泽东权斗。糊涂生日糊涂命，结局令人唏嘘。创建人如何最后仅剩2人？</a></li>
+<li><a href="/comments/20210702/1578701.md" target="_blank">七一习近平放狠话 突然下雨引混乱；迈阿密倒塌废墟传来神秘来电……【希望之声TV-每日头条-2021/7/1】</a></li>
+<li><a href="/comments/20210702/1578700.md" target="_blank">中华民族伟大复兴到底是什么？ 美日秘密备战？ 应对中共武力攻台【希望之声TV-新闻焦点解读-2021/07/01】主持:高洁  嘉宾：袁弓夷  谢田</a></li>
+<li><a href="/cbnews/20210702/1578699.md" target="_blank">美参议员提决议 谴责中共百年摧毁无数生命</a></li>
 <li><a href="/cbnews/20210702/1578698.md" target="_blank">昆明女打疫苗眼睛严重过敏 社区继续逼打第二针</a></li>
 <li><a href="/cbnews/20210702/1578624.md" target="_blank">大陆记者吐槽中共七一庆典如恐怖片</a></li>
 <li><a href="/cbnews/20210702/1578623.md" target="_blank">广东江门小学生当街被砍 传起因于欠薪纠纷</a></li>
@@ -57,10 +61,6 @@
 <li><a href="/cbnews/20210701/1578303.md" target="_blank">中共党庆无视疫情 7万人不戴口罩齐聚天安门</a></li>
 <li><a href="/cbnews/20210701/1578293.md" target="_blank">中共党庆大批红后代现身北京 引网民议论</a></li>
 <li><a href="/cbnews/20210701/1578156.md" target="_blank">习近平在天安门放狠话 警告要让人头破血流</a></li>
-<li><a href="/cbnews/20210701/1578149.md" target="_blank">七一全球退党日 易蓉：抛弃中共 最好选择</a></li>
-<li><a href="/cbnews/20210701/1578135.md" target="_blank">学者揭中国人入党目的：主要为私利</a></li>
-<li><a href="/cbnews/20210701/1578134.md" target="_blank">72村庄现身海底“留居住痕迹”专家难解释：西游记龙宫？</a></li>
-<li><a href="/comments/20210701/1578128.md" target="_blank">多国濒空前缺粮 世界粮食计划署吁赶紧行动；冰雹大风袭北京 断网、禁天然气与菜刀迎百年党庆【希望之声-午夜新闻-2021/06/30】</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210702/1578712.md" target="_blank">【新视野】中共确立建党日，竟牵出一桩命案和毛泽东权斗。糊涂生日糊涂命，结局令人唏嘘。创建人如何最后仅剩2人？</a></li>
+<li><a href="/comments/20210702/1578701.md" target="_blank">七一习近平放狠话 突然下雨引混乱；迈阿密倒塌废墟传来神秘来电……【希望之声TV-每日头条-2021/7/1】</a></li>
+<li><a href="/comments/20210702/1578700.md" target="_blank">中华民族伟大复兴到底是什么？ 美日秘密备战？ 应对中共武力攻台【希望之声TV-新闻焦点解读-2021/07/01】主持:高洁  嘉宾：袁弓夷  谢田</a></li>
 <li><a href="/comments/20210702/1578694.md" target="_blank">美高院支持亚利桑那投票法 禁非选区居民投票</a></li>
 <li><a href="/comments/20210702/1578685.md" target="_blank">诗一首：《相 依》</a></li>
 <li><a href="/comments/20210702/1578684.md" target="_blank">【闱闱道来】生活随笔：神韵来啦 我们看神韵啦</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210702/1578600.md" target="_blank">【7.1刺警案】特首、警方谴责暴力行为 林郑月娥：警会调查背后是否有组织</a></li>
 <li><a href="/comments/20210702/1578596.md" target="_blank">【7.1】逾万警力截查、拘捕禁示威 一男子刺警后自插胸口送院亡</a></li>
 <li><a href="/comments/20210702/1578593.md" target="_blank">天主教正委会七一祈祷会 夏志诚吁教友同行、活在真相中</a></li>
-<li><a href="/comments/20210702/1578589.md" target="_blank">中共建党百年 欧洲议员批评威胁台湾侵害人权</a></li>
-<li><a href="/comments/20210702/1578574.md" target="_blank">香港七一酿血案 50岁男刺警后自伤不治 网民关注</a></li>
-<li><a href="/comments/20210702/1578569.md" target="_blank">中共百年党庆！港警当街被刺 凶嫌自杀身亡</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/ganwu/20170705/787156.md" target="_blank">感悟神韵（之四）：感悟神韵音乐</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
 <li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
 <li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
 <li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
 
 </ul>
 </div>
