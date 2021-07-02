@@ -13,21 +13,21 @@
 <li><a href="/bannedvideo/20210702/1578608.md">北京百年党庆天安门广场传出真实画面： 天气相当差下着大雨 浇成落汤鸡了</a></li>
 <li><a href="/comments/20210702/1578894.md">104岁元老宋平戴墨镜佩勋章现身天安门城楼 宋平是习近平之外唯一穿中山装参加中共百年大庆的国级高官 宋平是胡锦涛温家宝习近平的政坛伯乐 曾劝胡锦涛搬掉江泽民 助习劝退元老说服红二代 宋平与习近平父子渊源揭秘 中南海不可告人的秘密_413</a></li>
 <li><a href="/cbnews/20210702/1578879.md">江峰：习近平七一讲话，老领导不来其实是这个原因，中山装里的秘密；奴役中国人的外国势力究竟是谁？【江峰漫谈20210701第341期】</a></li>
-<li><a href="/cbnews/20210702/1578908.md">习近平放话“解决台湾” 美国务院和军方随即回应</a></li>
 <li><a href="/cbnews/20210702/1578835.md">天亮时分：百年党庆，五大细节耐人寻味；江泽民大概只能再活几个月；两个关键问题，绝大多数人都搞错了；（政论天下第459集 20210701）</a></li>
+<li><a href="/cbnews/20210702/1578908.md">习近平放话“解决台湾” 美国务院和军方随即回应</a></li>
 <li><a href="/health/20210702/1578614.md">“性猝死”的产生，可能与这4个因素有关，希望你早知道</a></li>
 <li><a href="/comments/20210702/1578927.md">李燕铭：习近平天安门城楼上两次礼让胡锦涛 中共百年大庆打响二十大高层人事前哨战 习近平武斗江泽民文斗胡锦涛 胡锦涛现身天安门城楼攸关李克强胡春华等四高官二十大去向 习近平曾三次公开感谢胡锦涛 两次称赞胡锦涛“高风亮节” 二十大前习胡关系微妙</a></li>
+<li><a href="/bannedvideo/20210702/1579037.md">战争一触即发!习近平为何会走到这一步逃不出预言的结局?（启明笑谈20210702）</a></li>
+<li><a href="/cnnews/20210702/1579055.md">婚闹玩过火！新郎不忍了</a></li>
 <li><a href="/headline/20210702/1578562.md">魏京生：习近平想当伟大领袖，但没有真材实料</a></li>
 <li><a href="/cnnews/20210702/1578892.md">中共百年党庆 大陆女记者吐槽场面宛若恐怖片</a></li>
 <li><a href="/bannedvideo/20210702/1578529.md">中共百年党庆北京遇罕见恶劣天气  当局发射几千发催雨弹打散云团后 一团黑云却突然显现并快速移动到天安门广场上方......吓得官员纷纷祈祷</a></li>
-<li><a href="/bannedvideo/20210702/1579037.md">战争一触即发!习近平为何会走到这一步逃不出预言的结局?（启明笑谈20210702）</a></li>
-<li><a href="/cnnews/20210702/1579055.md">婚闹玩过火！新郎不忍了</a></li>
 <li><a href="/cnnews/20210702/1578769.md">中国取消复读 一半人大学无望？</a></li>
+<li><a href="/cbnews/20210702/1579067.md">上海迪士尼“2女激烈互殴”！女童哭喊 群众闪避看热闹</a></li>
 <li><a href="/worldnews/20210702/1578611.md">不信妻子确诊亡！印尼男挖出下葬5天尸体 全村毁了</a></li>
 <li><a href="/cbnews/20210702/1578754.md">中共“断卡行动” 多家银行配合当局“清卡”</a></li>
-<li><a href="/cbnews/20210702/1579067.md">上海迪士尼“2女激烈互殴”！女童哭喊 群众闪避看热闹</a></li>
-<li><a href="/comments/20210702/1578534.md">党庆 习天安门上再作捆绑；闫丽梦：中共利用家人要她消失【希望之声TV-环球看点-2021/7/1】</a></li>
 <li><a href="/health/20210702/1578583.md">小伙坚持慢跑一个月后，怎么样了？改变的不止是身材，值得尝试</a></li>
+<li><a href="/comments/20210702/1578534.md">党庆 习天安门上再作捆绑；闫丽梦：中共利用家人要她消失【希望之声TV-环球看点-2021/7/1】</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210702/1579276.md" target="_blank">美将四家亲缅甸军方公司列入黑名单 中企上榜</a></li>
+<li><a href="/comments/20210702/1579275.md" target="_blank">椰香莲子紫米露</a></li>
+<li><a href="/comments/20210702/1579270.md" target="_blank">【文韬政论】中共百年党庆下的政治打压 催生香港的「觉醒年代」</a></li>
 <li><a href="/comments/20210702/1579243.md" target="_blank">中共百年梦醒时分：郭于华、安华托帝、赵思乐、美国之音墙内听众讲述个人在中共治下的经验</a></li>
 <li><a href="/comments/20210702/1579238.md" target="_blank">“防止中共武统台湾” 美太平洋舰队司令：这是我的职责</a></li>
 <li><a href="/comments/20210702/1579233.md" target="_blank">中共亡党的时间和方式</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210702/1579059.md" target="_blank">马来西亚无限期封城 民间发起「举白旗运动」自救</a></li>
 <li><a href="/comments/20210702/1579058.md" target="_blank">研究：这4种做饭的配料，有助平衡血糖</a></li>
 <li><a href="/comments/20210702/1579057.md" target="_blank">Delta变种病毒肆虐 医揭4点可怕之处</a></li>
-<li><a href="/comments/20210702/1579036.md" target="_blank">【文昭思绪飞扬】《圣经》末日密码：2021年9月是关键，2060年神降临！“天启四骑士”阶段正在进行中</a></li>
-<li><a href="/comments/20210702/1579034.md" target="_blank">【文昭思绪飞扬】你的完整轮回记录哪里找？宇宙数据库“阿卡西”！怎样才能调阅记录</a></li>
-<li><a href="/comments/20210702/1579033.md" target="_blank">【画缘】向您展示如何为初学者逐步绘制逼真的眼睛以及如何以简单的方式绘制眉毛</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
 <li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
 
 </ul>
 </div>
