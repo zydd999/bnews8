@@ -27,7 +27,7 @@
 <li><a href="/cbnews/20210701/1578479.md">7.1党庆高官表情凝重 专家：习像念悼词</a></li>
 <li><a href="/comments/20210701/1578319.md">中国老中医的集体结晶，最好背下来</a></li>
 <li><a href="/comments/20210701/1578147.md">七一讲话暗藏党庆目的？习近平握拳模仿他 李克强黑眼圈亮了</a></li>
-<li><a href="/topimagenews/20210701/1578374.md">炸锅 中国人均收入超1万美元？6省市财务紧张抛售国企债券 海南自贸一年文昌如鬼城</a></li>
+<li><a href="/cbnews/20210702/1578624.md">大陆记者吐槽中共七一庆典如恐怖片</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,9 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210702/1578723.md" target="_blank">《国安法》上路满1年 “香港10大巨变”</a></li>
+<li><a href="/cbnews/20210702/1578716.md" target="_blank">蓬佩奥：没有哪个政党杀的人比中共多</a></li>
+<li><a href="/cbnews/20210702/1578715.md" target="_blank">四个中共“全球首创” 打破伦理底线的生物实验</a></li>
 <li><a href="/comments/20210702/1578712.md" target="_blank">【新视野】中共确立建党日，竟牵出一桩命案和毛泽东权斗。糊涂生日糊涂命，结局令人唏嘘。创建人如何最后仅剩2人？</a></li>
 <li><a href="/comments/20210702/1578701.md" target="_blank">七一习近平放狠话 突然下雨引混乱；迈阿密倒塌废墟传来神秘来电……【希望之声TV-每日头条-2021/7/1】</a></li>
 <li><a href="/comments/20210702/1578700.md" target="_blank">中华民族伟大复兴到底是什么？ 美日秘密备战？ 应对中共武力攻台【希望之声TV-新闻焦点解读-2021/07/01】主持:高洁  嘉宾：袁弓夷  谢田</a></li>
@@ -58,9 +61,6 @@
 <li><a href="/cbnews/20210701/1578326.md" target="_blank">英媒：美日一直秘密备战 应对中共武力攻台</a></li>
 <li><a href="/cbnews/20210701/1578325.md" target="_blank">在小葫芦上刻字被枉判八年半 七旬老伴千里探夫遭拒</a></li>
 <li><a href="/cbnews/20210701/1578304.md" target="_blank">中共迫害法轮功的海外犯罪活动的新动向</a></li>
-<li><a href="/cbnews/20210701/1578303.md" target="_blank">中共党庆无视疫情 7万人不戴口罩齐聚天安门</a></li>
-<li><a href="/cbnews/20210701/1578293.md" target="_blank">中共党庆大批红后代现身北京 引网民议论</a></li>
-<li><a href="/cbnews/20210701/1578156.md" target="_blank">习近平在天安门放狠话 警告要让人头破血流</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210702/1578721.md" target="_blank">中共“庆祝”百岁之际 美媒发社论历数中共罪恶</a></li>
 <li><a href="/comments/20210702/1578712.md" target="_blank">【新视野】中共确立建党日，竟牵出一桩命案和毛泽东权斗。糊涂生日糊涂命，结局令人唏嘘。创建人如何最后仅剩2人？</a></li>
 <li><a href="/comments/20210702/1578701.md" target="_blank">七一习近平放狠话 突然下雨引混乱；迈阿密倒塌废墟传来神秘来电……【希望之声TV-每日头条-2021/7/1】</a></li>
 <li><a href="/comments/20210702/1578700.md" target="_blank">中华民族伟大复兴到底是什么？ 美日秘密备战？ 应对中共武力攻台【希望之声TV-新闻焦点解读-2021/07/01】主持:高洁  嘉宾：袁弓夷  谢田</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210702/1578601.md" target="_blank">【7.1 铜锣湾】多名被票控违限聚令市民呼冤 斥警聚陌生人同作票控</a></li>
 <li><a href="/comments/20210702/1578600.md" target="_blank">【7.1刺警案】特首、警方谴责暴力行为 林郑月娥：警会调查背后是否有组织</a></li>
 <li><a href="/comments/20210702/1578596.md" target="_blank">【7.1】逾万警力截查、拘捕禁示威 一男子刺警后自插胸口送院亡</a></li>
-<li><a href="/comments/20210702/1578593.md" target="_blank">天主教正委会七一祈祷会 夏志诚吁教友同行、活在真相中</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ganwu/20170705/787156.md" target="_blank">感悟神韵（之四）：感悟神韵音乐</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
 <li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
 <li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
+<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
 <li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
 
 </ul>
 </div>
