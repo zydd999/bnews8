@@ -10,13 +10,12 @@
 <li><a href="/cbnews/20210701/1578156.md">习近平在天安门放狠话 警告要让人头破血流</a></li>
 <li><a href="/cbnews/20210701/1578293.md">中共党庆大批红后代现身北京 引网民议论</a></li>
 <li><a href="/comments/20210701/1578119.md">李克强黑眼圈亮了！习近平讲话曝七一党庆目的？！两大动作威吓台湾</a></li>
-<li><a href="/bannedvideo/20210701/1578112.md">七一天安门，江泽民彻底躺平！朱熔基成疑；胡温向习近平示好？大陆各界借献礼猛黑习，胡锡进夹三添堵</a></li>
 <li><a href="/cbnews/20210701/1578459.md">七一天安门上空黑压压 习讲话突下雨掌声混乱</a></li>
 <li><a href="/bannedvideo/20210701/1578349.md">陈破空：天安门有诡：万主席压倒习主席！某群体集体缺席。毛泽东孙子遭封禁！习近平讲话处处黑，王沪宁是搞手</a></li>
 <li><a href="/cbnews/20210702/1578624.md">大陆记者吐槽中共七一庆典如恐怖片</a></li>
+<li><a href="/lifebaike/20210702/1578650.md">苏俄共军集体强暴德国妇女狂潮 慎入</a></li>
 <li><a href="/bannedvideo/20210701/1578313.md">百年庆典满台丧气，习近平一人自嗨扮演毛泽东；中共走到了权力巅峰？中共将以怎样的方式倒台（20210701 第631期）</a></li>
 <li><a href="/cnnews/20210701/1578201.md">习近平讲话暴露中共要害 有个人真说到点子上了！【阿波罗网报道】</a></li>
-<li><a href="/lifebaike/20210702/1578650.md">苏俄共军集体强暴德国妇女狂潮 慎入</a></li>
 <li><a href="/cbnews/20210701/1578460.md">中共党庆大批红后代现身北京 毛新宇缺席 网民热议</a></li>
 <li><a href="/cbnews/20210701/1578479.md">7.1党庆高官表情凝重 专家：习像念悼词</a></li>
 <li><a href="/comments/20210701/1578319.md">中国老中医的集体结晶，最好背下来</a></li>
@@ -26,6 +25,7 @@
 <li><a href="/headline/20210702/1578562.md">魏京生：习近平想当伟大领袖，但没有真材实料</a></li>
 <li><a href="/bannedvideo/20210701/1578157.md">文睿：浅色中山装扎眼，习近平不想回头了，中国全面进入黑夜</a></li>
 <li><a href="/bannedvideo/20210702/1578608.md">北京百年党庆天安门广场传出真实画面： 天气相当差下着大雨 浇成落汤鸡了</a></li>
+<li><a href="/bannedvideo/20210702/1578529.md">中共百年党庆北京遇罕见恶劣天气  当局发射几千发催雨弹打散云团后 一团黑云却突然显现并快速移动到天安门广场上方......吓得官员纷纷祈祷</a></li>
 <li><a href="/cbnews/20210701/1578303.md">中共党庆无视疫情 7万人不戴口罩齐聚天安门</a></li>
 <li><a href="/cnnews/20210701/1578485.md">人民币跌至一周新低 6月创近两年最大贬幅</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210702/1578879.md" target="_blank">江峰：习近平七一讲话，老领导不来其实是这个原因，中山装里的秘密；奴役中国人的外国势力究竟是谁？【江峰漫谈20210701第341期】</a></li>
 <li><a href="/cbnews/20210702/1578851.md" target="_blank">习近平扬言解决台湾问题 魏京生：说给国内愤青听</a></li>
 <li><a href="/cbnews/20210702/1578835.md" target="_blank">天亮时分：百年党庆，五大细节耐人寻味；江泽民大概只能再活几个月；两个关键问题，绝大多数人都搞错了；（政论天下第459集 20210701）</a></li>
 <li><a href="/comments/20210702/1578828.md" target="_blank">高法力挺亚利桑那限制性投票；麻烦来了！川普集团首次面临刑事指控</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210701/1578478.md" target="_blank">中国野生动物养殖场改头换面 新冠溯源难上加难</a></li>
 <li><a href="/cbnews/20210701/1578460.md" target="_blank">中共党庆大批红后代现身北京 毛新宇缺席 网民热议</a></li>
 <li><a href="/cbnews/20210701/1578459.md" target="_blank">七一天安门上空黑压压 习讲话突下雨掌声混乱</a></li>
-<li><a href="/cbnews/20210701/1578425.md" target="_blank">建党百年：网红和艺人花样献礼 宗教界党史竞赛</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,14 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210702/1578880.md" target="_blank">⚡️党庆大会披麻戴孝，一尊教主务必拿下台湾。台湾的明星叛徒们高兴了，敬贺一尊踏平台湾。欢迎来台湾!│#熊猫侠</a></li>
+<li><a href="/comments/20210702/1578875.md" target="_blank">被控从维族“强迫劳动”获利 4家跨国服装巨擘遭法国调查</a></li>
+<li><a href="/comments/20210702/1578874.md" target="_blank">港府反对被列《美国贩运人口报告》二级监察名单 中国三级齐名北韩</a></li>
+<li><a href="/comments/20210702/1578873.md" target="_blank">【7.1 英国】利物浦反送中摄影展 主办人：用集会以外方法与人交流</a></li>
+<li><a href="/comments/20210702/1578872.md" target="_blank">中共百年 台湾各界批共产党迫害中国人和港人</a></li>
+<li><a href="/comments/20210702/1578871.md" target="_blank">【第三只眼睛】很可怕！占卜师预见到了末日！她说：我看到一团黑云吞没全世界…</a></li>
+<li><a href="/comments/20210702/1578870.md" target="_blank">【第三只眼睛】百年党庆9​​大征兆，预示中共必死</a></li>
+<li><a href="/comments/20210702/1578869.md" target="_blank">千人获释还不够 联合国要求军政府立刻释放昂山素季</a></li>
 <li><a href="/comments/20210702/1578847.md" target="_blank">习近平称“解决台湾问题” 美日：停止施压进行对话</a></li>
 <li><a href="/comments/20210702/1578845.md" target="_blank">老天爷发怒了！习近平讲话中途雨来了 七常委个个黑着脸</a></li>
 <li><a href="/comments/20210702/1578828.md" target="_blank">高法力挺亚利桑那限制性投票；麻烦来了！川普集团首次面临刑事指控</a></li>
@@ -115,14 +123,6 @@
 <li><a href="/comments/20210702/1578779.md" target="_blank">川普顾问独立日将推全新社交平台 挑战大社媒垄断</a></li>
 <li><a href="/comments/20210702/1578768.md" target="_blank">周晓辉：日美再强硬表态 北京若攻台必加速垮掉</a></li>
 <li><a href="/comments/20210702/1578767.md" target="_blank">金言：北京百年党庆暗藏哪些天机？</a></li>
-<li><a href="/comments/20210702/1578766.md" target="_blank">苦胆：不“共”戴天</a></li>
-<li><a href="/comments/20210702/1578721.md" target="_blank">中共“庆祝”百岁之际 美媒发社论历数中共罪恶</a></li>
-<li><a href="/comments/20210702/1578712.md" target="_blank">【新视野】中共确立建党日，竟牵出一桩命案和毛泽东权斗。糊涂生日糊涂命，结局令人唏嘘。创建人如何最后仅剩2人？</a></li>
-<li><a href="/comments/20210702/1578701.md" target="_blank">七一习近平放狠话 突然下雨引混乱；迈阿密倒塌废墟传来神秘来电……【希望之声TV-每日头条-2021/7/1】</a></li>
-<li><a href="/comments/20210702/1578700.md" target="_blank">中华民族伟大复兴到底是什么？ 美日秘密备战？ 应对中共武力攻台【希望之声TV-新闻焦点解读-2021/07/01】主持:高洁  嘉宾：袁弓夷  谢田</a></li>
-<li><a href="/comments/20210702/1578694.md" target="_blank">美高院支持亚利桑那投票法 禁非选区居民投票</a></li>
-<li><a href="/comments/20210702/1578685.md" target="_blank">诗一首：《相 依》</a></li>
-<li><a href="/comments/20210702/1578684.md" target="_blank">【闱闱道来】生活随笔：神韵来啦 我们看神韵啦</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210612/1565472.md" target="_blank">感悟神韵（之二）：感悟神韵的艺术风格</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
 <li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
-<li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
 <li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
 
 </ul>
 </div>
