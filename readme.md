@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cbnews/20210701/1578327.md">习近平七一着毛装亮相 引发两大猜测</a></li>
-<li><a href="/cbnews/20210701/1578156.md">习近平在天安门放狠话 警告要让人头破血流</a></li>
 <li><a href="/cbnews/20210701/1578293.md">中共党庆大批红后代现身北京 引网民议论</a></li>
 <li><a href="/cbnews/20210701/1578459.md">七一天安门上空黑压压 习讲话突下雨掌声混乱</a></li>
 <li><a href="/bannedvideo/20210701/1578349.md">陈破空：天安门有诡：万主席压倒习主席！某群体集体缺席。毛泽东孙子遭封禁！习近平讲话处处黑，王沪宁是搞手</a></li>
@@ -17,17 +16,18 @@
 <li><a href="/cbnews/20210701/1578479.md">7.1党庆高官表情凝重 专家：习像念悼词</a></li>
 <li><a href="/cbnews/20210701/1578460.md">中共党庆大批红后代现身北京 毛新宇缺席 网民热议</a></li>
 <li><a href="/cnnews/20210702/1578719.md">新研究：没事儿别发自拍照…</a></li>
-<li><a href="/comments/20210701/1578319.md">中国老中医的集体结晶，最好背下来</a></li>
 <li><a href="/cbnews/20210702/1578759.md">中共海外特务头目任命书曝光！内藏惊人信息</a></li>
+<li><a href="/comments/20210701/1578319.md">中国老中医的集体结晶，最好背下来</a></li>
 <li><a href="/topimagenews/20210701/1578374.md">炸锅 中国人均收入超1万美元？6省市财务紧张抛售国企债券 海南自贸一年文昌如鬼城</a></li>
+<li><a href="/topimagenews/20210702/1578867.md">一张照片露端倪！习近平挥手时 几常委神态各异 【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20210702/1578608.md">北京百年党庆天安门广场传出真实画面： 天气相当差下着大雨 浇成落汤鸡了</a></li>
 <li><a href="/health/20210702/1578614.md">“性猝死”的产生，可能与这4个因素有关，希望你早知道</a></li>
 <li><a href="/headline/20210702/1578562.md">魏京生：习近平想当伟大领袖，但没有真材实料</a></li>
-<li><a href="/bannedvideo/20210701/1578157.md">文睿：浅色中山装扎眼，习近平不想回头了，中国全面进入黑夜</a></li>
 <li><a href="/bannedvideo/20210702/1578529.md">中共百年党庆北京遇罕见恶劣天气  当局发射几千发催雨弹打散云团后 一团黑云却突然显现并快速移动到天安门广场上方......吓得官员纷纷祈祷</a></li>
-<li><a href="/topimagenews/20210702/1578867.md">一张照片露端倪！习近平挥手时 几常委神态各异 【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20210701/1578303.md">中共党庆无视疫情 7万人不戴口罩齐聚天安门</a></li>
 <li><a href="/cnnews/20210701/1578485.md">人民币跌至一周新低 6月创近两年最大贬幅</a></li>
+<li><a href="/worldnews/20210702/1578611.md">不信妻子确诊亡！印尼男挖出下葬5天尸体 全村毁了</a></li>
+<li><a href="/comments/20210702/1578534.md">党庆 习天安门上再作捆绑；闫丽梦：中共利用家人要她消失【希望之声TV-环球看点-2021/7/1】</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210702/1578927.md" target="_blank">李燕铭：习近平天安门城楼上两次礼让胡锦涛 中共百年大庆打响二十大高层人事前哨战 习近平武斗江泽民文斗胡锦涛 胡锦涛现身天安门城楼攸关李克强胡春华等四高官二十大去向 习近平曾三次公开感谢胡锦涛 两次称赞胡锦涛“高风亮节” 二十大前习胡关系微妙</a></li>
 <li><a href="/comments/20210702/1578913.md" target="_blank">东涌区议员王进洋：今早被警拘捕 被指涉商业罪案</a></li>
 <li><a href="/comments/20210702/1578912.md" target="_blank">【7.1旺角】贤学思政街站“未开已被围” 3 成员被带走 未知是否被捕</a></li>
 <li><a href="/comments/20210702/1578911.md" target="_blank">【7.1铜锣湾】多处截查记者 警：今日所有传媒都要接受登记</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210702/1578808.md" target="_blank">【7.1旺角】警以涉嫌分发煽动刊物拘11人 大律师：政府未解释何谓“踩界”</a></li>
 <li><a href="/comments/20210702/1578807.md" target="_blank">英文版党媒删改习近平重要讲话？“红色后代”齐聚缺了毛新宇</a></li>
 <li><a href="/comments/20210702/1578806.md" target="_blank">二十四节气之小暑</a></li>
-<li><a href="/comments/20210702/1578798.md" target="_blank">石山：这两人差点灭了中共</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/comments/20210329/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
 <li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
 <li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
 <li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
 
 </ul>
 </div>
