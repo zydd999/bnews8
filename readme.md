@@ -9,25 +9,25 @@
 <li><a href="/cnnews/20210703/1579525.md">中共党庆：温家宝哪儿去了</a></li>
 <li><a href="/topimagenews/20210703/1579613.md">除了江朱 中共百年“庆典”上 他再次“消失” ！【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20210703/1579391.md">北市环南市场41人确诊 29人病毒传染力偏高</a></li>
-<li><a href="/cbnews/20210702/1579262.md">中共敲定延迟退休 政府被指既捞钱又耍流氓</a></li>
-<li><a href="/health/20210703/1579470.md">饭店里“最脏”的2道菜，聪明人从来不点，老板：我们自己都不吃</a></li>
 <li><a href="/comments/20210703/1579712.md">七一“泄密” 真正的赵家人集结 名单全曝光</a></li>
+<li><a href="/health/20210703/1579470.md">饭店里“最脏”的2道菜，聪明人从来不点，老板：我们自己都不吃</a></li>
 <li><a href="/cbnews/20210703/1579380.md">北京启动小学寒暑假托管 教师不满爆棚</a></li>
 <li><a href="/cbnews/20210703/1579555.md">这词儿字典没有！中共党庆习近平致词又出状况</a></li>
 <li><a href="/cnnews/20210703/1579474.md">他搭地铁美女睡着靠肩上 带刺桃花运这下亏大了</a></li>
 <li><a href="/cbnews/20210703/1579662.md">江峰：美军对习近平这个玩笑开大了！不武统了？习近平重喊和平统一跟随哪些乱台手段？美军潜艇为何纷纷浮头？里根号航母远离西太看白宫战略与美军抗共决心错位【江峰漫谈20210702第342期】</a></li>
-<li><a href="/cbnews/20210703/1579390.md">党庆遇变种病毒 中共为何不批准“复必泰”疫苗</a></li>
 <li><a href="/comments/20210703/1579624.md">【要闻精粹】习近平不是傻就是中蛊了 凶兆处处</a></li>
-<li><a href="/comments/20210703/1579631.md">中共百年党庆 太子党分乘12辆车进天安门观礼台 详细名单曝光：毛周刘朱邓陈后人坐1号车 薄一波三子薄熙来弟薄熙成坐5号车…… 中南海不可告人的秘密_415</a></li>
 <li><a href="/topimagenews/20210703/1579780.md">习71念错成语影片疯传 中印屯兵25万一触即发 “中美脱钩或是唯一选项”</a></li>
-<li><a href="/cnnews/20210703/1579329.md">路边狂吸黄花 她回家狂做恶梦 上网一查花名吓傻</a></li>
+<li><a href="/cbnews/20210703/1579390.md">党庆遇变种病毒 中共为何不批准“复必泰”疫苗</a></li>
+<li><a href="/comments/20210703/1579631.md">中共百年党庆 太子党分乘12辆车进天安门观礼台 详细名单曝光：毛周刘朱邓陈后人坐1号车 薄一波三子薄熙来弟薄熙成坐5号车…… 中南海不可告人的秘密_415</a></li>
 <li><a href="/cbnews/20210703/1579532.md">火了！传中航书记申报院士不成 暴打两院士</a></li>
+<li><a href="/cnnews/20210703/1579329.md">路边狂吸黄花 她回家狂做恶梦 上网一查花名吓傻</a></li>
 <li><a href="/baitai/20210703/1579342.md">【网络民议】“我觉得中共百年庆典搞得挺成功的，我挺难过”</a></li>
 <li><a href="/cnnews/20210703/1579524.md">中国印钞公司原老总落马 怎么贪网友脑洞大开</a></li>
 <li><a href="/cnnews/20210703/1579383.md">习近平发“头破血流”威胁 蓬佩奥解析</a></li>
 <li><a href="/comments/20210703/1579379.md">“反共将军”阎锡山七十年前的演讲至今仍振聋发聩！阎锡山：共匪是蛇蝎是豺狼 是九条尾巴的狐狸精 共匪残忍有三个原因凑成 中南海不可告人的秘密_414</a></li>
 <li><a href="/cnnews/20210703/1579673.md">习近平“强人”形象泡汤 被人戳破还顺势挖坑！【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20210703/1579371.md">王毅无礼对待澳外长 中共外交官照本宣科背后</a></li>
+<li><a href="/lifebaike/20210703/1579473.md">男性160-180cm的“标准体重”是多少？若超“这个数”，减肥吧</a></li>
+<li><a href="/yule/20210703/1579422.md">41岁张柏芝近照曝光，现身婚纱店身形暴瘦，无P真面目显老态</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210703/1579855.md" target="_blank">浙江爆发洪灾！水库溃堤许多城镇被淹….</a></li>
+<li><a href="/comments/20210703/1579854.md" target="_blank">【突发事件】悼念绝望的香港人：回忆立陶宛义士 Romas Kalanta 纪念碑</a></li>
 <li><a href="/comments/20210703/1579846.md" target="_blank">【独家】陈光诚和吾尔开希谈中共百年恶果</a></li>
 <li><a href="/comments/20210703/1579845.md" target="_blank">这7种食物经证明会让你心情不好</a></li>
 <li><a href="/comments/20210703/1579842.md" target="_blank">揭中共13大谎言真相惊醒你</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210703/1579679.md" target="_blank">人体的29条冷知识：人体平均含0.1毫克铀</a></li>
 <li><a href="/comments/20210703/1579678.md" target="_blank">蔬果、肉类藏武肺病毒？ 医：个人卫生习惯先做好</a></li>
 <li><a href="/comments/20210703/1579653.md" target="_blank">视频：新冠PCR筛检棒暗藏纳米晶片-电子智能粉尘?新冠深入口腔鼻腔的筛检拭子，可以暗藏数十杖纳米机械虫</a></li>
-<li><a href="/comments/20210703/1579658.md" target="_blank">加长版三伏天来袭，心脏最怕这4件事</a></li>
-<li><a href="/comments/20210703/1579657.md" target="_blank">蹲久了一会儿站起来会头晕，不一定是贫血哦</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
 <li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
 
 </ul>
 </div>
