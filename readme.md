@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/cnnews/20210703/1579525.md">中共党庆：温家宝哪儿去了</a></li>
 <li><a href="/comments/20210703/1579399.md">习近平两次礼让胡锦涛画面成亮点</a></li>
+<li><a href="/cnnews/20210703/1579525.md">中共党庆：温家宝哪儿去了</a></li>
 <li><a href="/bannedvideo/20210702/1579122.md">陈破空：天安门有戏！胡锦涛加持李克强。美女风头盖过习近平！党媒剽窃被抓，小粉红震怒</a></li>
-<li><a href="/cbnews/20210702/1579097.md">中共党庆日许家印等大佬现身 不见马云</a></li>
 <li><a href="/topimagenews/20210703/1579613.md">除了江朱 中共百年“庆典”上 他再次“消失” ！【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20210702/1579262.md">中共敲定延迟退休 政府被指既捞钱又耍流氓</a></li>
+<li><a href="/cbnews/20210703/1579391.md">北市环南市场41人确诊 29人病毒传染力偏高</a></li>
 <li><a href="/cbnews/20210703/1579380.md">北京启动小学寒暑假托管 教师不满爆棚</a></li>
 <li><a href="/cbnews/20210702/1579150.md">习近平“头破血流”上热搜 被掩盖的真相是…</a></li>
-<li><a href="/cbnews/20210703/1579391.md">北市环南市场41人确诊 29人病毒传染力偏高</a></li>
 <li><a href="/cbnews/20210703/1579555.md">这词儿字典没有！中共党庆习近平致词又出状况</a></li>
 <li><a href="/health/20210703/1579470.md">饭店里“最脏”的2道菜，聪明人从来不点，老板：我们自己都不吃</a></li>
 <li><a href="/topimagenews/20210702/1579216.md">中共新建上百导弹发射井 竟是军备骗局？欧盟不认中国疫苗，世卫又帮中共站台</a></li>
 <li><a href="/cnnews/20210703/1579474.md">他搭地铁美女睡着靠肩上 带刺桃花运这下亏大了</a></li>
+<li><a href="/comments/20210703/1579624.md">【要闻精粹】习近平不是傻就是中蛊了 凶兆处处</a></li>
 <li><a href="/cnnews/20210703/1579329.md">路边狂吸黄花 她回家狂做恶梦 上网一查花名吓傻</a></li>
 <li><a href="/cbnews/20210703/1579390.md">党庆遇变种病毒 中共为何不批准“复必泰”疫苗</a></li>
 <li><a href="/baitai/20210703/1579342.md">【网络民议】“我觉得中共百年庆典搞得挺成功的，我挺难过”</a></li>
-<li><a href="/cbnews/20210703/1579532.md">火了！传中航书记申报院士不成 暴打两院士</a></li>
 <li><a href="/cnnews/20210703/1579383.md">习近平发“头破血流”威胁 蓬佩奥解析</a></li>
+<li><a href="/cbnews/20210703/1579532.md">火了！传中航书记申报院士不成 暴打两院士</a></li>
 <li><a href="/cnnews/20210703/1579524.md">中国印钞公司原老总落马 怎么贪网友脑洞大开</a></li>
-<li><a href="/comments/20210703/1579624.md">【要闻精粹】习近平不是傻就是中蛊了 凶兆处处</a></li>
 <li><a href="/finance/20210702/1579117.md">财经冷眼：二手房大面积停贷 楼市杠杆终于要断了</a></li>
 <li><a href="/comments/20210703/1579379.md">“反共将军”阎锡山七十年前的演讲至今仍振聋发聩！阎锡山：共匪是蛇蝎是豺狼 是九条尾巴的狐狸精 共匪残忍有三个原因凑成 中南海不可告人的秘密_414</a></li>
 <li><a href="/cbnews/20210703/1579371.md">王毅无礼对待澳外长 中共外交官照本宣科背后</a></li>
+<li><a href="/cnnews/20210702/1579135.md">“保姆纵火案”林生斌再婚生女 网友为何生气？</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
-<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
 <li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
 
 </ul>
 </div>
