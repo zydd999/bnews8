@@ -10,24 +10,24 @@
 <li><a href="/topimagenews/20210703/1579780.md">习71念错成语影片疯传 中印屯兵25万一触即发 “中美脱钩或是唯一选项”</a></li>
 <li><a href="/cbnews/20210703/1579555.md">这词儿字典没有！中共党庆习近平致词又出状况</a></li>
 <li><a href="/cbnews/20210703/1579662.md">江峰：美军对习近平这个玩笑开大了！不武统了？习近平重喊和平统一跟随哪些乱台手段？美军潜艇为何纷纷浮头？里根号航母远离西太看白宫战略与美军抗共决心错位【江峰漫谈20210702第342期】</a></li>
-<li><a href="/comments/20210703/1579624.md">【要闻精粹】习近平不是傻就是中蛊了 凶兆处处</a></li>
 <li><a href="/cnnews/20210704/1579931.md">北朝鲜海外餐厅疫下求生 传正妹服务员暗卖情色！中国客嗨玩昏厥才曝光</a></li>
+<li><a href="/comments/20210703/1579624.md">【要闻精粹】习近平不是傻就是中蛊了 凶兆处处</a></li>
 <li><a href="/comments/20210703/1579631.md">中共百年党庆 太子党分乘12辆车进天安门观礼台 详细名单曝光：毛周刘朱邓陈后人坐1号车 薄一波三子薄熙来弟薄熙成坐5号车…… 中南海不可告人的秘密_415</a></li>
 <li><a href="/bannedvideo/20210704/1579934.md">中共七一党庆 温家宝马云消失内情曝光 ★大陆封杀短剧《大好青春如此躺平实属可惜》</a></li>
 <li><a href="/cnnews/20210703/1579843.md">克格勃档案解密 击落UFO俄士兵瞬间石化</a></li>
-<li><a href="/cnnews/20210703/1579673.md">习近平“强人”形象泡汤 被人戳破还顺势挖坑！【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20210703/1579532.md">火了！传中航书记申报院士不成 暴打两院士</a></li>
-<li><a href="/cbnews/20210704/1579926.md">小学生练造句“8字回应太诚实”网笑翻：这样爸怎敢回家？</a></li>
 <li><a href="/cbnews/20210704/1579948.md">现身天安门党庆 重量级红后代名单曝光</a></li>
+<li><a href="/cnnews/20210703/1579673.md">习近平“强人”形象泡汤 被人戳破还顺势挖坑！【阿波罗网报道】</a></li>
+<li><a href="/cbnews/20210704/1579926.md">小学生练造句“8字回应太诚实”网笑翻：这样爸怎敢回家？</a></li>
 <li><a href="/cbnews/20210703/1579738.md">杨洁篪甩锅战狼外交？“功劳”都归习近平</a></li>
 <li><a href="/baitai/20210703/1579646.md">男子花9559元订上海一酒店入住发现标价2980元 要求退房遭拒</a></li>
 <li><a href="/bannedvideo/20210703/1579826.md">习近平七一讲话太露骨一大代表一半已叛党，党庆贺电太少惹人笑，清风不识字文字狱海参崴呢，对中共恶感创新高，中国富豪跑路潮（小木谈天第165期 20210703）</a></li>
 <li><a href="/cnnews/20210703/1579758.md">热传：96岁高龄蒋夫人在抗战50周年庆典讲话</a></li>
 <li><a href="/comments/20210703/1579733.md">中共党庆俄朝巴发贺电 西方无一国 日本还是应中共请求</a></li>
-<li><a href="/worldnews/usa/20210703/1579627.md">最高法院祭出大招，拜登表示极其失望，民主党众议员辱骂最高法院</a></li>
 <li><a href="/ssgc/20210704/1579923.md">〖兲朝浮世绘〗港人开始以暴抗暴，刺杀中共黑警</a></li>
+<li><a href="/worldnews/usa/20210703/1579627.md">最高法院祭出大招，拜登表示极其失望，民主党众议员辱骂最高法院</a></li>
+<li><a href="/topimagenews/20210704/1579925.md">中共党庆后！港股重挫逾500点 谢金河：像90年代台股</a></li>
 <li><a href="/lifebaike/20210703/1579708.md">想要出人头地，都会远离这几类低层次圈子！真的很有道理</a></li>
-<li><a href="/lifebaike/20210703/1579689.md">阳台洗衣机别再把排水管直插地漏了，当初不懂，入住后才知有多坑</a></li>
+<li><a href="/comments/20210703/1579855.md">浙江爆发洪灾！水库溃堤许多城镇被淹….</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -67,6 +67,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20210704/1580090.md" target="_blank">习近平或面临“陈桥兵变”？党庆日天降异象。【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20210704/1579925.md" target="_blank">中共党庆后！港股重挫逾500点 谢金河：像90年代台股</a></li>
 <li><a href="/topimagenews/20210704/1579885.md" target="_blank">纽约抢匪劫车 2岁华裔女童在车内 警出动直升机拦车逮人</a></li>
 <li><a href="/topimagenews/20210703/1579780.md" target="_blank">习71念错成语影片疯传 中印屯兵25万一触即发 “中美脱钩或是唯一选项”</a></li>
@@ -91,13 +92,16 @@
 <li><a href="/topimagenews/20210630/1577019.md" target="_blank">百物皆涨民叫苦 专家：还未到顶</a></li>
 <li><a href="/topimagenews/20210629/1576940.md" target="_blank">中国褐皮书：中国企业、消费者信心正在动摇 Q2经济表现有杂音</a></li>
 <li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/topimagenews/20210629/1576671.md" target="_blank">吓人一跳！习近平出席庆典 竟如此表情【阿波罗网报道】</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210704/1580098.md" target="_blank">细数中共洗脑术 看谁中招了？</a></li>
+<li><a href="/comments/20210704/1580097.md" target="_blank">党骑在国家头上的政权 还有下一次礼炮响吗？</a></li>
+<li><a href="/comments/20210704/1580096.md" target="_blank">【微博精粹】给暴政一个说法 英雄有态度</a></li>
+<li><a href="/comments/20210704/1580095.md" target="_blank">中共是全世界最野蛮霸道的强盗党</a></li>
 <li><a href="/comments/20210704/1580082.md" target="_blank">独立日前美200公司遭网袭 拜登：若俄所为美将报复</a></li>
 <li><a href="/comments/20210704/1580081.md" target="_blank">壹传媒工会将启动解散程序：历史任务结束</a></li>
 <li><a href="/comments/20210704/1580075.md" target="_blank">中共百年透视：抗击中共为何成为国际潮流？</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210704/1579958.md" target="_blank">执政16载 默克尔对英国进行第22次访问</a></li>
 <li><a href="/comments/20210704/1579957.md" target="_blank">印度主流媒体 关注中国退党大潮</a></li>
 <li><a href="/comments/20210704/1579943.md" target="_blank">中共建党百年 美加华人另类“庆典”</a></li>
-<li><a href="/comments/20210704/1579936.md" target="_blank">意大利遭“最后通牒” 威尼斯世界文化遗产地位或将不保</a></li>
-<li><a href="/comments/20210704/1579914.md" target="_blank">上台140天 拜登自爆：一直忘记自己是美国总统 原因竟是 . . .</a></li>
-<li><a href="/comments/20210704/1579903.md" target="_blank">【7.1刺警案】7.2 警驻 SOGO 外戒备 控 31 人违限聚令、3 人乱抛垃圾</a></li>
-<li><a href="/comments/20210704/1579902.md" target="_blank">【7.1 刺警案】续有市民到崇光悼梁健辉 大批警员戒备 政府斥美化暴力</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
 <li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
 <li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
 
 </ul>
 </div>
