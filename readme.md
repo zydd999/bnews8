@@ -7,27 +7,27 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cnnews/20210703/1579525.md">中共党庆：温家宝哪儿去了</a></li>
 <li><a href="/topimagenews/20210703/1579613.md">除了江朱 中共百年“庆典”上 他再次“消失” ！【阿波罗网报道】</a></li>
-<li><a href="/health/20210703/1579470.md">饭店里“最脏”的2道菜，聪明人从来不点，老板：我们自己都不吃</a></li>
 <li><a href="/comments/20210703/1579712.md">七一“泄密” 真正的赵家人集结 名单全曝光</a></li>
 <li><a href="/topimagenews/20210703/1579780.md">习71念错成语影片疯传 中印屯兵25万一触即发 “中美脱钩或是唯一选项”</a></li>
 <li><a href="/cbnews/20210703/1579555.md">这词儿字典没有！中共党庆习近平致词又出状况</a></li>
-<li><a href="/cnnews/20210703/1579474.md">他搭地铁美女睡着靠肩上 带刺桃花运这下亏大了</a></li>
 <li><a href="/cbnews/20210703/1579662.md">江峰：美军对习近平这个玩笑开大了！不武统了？习近平重喊和平统一跟随哪些乱台手段？美军潜艇为何纷纷浮头？里根号航母远离西太看白宫战略与美军抗共决心错位【江峰漫谈20210702第342期】</a></li>
 <li><a href="/comments/20210703/1579624.md">【要闻精粹】习近平不是傻就是中蛊了 凶兆处处</a></li>
 <li><a href="/comments/20210703/1579631.md">中共百年党庆 太子党分乘12辆车进天安门观礼台 详细名单曝光：毛周刘朱邓陈后人坐1号车 薄一波三子薄熙来弟薄熙成坐5号车…… 中南海不可告人的秘密_415</a></li>
-<li><a href="/cnnews/20210703/1579843.md">克格勃档案解密 击落UFO俄士兵瞬间石化</a></li>
 <li><a href="/cnnews/20210704/1579931.md">北朝鲜海外餐厅疫下求生 传正妹服务员暗卖情色！中国客嗨玩昏厥才曝光</a></li>
+<li><a href="/cnnews/20210703/1579843.md">克格勃档案解密 击落UFO俄士兵瞬间石化</a></li>
 <li><a href="/cnnews/20210703/1579673.md">习近平“强人”形象泡汤 被人戳破还顺势挖坑！【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20210703/1579532.md">火了！传中航书记申报院士不成 暴打两院士</a></li>
-<li><a href="/cbnews/20210703/1579738.md">杨洁篪甩锅战狼外交？“功劳”都归习近平</a></li>
-<li><a href="/cnnews/20210703/1579524.md">中国印钞公司原老总落马 怎么贪网友脑洞大开</a></li>
 <li><a href="/cnnews/20210703/1579499.md">热传的哈维尔 2027 年穿越事件真相大揭秘</a></li>
-<li><a href="/lifebaike/20210703/1579473.md">男性160-180cm的“标准体重”是多少？若超“这个数”，减肥吧</a></li>
-<li><a href="/baitai/20210703/1579646.md">男子花9559元订上海一酒店入住发现标价2980元 要求退房遭拒</a></li>
+<li><a href="/cnnews/20210703/1579524.md">中国印钞公司原老总落马 怎么贪网友脑洞大开</a></li>
+<li><a href="/cbnews/20210703/1579738.md">杨洁篪甩锅战狼外交？“功劳”都归习近平</a></li>
 <li><a href="/bannedvideo/20210704/1579934.md">中共七一党庆 温家宝马云消失内情曝光 ★大陆封杀短剧《大好青春如此躺平实属可惜》</a></li>
+<li><a href="/baitai/20210703/1579646.md">男子花9559元订上海一酒店入住发现标价2980元 要求退房遭拒</a></li>
+<li><a href="/cbnews/20210704/1579926.md">小学生练造句“8字回应太诚实”网笑翻：这样爸怎敢回家？</a></li>
 <li><a href="/cnnews/20210703/1579758.md">热传：96岁高龄蒋夫人在抗战50周年庆典讲话</a></li>
 <li><a href="/comments/20210703/1579733.md">中共党庆俄朝巴发贺电 西方无一国 日本还是应中共请求</a></li>
-<li><a href="/cbnews/20210704/1579926.md">小学生练造句“8字回应太诚实”网笑翻：这样爸怎敢回家？</a></li>
+<li><a href="/bannedvideo/20210703/1579826.md">习近平七一讲话太露骨一大代表一半已叛党，党庆贺电太少惹人笑，清风不识字文字狱海参崴呢，对中共恶感创新高，中国富豪跑路潮（小木谈天第165期 20210703）</a></li>
+<li><a href="/cbnews/20210704/1579948.md">现身天安门党庆 重量级红后代名单曝光</a></li>
+<li><a href="/worldnews/usa/20210703/1579627.md">最高法院祭出大招，拜登表示极其失望，民主党众议员辱骂最高法院</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210704/1580028.md" target="_blank">学者：中共百年外表下 隐藏着深深不安全感</a></li>
+<li><a href="/comments/20210704/1580017.md" target="_blank">七一“泄密”真正的赵家人集结名单全曝光；香港刺警男身份确定【希望之声TV-每日头条-2021/7/3】</a></li>
 <li><a href="/comments/20210704/1579994.md" target="_blank">美中军事对抗的战役和战术手段解析</a></li>
 <li><a href="/cbnews/20210704/1579974.md" target="_blank">宁波外教奸杀案拖延3周 网传只准备将其遣返美国</a></li>
 <li><a href="/comments/20210704/1579973.md" target="_blank">七一“泄密”真正的赵家人集结名单全曝光【希望之声TV-每日头条-2021/7/3】</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/cbnews/20210703/1579554.md" target="_blank">危邦莫入？律师卢廷阁微信问“海参崴呢”即被警传唤</a></li>
 <li><a href="/comments/20210703/1579551.md" target="_blank">川普2024有话说！团队独立日挑战垄断 推全新社交平台GETTR;美6月就业骤增85万 薪酬大幅上升 物价上升更快!</a></li>
 <li><a href="/cbnews/20210703/1579548.md" target="_blank">〖微博谈〗香港正全面大陆化</a></li>
-<li><a href="/cbnews/20210703/1579533.md" target="_blank">潜望镜已过时 美英最新潜艇配光电桅杆</a></li>
-<li><a href="/cbnews/20210703/1579532.md" target="_blank">火了！传中航书记申报院士不成 暴打两院士</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210704/1580017.md" target="_blank">七一“泄密”真正的赵家人集结名单全曝光；香港刺警男身份确定【希望之声TV-每日头条-2021/7/3】</a></li>
 <li><a href="/comments/20210704/1580004.md" target="_blank">注意！人脸识别时一定要穿衣服 否则社死</a></li>
 <li><a href="/comments/20210704/1579994.md" target="_blank">美中军事对抗的战役和战术手段解析</a></li>
 <li><a href="/comments/20210704/1579988.md" target="_blank">中国航天投资董事长张陶丧心病狂暴打两院士 细节曝光 十张照片见证现场惊人暴行</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210703/1579855.md" target="_blank">浙江爆发洪灾！水库溃堤许多城镇被淹….</a></li>
 <li><a href="/comments/20210703/1579854.md" target="_blank">【突发事件】悼念绝望的香港人：回忆立陶宛义士 Romas Kalanta 纪念碑</a></li>
 <li><a href="/comments/20210703/1579846.md" target="_blank">【独家】陈光诚和吾尔开希谈中共百年恶果</a></li>
-<li><a href="/comments/20210703/1579845.md" target="_blank">这7种食物经证明会让你心情不好</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
 <li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20210612/1565472.md" target="_blank">感悟神韵（之二）：感悟神韵的艺术风格</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
 
 </ul>
 </div>
