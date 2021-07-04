@@ -17,14 +17,14 @@
 <li><a href="/topimagenews/20210704/1580090.md">习近平或面临“陈桥兵变”？党庆日天降异象。【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20210704/1580109.md">天亮时分：薄熙来弟弟登上天安门；杨洁篪甩锅习近平；武力攻台细节曝光，习近平算不过来的政治账；（政论天下第460集 20210702）</a></li>
 <li><a href="/headline/20210704/1579945.md">关于7月7日、14日国航CA934航班被取消的紧急提醒</a></li>
+<li><a href="/cnnews/20210704/1580270.md">日本二号国防官员发出警告：俄中可能发动珍珠港式攻击......【阿波罗网编译】</a></li>
 <li><a href="/ssgc/20210704/1579923.md">〖兲朝浮世绘〗港人开始以暴抗暴，刺杀中共黑警</a></li>
 <li><a href="/cbnews/20210704/1580062.md">党媒谎称习近平讲话无雨 自曝为党庆天气准备半年</a></li>
 <li><a href="/comments/20210704/1580118.md">中共七一党庆细节 曝习近平多不待见温家宝</a></li>
+<li><a href="/cbnews/20210704/1580297.md">李毅讲真话：中国各单位都是黑社会掌权</a></li>
 <li><a href="/cnnews/20210704/1580128.md">湖南医院副院长接受性贿险致人死 后台硬仅免职了事</a></li>
-<li><a href="/cnnews/20210704/1580270.md">日本二号国防官员发出警告：俄中可能发动珍珠港式攻击......【阿波罗网编译】</a></li>
 <li><a href="/funmedia/20210704/1580136.md">黎巴嫩有多开放？女警察穿“超短裙”执法，游客：太养眼了</a></li>
 <li><a href="/comments/20210704/1579973.md">七一“泄密”真正的赵家人集结名单全曝光【希望之声TV-每日头条-2021/7/3】</a></li>
-<li><a href="/cbnews/20210704/1580297.md">李毅讲真话：中国各单位都是黑社会掌权</a></li>
 <li><a href="/health/20210704/1580216.md">胃粘膜“修复器”，并非小米粥，每天敞开喝，胃会越来越强壮</a></li>
 <li><a href="/cnnews/20210704/1579976.md">NEJM 重磅！mRNA 新冠疫苗真实世界研究结果发布</a></li>
 <li><a href="/topimagenews/20210704/1579925.md">中共党庆后！港股重挫逾500点 谢金河：像90年代台股</a></li>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210705/1580426.md" target="_blank">出席党庆电影首映 被问政府对刺警案有否责任 林郑入场没回应</a></li>
+<li><a href="/comments/20210705/1580425.md" target="_blank">超级龙卷风肆虐 树木连根拔起 河北沽源小厂损失惨重</a></li>
 <li><a href="/comments/20210704/1580419.md" target="_blank">大批美军撤离后 塔利班夺取阿富汗军事重镇</a></li>
 <li><a href="/comments/20210704/1580411.md" target="_blank">诗一首：《今 宵》</a></li>
 <li><a href="/comments/20210704/1580410.md" target="_blank">菲律宾搭载92人军机失控坠毁 已知17死40人获救</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210704/1580334.md" target="_blank">【7.1 刺警案】萧泽颐：有人英雄化恐怖分子 不谴责冷血行为“日后受害分分钟是你”</a></li>
 <li><a href="/comments/20210704/1580333.md" target="_blank">【双语诗歌 Bilingual Poetry】：《小小夏花 Little Summer Flowers》</a></li>
 <li><a href="/comments/20210704/1580332.md" target="_blank">【东洲专栏】美文篇：《我的前半生》</a></li>
-<li><a href="/comments/20210704/1580331.md" target="_blank">【东洲专栏】美文篇：《我的求学与求道》</a></li>
-<li><a href="/comments/20210704/1580330.md" target="_blank">葡萄树怎样剪枝和插新枝？Bob 简单一招让您明年葡萄大丰收</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/ganwu/20170705/787156.md" target="_blank">感悟神韵（之四）：感悟神韵音乐</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
 <li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
 
 </ul>
 </div>
