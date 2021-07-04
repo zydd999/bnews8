@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/comments/20210703/1579712.md">七一“泄密” 真正的赵家人集结 名单全曝光</a></li>
 <li><a href="/topimagenews/20210703/1579780.md">习71念错成语影片疯传 中印屯兵25万一触即发 “中美脱钩或是唯一选项”</a></li>
 <li><a href="/cnnews/20210704/1579931.md">北朝鲜海外餐厅疫下求生 传正妹服务员暗卖情色！中国客嗨玩昏厥才曝光</a></li>
 <li><a href="/bannedvideo/20210704/1579934.md">中共七一党庆 温家宝马云消失内情曝光 ★大陆封杀短剧《大好青春如此躺平实属可惜》</a></li>
@@ -13,21 +12,22 @@
 <li><a href="/cnnews/20210703/1579843.md">克格勃档案解密 击落UFO俄士兵瞬间石化</a></li>
 <li><a href="/yule/20210704/1580101.md">林志颖梦中情人 却因“性欲太强”沦为豪门弃妇</a></li>
 <li><a href="/cnnews/20210704/1580011.md">林生斌再添“渣男”实锤？钢琴老师深夜大曝细节</a></li>
-<li><a href="/cbnews/20210703/1579738.md">杨洁篪甩锅战狼外交？“功劳”都归习近平</a></li>
 <li><a href="/cbnews/20210704/1579926.md">小学生练造句“8字回应太诚实”网笑翻：这样爸怎敢回家？</a></li>
+<li><a href="/cbnews/20210703/1579738.md">杨洁篪甩锅战狼外交？“功劳”都归习近平</a></li>
 <li><a href="/bannedvideo/20210703/1579826.md">习近平七一讲话太露骨一大代表一半已叛党，党庆贺电太少惹人笑，清风不识字文字狱海参崴呢，对中共恶感创新高，中国富豪跑路潮（小木谈天第165期 20210703）</a></li>
 <li><a href="/yule/20210704/1579970.md">今年人设崩塌最狠的一位，没有之一</a></li>
-<li><a href="/headline/20210704/1579945.md">关于7月7日、14日国航CA934航班被取消的紧急提醒</a></li>
 <li><a href="/topimagenews/20210704/1580090.md">习近平或面临“陈桥兵变”？党庆日天降异象。【阿波罗网报道】</a></li>
+<li><a href="/headline/20210704/1579945.md">关于7月7日、14日国航CA934航班被取消的紧急提醒</a></li>
 <li><a href="/comments/20210703/1579733.md">中共党庆俄朝巴发贺电 西方无一国 日本还是应中共请求</a></li>
 <li><a href="/ssgc/20210704/1579923.md">〖兲朝浮世绘〗港人开始以暴抗暴，刺杀中共黑警</a></li>
 <li><a href="/cbnews/20210704/1580109.md">天亮时分：薄熙来弟弟登上天安门；杨洁篪甩锅习近平；武力攻台细节曝光，习近平算不过来的政治账；（政论天下第460集 20210702）</a></li>
 <li><a href="/comments/20210704/1579973.md">七一“泄密”真正的赵家人集结名单全曝光【希望之声TV-每日头条-2021/7/3】</a></li>
-<li><a href="/cnnews/20210703/1579758.md">热传：96岁高龄蒋夫人在抗战50周年庆典讲话</a></li>
 <li><a href="/cbnews/20210704/1580062.md">党媒谎称习近平讲话无雨 自曝为党庆天气准备半年</a></li>
+<li><a href="/cnnews/20210703/1579758.md">热传：96岁高龄蒋夫人在抗战50周年庆典讲话</a></li>
 <li><a href="/cnnews/20210704/1579976.md">NEJM 重磅！mRNA 新冠疫苗真实世界研究结果发布</a></li>
-<li><a href="/lifebaike/20210703/1579708.md">想要出人头地，都会远离这几类低层次圈子！真的很有道理</a></li>
 <li><a href="/topimagenews/20210704/1579925.md">中共党庆后！港股重挫逾500点 谢金河：像90年代台股</a></li>
+<li><a href="/cnnews/20210704/1579965.md">最高法院祭出大招：民主党重大挫败 拜登极失望</a></li>
+<li><a href="/comments/20210703/1579855.md">浙江爆发洪灾！水库溃堤许多城镇被淹….</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210704/1580233.md" target="_blank">梦幻景区：德国16个适合情侣出游的浪漫之地(上)</a></li>
 <li><a href="/comments/20210704/1580225.md" target="_blank">研究：有这4种特征的人寿命可能比别人长</a></li>
 <li><a href="/comments/20210704/1580223.md" target="_blank">外交部驻港公署：《美国贩运人口报告》妖魔化国安法 美国人口贩运劣迹斑斑</a></li>
 <li><a href="/comments/20210704/1580222.md" target="_blank">【小说连载】前缘 （1）</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210704/1580118.md" target="_blank">中共七一党庆细节 曝习近平多不待见温家宝</a></li>
 <li><a href="/comments/20210704/1580117.md" target="_blank">受害者曝光北京999急救中心地下室黑监狱</a></li>
 <li><a href="/comments/20210704/1580116.md" target="_blank">美参院未达共识 华人热衷的EB-5投资签证计划过期</a></li>
-<li><a href="/comments/20210704/1580112.md" target="_blank">洗好的脑袋回不去 战狼狂奔的最后结局</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
 <li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
+<li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
 
 </ul>
 </div>
