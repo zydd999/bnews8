@@ -19,15 +19,15 @@
 <li><a href="/worldnews/20210705/1580506.md">美13岁少年打完辉瑞疫苗3天后猝死！解剖后竟发现心脏肿大</a></li>
 <li><a href="/cbnews/20210704/1580281.md">广西暴雨百万人遭灾 央视聚焦“黄金瀑布”挨轰</a></li>
 <li><a href="/ssgc/20210705/1580581.md">〖微博谈〗习共面临的危机很大</a></li>
-<li><a href="/cnnews/20210705/1580497.md">汽车价一路狂飙 涨势仍未见休止</a></li>
 <li><a href="/cbnews/20210705/1580677.md">因为“没有朋友” 中共战斗机凉了</a></li>
+<li><a href="/cnnews/20210705/1580497.md">汽车价一路狂飙 涨势仍未见休止</a></li>
 <li><a href="/comments/20210704/1580329.md">价格疯涨20倍！全球的“芯片荒”有多严重？下半年更难！它正在影响我们的生活。英特尔总裁发话了，马斯克也急了！</a></li>
-<li><a href="/bannedvideo/20210704/1580256.md">这个国家还有未来吗？</a></li>
 <li><a href="/headline/20210705/1580429.md">中国航天党委书记痛殴两国宝级院士被停职</a></li>
+<li><a href="/bannedvideo/20210704/1580256.md">这个国家还有未来吗？</a></li>
 <li><a href="/lifebaike/20210704/1580309.md">为什么唐朝之后，长安再也没成为任何王朝的首都</a></li>
+<li><a href="/bannedvideo/20210705/1580606.md">【今日特供】习近平抓捕30位毛左，用行动赞成薄熙来：对付毛泽东主义共产党，必须要用专政铁拳！中共大分裂启动～</a></li>
 <li><a href="/ssgc/20210704/1580359.md">中纪委最新反腐数据曝惊人腐败</a></li>
 <li><a href="/cnnews/20210705/1580485.md">比Delta传染性更强？ Lambda变种有不寻常突变</a></li>
-<li><a href="/cnnews/20210705/1580452.md">若想退休到底该存多少钱？专家这么说</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210705/1580836.md" target="_blank">中国多地遭遇洪水 未见高层现身</a></li>
 <li><a href="/cbnews/20210705/1580804.md" target="_blank">中国已全面小康 习李完全不同调？</a></li>
 <li><a href="/cbnews/20210705/1580750.md" target="_blank">参议员：美必须做所有事情公开对抗中共</a></li>
 <li><a href="/cbnews/20210705/1580731.md" target="_blank">中俄走近却缺少新政策 美中俄关系微妙</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210705/1580494.md" target="_blank">日本副防卫大臣提醒美国：提防夏威夷遭突袭</a></li>
 <li><a href="/cbnews/20210705/1580493.md" target="_blank">蔡霞：中共是黑帮绑匪 入伙就不许下山</a></li>
 <li><a href="/cbnews/20210705/1580492.md" target="_blank">湖南女大学生“骗”3100元 诈骗分子要告她坐牢</a></li>
-<li><a href="/cbnews/20210705/1580484.md" target="_blank">中共庆“百岁”坚持统一 前美国务卿：屠杀最多人的政党</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210705/1580828.md" target="_blank">美议员：中共应以掩疫为耻 美应全力问责中共</a></li>
+<li><a href="/comments/20210705/1580827.md" target="_blank">章家敦：中共大力渗透 危害美国主权</a></li>
+<li><a href="/comments/20210705/1580826.md" target="_blank">解封在即疫情尚未平息 英相：学习与病毒共存</a></li>
+<li><a href="/comments/20210705/1580825.md" target="_blank">5道百吃不厌的家常凉拌菜 天热胃口不好就靠它了</a></li>
 <li><a href="/comments/20210705/1580814.md" target="_blank">日本静冈豪雨引发大规模泥石流 已3人死亡80人失踪</a></li>
 <li><a href="/comments/20210705/1580813.md" target="_blank">先后被捕 5 次 贤学思政王逸战警署续保 称会继续摆街站</a></li>
 <li><a href="/comments/20210705/1580812.md" target="_blank">被指 7.1 礼宾府串谋纵火 19 岁女子被捕 24 岁男提堂被拒保释</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210705/1580701.md" target="_blank">港人伦敦快闪撑《苹果》 12 岁男撑枴杖出席叹港“无晒自由”</a></li>
 <li><a href="/comments/20210705/1580700.md" target="_blank">【曾铮专栏】口述历史：《静水流深》（3）第二部 镇压 第一章 嫉妒之火（1）</a></li>
 <li><a href="/comments/20210705/1580689.md" target="_blank">“1776精神”从何来？美媒编辑述开国先父感人言行</a></li>
-<li><a href="/comments/20210705/1580680.md" target="_blank">林爸爸的“重启人生”，为何让公众如此愤怒</a></li>
-<li><a href="/comments/20210705/1580679.md" target="_blank">想不到！一个安徽技校辍学生让缅北成为诈骗天堂</a></li>
-<li><a href="/comments/20210705/1580674.md" target="_blank">【宇连空间】庆美国独立日即美国国庆日：佛州人山人海，川普总统演讲</a></li>
-<li><a href="/comments/20210705/1580673.md" target="_blank">【宇连空间】中国文化简介（二）：《中国的地理范围》</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20210329/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
 <li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
 <li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
+<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
 
 </ul>
 </div>
