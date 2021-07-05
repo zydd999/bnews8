@@ -21,11 +21,11 @@
 <li><a href="/comments/20210704/1580193.md">李燕铭：江绵恒马仔张庆伟顶风作案 习近平火速反击 张庆伟心腹旧部出事 下属密集被查 二十大入局还是落马？</a></li>
 <li><a href="/ssgc/20210704/1580402.md">〖兲朝浮世绘〗习近平学毛学得不像，肚子太大了</a></li>
 <li><a href="/topimagenews/20210704/1580353.md">刷屏！航投书记打伤两院士视频曝光 拜登忆和习近平谈话 中资欲购英国最大芯片厂</a></li>
-<li><a href="/comments/20210704/1580134.md">李燕铭：习近平百年党庆后迅速出手 攸关三名省委书记省长二十大仕途 张陶暴打两院士事件被引爆 内幕非同一般 中共航天军工系统酝酿清洗风暴</a></li>
 <li><a href="/cnnews/20210704/1580221.md">习近平讲话“重大信号”被忽略？中共喉舌想拿人当猴耍？【阿波罗网报道】</a></li>
+<li><a href="/comments/20210704/1580134.md">李燕铭：习近平百年党庆后迅速出手 攸关三名省委书记省长二十大仕途 张陶暴打两院士事件被引爆 内幕非同一般 中共航天军工系统酝酿清洗风暴</a></li>
 <li><a href="/cbnews/20210704/1580281.md">广西暴雨百万人遭灾 央视聚焦“黄金瀑布”挨轰</a></li>
-<li><a href="/bannedvideo/20210705/1580451.md">川普总统7月4日独立日宣布：我在这里作为你们的总统，在国家和世界面前宣布：这座纪念碑将永远不会被亵渎！我们将宣扬《独立宣言》的理想！美国的未来在我们手中，女士们，先生们，最好的还在后面！</a></li>
 <li><a href="/cbnews/20210705/1580462.md">中航书记暴打两院士舆论哗然 官方回应了</a></li>
+<li><a href="/bannedvideo/20210705/1580451.md">川普总统7月4日独立日宣布：我在这里作为你们的总统，在国家和世界面前宣布：这座纪念碑将永远不会被亵渎！我们将宣扬《独立宣言》的理想！美国的未来在我们手中，女士们，先生们，最好的还在后面！</a></li>
 <li><a href="/comments/20210704/1580329.md">价格疯涨20倍！全球的“芯片荒”有多严重？下半年更难！它正在影响我们的生活。英特尔总裁发话了，马斯克也急了！</a></li>
 <li><a href="/bannedvideo/20210704/1580256.md">这个国家还有未来吗？</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -36,6 +36,9 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210705/1580590.md" target="_blank">中共党庆异象 凸显政权陷末日危机</a></li>
+<li><a href="/cbnews/20210705/1580589.md" target="_blank">官媒配合习讲话抛攻台方案 专家解析</a></li>
+<li><a href="/cbnews/20210705/1580588.md" target="_blank">阻中共犯台 美智库：向台湾派驻装甲陆军旅</a></li>
 <li><a href="/cbnews/20210705/1580564.md" target="_blank">美国思想领袖：共和党籍参议员 约翰逊：武毒所泄毒说，美反转吁查！NIH资助武毒所信息一直被掩盖！美国为何结束对冠状病毒来源的调查？对於武毒所，我们需了解并采取什麽行动？（预告片）| 大纪元</a></li>
 <li><a href="/comments/20210705/1580563.md" target="_blank">被偷走的五年，回归时已成为顶级刺客。游走于各种势力的刀光剑影，她就是唐朝最飒的小姐姐。#大雄画里话外 #笔墨传说 #唐传奇 #聂隐娘</a></li>
 <li><a href="/comments/20210705/1580557.md" target="_blank">美独立日 佛州集会川普谈使命；啥情况？国会大厦独立日紧锁大门【希望之声TV-每日头条-2021/7/4】</a></li>
@@ -58,9 +61,6 @@
 <li><a href="/cbnews/20210704/1580297.md" target="_blank">李毅讲真话：中国各单位都是黑社会掌权</a></li>
 <li><a href="/comments/20210704/1580282.md" target="_blank">唯美之灵在心灵之巅点燃信仰的金灯（第六部分）—— 心灵和物质是两种天性迥异的存在（东方哲人解析当代人类困惑  第三十六讲）【袁红冰杏坛】 07042021</a></li>
 <li><a href="/cbnews/20210704/1580281.md" target="_blank">广西暴雨百万人遭灾 央视聚焦“黄金瀑布”挨轰</a></li>
-<li><a href="/comments/20210704/1580157.md" target="_blank">💥 #川普 #独立日佛州集会 与民众一起欢度 #美国国庆 日假期 【希望之声-午夜新闻-2021/07/03】</a></li>
-<li><a href="/comments/20210704/1580122.md" target="_blank">【杰森视角】美日军方就保护台湾，有共识，有计划，在行动! 三张照片展现中国本质！中国军队最近一次海外作战表现惊人！</a></li>
-<li><a href="/cbnews/20210704/1580109.md" target="_blank">天亮时分：薄熙来弟弟登上天安门；杨洁篪甩锅习近平；武力攻台细节曝光，习近平算不过来的政治账；（政论天下第460集 20210702）</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210705/1580592.md" target="_blank">【欺世大观】73 斧头帮把玩祖爷爷</a></li>
+<li><a href="/comments/20210705/1580591.md" target="_blank">颜纯钩 ：梁健辉是以死明志，香港人应韬光养晦</a></li>
+<li><a href="/comments/20210705/1580582.md" target="_blank">李燕铭：胡春华天安门城楼上忧心忡忡 百年党庆晚会拒绝鼓掌 胡春华接班无望？六大因素影响胡春华二十大进退</a></li>
+<li><a href="/comments/20210705/1580579.md" target="_blank">【贯明文苑】君子成人之美</a></li>
 <li><a href="/comments/20210705/1580575.md" target="_blank">夏林：中共百年之庆与百年之丑</a></li>
 <li><a href="/comments/20210705/1580574.md" target="_blank">颜纯钩：没有共产党就没有“新”中国</a></li>
 <li><a href="/comments/20210705/1580573.md" target="_blank">董仲舒的“法术”：要风得风要雨得雨，无异巫术</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210705/1580474.md" target="_blank">超级女“声”出马！菲律宾培训娘子军广播驱离中船</a></li>
 <li><a href="/comments/20210705/1580473.md" target="_blank">【画缘】水果画: 水果画法秘诀在此</a></li>
 <li><a href="/comments/20210705/1580457.md" target="_blank">百慕大白屋顶的秘密</a></li>
-<li><a href="/comments/20210705/1580455.md" target="_blank">美国权威专家：中共渗透美最具实力的三大领域</a></li>
-<li><a href="/comments/20210705/1580454.md" target="_blank">释放强奸儿童罪犯？彻底愤怒了！德州警长们将衰弱的拜登告上法庭</a></li>
-<li><a href="/comments/20210705/1580453.md" target="_blank">前美国务院发言人评习近平讲话：中共代表百年来对中国人民的暴政</a></li>
-<li><a href="/comments/20210705/1580450.md" target="_blank">美再遭勒索软件攻击 波及全球</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
 <li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
 <li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
 
 </ul>
 </div>
