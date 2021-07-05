@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/yule/20210704/1580101.md">林志颖梦中情人 却因“性欲太强”沦为豪门弃妇</a></li>
-<li><a href="/cnnews/20210704/1580011.md">林生斌再添“渣男”实锤？钢琴老师深夜大曝细节</a></li>
 <li><a href="/topimagenews/20210704/1580198.md">中共大乱斗！杨洁篪高喊习近平32次！没想到被点破了...【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20210704/1580188.md">被骗20年后，再也不喝国产啤酒了</a></li>
 <li><a href="/topimagenews/20210704/1580090.md">习近平或面临“陈桥兵变”？党庆日天降异象。【阿波罗网报道】</a></li>
@@ -20,12 +19,13 @@
 <li><a href="/cbnews/20210704/1580062.md">党媒谎称习近平讲话无雨 自曝为党庆天气准备半年</a></li>
 <li><a href="/health/20210704/1580216.md">胃粘膜“修复器”，并非小米粥，每天敞开喝，胃会越来越强壮</a></li>
 <li><a href="/comments/20210704/1580193.md">李燕铭：江绵恒马仔张庆伟顶风作案 习近平火速反击 张庆伟心腹旧部出事 下属密集被查 二十大入局还是落马？</a></li>
-<li><a href="/topimagenews/20210704/1580353.md">刷屏！航投书记打伤两院士视频曝光 拜登忆和习近平谈话 中资欲购英国最大芯片厂</a></li>
 <li><a href="/ssgc/20210704/1580402.md">〖兲朝浮世绘〗习近平学毛学得不像，肚子太大了</a></li>
+<li><a href="/topimagenews/20210704/1580353.md">刷屏！航投书记打伤两院士视频曝光 拜登忆和习近平谈话 中资欲购英国最大芯片厂</a></li>
 <li><a href="/comments/20210704/1580134.md">李燕铭：习近平百年党庆后迅速出手 攸关三名省委书记省长二十大仕途 张陶暴打两院士事件被引爆 内幕非同一般 中共航天军工系统酝酿清洗风暴</a></li>
 <li><a href="/cnnews/20210704/1580221.md">习近平讲话“重大信号”被忽略？中共喉舌想拿人当猴耍？【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20210704/1580281.md">广西暴雨百万人遭灾 央视聚焦“黄金瀑布”挨轰</a></li>
-<li><a href="/comments/20210704/1580017.md">七一“泄密”真正的赵家人集结名单全曝光；香港刺警男身份确定【希望之声TV-每日头条-2021/7/3】</a></li>
+<li><a href="/bannedvideo/20210705/1580451.md">川普总统7月4日独立日宣布：我在这里作为你们的总统，在国家和世界面前宣布：这座纪念碑将永远不会被亵渎！我们将宣扬《独立宣言》的理想！美国的未来在我们手中，女士们，先生们，最好的还在后面！</a></li>
+<li><a href="/cbnews/20210705/1580462.md">中航书记暴打两院士舆论哗然 官方回应了</a></li>
 <li><a href="/comments/20210704/1580329.md">价格疯涨20倍！全球的“芯片荒”有多严重？下半年更难！它正在影响我们的生活。英特尔总裁发话了，马斯克也急了！</a></li>
 <li><a href="/bannedvideo/20210704/1580256.md">这个国家还有未来吗？</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -36,6 +36,9 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210705/1580564.md" target="_blank">美国思想领袖：共和党籍参议员 约翰逊：武毒所泄毒说，美反转吁查！NIH资助武毒所信息一直被掩盖！美国为何结束对冠状病毒来源的调查？对於武毒所，我们需了解并采取什麽行动？（预告片）| 大纪元</a></li>
+<li><a href="/comments/20210705/1580563.md" target="_blank">被偷走的五年，回归时已成为顶级刺客。游走于各种势力的刀光剑影，她就是唐朝最飒的小姐姐。#大雄画里话外 #笔墨传说 #唐传奇 #聂隐娘</a></li>
+<li><a href="/comments/20210705/1580557.md" target="_blank">美独立日 佛州集会川普谈使命；啥情况？国会大厦独立日紧锁大门【希望之声TV-每日头条-2021/7/4】</a></li>
 <li><a href="/comments/20210705/1580545.md" target="_blank">巴顿将军第三集预告（Trailer） 辈辈英杰好儿郎 世世精铁百炼钢【20210704】</a></li>
 <li><a href="/comments/20210705/1580540.md" target="_blank">【新视野】萨拉索塔的缘分。下次证明我是对的，将是……。</a></li>
 <li><a href="/cbnews/20210705/1580538.md" target="_blank">中美高层何时接触？中共外长王毅：“哼哼”</a></li>
@@ -58,9 +61,6 @@
 <li><a href="/comments/20210704/1580157.md" target="_blank">💥 #川普 #独立日佛州集会 与民众一起欢度 #美国国庆 日假期 【希望之声-午夜新闻-2021/07/03】</a></li>
 <li><a href="/comments/20210704/1580122.md" target="_blank">【杰森视角】美日军方就保护台湾，有共识，有计划，在行动! 三张照片展现中国本质！中国军队最近一次海外作战表现惊人！</a></li>
 <li><a href="/cbnews/20210704/1580109.md" target="_blank">天亮时分：薄熙来弟弟登上天安门；杨洁篪甩锅习近平；武力攻台细节曝光，习近平算不过来的政治账；（政论天下第460集 20210702）</a></li>
-<li><a href="/cbnews/20210704/1580062.md" target="_blank">党媒谎称习近平讲话无雨 自曝为党庆天气准备半年</a></li>
-<li><a href="/cbnews/20210704/1580061.md" target="_blank">红色电影购票者寥寥 知情者：属政治任务被包场</a></li>
-<li><a href="/comments/20210704/1580033.md" target="_blank">一尊神作咸鱼翻身！罗马街头喷泉十有八九是他造的！喜欢泡澡导致罗马帝国覆灭？史上最牛拥抱，你绝对无法拒绝！巴洛克建筑双雄争霸，阳刚 VS阴柔！十年隐退造就巴洛克建筑经典！【大话西油姜光宇】(07.03）</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,13 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210705/1580575.md" target="_blank">夏林：中共百年之庆与百年之丑</a></li>
+<li><a href="/comments/20210705/1580574.md" target="_blank">颜纯钩：没有共产党就没有“新”中国</a></li>
+<li><a href="/comments/20210705/1580573.md" target="_blank">董仲舒的“法术”：要风得风要雨得雨，无异巫术</a></li>
+<li><a href="/comments/20210705/1580572.md" target="_blank">杭州金融女民工：中年人的崩溃</a></li>
+<li><a href="/comments/20210705/1580571.md" target="_blank">范雎：三观真是易碎品</a></li>
+<li><a href="/comments/20210705/1580563.md" target="_blank">被偷走的五年，回归时已成为顶级刺客。游走于各种势力的刀光剑影，她就是唐朝最飒的小姐姐。#大雄画里话外 #笔墨传说 #唐传奇 #聂隐娘</a></li>
+<li><a href="/comments/20210705/1580557.md" target="_blank">美独立日 佛州集会川普谈使命；啥情况？国会大厦独立日紧锁大门【希望之声TV-每日头条-2021/7/4】</a></li>
 <li><a href="/comments/20210705/1580545.md" target="_blank">巴顿将军第三集预告（Trailer） 辈辈英杰好儿郎 世世精铁百炼钢【20210704】</a></li>
 <li><a href="/comments/20210705/1580542.md" target="_blank">佛州风暴令倒塌公寓搜救暂停 大楼残部将爆破拆除</a></li>
 <li><a href="/comments/20210705/1580540.md" target="_blank">【新视野】萨拉索塔的缘分。下次证明我是对的，将是……。</a></li>
@@ -116,13 +123,6 @@
 <li><a href="/comments/20210705/1580454.md" target="_blank">释放强奸儿童罪犯？彻底愤怒了！德州警长们将衰弱的拜登告上法庭</a></li>
 <li><a href="/comments/20210705/1580453.md" target="_blank">前美国务院发言人评习近平讲话：中共代表百年来对中国人民的暴政</a></li>
 <li><a href="/comments/20210705/1580450.md" target="_blank">美再遭勒索软件攻击 波及全球</a></li>
-<li><a href="/comments/20210705/1580445.md" target="_blank">法政汇思月前解散 FB无法进入 十日内八组织解散</a></li>
-<li><a href="/comments/20210705/1580444.md" target="_blank">进步教师同盟停止运作 成员包括绝食反国教教师韩连山</a></li>
-<li><a href="/comments/20210705/1580443.md" target="_blank">【7.1 刺警案】陈文敏︰不认同暴力，自发悼念不构成煽动 “红线划得太过分”</a></li>
-<li><a href="/comments/20210705/1580440.md" target="_blank">壹传媒工会：历史任务已结束 将启动解散程序</a></li>
-<li><a href="/comments/20210705/1580434.md" target="_blank">夏业良专访之一：党庆耗资数百亿 实现小康社会是吹牛</a></li>
-<li><a href="/comments/20210705/1580433.md" target="_blank">塞浦路斯爆史上最大森林火灾 邻国派出消防飞机救援</a></li>
-<li><a href="/comments/20210705/1580426.md" target="_blank">出席党庆电影首映 被问政府对刺警案有否责任 林郑入场没回应</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
 <li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
 
 </ul>
 </div>
