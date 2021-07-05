@@ -7,24 +7,24 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cbnews/20210705/1580462.md">中航书记暴打两院士舆论哗然 官方回应了</a></li>
 <li><a href="/ssgc/20210704/1580402.md">〖兲朝浮世绘〗习近平学毛学得不像，肚子太大了</a></li>
-<li><a href="/cnnews/20210705/1580593.md">锺南山泄密广州恐“20天730万人感染”</a></li>
 <li><a href="/bannedvideo/20210705/1580539.md">钟南山泄密！广州20天恐730万人感染；美海军打造祕密武器威慑中共；菲国军机坠毁近百死伤；滴滴出行被中共下架；一口气吃76根热狗！大白鲨蝉联冠军；传中资收购英最大半导体厂【#环球直击】</a></li>
+<li><a href="/cnnews/20210705/1580593.md">锺南山泄密广州恐“20天730万人感染”</a></li>
 <li><a href="/bannedvideo/20210705/1580451.md">川普总统7月4日独立日宣布：我在这里作为你们的总统，在国家和世界面前宣布：这座纪念碑将永远不会被亵渎！我们将宣扬《独立宣言》的理想！美国的未来在我们手中，女士们，先生们，最好的还在后面！</a></li>
 <li><a href="/cbnews/20210705/1580463.md">官媒抛出攻台三步骤 中共真要动武？</a></li>
-<li><a href="/cbnews/20210705/1580677.md">因为“没有朋友” 中共战斗机凉了</a></li>
-<li><a href="/worldnews/20210705/1580506.md">美13岁少年打完辉瑞疫苗3天后猝死！解剖后竟发现心脏肿大</a></li>
 <li><a href="/health/20210705/1580554.md">26岁女子肠道内长满肿瘤，痛苦离世，医生叹气：怎能把它当饭吃</a></li>
+<li><a href="/worldnews/20210705/1580506.md">美13岁少年打完辉瑞疫苗3天后猝死！解剖后竟发现心脏肿大</a></li>
+<li><a href="/cbnews/20210705/1580677.md">因为“没有朋友” 中共战斗机凉了</a></li>
 <li><a href="/cnnews/20210705/1580660.md">网络热帖：习近平七一讲话居然半脱稿</a></li>
 <li><a href="/ssgc/20210705/1580581.md">〖微博谈〗习共面临的危机很大</a></li>
 <li><a href="/cnnews/20210705/1580497.md">汽车价一路狂飙 涨势仍未见休止</a></li>
+<li><a href="/bannedvideo/20210705/1580815.md">网传广州市番禺华南碧桂园小区蓄水池发现一具尸体，小区业主已经喝了好几天泡“尸水”了。物业公司隐瞒真相导致住户一直使用“尸水”。今天（7月5日）数百住户集体到管理处抗议</a></li>
 <li><a href="/bannedvideo/20210705/1580606.md">【今日特供】习近平抓捕30位毛左，用行动赞成薄熙来：对付毛泽东主义共产党，必须要用专政铁拳！中共大分裂启动～</a></li>
 <li><a href="/ssgc/20210705/1580597.md">〖兲朝浮世绘〗中共把赵家人与非赵家人区分得很清楚</a></li>
 <li><a href="/headline/20210705/1580429.md">中国航天党委书记痛殴两国宝级院士被停职</a></li>
-<li><a href="/ssgc/20210704/1580359.md">中纪委最新反腐数据曝惊人腐败</a></li>
 <li><a href="/cnnews/20210705/1580485.md">比Delta传染性更强？ Lambda变种有不寻常突变</a></li>
-<li><a href="/headline/20210705/1580431.md">朝鲜高层地震 金正恩严惩中国边境走私军人</a></li>
+<li><a href="/comments/20210705/1580738.md">七一后中共内斗果然加剧？滴滴遭惩 内部消息指力度超阿里巴巴</a></li>
 <li><a href="/cnnews/20210705/1580688.md">震惊！卫星发现山西甲烷严重泄漏 每小时泄数百吨</a></li>
-<li><a href="/bannedvideo/20210705/1580815.md">网传广州市番禺华南碧桂园小区蓄水池发现一具尸体，小区业主已经喝了好几天泡“尸水”了。物业公司隐瞒真相导致住户一直使用“尸水”。今天（7月5日）数百住户集体到管理处抗议</a></li>
+<li><a href="/headline/20210705/1580431.md">朝鲜高层地震 金正恩严惩中国边境走私军人</a></li>
 <li><a href="/lifebaike/20210705/1580658.md">瘫痪在床多年的女儿突然怀孕，母亲问清真相后，愤怒报警</a></li>
 <li><a href="/cnnews/20210705/1580452.md">若想退休到底该存多少钱？专家这么说</a></li>
 <li><a href="/comments/20210705/1580582.md">李燕铭：胡春华天安门城楼上忧心忡忡 百年党庆晚会拒绝鼓掌 胡春华接班无望？六大因素影响胡春华二十大进退</a></li>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210705/1580943.md" target="_blank">日本为什么没有“中情局”或“军情六处”？</a></li>
 <li><a href="/comments/20210705/1580936.md" target="_blank">长大了﹗左左右右升国二 褪稚气成美少女</a></li>
 <li><a href="/comments/20210705/1580932.md" target="_blank">习近平“我将无我”即“党就是我”</a></li>
 <li><a href="/comments/20210705/1580931.md" target="_blank">【示威以外・前言】在英国做义工的香港人和他们背后的政治</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210705/1580826.md" target="_blank">解封在即疫情尚未平息 英相：学习与病毒共存</a></li>
 <li><a href="/comments/20210705/1580825.md" target="_blank">5道百吃不厌的家常凉拌菜 天热胃口不好就靠它了</a></li>
 <li><a href="/comments/20210705/1580814.md" target="_blank">日本静冈豪雨引发大规模泥石流 已3人死亡80人失踪</a></li>
-<li><a href="/comments/20210705/1580813.md" target="_blank">先后被捕 5 次 贤学思政王逸战警署续保 称会继续摆街站</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
 <li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
 
 </ul>
 </div>
