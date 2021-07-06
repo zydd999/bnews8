@@ -6,28 +6,28 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cnnews/20210705/1580593.md">锺南山泄密广州恐“20天730万人感染”</a></li>
-<li><a href="/health/20210705/1580554.md">26岁女子肠道内长满肿瘤，痛苦离世，医生叹气：怎能把它当饭吃</a></li>
 <li><a href="/bannedvideo/20210705/1580871.md">习近平为何不邀请偶像的孙子毛新宇观礼原来是怕他（启明笑谈20210705）</a></li>
 <li><a href="/cbnews/20210705/1580677.md">因为“没有朋友” 中共战斗机凉了</a></li>
 <li><a href="/bannedvideo/20210705/1580815.md">网传广州市番禺华南碧桂园小区蓄水池发现一具尸体，小区业主已经喝了好几天泡“尸水”了。物业公司隐瞒真相导致住户一直使用“尸水”。今天（7月5日）数百住户集体到管理处抗议</a></li>
 <li><a href="/cnnews/20210705/1580660.md">网络热帖：习近平七一讲话居然半脱稿</a></li>
 <li><a href="/headline/20210705/1580834.md">滴滴案闹大 官媒指7.1敏感日子前上市美国先斩后奏高层震怒再震怒</a></li>
 <li><a href="/cbnews/20210705/1580977.md">滴滴APP遭下架 港媒曝高层震怒内幕 传惩罚远超阿里</a></li>
+<li><a href="/cnnews/20210706/1581117.md">中国民众出国越来越难 亲历者曝过海关“千难万险”</a></li>
 <li><a href="/cnnews/20210705/1581018.md">党委书记暴打院士 如此猖獗遭起底 书记原来是赵家人</a></li>
 <li><a href="/cbnews/20210705/1580804.md">中国已全面小康 习李完全不同调？</a></li>
 <li><a href="/bannedvideo/20210705/1580872.md">广州，美国领事馆门口排长龙</a></li>
-<li><a href="/cnnews/20210706/1581117.md">中国民众出国越来越难 亲历者曝过海关“千难万险”</a></li>
 <li><a href="/ssgc/20210705/1580581.md">〖微博谈〗习共面临的危机很大</a></li>
-<li><a href="/topimagenews/20210705/1580819.md">中共外交大混乱？官方学者：困惑会越来越多！ 【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20210705/1580992.md">清华退休教授：中共用纳税人的钱办党庆是极大犯罪</a></li>
+<li><a href="/topimagenews/20210705/1580819.md">中共外交大混乱？官方学者：困惑会越来越多！ 【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20210705/1580597.md">〖兲朝浮世绘〗中共把赵家人与非赵家人区分得很清楚</a></li>
 <li><a href="/cbnews/20210705/1580881.md">对党忠诚：一场以党建为名的新基层整风运动</a></li>
 <li><a href="/comments/20210705/1580738.md">七一后中共内斗果然加剧？滴滴遭惩 内部消息指力度超阿里巴巴</a></li>
 <li><a href="/cnnews/20210705/1580855.md">疫苗不良反应正在发生：陆军却通知各司令部 9月强制接种疫苗【阿波罗网编译】</a></li>
-<li><a href="/bannedvideo/20210705/1580606.md">【今日特供】习近平抓捕30位毛左，用行动赞成薄熙来：对付毛泽东主义共产党，必须要用专政铁拳！中共大分裂启动～</a></li>
 <li><a href="/ssgc/20210705/1580986.md">杭州楼市已经内卷成这样了吗？</a></li>
-<li><a href="/headline/20210705/1580845.md">中国当局处罚DiDi真是为了保护个人信息？</a></li>
+<li><a href="/bannedvideo/20210705/1580606.md">【今日特供】习近平抓捕30位毛左，用行动赞成薄熙来：对付毛泽东主义共产党，必须要用专政铁拳！中共大分裂启动～</a></li>
 <li><a href="/cbnews/20210705/1581086.md">上海广东再爆疫情 云南瑞丽变相封城全员检测</a></li>
+<li><a href="/headline/20210705/1580845.md">中国当局处罚DiDi真是为了保护个人信息？</a></li>
+<li><a href="/cnnews/20210705/1580688.md">震惊！卫星发现山西甲烷严重泄漏 每小时泄数百吨</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210706/1581263.md" target="_blank">2021“新闻自由掠夺者 ”公布37人，其中习近平、香港特首林郑月娥上榜；细思极恐！习近平讲话透粮食危机【希望之声TV-每日头条-2021/7/5】</a></li>
 <li><a href="/comments/20210706/1581250.md" target="_blank">中共会逼迫推特脸书谷歌会退出香港么？ 推广改基因猪器官移植人类挑战伦理底线【希望之声TV-新闻焦点解读-2021/07/05】主持:高洁  嘉宾：林晓旭</a></li>
 <li><a href="/comments/20210706/1581243.md" target="_blank">十几个州起诉脸书败诉，扎克伯格逃过一劫！独立日冲浪被群謿，无论左右都烦他！习近平色厉内荏叫嚣头破血流，绑架中国人同归于尽！【新闻最嘲点 姜光宇】Mr.FunnyNews(2021.07.05）‬</a></li>
 <li><a href="/cbnews/20210706/1581240.md" target="_blank">汽车公路行驶险遭雷击 骇人一幕曝光</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210705/1581032.md" target="_blank">“滴滴”之后 陆再对“运满满”等3平台启动审查</a></li>
 <li><a href="/cbnews/20210705/1581015.md" target="_blank">仿如地狱 中共党庆刚过 天津天空惊现恶魔之脸</a></li>
 <li><a href="/cbnews/20210705/1580998.md" target="_blank">航天投资书记张陶暴打两院士 引爆舆论</a></li>
-<li><a href="/cbnews/20210705/1580978.md" target="_blank">广州番禺一小区喝了几天‘泡尸水“ 数百用户抗议</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210706/1581290.md" target="_blank">李燕铭：习近平七一破格提拔四名上将 备战北戴河大战 西部战区南部战区司令员陆军司令员换人 中共黑客部队司令员巨乾生升任战略支援部队司令员 两名司令员被异常免职 去向不明 中共内外交困 军队暗潮汹涌</a></li>
+<li><a href="/comments/20210706/1581280.md" target="_blank">卸任亚马逊CEO职务 贝佐斯准备首次游太空</a></li>
+<li><a href="/comments/20210706/1581279.md" target="_blank">余茂春回呛习近平：13亿多中国人不认同习的看法</a></li>
+<li><a href="/comments/20210706/1581278.md" target="_blank">蒙古族人开创的欧洲唯一藏传佛教区</a></li>
+<li><a href="/comments/20210706/1581263.md" target="_blank">2021“新闻自由掠夺者 ”公布37人，其中习近平、香港特首林郑月娥上榜；细思极恐！习近平讲话透粮食危机【希望之声TV-每日头条-2021/7/5】</a></li>
 <li><a href="/comments/20210706/1581250.md" target="_blank">中共会逼迫推特脸书谷歌会退出香港么？ 推广改基因猪器官移植人类挑战伦理底线【希望之声TV-新闻焦点解读-2021/07/05】主持:高洁  嘉宾：林晓旭</a></li>
 <li><a href="/comments/20210706/1581243.md" target="_blank">十几个州起诉脸书败诉，扎克伯格逃过一劫！独立日冲浪被群謿，无论左右都烦他！习近平色厉内荏叫嚣头破血流，绑架中国人同归于尽！【新闻最嘲点 姜光宇】Mr.FunnyNews(2021.07.05）‬</a></li>
 <li><a href="/comments/20210706/1581237.md" target="_blank">习江围绕滴滴出行IPO激斗内幕 马云蚂蚁金服事件翻版 滴滴出行趁中共百年大庆在美国秘密上市 习近平震怒 滴滴APP遭下架 停止新用户注册 传惩罚远超马云阿里巴巴 滴滴7年烧钱500亿 多次被约谈 再有3家赴美上市平台遭审查</a></li>
@@ -118,11 +123,6 @@
 <li><a href="/comments/20210706/1581125.md" target="_blank">四处引战 中共战斗机人气惨淡；王毅被集体回呛；左媒踩挂国旗？民众精彩回应【希望之声TV-环球看点-2021/7/5】</a></li>
 <li><a href="/comments/20210706/1581110.md" target="_blank">评论 | 王丹： 如何认识共产党（三）</a></li>
 <li><a href="/comments/20210706/1581109.md" target="_blank">林郑月娥沦为习近平傀儡 RSF列“新闻自由掠夺者”</a></li>
-<li><a href="/comments/20210706/1581108.md" target="_blank">英女王将颁最高平民荣誉章 表彰防疫卫生人员</a></li>
-<li><a href="/comments/20210706/1581100.md" target="_blank">泰国秘密疫苗备忘录泄露 引发对科兴质量担忧</a></li>
-<li><a href="/comments/20210706/1581092.md" target="_blank">夏业良：习近平七一讲话尽显帝王梦 但中共正待被埋葬</a></li>
-<li><a href="/comments/20210706/1581091.md" target="_blank">拜登国庆讲话：接种疫苗是最爱国的事情</a></li>
-<li><a href="/comments/20210706/1581090.md" target="_blank">13岁美国男孩打第二剂疫苗三天后死亡 CDC调查</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
 <li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
 <li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
 
 </ul>
 </div>
