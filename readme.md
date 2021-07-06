@@ -8,7 +8,6 @@
 <li><a href="/bannedvideo/20210705/1580871.md">习近平为何不邀请偶像的孙子毛新宇观礼原来是怕他（启明笑谈20210705）</a></li>
 <li><a href="/cbnews/20210705/1580677.md">因为“没有朋友” 中共战斗机凉了</a></li>
 <li><a href="/bannedvideo/20210705/1580815.md">网传广州市番禺华南碧桂园小区蓄水池发现一具尸体，小区业主已经喝了好几天泡“尸水”了。物业公司隐瞒真相导致住户一直使用“尸水”。今天（7月5日）数百住户集体到管理处抗议</a></li>
-<li><a href="/cnnews/20210705/1580660.md">网络热帖：习近平七一讲话居然半脱稿</a></li>
 <li><a href="/headline/20210705/1580834.md">滴滴案闹大 官媒指7.1敏感日子前上市美国先斩后奏高层震怒再震怒</a></li>
 <li><a href="/cbnews/20210705/1580977.md">滴滴APP遭下架 港媒曝高层震怒内幕 传惩罚远超阿里</a></li>
 <li><a href="/cnnews/20210706/1581117.md">中国民众出国越来越难 亲历者曝过海关“千难万险”</a></li>
@@ -19,15 +18,16 @@
 <li><a href="/topimagenews/20210705/1580819.md">中共外交大混乱？官方学者：困惑会越来越多！ 【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20210705/1580881.md">对党忠诚：一场以党建为名的新基层整风运动</a></li>
 <li><a href="/ssgc/20210705/1580986.md">杭州楼市已经内卷成这样了吗？</a></li>
-<li><a href="/comments/20210705/1580738.md">七一后中共内斗果然加剧？滴滴遭惩 内部消息指力度超阿里巴巴</a></li>
 <li><a href="/cnnews/20210705/1580855.md">疫苗不良反应正在发生：陆军却通知各司令部 9月强制接种疫苗【阿波罗网编译】</a></li>
+<li><a href="/comments/20210705/1580738.md">七一后中共内斗果然加剧？滴滴遭惩 内部消息指力度超阿里巴巴</a></li>
 <li><a href="/cbnews/20210705/1581086.md">上海广东再爆疫情 云南瑞丽变相封城全员检测</a></li>
 <li><a href="/headline/20210705/1580845.md">中国当局处罚DiDi真是为了保护个人信息？</a></li>
-<li><a href="/lifebaike/20210705/1580658.md">瘫痪在床多年的女儿突然怀孕，母亲问清真相后，愤怒报警</a></li>
 <li><a href="/cnnews/20210705/1580688.md">震惊！卫星发现山西甲烷严重泄漏 每小时泄数百吨</a></li>
-<li><a href="/cnnews/20210705/1580824.md">中芯国际核心人员辞职 放弃近千万公司股票引热议</a></li>
 <li><a href="/cbnews/20210705/1581063.md">滴滴出行闪电上市突遭调查 疑涉习江激烈内斗</a></li>
+<li><a href="/cnnews/20210705/1580824.md">中芯国际核心人员辞职 放弃近千万公司股票引热议</a></li>
 <li><a href="/cbnews/20210705/1581015.md">仿如地狱 中共党庆刚过 天津天空惊现恶魔之脸</a></li>
+<li><a href="/bannedvideo/20210705/1580858.md">上海，中环上中路隧道方向入口。视频中显示，司机车速不算快，疑交警去拉方向盘，导致汽车失控</a></li>
+<li><a href="/cbnews/20210706/1581223.md">太惊悚！民众爆料：中国大陆旅游景点杀人获利惊天内幕</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210706/1581383.md" target="_blank">德州警长们怒了！拜登政府被诉；抢950元不算犯法！美巨头Target旧金山关门；科技巨头脸书、推特和谷歌警告香港政府，可能会因为改变法律而离开香港</a></li>
 <li><a href="/cbnews/20210706/1581368.md" target="_blank">分析：中共党庆后审查滴滴 只因惧怕这件事</a></li>
 <li><a href="/cbnews/20210706/1581367.md" target="_blank">习近平颁命令状 晋升4上将 【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20210706/1581316.md" target="_blank">安徽、江苏等11省持续大暴雨</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210706/1581095.md" target="_blank">澳洲副总理警告中共国是一个比病毒更重要的威胁</a></li>
 <li><a href="/cbnews/20210705/1581086.md" target="_blank">上海广东再爆疫情 云南瑞丽变相封城全员检测</a></li>
 <li><a href="/cbnews/20210705/1581063.md" target="_blank">滴滴出行闪电上市突遭调查 疑涉习江激烈内斗</a></li>
-<li><a href="/cbnews/20210705/1581033.md" target="_blank">猪肉收储落地：7月7日收储年内首批中央储备冻猪肉2万吨</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210706/1581383.md" target="_blank">德州警长们怒了！拜登政府被诉；抢950元不算犯法！美巨头Target旧金山关门；科技巨头脸书、推特和谷歌警告香港政府，可能会因为改变法律而离开香港</a></li>
 <li><a href="/comments/20210706/1581378.md" target="_blank">港府拟修法打击网路「起底」 外媒：科技巨头扬言退出香港</a></li>
 <li><a href="/comments/20210706/1581373.md" target="_blank">【微博精粹】起底了！爆打院士的张陶姓赵 逆天</a></li>
 <li><a href="/comments/20210706/1581372.md" target="_blank">章天亮:耐人寻味的“赵家人”观礼 习近平算不过来的政治账</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210706/1581295.md" target="_blank">郑吉珉：已经2021年 为何中国还要再站起来一次？</a></li>
 <li><a href="/comments/20210706/1581290.md" target="_blank">李燕铭：习近平七一破格提拔四名上将 备战北戴河大战 西部战区南部战区司令员陆军司令员换人 中共黑客部队司令员巨乾生升任战略支援部队司令员 两名司令员被异常免职 去向不明 中共内外交困 军队暗潮汹涌</a></li>
 <li><a href="/comments/20210706/1581280.md" target="_blank">卸任亚马逊CEO职务 贝佐斯准备首次游太空</a></li>
-<li><a href="/comments/20210706/1581279.md" target="_blank">余茂春回呛习近平：13亿多中国人不认同习的看法</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
 <li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
 <li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
 <li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
 
 </ul>
 </div>
