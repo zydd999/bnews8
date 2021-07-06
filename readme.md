@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/bannedvideo/20210705/1580871.md">习近平为何不邀请偶像的孙子毛新宇观礼原来是怕他（启明笑谈20210705）</a></li>
-<li><a href="/cbnews/20210705/1580677.md">因为“没有朋友” 中共战斗机凉了</a></li>
 <li><a href="/bannedvideo/20210705/1580815.md">网传广州市番禺华南碧桂园小区蓄水池发现一具尸体，小区业主已经喝了好几天泡“尸水”了。物业公司隐瞒真相导致住户一直使用“尸水”。今天（7月5日）数百住户集体到管理处抗议</a></li>
 <li><a href="/headline/20210705/1580834.md">滴滴案闹大 官媒指7.1敏感日子前上市美国先斩后奏高层震怒再震怒</a></li>
 <li><a href="/cbnews/20210705/1580977.md">滴滴APP遭下架 港媒曝高层震怒内幕 传惩罚远超阿里</a></li>
@@ -18,16 +17,17 @@
 <li><a href="/topimagenews/20210705/1580819.md">中共外交大混乱？官方学者：困惑会越来越多！ 【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20210705/1580881.md">对党忠诚：一场以党建为名的新基层整风运动</a></li>
 <li><a href="/ssgc/20210705/1580986.md">杭州楼市已经内卷成这样了吗？</a></li>
+<li><a href="/cbnews/20210705/1581086.md">上海广东再爆疫情 云南瑞丽变相封城全员检测</a></li>
 <li><a href="/cnnews/20210705/1580855.md">疫苗不良反应正在发生：陆军却通知各司令部 9月强制接种疫苗【阿波罗网编译】</a></li>
 <li><a href="/comments/20210705/1580738.md">七一后中共内斗果然加剧？滴滴遭惩 内部消息指力度超阿里巴巴</a></li>
-<li><a href="/cbnews/20210705/1581086.md">上海广东再爆疫情 云南瑞丽变相封城全员检测</a></li>
 <li><a href="/headline/20210705/1580845.md">中国当局处罚DiDi真是为了保护个人信息？</a></li>
+<li><a href="/cbnews/20210706/1581223.md">太惊悚！民众爆料：中国大陆旅游景点杀人获利惊天内幕</a></li>
 <li><a href="/cnnews/20210705/1580688.md">震惊！卫星发现山西甲烷严重泄漏 每小时泄数百吨</a></li>
 <li><a href="/cbnews/20210705/1581063.md">滴滴出行闪电上市突遭调查 疑涉习江激烈内斗</a></li>
 <li><a href="/cnnews/20210705/1580824.md">中芯国际核心人员辞职 放弃近千万公司股票引热议</a></li>
 <li><a href="/cbnews/20210705/1581015.md">仿如地狱 中共党庆刚过 天津天空惊现恶魔之脸</a></li>
+<li><a href="/baitai/20210706/1581159.md">客座评论：习近平为什么要撒谎？</a></li>
 <li><a href="/bannedvideo/20210705/1580858.md">上海，中环上中路隧道方向入口。视频中显示，司机车速不算快，疑交警去拉方向盘，导致汽车失控</a></li>
-<li><a href="/cbnews/20210706/1581223.md">太惊悚！民众爆料：中国大陆旅游景点杀人获利惊天内幕</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210706/1581407.md" target="_blank">中共党庆后晋升4名上将 习近平愁容满面</a></li>
+<li><a href="/cbnews/20210706/1581406.md" target="_blank">帮中共讲故事 李子柒签约公司获网络巨头投资</a></li>
 <li><a href="/comments/20210706/1581383.md" target="_blank">德州警长们怒了！拜登政府被诉；抢950元不算犯法！美巨头Target旧金山关门；科技巨头脸书、推特和谷歌警告香港政府，可能会因为改变法律而离开香港</a></li>
 <li><a href="/cbnews/20210706/1581368.md" target="_blank">分析：中共党庆后审查滴滴 只因惧怕这件事</a></li>
 <li><a href="/cbnews/20210706/1581367.md" target="_blank">习近平颁命令状 晋升4上将 【阿波罗网报道】</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/cbnews/20210706/1581115.md" target="_blank">新西兰议员打破政府顾忌狠批中共活摘器官</a></li>
 <li><a href="/cbnews/20210706/1581112.md" target="_blank">新西兰国会议员公开指责中共强摘人体器官</a></li>
 <li><a href="/cbnews/20210706/1581095.md" target="_blank">澳洲副总理警告中共国是一个比病毒更重要的威胁</a></li>
-<li><a href="/cbnews/20210705/1581086.md" target="_blank">上海广东再爆疫情 云南瑞丽变相封城全员检测</a></li>
-<li><a href="/cbnews/20210705/1581063.md" target="_blank">滴滴出行闪电上市突遭调查 疑涉习江激烈内斗</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210706/1581395.md" target="_blank">12岁男孩成美国海军英雄</a></li>
+<li><a href="/comments/20210706/1581394.md" target="_blank">喜欢秋葵的朋友，知道这些吗？</a></li>
 <li><a href="/comments/20210706/1581383.md" target="_blank">德州警长们怒了！拜登政府被诉；抢950元不算犯法！美巨头Target旧金山关门；科技巨头脸书、推特和谷歌警告香港政府，可能会因为改变法律而离开香港</a></li>
 <li><a href="/comments/20210706/1581378.md" target="_blank">港府拟修法打击网路「起底」 外媒：科技巨头扬言退出香港</a></li>
 <li><a href="/comments/20210706/1581373.md" target="_blank">【微博精粹】起底了！爆打院士的张陶姓赵 逆天</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210706/1581302.md" target="_blank">蓬佩奥：批判性种族理论攻击美价值观 在帮中共</a></li>
 <li><a href="/comments/20210706/1581296.md" target="_blank">洪博学：史上倒戈投共的国民党员没有一个好下场</a></li>
 <li><a href="/comments/20210706/1581295.md" target="_blank">郑吉珉：已经2021年 为何中国还要再站起来一次？</a></li>
-<li><a href="/comments/20210706/1581290.md" target="_blank">李燕铭：习近平七一破格提拔四名上将 备战北戴河大战 西部战区南部战区司令员陆军司令员换人 中共黑客部队司令员巨乾生升任战略支援部队司令员 两名司令员被异常免职 去向不明 中共内外交困 军队暗潮汹涌</a></li>
-<li><a href="/comments/20210706/1581280.md" target="_blank">卸任亚马逊CEO职务 贝佐斯准备首次游太空</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
 <li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
 <li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
 
 </ul>
 </div>
