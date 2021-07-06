@@ -17,8 +17,8 @@
 <li><a href="/topimagenews/20210705/1580992.md">清华退休教授：中共用纳税人的钱办党庆是极大犯罪</a></li>
 <li><a href="/bannedvideo/20210706/1581210.md">从上市到被整肃只用了3天，滴滴出行得罪了习近平？传面临比阿里更严重的处罚；公司独立董事是西点毕业生，转移数据给美国？【#秦鹏观察 7/05】</a></li>
 <li><a href="/topimagenews/20210705/1580819.md">中共外交大混乱？官方学者：困惑会越来越多！ 【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20210705/1580881.md">对党忠诚：一场以党建为名的新基层整风运动</a></li>
 <li><a href="/ssgc/20210705/1580986.md">杭州楼市已经内卷成这样了吗？</a></li>
+<li><a href="/cbnews/20210705/1580881.md">对党忠诚：一场以党建为名的新基层整风运动</a></li>
 <li><a href="/cbnews/20210705/1581086.md">上海广东再爆疫情 云南瑞丽变相封城全员检测</a></li>
 <li><a href="/cnnews/20210705/1580855.md">疫苗不良反应正在发生：陆军却通知各司令部 9月强制接种疫苗【阿波罗网编译】</a></li>
 <li><a href="/comments/20210705/1580738.md">七一后中共内斗果然加剧？滴滴遭惩 内部消息指力度超阿里巴巴</a></li>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210706/1581461.md" target="_blank">百万网红“机智的党妹”翻车 遭遇中共政法委铁拳</a></li>
+<li><a href="/comments/20210706/1581456.md" target="_blank">前美陆军副参谋长：美正面临二战以来最大国安挑战</a></li>
 <li><a href="/comments/20210706/1581451.md" target="_blank">多方要求拜登解除国际旅行禁令 白宫仍未松口</a></li>
 <li><a href="/comments/20210706/1581450.md" target="_blank">💥 新西兰议员打破政府顾忌 狠批中共 #活摘器官 【希望之声-午夜新闻-2021/07/05】</a></li>
 <li><a href="/comments/20210706/1581449.md" target="_blank">习近平面无笑容晋升4上将 敏感时刻 两大战区换司令</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210706/1581328.md" target="_blank">7月4日美国人赏烟花 庆祝独立节</a></li>
 <li><a href="/comments/20210706/1581322.md" target="_blank">袁斌：中共是全世界最残暴无道的独裁党</a></li>
 <li><a href="/comments/20210706/1581321.md" target="_blank">沈舟：习近平晋升上将透露的不寻常意味</a></li>
-<li><a href="/comments/20210706/1581320.md" target="_blank">周晓辉：央广百名主播表忠 追随党妈福兮祸兮？</a></li>
-<li><a href="/comments/20210706/1581319.md" target="_blank">田云：党媒为何突出负面国际新闻？</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
 <li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
 
 </ul>
 </div>
