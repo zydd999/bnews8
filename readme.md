@@ -14,20 +14,20 @@
 <li><a href="/cbnews/20210707/1581955.md">习近平与法德峰会获关键保证？党媒又被打脸了</a></li>
 <li><a href="/bannedvideo/20210707/1582111.md">上海又一个姜文华登场！老大怒了！习近平扼住滴滴喉咙；航太公司董事长张陶爆锤两国宝级院士</a></li>
 <li><a href="/cbnews/20210707/1581947.md">中共一度称在黄海中部军演 禁航警告发布又突撤销 网友揣测</a></li>
-<li><a href="/comments/20210707/1582231.md">中共新华社换总编辑 前社长、副社长淫乱丑闻火爆</a></li>
 <li><a href="/cbnews/20210707/1582294.md">滴滴遇麻烦 柳传志曾曝有三大恐惧：说你有罪就有罪</a></li>
+<li><a href="/comments/20210707/1582231.md">中共新华社换总编辑 前社长、副社长淫乱丑闻火爆</a></li>
 <li><a href="/cnnews/20210707/1582225.md">中共开发手机跟踪软件 遭苹果商店剔除</a></li>
 <li><a href="/cnnews/20210707/1582000.md">上海响应三胎 拉来苏州剩女推“配种式”征婚</a></li>
 <li><a href="/lifebaike/20210707/1581999.md">史上著名美男，因太过俊美，初到南京遭万人围观，被活活“看”死</a></li>
 <li><a href="/cbnews/20210707/1582060.md">中共黄海军演公告突撤 网民质疑：又认怂啦</a></li>
 <li><a href="/topimagenews/20210707/1582028.md">全球首见AI战争！以色列出动无人机蜂群攻击哈玛斯</a></li>
+<li><a href="/bannedvideo/20210707/1582306.md">陈破空：上将失踪！最高叛逃者原来是他？习近平险遭政变。重大军事活动突然取消</a></li>
 <li><a href="/ssgc/20210707/1581867.md">评论 | 余杰：习明泽，你爸爸叫你上雄安大学</a></li>
 <li><a href="/topimagenews/20210707/1582113.md">滴滴狂跌近千亿！中概股暴跌风暴 最惨狂泻40%</a></li>
 <li><a href="/comments/20210707/1582144.md">骇人！上海又一领导被割喉；打人事件发酵，事件被曝涉及中南海权斗？【希望之声TV-午夜新闻】</a></li>
-<li><a href="/ssgc/20210707/1581977.md">〖兲朝浮世绘〗中共开始给香港人扣恐怖分子、分裂份子的帽子了</a></li>
 <li><a href="/cbnews/20210707/1582279.md">习近平1年3换司令员 西部战区不寻常</a></li>
+<li><a href="/ssgc/20210707/1581977.md">〖兲朝浮世绘〗中共开始给香港人扣恐怖分子、分裂份子的帽子了</a></li>
 <li><a href="/cbnews/20210707/1582140.md">叫嚷“老子就是要当” 中航书记张陶打人被刑拘</a></li>
-<li><a href="/cnnews/20210707/1582251.md">中央办公厅瞄准“滴滴”牵出习江激烈内斗</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210708/1582497.md" target="_blank">习近平峰会又出状况; 海地总统遇刺身亡 第一夫人受伤【希望之声TV-环球看点-2021/7/7】</a></li>
 <li><a href="/cbnews/20210707/1582379.md" target="_blank">网传86岁女院士要求严惩凶手 曝张陶更多打人内幕</a></li>
 <li><a href="/comments/20210707/1582325.md" target="_blank">日本吁联美保台后 中共公告黄海军演撤销；中国人生三孩还要罚款 官员称法规尚未修改【希望之声TV-两岸要闻-2021/7/7】</a></li>
 <li><a href="/cbnews/20210707/1582317.md" target="_blank">习近平与法德峰会获关键保证？被打脸 上海推三胎拉苏州剩女推配种</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210707/1582011.md" target="_blank">北京论坛变战场 英法美和中俄大使口水战</a></li>
 <li><a href="/cbnews/20210707/1581998.md" target="_blank">中共纸条激怒堪培拉 澳记者再谈“14宗罪”影响</a></li>
 <li><a href="/comments/20210707/1581993.md" target="_blank">滴滴两面被夹击 遭北京突袭 又面临美国律所诉讼；无人机精确猎杀！20名塔利班指挥官遭集体斩首【希望之声TV-每日头条-2021/7/6】</a></li>
-<li><a href="/comments/20210707/1581978.md" target="_blank">整肃“滴滴”  收紧境外上市 中共释放什么信号？【希望之声TV-新闻焦点解读-2021/07/06】主持:高洁  嘉宾：林晓旭</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,18 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210708/1582502.md" target="_blank">内部文件曝光中共转化法轮功受挫</a></li>
+<li><a href="/comments/20210708/1582497.md" target="_blank">习近平峰会又出状况; 海地总统遇刺身亡 第一夫人受伤【希望之声TV-环球看点-2021/7/7】</a></li>
+<li><a href="/comments/20210708/1582496.md" target="_blank">【区议员宣誓】两沙田区议员辞职 丘文俊：无力感令人透不过气</a></li>
+<li><a href="/comments/20210708/1582495.md" target="_blank">【7.1 刺警案】续有市民悼梁健辉 最少 1 人被捕 市民手持韭菜被截查</a></li>
+<li><a href="/comments/20210708/1582494.md" target="_blank">消息：入境海关首长 3 月私人会所饭局 违限聚令被罚款 政府无公布 警证实票控 9 人</a></li>
+<li><a href="/comments/20210708/1582493.md" target="_blank">诗一首：《梦 醒》</a></li>
+<li><a href="/comments/20210708/1582492.md" target="_blank">伊拉克国际联军基地遭火箭弹袭击 美军证实2人受伤</a></li>
+<li><a href="/comments/20210708/1582491.md" target="_blank">【宁静不宁静】专栏：超能力 人人都有？！ 天目 是与生俱来的吗？</a></li>
+<li><a href="/comments/20210708/1582490.md" target="_blank">中捷关系渐冷 习近平与捷克总统通话 都说了什么</a></li>
+<li><a href="/comments/20210708/1582489.md" target="_blank">诗一首：《登高》</a></li>
+<li><a href="/comments/20210708/1582488.md" target="_blank">诗一首：《去芜》</a></li>
+<li><a href="/comments/20210708/1582487.md" target="_blank">【第三只眼睛】末日大征兆：刚刚天空出现魔鬼脸！中共死劫难逃</a></li>
 <li><a href="/comments/20210708/1582484.md" target="_blank">中共又开罚单：滴滴被罚400万 阿里300万 腾讯250万</a></li>
 <li><a href="/comments/20210708/1582483.md" target="_blank">凉拌素什锦 清清爽爽的养生菜</a></li>
 <li><a href="/comments/20210708/1582476.md" target="_blank">通天国师八字真言 改变中华命运赢得抗日胜利</a></li>
@@ -111,18 +123,6 @@
 <li><a href="/comments/20210708/1582454.md" target="_blank">【宁静不宁静】专栏：希腊神话为何毁三观 ? 苏格拉底的智慧揭秘</a></li>
 <li><a href="/comments/20210708/1582452.md" target="_blank">【宁静不宁静】专栏：耶稣能是外星人吗？外星人荒唐事有哪些？</a></li>
 <li><a href="/comments/20210708/1582451.md" target="_blank">澳德学者合作出书 揭露中共如何统战西方国家</a></li>
-<li><a href="/comments/20210707/1582445.md" target="_blank">美机构报告：中共海军构成重大挑战 是最首要关注目标</a></li>
-<li><a href="/comments/20210707/1582419.md" target="_blank">澳洲研究：Delta病毒对年轻人影响大</a></li>
-<li><a href="/comments/20210707/1582411.md" target="_blank">海地总统遭暗杀身亡 临时总理曝凶手身份</a></li>
-<li><a href="/comments/20210707/1582410.md" target="_blank">慈禧养生秘诀：不吃冰冷食物、重视饮茶时光、爱吃含胶原蛋白的肉类、选择好消化的食物</a></li>
-<li><a href="/comments/20210707/1582409.md" target="_blank">诗一首：《孙悟空》</a></li>
-<li><a href="/comments/20210707/1582408.md" target="_blank">【钟宏专栏】诗歌篇：《听红歌，忆文革 – 致母亲并四位姐姐》</a></li>
-<li><a href="/comments/20210707/1582404.md" target="_blank">【钟宏专栏】诗歌篇：《七绝. 小桂林 – 同心锁》</a></li>
-<li><a href="/comments/20210707/1582388.md" target="_blank">时事大家谈：穿越党史禁区 破解中共百年生存之道</a></li>
-<li><a href="/comments/20210707/1582385.md" target="_blank">【未普评论】习近平把自己当成真老虎了？</a></li>
-<li><a href="/comments/20210707/1582366.md" target="_blank">【火山评论】海航版让领导先走</a></li>
-<li><a href="/comments/20210707/1582344.md" target="_blank">中航书记暴打院士丢北京脸 外媒：中国法治比上太空还难</a></li>
-<li><a href="/comments/20210707/1582325.md" target="_blank">日本吁联美保台后 中共公告黄海军演撤销；中国人生三孩还要罚款 官员称法规尚未修改【希望之声TV-两岸要闻-2021/7/7】</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
-<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20210611/1564824.md" target="_blank">【曾铮专栏】感悟神韵（之一）神韵的主旨</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
 <li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
 <li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
 
 </ul>
 </div>
