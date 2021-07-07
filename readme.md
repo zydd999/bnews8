@@ -15,19 +15,19 @@
 <li><a href="/bannedvideo/20210707/1582111.md">上海又一个姜文华登场！老大怒了！习近平扼住滴滴喉咙；航太公司董事长张陶爆锤两国宝级院士</a></li>
 <li><a href="/cbnews/20210707/1581947.md">中共一度称在黄海中部军演 禁航警告发布又突撤销 网友揣测</a></li>
 <li><a href="/comments/20210707/1582231.md">中共新华社换总编辑 前社长、副社长淫乱丑闻火爆</a></li>
-<li><a href="/cnnews/20210707/1582000.md">上海响应三胎 拉来苏州剩女推“配种式”征婚</a></li>
 <li><a href="/cnnews/20210707/1582225.md">中共开发手机跟踪软件 遭苹果商店剔除</a></li>
+<li><a href="/cnnews/20210707/1582000.md">上海响应三胎 拉来苏州剩女推“配种式”征婚</a></li>
 <li><a href="/lifebaike/20210707/1581999.md">史上著名美男，因太过俊美，初到南京遭万人围观，被活活“看”死</a></li>
+<li><a href="/cbnews/20210707/1582294.md">滴滴遇麻烦 柳传志曾曝有三大恐惧：说你有罪就有罪</a></li>
 <li><a href="/cbnews/20210707/1582060.md">中共黄海军演公告突撤 网民质疑：又认怂啦</a></li>
 <li><a href="/ssgc/20210707/1581867.md">评论 | 余杰：习明泽，你爸爸叫你上雄安大学</a></li>
 <li><a href="/topimagenews/20210707/1582028.md">全球首见AI战争！以色列出动无人机蜂群攻击哈玛斯</a></li>
-<li><a href="/cbnews/20210707/1582294.md">滴滴遇麻烦 柳传志曾曝有三大恐惧：说你有罪就有罪</a></li>
 <li><a href="/topimagenews/20210707/1582113.md">滴滴狂跌近千亿！中概股暴跌风暴 最惨狂泻40%</a></li>
-<li><a href="/ssgc/20210707/1581977.md">〖兲朝浮世绘〗中共开始给香港人扣恐怖分子、分裂份子的帽子了</a></li>
 <li><a href="/comments/20210707/1582144.md">骇人！上海又一领导被割喉；打人事件发酵，事件被曝涉及中南海权斗？【希望之声TV-午夜新闻】</a></li>
+<li><a href="/ssgc/20210707/1581977.md">〖兲朝浮世绘〗中共开始给香港人扣恐怖分子、分裂份子的帽子了</a></li>
 <li><a href="/cbnews/20210707/1582140.md">叫嚷“老子就是要当” 中航书记张陶打人被刑拘</a></li>
-<li><a href="/topimagenews/20210707/1582216.md">二十大争夺中共“刀把子” 江系再为周强造势【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20210707/1582251.md">中央办公厅瞄准“滴滴”牵出习江激烈内斗</a></li>
+<li><a href="/bannedvideo/20210707/1582261.md">文睿：太狠了，日本直接把习近平变成笑话，北京怕啥来啥</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20210611/1564824.md" target="_blank">【曾铮专栏】感悟神韵（之一）神韵的主旨</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
 
 </ul>
 </div>
