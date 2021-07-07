@@ -17,17 +17,17 @@
 <li><a href="/bannedvideo/20210706/1581542.md">川普总统：不能等到2022  必须现在立即解决拜登的问题  德州州长Greg Abbott：拜登逍遥法外必须被终止</a></li>
 <li><a href="/ssgc/20210706/1581675.md">从习李胡温的表情看中共的气数</a></li>
 <li><a href="/cbnews/20210706/1581613.md">中共发布“重大军事活动” 黄海禁航5天</a></li>
+<li><a href="/cnnews/20210707/1581952.md">明年iPhone 14更值得期待？传全线配置这功能</a></li>
 <li><a href="/cbnews/20210706/1581553.md">已下台的一把手蒋超良、马国强行踪成迷</a></li>
 <li><a href="/cnnews/20210706/1581756.md">美13岁少年打辉瑞第2剂后猝死 尸体解剖发现…</a></li>
 <li><a href="/baitai/20210706/1581692.md">上海警方抓获69名“情感挽回大师”</a></li>
-<li><a href="/cnnews/20210707/1581952.md">明年iPhone 14更值得期待？传全线配置这功能</a></li>
+<li><a href="/yule/20210707/1581970.md">著名AV女星握神秘硬币坠楼亡 死前数分钟被拍…</a></li>
+<li><a href="/cbnews/20210707/1581947.md">中共一度称在黄海中部军演 禁航警告发布又突撤销 网友揣测</a></li>
 <li><a href="/bannedvideo/20210706/1581673.md">陈破空：等不及了？习近平突然提拔四上将！抛出攻台方案。西部战区出事，司令员反习</a></li>
 <li><a href="/baitai/20210706/1581685.md">解放军西部战区一年内第三次更换司令员</a></li>
 <li><a href="/topimagenews/20210706/1581523.md">以色列货轮被炸？还是伊朗又糗大了？</a></li>
-<li><a href="/cbnews/20210707/1581947.md">中共一度称在黄海中部军演 禁航警告发布又突撤销 网友揣测</a></li>
 <li><a href="/ssgc/20210707/1581867.md">评论 | 余杰：习明泽，你爸爸叫你上雄安大学</a></li>
-<li><a href="/yule/20210707/1581970.md">著名AV女星握神秘硬币坠楼亡 死前数分钟被拍…</a></li>
-<li><a href="/comments/20210706/1581449.md">习近平面无笑容晋升4上将 敏感时刻 两大战区换司令</a></li>
+<li><a href="/cbnews/20210707/1581955.md">习近平与法德峰会获关键保证？党媒又被打脸了</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210707/1582140.md" target="_blank">叫嚷“老子就是要当” 中航书记张陶打人被刑拘</a></li>
 <li><a href="/comments/20210707/1582103.md" target="_blank">OPEC谈判破局 拜登急斡旋；绝密会议?主流媒体 科技寡头和情报部门本周碰头 ;五角大楼弃微软 亚马逊冒头</a></li>
 <li><a href="/cbnews/20210707/1582092.md" target="_blank">美狙击间谍出硬招 华生留学难了 做贼心虚？林郑继续禁“起底”？</a></li>
 <li><a href="/cbnews/20210707/1582060.md" target="_blank">中共黄海军演公告突撤 网民质疑：又认怂啦</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210706/1581734.md" target="_blank">网民曝滴滴一独董系美退伍军人 外界解析</a></li>
 <li><a href="/cbnews/20210706/1581716.md" target="_blank">澳前副防长促美国向中共宣示：一旦盟国遇袭即反击</a></li>
 <li><a href="/cbnews/20210706/1581715.md" target="_blank">云南再增本土病例 当地现德尔塔毒株</a></li>
-<li><a href="/comments/20210706/1581712.md" target="_blank">💥 政经恶化：持中国科技股风险骤升【希望之声TV-两岸要闻-2021/7/6】</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
 <li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
 <li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
 
 </ul>
 </div>
