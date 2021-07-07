@@ -14,15 +14,15 @@
 <li><a href="/cbnews/20210707/1581906.md">滴滴遭整肃或涉习江斗 柳传志家族陷入风暴</a></li>
 <li><a href="/comments/20210707/1581880.md">魔都上海又出事了！复旦割喉案翻版 传上海市政设计院领导被海归博士割喉 杨佳袭警案13周年前后 上海一个月内连爆两起学术界割喉案：以死相拼以暴制暴</a></li>
 <li><a href="/bannedvideo/20210706/1581542.md">川普总统：不能等到2022  必须现在立即解决拜登的问题  德州州长Greg Abbott：拜登逍遥法外必须被终止</a></li>
-<li><a href="/cnnews/20210707/1581952.md">明年iPhone 14更值得期待？传全线配置这功能</a></li>
 <li><a href="/ssgc/20210706/1581675.md">从习李胡温的表情看中共的气数</a></li>
-<li><a href="/yule/20210707/1581970.md">著名AV女星握神秘硬币坠楼亡 死前数分钟被拍…</a></li>
+<li><a href="/cnnews/20210707/1581952.md">明年iPhone 14更值得期待？传全线配置这功能</a></li>
+<li><a href="/yule/20210707/1581970.md">AV女星握神秘硬币坠楼亡 死前数分钟被拍…</a></li>
 <li><a href="/cbnews/20210706/1581613.md">中共发布“重大军事活动” 黄海禁航5天</a></li>
 <li><a href="/cbnews/20210706/1581553.md">已下台的一把手蒋超良、马国强行踪成迷</a></li>
 <li><a href="/cbnews/20210707/1581947.md">中共一度称在黄海中部军演 禁航警告发布又突撤销 网友揣测</a></li>
+<li><a href="/cbnews/20210707/1581955.md">习近平与法德峰会获关键保证？党媒又被打脸了</a></li>
 <li><a href="/cnnews/20210706/1581756.md">美13岁少年打辉瑞第2剂后猝死 尸体解剖发现…</a></li>
 <li><a href="/baitai/20210706/1581692.md">上海警方抓获69名“情感挽回大师”</a></li>
-<li><a href="/cbnews/20210707/1581955.md">习近平与法德峰会获关键保证？党媒又被打脸了</a></li>
 <li><a href="/bannedvideo/20210706/1581673.md">陈破空：等不及了？习近平突然提拔四上将！抛出攻台方案。西部战区出事，司令员反习</a></li>
 <li><a href="/ssgc/20210707/1581867.md">评论 | 余杰：习明泽，你爸爸叫你上雄安大学</a></li>
 <li><a href="/baitai/20210706/1581685.md">解放军西部战区一年内第三次更换司令员</a></li>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210707/1582158.md" target="_blank">获誉“非凡奶奶” 澳祖母成功破超级铁人三项赛世界纪录</a></li>
 <li><a href="/comments/20210707/1582144.md" target="_blank">骇人！上海又一领导被割喉；打人事件发酵，事件被曝涉及中南海权斗？【希望之声TV-午夜新闻】</a></li>
 <li><a href="/comments/20210707/1582137.md" target="_blank">受疫情影响 全美公校学生数下降150万</a></li>
 <li><a href="/comments/20210707/1582136.md" target="_blank">三国峰会对中欧协议作“关键保证”？法德声明打脸党媒</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210707/1582015.md" target="_blank">北明：八九民运反思之辨</a></li>
 <li><a href="/comments/20210707/1582014.md" target="_blank">千百度：从习李胡温的表情看中共的气数</a></li>
 <li><a href="/comments/20210707/1582013.md" target="_blank">颜纯钩：有暴政才有暴民 人民有权讨一个说法</a></li>
-<li><a href="/comments/20210707/1582007.md" target="_blank">五角大楼叫停与微软价值100亿的JEDI云合同</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
-<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
 <li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
 
 </ul>
 </div>
