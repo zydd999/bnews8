@@ -14,9 +14,8 @@
 <li><a href="/yule/20210707/1581970.md">AV女星握神秘硬币坠楼亡 死前数分钟被拍…</a></li>
 <li><a href="/cnnews/20210707/1582075.md">信号密集出现：地产已被抛弃</a></li>
 <li><a href="/cnnews/20210707/1581952.md">明年iPhone 14更值得期待？传全线配置这功能</a></li>
-<li><a href="/cbnews/20210706/1581613.md">中共发布“重大军事活动” 黄海禁航5天</a></li>
-<li><a href="/bannedvideo/20210707/1582111.md">上海又一个姜文华登场！老大怒了！习近平扼住滴滴喉咙；航太公司董事长张陶爆锤两国宝级院士</a></li>
 <li><a href="/cnnews/20210706/1581756.md">美13岁少年打辉瑞第2剂后猝死 尸体解剖发现…</a></li>
+<li><a href="/bannedvideo/20210707/1582111.md">上海又一个姜文华登场！老大怒了！习近平扼住滴滴喉咙；航太公司董事长张陶爆锤两国宝级院士</a></li>
 <li><a href="/cbnews/20210707/1581947.md">中共一度称在黄海中部军演 禁航警告发布又突撤销 网友揣测</a></li>
 <li><a href="/cbnews/20210707/1581955.md">习近平与法德峰会获关键保证？党媒又被打脸了</a></li>
 <li><a href="/baitai/20210706/1581692.md">上海警方抓获69名“情感挽回大师”</a></li>
@@ -27,6 +26,7 @@
 <li><a href="/cbnews/20210707/1582060.md">中共黄海军演公告突撤 网民质疑：又认怂啦</a></li>
 <li><a href="/baitai/20210706/1581685.md">解放军西部战区一年内第三次更换司令员</a></li>
 <li><a href="/ssgc/20210707/1581977.md">〖兲朝浮世绘〗中共开始给香港人扣恐怖分子、分裂份子的帽子了</a></li>
+<li><a href="/topimagenews/20210707/1582113.md">滴滴狂跌近千亿！中概股暴跌风暴 最惨狂泻40%</a></li>
 <li><a href="/topimagenews/20210707/1582028.md">全球首见AI战争！以色列出动无人机蜂群攻击哈玛斯</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210707/1582280.md" target="_blank">众目睽睽之下高僧肉身消失，进藏干部亲见人体虹化！西藏喇嘛圆寂，身体返老还童，七日后离奇消失？修为不同，虹化也分等级？</a></li>
+<li><a href="/cbnews/20210707/1582279.md" target="_blank">习近平1年3换司令员 西部战区不寻常</a></li>
 <li><a href="/cbnews/20210707/1582260.md" target="_blank">追查郭宏伟死亡真相 声援者频遭当局打压</a></li>
 <li><a href="/cbnews/20210707/1582246.md" target="_blank">病毒“重返”武汉？Delta肆虐阿富汗 1航班揪出52病例</a></li>
 <li><a href="/cbnews/20210707/1582238.md" target="_blank">打破惯例 战略重点移至台海？习晋升新上将背后</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/cbnews/20210707/1581906.md" target="_blank">滴滴遭整肃或涉习江斗 柳传志家族陷入风暴</a></li>
 <li><a href="/cbnews/20210707/1581905.md" target="_blank">日本高层放话联美保卫台湾 中共气急跳脚</a></li>
 <li><a href="/cbnews/20210707/1581904.md" target="_blank">“610”指挥 摄像头监控 天津72人被绑架</a></li>
-<li><a href="/cbnews/20210707/1581903.md" target="_blank">七一前被打瘫 重庆访民曹礼淑控诉政府抢劫</a></li>
-<li><a href="/cbnews/20210707/1581891.md" target="_blank">白宫印太事务官：美中这一两代人可能很难和平共处</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,12 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210707/1582281.md" target="_blank">新西兰执政党惧共 国是讨论删「种族灭绝」遭非议</a></li>
+<li><a href="/comments/20210707/1582280.md" target="_blank">众目睽睽之下高僧肉身消失，进藏干部亲见人体虹化！西藏喇嘛圆寂，身体返老还童，七日后离奇消失？修为不同，虹化也分等级？</a></li>
+<li><a href="/comments/20210707/1582276.md" target="_blank">【小说连载】七海归途之雪伦公主（27）</a></li>
+<li><a href="/comments/20210707/1582275.md" target="_blank">【光城者案】浸大校长证实一职员被捕 强烈谴责恐怖主义 警搜石门校园</a></li>
+<li><a href="/comments/20210707/1582274.md" target="_blank">建制派促修改海外非常任法官制度 李家超拒绝：维持外界对司法独立信心</a></li>
+<li><a href="/comments/20210707/1582273.md" target="_blank">李家超：炸弹案反映恐怖主义有滋生迹象 “淡化”恐怖主义将成千古罪人</a></li>
 <li><a href="/comments/20210707/1582270.md" target="_blank">觉悟“传统”二字</a></li>
 <li><a href="/comments/20210707/1582269.md" target="_blank">12款常见饮食补充「维他命K」</a></li>
 <li><a href="/comments/20210707/1582268.md" target="_blank">疫情导致恐慌焦虑？ 三招舒缓</a></li>
@@ -117,12 +123,6 @@
 <li><a href="/comments/20210707/1582183.md" target="_blank">美众议员吁：保护美药品供应链 避免依赖中共</a></li>
 <li><a href="/comments/20210707/1582182.md" target="_blank">美通胀水平创13年来新高 多家超市开始或计划涨价</a></li>
 <li><a href="/comments/20210707/1582173.md" target="_blank">香港岭南大学怕踩红线 拒聘批评时政敢言学者</a></li>
-<li><a href="/comments/20210707/1582172.md" target="_blank">谭德塞考虑东奥期间访日 分析：为明年连任增加存在感</a></li>
-<li><a href="/comments/20210707/1582166.md" target="_blank">律政司倡律政人员可任资深大状 大律师公会收“压倒性反对意见” 只能受雇政府不符公众利益</a></li>
-<li><a href="/comments/20210707/1582165.md" target="_blank">关注警权议题 民权观察宣布停止运作 两周至少 13 组织解散</a></li>
-<li><a href="/comments/20210707/1582164.md" target="_blank">刘兆佳：中共不在香港公开活动承诺已“不合时宜” 应趁反对派溃败夺话语权</a></li>
-<li><a href="/comments/20210707/1582163.md" target="_blank">紧跟习近平 中共外交系首提”头破血流“ 针对日本副相开骂</a></li>
-<li><a href="/comments/20210707/1582158.md" target="_blank">获誉“非凡奶奶” 澳祖母成功破超级铁人三项赛世界纪录</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
 
 </ul>
 </div>
