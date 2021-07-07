@@ -17,8 +17,8 @@
 <li><a href="/comments/20210707/1582231.md">中共新华社换总编辑 前社长、副社长淫乱丑闻火爆</a></li>
 <li><a href="/cnnews/20210707/1582225.md">中共开发手机跟踪软件 遭苹果商店剔除</a></li>
 <li><a href="/cnnews/20210707/1582000.md">上海响应三胎 拉来苏州剩女推“配种式”征婚</a></li>
-<li><a href="/lifebaike/20210707/1581999.md">史上著名美男，因太过俊美，初到南京遭万人围观，被活活“看”死</a></li>
 <li><a href="/cbnews/20210707/1582294.md">滴滴遇麻烦 柳传志曾曝有三大恐惧：说你有罪就有罪</a></li>
+<li><a href="/lifebaike/20210707/1581999.md">史上著名美男，因太过俊美，初到南京遭万人围观，被活活“看”死</a></li>
 <li><a href="/cbnews/20210707/1582060.md">中共黄海军演公告突撤 网民质疑：又认怂啦</a></li>
 <li><a href="/ssgc/20210707/1581867.md">评论 | 余杰：习明泽，你爸爸叫你上雄安大学</a></li>
 <li><a href="/topimagenews/20210707/1582028.md">全球首见AI战争！以色列出动无人机蜂群攻击哈玛斯</a></li>
@@ -26,8 +26,8 @@
 <li><a href="/comments/20210707/1582144.md">骇人！上海又一领导被割喉；打人事件发酵，事件被曝涉及中南海权斗？【希望之声TV-午夜新闻】</a></li>
 <li><a href="/ssgc/20210707/1581977.md">〖兲朝浮世绘〗中共开始给香港人扣恐怖分子、分裂份子的帽子了</a></li>
 <li><a href="/cbnews/20210707/1582140.md">叫嚷“老子就是要当” 中航书记张陶打人被刑拘</a></li>
+<li><a href="/cbnews/20210707/1582279.md">习近平1年3换司令员 西部战区不寻常</a></li>
 <li><a href="/cnnews/20210707/1582251.md">中央办公厅瞄准“滴滴”牵出习江激烈内斗</a></li>
-<li><a href="/bannedvideo/20210707/1582261.md">文睿：太狠了，日本直接把习近平变成笑话，北京怕啥来啥</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210708/1582476.md" target="_blank">通天国师八字真言 改变中华命运赢得抗日胜利</a></li>
+<li><a href="/comments/20210708/1582474.md" target="_blank">【宁静不宁静】专栏：鸡生蛋 ? 蛋生鸡 ? 千年谜题秒破解</a></li>
+<li><a href="/comments/20210708/1582473.md" target="_blank">【宁静不宁静】专栏：大瘟疫流行的今天 科学为我们带来的是什么 ? 三大顶级学术期刊 为何被诺贝尔奖得主抵制 ?</a></li>
+<li><a href="/comments/20210708/1582472.md" target="_blank">文字狱！歌唱比赛演唱《银河修理员》 香港两中学生遭记大过</a></li>
 <li><a href="/comments/20210708/1582458.md" target="_blank">【区议员宣誓】有线、Now 引消息：230 人被 DQ 将被追百万薪津 发信交代宣誓资格</a></li>
 <li><a href="/comments/20210708/1582457.md" target="_blank">《立场》记者前年新港城中心采访遭警撞跌 投诉警察课列“无法追查” 监警会同意</a></li>
 <li><a href="/comments/20210708/1582456.md" target="_blank">【钟宏专栏】双语诗歌篇：《秋访格兰洛克花园》</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210707/1582325.md" target="_blank">日本吁联美保台后 中共公告黄海军演撤销；中国人生三孩还要罚款 官员称法规尚未修改【希望之声TV-两岸要闻-2021/7/7】</a></li>
 <li><a href="/comments/20210707/1582315.md" target="_blank">歌唱比赛演唱《银河修理员》 元朗信义中学两学生遭记大过 校方指歌词含政治意味</a></li>
 <li><a href="/comments/20210707/1582314.md" target="_blank">民建联徐英伟任资审委 李家超：会申报利益</a></li>
-<li><a href="/comments/20210707/1582311.md" target="_blank">【新视野】川首要二件大事。莫里斯不打自招。律师最新发现。</a></li>
-<li><a href="/comments/20210707/1582295.md" target="_blank">美专家：中国亿万富翁不能控制自己的财富 是假富翁</a></li>
-<li><a href="/comments/20210707/1582281.md" target="_blank">新西兰执政党惧共 国是讨论删「种族灭绝」遭非议</a></li>
-<li><a href="/comments/20210707/1582280.md" target="_blank">众目睽睽之下高僧肉身消失，进藏干部亲见人体虹化！西藏喇嘛圆寂，身体返老还童，七日后离奇消失？修为不同，虹化也分等级？</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
 <li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20210611/1564824.md" target="_blank">【曾铮专栏】感悟神韵（之一）神韵的主旨</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
 
 </ul>
 </div>
