@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/bannedvideo/20210707/1582306.md">陈破空：上将失踪！最高叛逃者原来是他？习近平险遭政变。重大军事活动突然取消</a></li>
-<li><a href="/cbnews/20210707/1582294.md">滴滴遇麻烦 柳传志曾曝有三大恐惧：说你有罪就有罪</a></li>
 <li><a href="/cbnews/20210707/1582379.md">网传86岁女院士要求严惩凶手 曝张陶更多打人内幕</a></li>
 <li><a href="/finance/20210707/1582326.md">中国净外储暴跌40% 最担心的事情不可避免…</a></li>
 <li><a href="/cnnews/20210708/1582849.md">你以为“偷”看成人网站，别人不知道？其实早已人尽皆知</a></li>
@@ -21,13 +20,14 @@
 <li><a href="/funmedia/20210708/1582817.md">重庆工人维修800年观音像，不小心触动秘密机关，打开后令人惊喜</a></li>
 <li><a href="/cnnews/20210708/1582558.md">中国太太再打人 比利时大使被要求立刻回国</a></li>
 <li><a href="/cbnews/20210708/1582728.md">中共战狼首提“头破血流” 习近平彻底破功</a></li>
+<li><a href="/funmedia/20210708/1582845.md">狮子趴在树上瑟瑟发抖，摄影师觉得很疑惑，看了眼树下：摊上事了</a></li>
 <li><a href="/lifebaike/20210707/1582380.md">夫妻间最佳年龄差是多少岁？回答来了…</a></li>
 <li><a href="/cbnews/20210708/1582587.md">点4道菜收974元！店家喊标价透明 网看破玄机：被宰了</a></li>
 <li><a href="/comments/20210708/1582654.md">86岁女院士发信曝张陶打人内幕：张陶极其凶残！会判会立案纪检！会查他贪污及黑社会等问题！中南海谣言预言_490</a></li>
-<li><a href="/funmedia/20210708/1582845.md">狮子趴在树上瑟瑟发抖，摄影师觉得很疑惑，看了眼树下：摊上事了</a></li>
 <li><a href="/yule/20210708/1582525.md">李小龙死在她床上 一代女星下场超惨 吸毒伤脑遭逼陪葬</a></li>
-<li><a href="/yule/20210707/1582442.md">谁敢相信这个跑步的奶奶居然是刘嘉玲？</a></li>
 <li><a href="/cbnews/20210708/1582771.md">天亮时分：市值蒸发8310亿；胡温的末日愁苦；习近平违反惯例晋升上将；警惕对香港法轮功团体的暴力栽赃；川普起诉社交媒体巨头（政论天下第462集 20210707）</a></li>
+<li><a href="/yule/20210707/1582442.md">谁敢相信这个跑步的奶奶居然是刘嘉玲？</a></li>
+<li><a href="/yule/20210708/1582604.md">54岁江珊变瘦后逆生长 扎马尾化淡妆秀好身材</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210708/1583051.md" target="_blank">中共要“血肉长城” 您愿做“人肉砖瓦”吗？</a></li>
 <li><a href="/comments/20210708/1583028.md" target="_blank">唯美之灵在心灵之巅点燃信仰的金灯（第七部分）—— 意境性存在是丰饶的虚无（东方哲人解析当代人类困惑  第三十七讲）【袁红冰杏坛】 07082021</a></li>
 <li><a href="/cbnews/20210708/1583018.md" target="_blank">美空军发表最新B-21隐形轰炸机艺术图片</a></li>
 <li><a href="/cbnews/20210708/1583007.md" target="_blank">中共双面谍！潜伏梅克尔身边10年</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210708/1582571.md" target="_blank">美州长宣布“共产主义受害者纪念月”</a></li>
 <li><a href="/cbnews/20210708/1582570.md" target="_blank">布林肯会晤新疆再教育营幸存者 或制裁中共</a></li>
 <li><a href="/cbnews/20210708/1582555.md" target="_blank">湖北疫情 新增25例确诊 22人来自同一航班</a></li>
-<li><a href="/cbnews/20210708/1582554.md" target="_blank">瑞丽疫苗接种率近97%却疫情大爆 启用战争铁丝网</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
 <li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
 
 </ul>
 </div>
