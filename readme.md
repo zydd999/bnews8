@@ -23,11 +23,11 @@
 <li><a href="/comments/20210708/1582654.md">86岁女院士发信曝张陶打人内幕：张陶极其凶残！会判会立案纪检！会查他贪污及黑社会等问题！中南海谣言预言_490</a></li>
 <li><a href="/worldnews/20210708/1582846.md">朝鲜情况不妙？平壤俄罗斯公民大量撤离</a></li>
 <li><a href="/cbnews/20210708/1582587.md">点4道菜收974元！店家喊标价透明 网看破玄机：被宰了</a></li>
-<li><a href="/bannedvideo/20210708/1582844.md">习近平世界政党峰会讲话断片15秒：我说完了？张陶“忠实执行七一讲话精神”绑架一尊？</a></li>
 <li><a href="/cbnews/20210708/1583002.md">领导频频被割喉 商机来了 防割围脖隆重上市</a></li>
 <li><a href="/cbnews/20210708/1583007.md">中共双面谍！潜伏梅克尔身边10年</a></li>
-<li><a href="/bannedvideo/20210708/1582863.md">滴滴背后的权贵算盘，打得习措手不及，习近平还能控制局面吗？｜薇羽看世间 第330期 20210707</a></li>
+<li><a href="/bannedvideo/20210708/1582844.md">习近平世界政党峰会讲话断片15秒：我说完了？张陶“忠实执行七一讲话精神”绑架一尊？</a></li>
 <li><a href="/topimagenews/20210708/1582726.md">枪声砰砰作响！海地暗杀总统现场录像疑似曝光</a></li>
+<li><a href="/bannedvideo/20210708/1582863.md">滴滴背后的权贵算盘，打得习措手不及，习近平还能控制局面吗？｜薇羽看世间 第330期 20210707</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210709/1583243.md" target="_blank">美空军发布最新型B-21隐形轰炸机示意图</a></li>
+<li><a href="/comments/20210709/1583240.md" target="_blank">白宫疫情小组列受赠疫苗国家秀台湾国旗 贴文无预警秒删</a></li>
+<li><a href="/comments/20210709/1583239.md" target="_blank">上海再爆海归博士割喉案 更多细节曝光 媒体禁声</a></li>
 <li><a href="/comments/20210709/1583237.md" target="_blank">【火山评论】张陶——新时代的衙内与红旗下的蛋</a></li>
 <li><a href="/comments/20210709/1583224.md" target="_blank">防晒乳SPF系数是什么？</a></li>
 <li><a href="/comments/20210709/1583223.md" target="_blank">水果什么时候吃？ 营养师分类5大族群 精准掌握时间、种类</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210708/1583163.md" target="_blank">川爷7月7日在纽泽西高尔夫俱乐部的新闻发布会片段│#熊猫侠</a></li>
 <li><a href="/comments/20210708/1583155.md" target="_blank">时事大家谈：美南方司令部顾问：如何应对中国在拉美的扩张？从塞舌尔到智利 接种中国疫苗后为何疫情严峻？</a></li>
 <li><a href="/comments/20210708/1583146.md" target="_blank">港大学生评议会感激梁健辉牺牲 南早：李国章已邀国安处调查 考虑开除学籍</a></li>
-<li><a href="/comments/20210708/1583145.md" target="_blank">谢伟俊：被 DQ 区议员明白严重性后 仍可参选立法会</a></li>
-<li><a href="/comments/20210708/1583144.md" target="_blank">【高官犯聚饭局】入境海关首长认违限聚令 否认晚宴涉强奸案 未答是否接受款待</a></li>
-<li><a href="/comments/20210708/1583143.md" target="_blank">【大雄专栏】画里话外：香气四溢的昙花，一年只有几个小时的绽放，你可知道它们为谁而开？</a></li>
 
 </ul>
 </div>
@@ -131,30 +131,30 @@
 <h3>必看经典好文</h3>
 <ul>
 <li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
 <li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
 <li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
 <li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
 <li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/comments/20210612/1565472.md" target="_blank">感悟神韵（之二）：感悟神韵的艺术风格</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
 
 </ul>
 </div>
