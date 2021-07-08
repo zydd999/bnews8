@@ -16,17 +16,17 @@
 <li><a href="/comments/20210708/1582497.md">习近平峰会又出状况; 海地总统遇刺身亡 第一夫人受伤【希望之声TV-环球看点-2021/7/7】</a></li>
 <li><a href="/topimagenews/20210707/1582113.md">滴滴狂跌近千亿！中概股暴跌风暴 最惨狂泻40%</a></li>
 <li><a href="/cbnews/20210707/1582279.md">习近平1年3换司令员 西部战区不寻常</a></li>
-<li><a href="/topimagenews/20210707/1582216.md">二十大争夺中共“刀把子” 江系再为周强造势【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20210707/1582261.md">文睿：太狠了，日本直接把习近平变成笑话，北京怕啥来啥</a></li>
+<li><a href="/topimagenews/20210707/1582216.md">二十大争夺中共“刀把子” 江系再为周强造势【阿波罗网报道】</a></li>
 <li><a href="/comments/20210707/1582144.md">骇人！上海又一领导被割喉；打人事件发酵，事件被曝涉及中南海权斗？【希望之声TV-午夜新闻】</a></li>
 <li><a href="/cbnews/20210707/1582140.md">叫嚷“老子就是要当” 中航书记张陶打人被刑拘</a></li>
 <li><a href="/cnnews/20210707/1582251.md">中央办公厅瞄准“滴滴”牵出习江激烈内斗</a></li>
-<li><a href="/cnnews/20210707/1582327.md">9年前曾经风靡全球的江南鸟叔 为何突然消失</a></li>
 <li><a href="/ssgc/20210707/1582416.md">上海再酿海归博士刀刺领导惨剧</a></li>
+<li><a href="/cnnews/20210707/1582327.md">9年前曾经风靡全球的江南鸟叔 为何突然消失</a></li>
 <li><a href="/cnnews/20210707/1582142.md">中国民众出国难 网传有护照机场被剪</a></li>
+<li><a href="/cbnews/20210708/1582554.md">瑞丽疫苗接种率近97%却疫情大爆 启用战争铁丝网</a></li>
 <li><a href="/comments/20210707/1582107.md">世界政党峰会习又出事 重复读稿：我这说完了吗？</a></li>
 <li><a href="/yule/20210707/1582364.md">陈思诚自爆：我用烟头在佟丽娅身上烫了一烟疤</a></li>
-<li><a href="/cbnews/20210708/1582554.md">瑞丽疫苗接种率近97%却疫情大爆 启用战争铁丝网</a></li>
 <li><a href="/cnnews/20210707/1582133.md">19岁妹子独居800年历史古堡，曝光后引100万人围观</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -98,6 +98,14 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210708/1582802.md" target="_blank">总统遭枪击 海地驻美大使：专业佣兵乔装美干员行凶</a></li>
+<li><a href="/comments/20210708/1582801.md" target="_blank">中国籍妻子再动粗 比利时驻韩国大使被要求立刻回国</a></li>
+<li><a href="/comments/20210708/1582790.md" target="_blank">十年前的这个演讲 网友感慨泪流</a></li>
+<li><a href="/comments/20210708/1582789.md" target="_blank">中共党史系列：中共武装割据中的苏联“红色基因”</a></li>
+<li><a href="/comments/20210708/1582781.md" target="_blank">港大学生会评议会通过感激梁健辉为港牺牲 校方斥美化暴力</a></li>
+<li><a href="/comments/20210708/1582779.md" target="_blank">英国会报告﹕有港年轻人难循现有途径赴英 促再放宽 BNO 签证</a></li>
+<li><a href="/comments/20210708/1582776.md" target="_blank">QQ 音乐《银河修理员》下架 中国网民﹕我一直羨慕香港的自由，可是现在啊…</a></li>
+<li><a href="/comments/20210708/1582775.md" target="_blank">火流星闪爆夜空 照亮了太平洋海面 宛如白昼</a></li>
 <li><a href="/comments/20210708/1582758.md" target="_blank">俄州母亲反对学校教“批判性种族论” 孩子被开除</a></li>
 <li><a href="/comments/20210708/1582744.md" target="_blank">为什么中共那么害怕人民质问养党的费用？</a></li>
 <li><a href="/comments/20210708/1582743.md" target="_blank">袁斌：中共是全世界最邪恶的魔鬼党</a></li>
@@ -115,14 +123,6 @@
 <li><a href="/comments/20210708/1582675.md" target="_blank">官媒透攻台三阶段 美日强硬保台非嘴炮</a></li>
 <li><a href="/comments/20210708/1582674.md" target="_blank">漫天霾: 例行说谎的无耻政客</a></li>
 <li><a href="/comments/20210708/1582668.md" target="_blank">中共全球收集800万孕妇基因要干啥？ HK立法会闹剧 建中共博物馆 施压禁止FLG【希望之声TV-新闻焦点解读-2021/07/07】主持:高洁  嘉宾：方伟 秦鹏 大雄 贾岛</a></li>
-<li><a href="/comments/20210708/1582663.md" target="_blank">颜纯钩: 有暴政才有暴民 人民有权讨一个说法</a></li>
-<li><a href="/comments/20210708/1582662.md" target="_blank">林保华：美日台铁三角?台湾内部问题待解</a></li>
-<li><a href="/comments/20210708/1582661.md" target="_blank">苏暁康：“西北风”</a></li>
-<li><a href="/comments/20210708/1582655.md" target="_blank">海地总统遇刺身亡 美关闭使馆；美刚从阿富汗撤军90% 塔利班进攻一省会城市；中共持续打压 阿里腾讯苏宁等分别被罚50万【希望之声TV-每日头条-2021/7/8】</a></li>
-<li><a href="/comments/20210708/1582654.md" target="_blank">86岁女院士发信曝张陶打人内幕：张陶极其凶残！会判会立案纪检！会查他贪污及黑社会等问题！中南海谣言预言_490</a></li>
-<li><a href="/comments/20210708/1582653.md" target="_blank">美智库专家：美国必须彻底摧毁共产主义</a></li>
-<li><a href="/comments/20210708/1582644.md" target="_blank">宾州参议员宣布：将开启宾州2020大选选票检查</a></li>
-<li><a href="/comments/20210708/1582635.md" target="_blank">佛州大楼坍塌事故搜救继续 确认46人死 99人失踪</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
 <li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
 
 </ul>
 </div>
