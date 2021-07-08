@@ -8,8 +8,8 @@
 <li><a href="/cnnews/20210708/1582849.md">你以为“偷”看成人网站，别人不知道？其实早已人尽皆知</a></li>
 <li><a href="/ssgc/20210708/1582621.md">〖兲朝浮世绘〗中共这是为习总的未来不测做舆论铺垫吗？</a></li>
 <li><a href="/cbnews/20210708/1582554.md">瑞丽疫苗接种率近97%却疫情大爆 启用战争铁丝网</a></li>
-<li><a href="/comments/20210708/1582497.md">习近平峰会又出状况; 海地总统遇刺身亡 第一夫人受伤【希望之声TV-环球看点-2021/7/7】</a></li>
 <li><a href="/cnnews/20210708/1582819.md">林生斌的报应来了！官方律师给出回应，他如今已经逃不掉了</a></li>
+<li><a href="/comments/20210708/1582497.md">习近平峰会又出状况; 海地总统遇刺身亡 第一夫人受伤【希望之声TV-环球看点-2021/7/7】</a></li>
 <li><a href="/topimagenews/20210708/1583017.md">中共绝密文件流出 杀港警嫁祸示威者</a></li>
 <li><a href="/cbnews/20210708/1582657.md">文昭：「滴滴」成导火索，习近平踢开证监会下「杀手鐧」，和局全破！暗黑套路完整解说，富豪原来是假的</a></li>
 <li><a href="/funmedia/20210708/1582817.md">重庆工人维修800年观音像，不小心触动秘密机关，打开后令人惊喜</a></li>
@@ -22,12 +22,12 @@
 <li><a href="/funmedia/20210708/1582845.md">狮子趴在树上瑟瑟发抖，摄影师觉得很疑惑，看了眼树下：摊上事了</a></li>
 <li><a href="/comments/20210708/1582654.md">86岁女院士发信曝张陶打人内幕：张陶极其凶残！会判会立案纪检！会查他贪污及黑社会等问题！中南海谣言预言_490</a></li>
 <li><a href="/worldnews/20210708/1582846.md">朝鲜情况不妙？平壤俄罗斯公民大量撤离</a></li>
-<li><a href="/cbnews/20210708/1582587.md">点4道菜收974元！店家喊标价透明 网看破玄机：被宰了</a></li>
 <li><a href="/cbnews/20210708/1583002.md">领导频频被割喉 商机来了 防割围脖隆重上市</a></li>
 <li><a href="/cbnews/20210708/1583007.md">中共双面谍！潜伏梅克尔身边10年</a></li>
+<li><a href="/cbnews/20210708/1582587.md">点4道菜收974元！店家喊标价透明 网看破玄机：被宰了</a></li>
 <li><a href="/bannedvideo/20210708/1582844.md">习近平世界政党峰会讲话断片15秒：我说完了？张陶“忠实执行七一讲话精神”绑架一尊？</a></li>
+<li><a href="/baitai/20210708/1583026.md">小晖有思｜李承鹏把高晓松的皮给扒了</a></li>
 <li><a href="/topimagenews/20210708/1582726.md">枪声砰砰作响！海地暗杀总统现场录像疑似曝光</a></li>
-<li><a href="/bannedvideo/20210708/1582863.md">滴滴背后的权贵算盘，打得习措手不及，习近平还能控制局面吗？｜薇羽看世间 第330期 20210707</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210709/1583251.md" target="_blank">海地总统遇刺 更多细节曝光；拜登延续川普政令 国家紧急状态延续一年【希望之声TV-环球看点-2021/7/8】</a></li>
 <li><a href="/cbnews/20210709/1583233.md" target="_blank">唐山一漂流山洞大面积翻船 游客被困 传多名大人孩子被冲走</a></li>
 <li><a href="/cbnews/20210708/1583193.md" target="_blank">高接种率阻断疫情蔓延落空 瑞丽畹町全员居家隔离</a></li>
 <li><a href="/cbnews/20210708/1583161.md" target="_blank">管的太宽了！唱卡拉ok也危害政权安全？中共拟建违规曲目清单</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/comments/20210708/1582711.md" target="_blank">前海军司令部中校为中共偷机反被坐牢 看透中共本质【希望之声TV】</a></li>
 <li><a href="/cbnews/20210708/1582689.md" target="_blank">山东女存银行100万只剩1元 讨7年曾被诬告关押</a></li>
 <li><a href="/cbnews/20210708/1582687.md" target="_blank">美国思想领袖：调查记者 山姆‧库柏：中共犯罪网络如何渗透西方？难以置信！中共与海外犯罪头目勾结，哥华市如何成为中共渗透民主社会的国际集结点？揭开中共管用伎俩！（预告片）| 大纪元</a></li>
-<li><a href="/comments/20210708/1582668.md" target="_blank">中共全球收集800万孕妇基因要干啥？ HK立法会闹剧 建中共博物馆 施压禁止FLG【希望之声TV-新闻焦点解读-2021/07/07】主持:高洁  嘉宾：方伟 秦鹏 大雄 贾岛</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210709/1583251.md" target="_blank">海地总统遇刺 更多细节曝光；拜登延续川普政令 国家紧急状态延续一年【希望之声TV-环球看点-2021/7/8】</a></li>
 <li><a href="/comments/20210709/1583243.md" target="_blank">美空军发布最新型B-21隐形轰炸机示意图</a></li>
 <li><a href="/comments/20210709/1583240.md" target="_blank">白宫疫情小组列受赠疫苗国家秀台湾国旗 贴文无预警秒删</a></li>
 <li><a href="/comments/20210709/1583239.md" target="_blank">上海再爆海归博士割喉案 更多细节曝光 媒体禁声</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210708/1583168.md" target="_blank">中医窥探宇宙：金钥匙的分量知多少</a></li>
 <li><a href="/comments/20210708/1583163.md" target="_blank">川爷7月7日在纽泽西高尔夫俱乐部的新闻发布会片段│#熊猫侠</a></li>
 <li><a href="/comments/20210708/1583155.md" target="_blank">时事大家谈：美南方司令部顾问：如何应对中国在拉美的扩张？从塞舌尔到智利 接种中国疫苗后为何疫情严峻？</a></li>
-<li><a href="/comments/20210708/1583146.md" target="_blank">港大学生评议会感激梁健辉牺牲 南早：李国章已邀国安处调查 考虑开除学籍</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
 <li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
 
 </ul>
 </div>
