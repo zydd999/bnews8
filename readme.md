@@ -25,8 +25,8 @@
 <li><a href="/topimagenews/20210707/1582216.md">二十大争夺中共“刀把子” 江系再为周强造势【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20210707/1582140.md">叫嚷“老子就是要当” 中航书记张陶打人被刑拘</a></li>
 <li><a href="/cnnews/20210707/1582251.md">中央办公厅瞄准“滴滴”牵出习江激烈内斗</a></li>
-<li><a href="/cnnews/20210707/1582142.md">中国民众出国难 网传有护照机场被剪</a></li>
 <li><a href="/cnnews/20210707/1582327.md">9年前曾经风靡全球的江南鸟叔 为何突然消失</a></li>
+<li><a href="/cnnews/20210707/1582142.md">中国民众出国难 网传有护照机场被剪</a></li>
 <li><a href="/comments/20210707/1582107.md">世界政党峰会习又出事 重复读稿：我这说完了吗？</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210708/1582657.md" target="_blank">文昭：「滴滴」成导火索，习近平踢开证监会下「杀手鐧」，和局全破！暗黑套路完整解说，富豪原来是假的</a></li>
+<li><a href="/comments/20210708/1582655.md" target="_blank">海地总统遇刺身亡 美关闭使馆；美刚从阿富汗撤军90% 塔利班进攻一省会城市；中共持续打压 阿里腾讯苏宁等分别被罚50万【希望之声TV-每日头条-2021/7/8】</a></li>
 <li><a href="/comments/20210708/1582615.md" target="_blank">聂隐娘只是无脑的杀手故事吗？不，她的身后是整个中晚唐的波诡云谲。#大雄画里话外 #笔墨传说 #唐传奇 #聂隐娘</a></li>
 <li><a href="/cbnews/20210708/1582588.md" target="_blank">澳德学者合作出书 揭中共统战伎俩</a></li>
 <li><a href="/cbnews/20210708/1582587.md" target="_blank">点4道菜收974元！店家喊标价透明 网看破玄机：被宰了</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/cbnews/20210707/1582238.md" target="_blank">打破惯例 战略重点移至台海？习晋升新上将背后</a></li>
 <li><a href="/cbnews/20210707/1582218.md" target="_blank">中共喉舌新华社高层人事变动 总编换人</a></li>
 <li><a href="/comments/20210707/1582175.md" target="_blank">因为共产邪党 才有现在道德崩溃的中国乱象</a></li>
-<li><a href="/cbnews/20210707/1582145.md" target="_blank">500余中国研究生赴美被拒 敏感专业引美国警觉</a></li>
-<li><a href="/comments/20210707/1582144.md" target="_blank">骇人！上海又一领导被割喉；打人事件发酵，事件被曝涉及中南海权斗？【希望之声TV-午夜新闻】</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210708/1582663.md" target="_blank">颜纯钩: 有暴政才有暴民 人民有权讨一个说法</a></li>
+<li><a href="/comments/20210708/1582662.md" target="_blank">林保华：美日台铁三角?台湾内部问题待解</a></li>
+<li><a href="/comments/20210708/1582661.md" target="_blank">苏暁康：“西北风”</a></li>
+<li><a href="/comments/20210708/1582655.md" target="_blank">海地总统遇刺身亡 美关闭使馆；美刚从阿富汗撤军90% 塔利班进攻一省会城市；中共持续打压 阿里腾讯苏宁等分别被罚50万【希望之声TV-每日头条-2021/7/8】</a></li>
+<li><a href="/comments/20210708/1582654.md" target="_blank">86岁女院士发信曝张陶打人内幕：张陶极其凶残！会判会立案纪检！会查他贪污及黑社会等问题！中南海谣言预言_490</a></li>
 <li><a href="/comments/20210708/1582653.md" target="_blank">美智库专家：美国必须彻底摧毁共产主义</a></li>
 <li><a href="/comments/20210708/1582644.md" target="_blank">宾州参议员宣布：将开启宾州2020大选选票检查</a></li>
 <li><a href="/comments/20210708/1582635.md" target="_blank">佛州大楼坍塌事故搜救继续 确认46人死 99人失踪</a></li>
@@ -118,11 +123,6 @@
 <li><a href="/comments/20210708/1582526.md" target="_blank">削减马云影响力？传国企拟全盘收购微博</a></li>
 <li><a href="/comments/20210708/1582519.md" target="_blank">【苏苏专栏】《看9岁小孩如何画出不同风格的眼睛！》《看九岁小孩如何画出双眼皮大眼睛女生》</a></li>
 <li><a href="/comments/20210708/1582518.md" target="_blank">【苏苏专栏】9岁小孩：《如何画一个天真无邪的小女》《如何画出长发飘飘的女生》</a></li>
-<li><a href="/comments/20210708/1582517.md" target="_blank">【苏苏专栏】9岁小孩：《如何画出淡淡忧伤的女生》《如何画出清纯的小女生》</a></li>
-<li><a href="/comments/20210708/1582516.md" target="_blank">【苏苏专栏】9岁小孩：《如何画一只戴着帽子的小女孩》《如何画一个害羞小女孩》</a></li>
-<li><a href="/comments/20210708/1582515.md" target="_blank">北京再出手！阿里巴巴、腾讯等又被罚 滴滴出行也哀嚎</a></li>
-<li><a href="/comments/20210708/1582514.md" target="_blank">【苏苏专栏】9岁小孩：《如何画描绘的逼真小猫》《如何画出内向文静的女生》</a></li>
-<li><a href="/comments/20210708/1582502.md" target="_blank">内部文件曝光中共转化法轮功受挫</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
 <li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/ganwu/20170705/787156.md" target="_blank">感悟神韵（之四）：感悟神韵音乐</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
 
 </ul>
 </div>
