@@ -16,18 +16,18 @@
 <li><a href="/baitai/20210708/1583026.md">小晖有思｜李承鹏把高晓松的皮给扒了</a></li>
 <li><a href="/cnnews/20210709/1583281.md">微软发紧急安全警告 立即更新个人电脑 否则可能有重大损失</a></li>
 <li><a href="/cbnews/20210708/1583119.md">大外宣放风：周强和习近平三亲信争当政法委书记？</a></li>
+<li><a href="/topimagenews/20210709/1583332.md">新疆沙漠出现神秘机场 美卫星监测疑“中国版51区”</a></li>
 <li><a href="/comments/20210709/1583239.md">上海再爆海归博士割喉案 更多细节曝光 媒体禁声</a></li>
 <li><a href="/cbnews/20210708/1583161.md">管的太宽了！唱卡拉ok也危害政权安全？中共拟建违规曲目清单</a></li>
-<li><a href="/topimagenews/20210709/1583332.md">新疆沙漠出现神秘机场 美卫星监测疑“中国版51区”</a></li>
 <li><a href="/ccpdope/20210709/1583245.md">钱学森沉默以对 江转头崩出狠话</a></li>
 <li><a href="/bannedvideo/20210708/1582986.md">★闫丽梦：中共首先用中国人测试生物武器 ★ 川普就病毒最新发言：病毒最有可能来自武汉实验室，氢氯喹可以有效对抗COVID  美国正处在一个危险状态</a></li>
-<li><a href="/comments/20210708/1582865.md">七一刚过胡春华即起程赴辽宁 藏重要信号？</a></li>
-<li><a href="/topimagenews/20210708/1582899.md">内蒙官场大震动！一天之内 1人投案5人被查 【阿波罗网报道】</a></li>
-<li><a href="/taiwannews/20210708/1582974.md">报告副署长：近期屡次有现陆客,是否授权海巡队向陆方反应？</a></li>
 <li><a href="/yule/20210709/1583325.md">日本混血男童9岁年收达30亿 成世界网红首富</a></li>
-<li><a href="/cbnews/20210709/1583233.md">唐山一漂流山洞大面积翻船 游客被困 传多名大人孩子被冲走</a></li>
+<li><a href="/topimagenews/20210708/1582899.md">内蒙官场大震动！一天之内 1人投案5人被查 【阿波罗网报道】</a></li>
+<li><a href="/cnnews/20210709/1583426.md">赶尽杀绝：交40多年的社保就为了领十年的退休金？ 网友：怕活不到领养老金那天</a></li>
+<li><a href="/taiwannews/20210708/1582974.md">报告副署长：近期屡次有现陆客,是否授权海巡队向陆方反应？</a></li>
+<li><a href="/topimagenews/20210709/1583469.md">印度神童最新预言 7月小心4件事</a></li>
+<li><a href="/worldnews/20210709/1583337.md">金正恩猛瘦身约20公斤 韩国情报部门分析</a></li>
 <li><a href="/ccpdope/20210708/1583079.md">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/cnnews/20210709/1583292.md">上海突然白昼变黑夜 暴雨狂风齐来</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210709/1583582.md" target="_blank">江峰：义务教育公平权？学区房绝杀令背后真相没那么简单！“乱世”“对抗”歌词不能唱，港生受罚，拒宣誓效忠，港区议员恐被夺议席【江峰漫谈20210708第344期】</a></li>
 <li><a href="/cbnews/20210709/1583570.md" target="_blank">萧铭：(独家）央视董经纬新闻造假新证据：雅虎印度报导，中国没有参加上海经合组织国家安全部长会议 ｜ 萧茗看世界</a></li>
 <li><a href="/cbnews/20210709/1583556.md" target="_blank">中共收集孕妇基因三大邪恶目的 “709”六周年他们依然在行动</a></li>
 <li><a href="/cbnews/20210709/1583555.md" target="_blank">南京上海同现白昼突变黑夜异象</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210709/1583233.md" target="_blank">唐山一漂流山洞大面积翻船 游客被困 传多名大人孩子被冲走</a></li>
 <li><a href="/cbnews/20210708/1583193.md" target="_blank">高接种率阻断疫情蔓延落空 瑞丽畹町全员居家隔离</a></li>
 <li><a href="/cbnews/20210708/1583161.md" target="_blank">管的太宽了！唱卡拉ok也危害政权安全？中共拟建违规曲目清单</a></li>
-<li><a href="/cbnews/20210708/1583056.md" target="_blank">越南女硕士修炼法轮功 从酸楚人生转变为幸福快乐</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210709/1583574.md" target="_blank">诗一首： 《归来吧》</a></li>
 <li><a href="/comments/20210709/1583538.md" target="_blank">宜兰天际现火球还传爆炸声 网友热议“外星人你好意思来”</a></li>
 <li><a href="/comments/20210709/1583537.md" target="_blank">滴滴风波将柳传志推上风口浪尖 神秘“泰山会”成员曝光</a></li>
 <li><a href="/comments/20210709/1583536.md" target="_blank">【曾铮专栏】“中国不是敌人”？美国亲共势力反扑 我给川普的七点建议</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210709/1583436.md" target="_blank">辽宁锦州县官赵难从20层跳楼而亡</a></li>
 <li><a href="/comments/20210709/1583435.md" target="_blank">快讯：美加州内州边界发生地震 旧金山多地有震感</a></li>
 <li><a href="/comments/20210709/1583434.md" target="_blank">吃土豆可以减重，关键是方法要得当</a></li>
-<li><a href="/comments/20210709/1583421.md" target="_blank">魏欢欢：你一切都要听我们的</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
 <li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
 <li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
 
 </ul>
 </div>
