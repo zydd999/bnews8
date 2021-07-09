@@ -21,11 +21,11 @@
 <li><a href="/cnnews/20210709/1583535.md">即使丢小命也要秀五星旗？中国神舟七号故障"颠三观"</a></li>
 <li><a href="/worldnews/20210709/1583337.md">金正恩猛瘦身约20公斤 韩国情报部门分析</a></li>
 <li><a href="/comments/20210709/1583492.md">江泽民甩锅习近平，一尊无奈走上卖国路，风光还是窝囊？深挖土共卖国求荣史。│#熊猫侠</a></li>
-<li><a href="/bannedvideo/20210709/1583719.md">习近平一句话应验中共末日 习健康出现危机 ？江习斗摊牌(2021年7月9日)</a></li>
 <li><a href="/headline/20210709/1583382.md">美国专家称中国无法取得荷兰光刻机想发展芯片产业有如天方夜谭</a></li>
+<li><a href="/bannedvideo/20210709/1583719.md">习近平一句话应验中共末日 习健康出现危机 ？江习斗摊牌(2021年7月9日)</a></li>
 <li><a href="/yule/20210709/1583325.md">日本混血男童9岁年收达30亿 成世界网红首富</a></li>
-<li><a href="/cbnews/20210709/1583373.md">9年砸数百万 打造石头“满汉全席”…妻气到离婚</a></li>
 <li><a href="/cbnews/20210709/1583821.md">生变！潘石屹还跑得掉? 防割喉围脖隆重上市，中共官员有福了？美驻北京使馆回应拒签</a></li>
+<li><a href="/cbnews/20210709/1583373.md">9年砸数百万 打造石头“满汉全席”…妻气到离婚</a></li>
 <li><a href="/cbnews/20210709/1583726.md">消息：美国将再制裁至少10家侵犯人权中企</a></li>
 <li><a href="/cbnews/20210709/1583527.md">大纪元：文件泄广州群体事件的内部记录</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -98,6 +98,12 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210710/1583977.md" target="_blank">屯门 2 青年涉刑毁被捕 行人隧道内拜祭、写“梁健辉烈士 RIP” 家中搜“光时”挥春</a></li>
+<li><a href="/comments/20210710/1583976.md" target="_blank">【整治港台】消息：《铿锵集》3 公务员编导离职 多名合约编导突被通知“无工开”</a></li>
+<li><a href="/comments/20210710/1583975.md" target="_blank">【高官犯聚饭局】3 高官带头违限聚令 食衞局赞保安局部门抗疫贡献良多 “深表感谢”</a></li>
+<li><a href="/comments/20210710/1583974.md" target="_blank">应对变异毒株 辉瑞申请施打第三剂疫苗</a></li>
+<li><a href="/comments/20210710/1583973.md" target="_blank">【高官犯聚饭局】消息指恒大陈姓高层出席饭局 同名男子 5 月被控强奸</a></li>
+<li><a href="/comments/20210710/1583972.md" target="_blank">美国再祭制裁剑！ 又十多家中国公司入黑名单 中共外交部回应</a></li>
 <li><a href="/comments/20210710/1583971.md" target="_blank">福原爱不伦代价大 离婚后首发声向中国球迷道歉</a></li>
 <li><a href="/comments/20210710/1583952.md" target="_blank">暗杀恐有内鬼 被害海地总统曾力拒中共 11嫌犯闯台使馆；收集孕妇DNA曝3个邪恶目的  蓬佩奥警告中共野心；【希望之声TV-环球看点-2021/7/9】</a></li>
 <li><a href="/comments/20210710/1583948.md" target="_blank">专家：应反思美中关系恶化的原因</a></li>
@@ -117,12 +123,6 @@
 <li><a href="/comments/20210709/1583864.md" target="_blank">【区议员宣誓】民主派辞职潮持续 44 小时内至少 119 人请辞 建制派北区九龙城已翻盘</a></li>
 <li><a href="/comments/20210709/1583863.md" target="_blank">消息指陈文敏月初从港大法律学院退休 校网改列“兼任教授”</a></li>
 <li><a href="/comments/20210709/1583862.md" target="_blank">【高官犯聚饭局】3 官“误以为”私人地方 记者 6 月到访 当眼处有食肆牌、“安心出行”</a></li>
-<li><a href="/comments/20210709/1583861.md" target="_blank">【钟宏专栏】诗歌篇：《七绝 访梅》</a></li>
-<li><a href="/comments/20210709/1583859.md" target="_blank">集句诗两首 （集自龚自珍《己亥杂诗》）</a></li>
-<li><a href="/comments/20210709/1583858.md" target="_blank">【画缘】苹果的画法</a></li>
-<li><a href="/comments/20210709/1583839.md" target="_blank">谴责中国强迫关闭香港《苹果日报》欧洲议会决议杯葛2022北京冬奥</a></li>
-<li><a href="/comments/20210709/1583837.md" target="_blank">日本高官频表态德媒：护台抗中政策明朗化</a></li>
-<li><a href="/comments/20210709/1583797.md" target="_blank">中共绝密文件： 杀港警嫁祸示威者；白宫发言人澄清：含中华民国旗帜的推文是“无心之失”【希望之声TV-两岸要闻-2021/7/9】</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
 <li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
 <li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
 
 </ul>
 </div>
