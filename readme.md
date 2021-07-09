@@ -13,21 +13,21 @@
 <li><a href="/cnnews/20210709/1583281.md">微软发紧急安全警告 立即更新个人电脑 否则可能有重大损失</a></li>
 <li><a href="/comments/20210709/1583239.md">上海再爆海归博士割喉案 更多细节曝光 媒体禁声</a></li>
 <li><a href="/topimagenews/20210709/1583332.md">新疆沙漠出现神秘机场 美卫星监测疑“中国版51区”</a></li>
+<li><a href="/cbnews/20210709/1583570.md">萧铭：(独家）央视董经纬新闻造假新证据：雅虎印度报导，中国没有参加上海经合组织国家安全部长会议 ｜ 萧茗看世界</a></li>
 <li><a href="/ccpdope/20210709/1583245.md">钱学森沉默以对 江转头崩出狠话</a></li>
 <li><a href="/bannedvideo/20210709/1583500.md">耿爽猛砸赵立坚：力挺美国拒签五百多中国留学生赴美！中共各级党委书记抢购防刺围脖？</a></li>
-<li><a href="/cbnews/20210709/1583570.md">萧铭：(独家）央视董经纬新闻造假新证据：雅虎印度报导，中国没有参加上海经合组织国家安全部长会议 ｜ 萧茗看世界</a></li>
 <li><a href="/cbnews/20210708/1583161.md">管的太宽了！唱卡拉ok也危害政权安全？中共拟建违规曲目清单</a></li>
 <li><a href="/cbnews/20210709/1583451.md">500中国学生赴美留学被拒签 美国务院回应</a></li>
 <li><a href="/cnnews/20210709/1583535.md">即使丢小命也要秀五星旗？中国神舟七号故障"颠三观"</a></li>
-<li><a href="/headline/20210709/1583382.md">美国专家称中国无法取得荷兰光刻机想发展芯片产业有如天方夜谭</a></li>
 <li><a href="/worldnews/20210709/1583337.md">金正恩猛瘦身约20公斤 韩国情报部门分析</a></li>
+<li><a href="/headline/20210709/1583382.md">美国专家称中国无法取得荷兰光刻机想发展芯片产业有如天方夜谭</a></li>
 <li><a href="/yule/20210709/1583325.md">日本混血男童9岁年收达30亿 成世界网红首富</a></li>
 <li><a href="/comments/20210709/1583492.md">江泽民甩锅习近平，一尊无奈走上卖国路，风光还是窝囊？深挖土共卖国求荣史。│#熊猫侠</a></li>
 <li><a href="/ccpdope/20210708/1583079.md">万分惊骇！中共五星红旗的风水秘密</a></li>
 <li><a href="/cbnews/20210709/1583373.md">9年砸数百万 打造石头“满汉全席”…妻气到离婚</a></li>
+<li><a href="/cbnews/20210709/1583608.md">政法系又要哀嚎了！中共最高检宣布... 【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20210709/1583233.md">唐山一漂流山洞大面积翻船 游客被困 传多名大人孩子被冲走</a></li>
-<li><a href="/cnnews/20210709/1583292.md">上海突然白昼变黑夜 暴雨狂风齐来</a></li>
-<li><a href="/cnnews/20210709/1583376.md">美警察拦截违规驾驶 为何要用手碰后行李箱？</a></li>
+<li><a href="/cbnews/20210709/1583628.md">习近平在和谁说话？《新华社》这张照片令人诧异 【阿波罗网报道】</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
 <li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/ganwu/20170705/787156.md" target="_blank">感悟神韵（之四）：感悟神韵音乐</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
 
 </ul>
 </div>
