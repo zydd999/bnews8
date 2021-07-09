@@ -10,24 +10,24 @@
 <li><a href="/cbnews/20210708/1583129.md">广东女店主手提双菜刀直骂土匪 十几个城管都不敢动</a></li>
 <li><a href="/finance/20210708/1583120.md">快逃！史上最长牛市濒临尾声;中国地产已被抛弃;大陆科企蒸发逾8千亿美元</a></li>
 <li><a href="/cbnews/20210708/1583007.md">中共双面谍！潜伏梅克尔身边10年</a></li>
-<li><a href="/cnnews/20210709/1583426.md">赶尽杀绝：交40多年的社保就为了领十年的退休金？ 网友：怕活不到领养老金那天</a></li>
 <li><a href="/topimagenews/20210709/1583469.md">印度神童最新预言 7月小心4件事</a></li>
+<li><a href="/cnnews/20210709/1583426.md">赶尽杀绝：交40多年的社保就为了领十年的退休金？ 网友：怕活不到领养老金那天</a></li>
 <li><a href="/cbnews/20210708/1583002.md">领导频频被割喉 商机来了 防割围脖隆重上市</a></li>
 <li><a href="/baitai/20210708/1583026.md">小晖有思｜李承鹏把高晓松的皮给扒了</a></li>
 <li><a href="/cbnews/20210708/1583119.md">大外宣放风：周强和习近平三亲信争当政法委书记？</a></li>
-<li><a href="/cnnews/20210709/1583281.md">微软发紧急安全警告 立即更新个人电脑 否则可能有重大损失</a></li>
 <li><a href="/topimagenews/20210709/1583332.md">新疆沙漠出现神秘机场 美卫星监测疑“中国版51区”</a></li>
+<li><a href="/cnnews/20210709/1583281.md">微软发紧急安全警告 立即更新个人电脑 否则可能有重大损失</a></li>
 <li><a href="/comments/20210709/1583239.md">上海再爆海归博士割喉案 更多细节曝光 媒体禁声</a></li>
 <li><a href="/ccpdope/20210709/1583245.md">钱学森沉默以对 江转头崩出狠话</a></li>
 <li><a href="/cbnews/20210708/1583161.md">管的太宽了！唱卡拉ok也危害政权安全？中共拟建违规曲目清单</a></li>
+<li><a href="/bannedvideo/20210709/1583500.md">耿爽猛砸赵立坚：力挺美国拒签五百多中国留学生赴美！中共各级党委书记抢购防刺围脖？</a></li>
 <li><a href="/headline/20210709/1583382.md">美国专家称中国无法取得荷兰光刻机想发展芯片产业有如天方夜谭</a></li>
 <li><a href="/cbnews/20210709/1583451.md">500中国学生赴美留学被拒签 美国务院回应</a></li>
 <li><a href="/worldnews/20210709/1583337.md">金正恩猛瘦身约20公斤 韩国情报部门分析</a></li>
-<li><a href="/bannedvideo/20210708/1582986.md">★闫丽梦：中共首先用中国人测试生物武器 ★ 川普就病毒最新发言：病毒最有可能来自武汉实验室，氢氯喹可以有效对抗COVID  美国正处在一个危险状态</a></li>
-<li><a href="/bannedvideo/20210709/1583500.md">耿爽猛砸赵立坚：力挺美国拒签五百多中国留学生赴美！中共各级党委书记抢购防刺围脖？</a></li>
 <li><a href="/yule/20210709/1583325.md">日本混血男童9岁年收达30亿 成世界网红首富</a></li>
 <li><a href="/ccpdope/20210708/1583079.md">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/taiwannews/20210708/1582974.md">报告副署长：近期屡次有现陆客,是否授权海巡队向陆方反应？</a></li>
+<li><a href="/cnnews/20210709/1583535.md">即使丢小命也要秀五星旗？中国神舟七号故障"颠三观"</a></li>
+<li><a href="/cbnews/20210709/1583373.md">9年砸数百万 打造石头“满汉全席”…妻气到离婚</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/ganwu/20170705/787156.md" target="_blank">感悟神韵（之四）：感悟神韵音乐</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
 <li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20210612/1565472.md" target="_blank">感悟神韵（之二）：感悟神韵的艺术风格</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
 
 </ul>
 </div>
