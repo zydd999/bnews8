@@ -13,13 +13,12 @@
 <li><a href="/yule/20210710/1584068.md">“南韩第一美女”45岁近照曝光！粉丝惊呆：根本女高中生</a></li>
 <li><a href="/cbnews/20210710/1584089.md">夜总会？中国大学的招生海报让人无语</a></li>
 <li><a href="/cbnews/20210710/1584487.md">习江斗升级？传官方四字定性 滴滴突删“坚决服从”</a></li>
-<li><a href="/topimagenews/20210710/1584006.md">美商务部将34家实体纳入黑名单 14中企因侵犯人权与高科技监控入列</a></li>
 <li><a href="/comments/20210710/1584097.md">习近平召见四高官 一度考虑对湖北和武汉发布戒严令 前湖北省委书记蒋超良和省委副书记兼武汉市委书记马国强和省委副书记兼省长王晓东 三人同时被内部宣布了处分决定 中南海谣言预言_491</a></li>
 <li><a href="/topimagenews/20210710/1584331.md">网络炸锅！华为高管：特斯拉…简直就是杀人【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20210710/1584362.md">分析：习去年没对武汉发出戒严令的背后</a></li>
+<li><a href="/bannedvideo/20210710/1584496.md">牛B！终于出现了真正让中共害怕的反共组织，以及全新的反共方式！颤抖吧，CCP!</a></li>
 <li><a href="/topimagenews/20210710/1584260.md">成龙献媚 表态“我要做党员” 网络一片骂声！【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20210710/1584192.md">传滴滴赴美获国务院支持 当局定性“阳奉阴违”</a></li>
-<li><a href="/bannedvideo/20210710/1584496.md">牛B！终于出现了真正让中共害怕的反共组织，以及全新的反共方式！颤抖吧，CCP!</a></li>
 <li><a href="/cnnews/20210710/1584210.md">蹊跷？传多省回收公务员政府性奖金</a></li>
 <li><a href="/bannedvideo/20210710/1584083.md">滴滴25款APP全下架！习近平穷追不舍另有原因？官员爆料：滴滴“阳奉阴违”摆了习近平一道；欧盟新决议刺痛中共：制裁港官抵制奥运。</a></li>
 <li><a href="/lifebaike/20210710/1584333.md">人到中年，要拒绝以下8个人来家里做客</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/cbnews/20210710/1584187.md">天亮时分：李克强揭穿习近平谎言；对付中共，美智库不排除军事选项；中欧协定复活？中共虚张声势（政论天下第463集 20210709）</a></li>
 <li><a href="/baitai/20210710/1584428.md">外交部副部长乐玉成：搞砸中美关系是最大的政治不正确</a></li>
 <li><a href="/comments/20210710/1584264.md">刺杀海地总统 外国职业杀手团浮出；21国声明：关注港府或出新法打压媒体【希望之声-午夜新闻-2021/07/09】【希望之声TV】</a></li>
+<li><a href="/headline/20210710/1584072.md">基辛格访华50周年 王岐山语出惊人</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210711/1584604.md" target="_blank">滴滴出行背后太子党势力与海内外金融大鳄曝光 23轮融资细节揭秘 中南海不可告人的秘密_416</a></li>
 <li><a href="/comments/20210711/1584598.md" target="_blank">【独家】周易看”躺平”二字蕴含的玄机，黑暗时代的自我救赎之路</a></li>
 <li><a href="/comments/20210711/1584596.md" target="_blank">治疗犬——学校的成员和孩子成长的好帮手</a></li>
 <li><a href="/comments/20210711/1584585.md" target="_blank">针对科技巨头的5⃣️项反垄断法案有哪些内容❓新系统 Windows 11曝光❗️</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210710/1584456.md" target="_blank">【独家】王维洛揭中国疆域面积数据也造假 应是这个数</a></li>
 <li><a href="/comments/20210710/1584450.md" target="_blank">美国民调巨大变化！过半数民众认为“病毒来自实验室”</a></li>
 <li><a href="/comments/20210710/1584449.md" target="_blank">打满中国科兴疫苗频传染疫亡 印尼将为医护补打莫德纳</a></li>
-<li><a href="/comments/20210710/1584441.md" target="_blank">709律师获2021中国人权律师奖；滑稽一幕:小贩持菜刀 城管瞬间“变猫” ；【希望之声TV-两岸要闻-2021/7/10】</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
 <li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20210612/1565472.md" target="_blank">感悟神韵（之二）：感悟神韵的艺术风格</a></li>
 <li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
 
 </ul>
 </div>
