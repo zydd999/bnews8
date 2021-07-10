@@ -14,7 +14,6 @@
 <li><a href="/comments/20210709/1583787.md">都搞错了！温家宝身后站的不是薄熙成。华大基因收集孕妇DNA，中共显战略野心曝光。中缅边境建逾千公里围墙，两个不能公开的原因。</a></li>
 <li><a href="/cbnews/20210709/1583608.md">政法系又要哀嚎了！中共最高检宣布... 【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20210709/1583570.md">萧铭：(独家）央视董经纬新闻造假新证据：雅虎印度报导，中国没有参加上海经合组织国家安全部长会议 ｜ 萧茗看世界</a></li>
-<li><a href="/cbnews/20210709/1583451.md">500中国学生赴美留学被拒签 美国务院回应</a></li>
 <li><a href="/cbnews/20210709/1583821.md">生变！潘石屹还跑得掉? 防割喉围脖隆重上市，中共官员有福了？美驻北京使馆回应拒签</a></li>
 <li><a href="/cnnews/20210709/1583535.md">即使丢小命也要秀五星旗？中国神舟七号故障"颠三观"</a></li>
 <li><a href="/comments/20210709/1583492.md">江泽民甩锅习近平，一尊无奈走上卖国路，风光还是窝囊？深挖土共卖国求荣史。│#熊猫侠</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/bannedvideo/20210710/1583968.md">陈光诚入美国籍： 中共是是全人类的灾难</a></li>
 <li><a href="/cbnews/20210709/1583704.md">被中共洗脑的人精神有多分裂 最恨美国最想去美国</a></li>
 <li><a href="/funmedia/20210709/1583572.md">中国最良心寺庙！低调地美了1400多年，却免收门票</a></li>
+<li><a href="/headline/20210709/1583748.md">彭博：中国监管机构约谈恒大董事长许家印 要求尽快解决债务危机</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210710/1584088.md" target="_blank">“习近平与中共百年老店的挑战”（上）(戴忠仁,蔡霞,明居正)|亚洲很想聊</a></li>
 <li><a href="/cbnews/20210710/1584104.md" target="_blank">基辛格密访50周年王岐山捧场 美国无视</a></li>
 <li><a href="/comments/20210710/1584098.md" target="_blank">比格林童话早千年的大唐灰姑娘。</a></li>
 <li><a href="/comments/20210710/1584093.md" target="_blank">美添34实体清单 含19家中国企业；美撤军阿富汗 专家：中共难取代;疫情误庇护进度 纽约移民法庭重开【希望之声TV-每日头条-2021/7/9】</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210709/1583821.md" target="_blank">生变！潘石屹还跑得掉? 防割喉围脖隆重上市，中共官员有福了？美驻北京使馆回应拒签</a></li>
 <li><a href="/cbnews/20210709/1583778.md" target="_blank">在美国政府工作的资深精算师修炼法轮功的故事</a></li>
 <li><a href="/comments/20210709/1583797.md" target="_blank">中共绝密文件： 杀港警嫁祸示威者；白宫发言人澄清：含中华民国旗帜的推文是“无心之失”【希望之声TV-两岸要闻-2021/7/9】</a></li>
-<li><a href="/comments/20210709/1583787.md" target="_blank">都搞错了！温家宝身后站的不是薄熙成。华大基因收集孕妇DNA，中共显战略野心曝光。中缅边境建逾千公里围墙，两个不能公开的原因。</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210710/1583854.md" target="_blank">华裔导演历时四年制作《布娃娃》获加国雄狮奖</a></li>
+<li><a href="/comments/20210710/1584127.md" target="_blank">不忍了！任天堂提告盗版网站 赔款需3500年才能清偿</a></li>
+<li><a href="/comments/20210710/1584125.md" target="_blank">被张陶殴打的85岁吴美蓉 痛斥流言蜚语</a></li>
+<li><a href="/comments/20210710/1584124.md" target="_blank">塔利班称中共是朋友 胡锡进洋洋自得 评:恐怖组织是一家</a></li>
 <li><a href="/comments/20210710/1584123.md" target="_blank">颜智华：国共合作以共产党惨败收场</a></li>
 <li><a href="/comments/20210710/1584122.md" target="_blank">袁斌：中共是全世界最不要脸的流氓党</a></li>
 <li><a href="/comments/20210710/1584121.md" target="_blank">钟原：李克强戳破内循环 习近平隐身？</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210710/1584011.md" target="_blank">滴滴出行母公司25款App遭北京当局下架</a></li>
 <li><a href="/comments/20210710/1584003.md" target="_blank">时事大家谈：从塞舌尔到智利接种中国疫苗后为何疫情严峻？</a></li>
 <li><a href="/comments/20210710/1583992.md" target="_blank">中共央行将全面降准释放一万亿资金</a></li>
-<li><a href="/comments/20210710/1583990.md" target="_blank">美英德日等21国声明：港府想借反假新闻法 消灭媒体监督</a></li>
-<li><a href="/comments/20210710/1583989.md" target="_blank">时事大家谈：美南方司令部顾问：如何应对中国在拉美的扩张？</a></li>
-<li><a href="/comments/20210710/1583977.md" target="_blank">屯门 2 青年涉刑毁被捕 行人隧道内拜祭、写“梁健辉烈士 RIP” 家中搜“光时”挥春</a></li>
-<li><a href="/comments/20210710/1583976.md" target="_blank">【整治港台】消息：《铿锵集》3 公务员编导离职 多名合约编导突被通知“无工开”</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
 <li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
 
 </ul>
 </div>
