@@ -23,11 +23,11 @@
 <li><a href="/topimagenews/20210710/1583935.md">维稳经济！中国人行全面降准0.5个百分点降准释 放水1万亿人币</a></li>
 <li><a href="/cbnews/20210709/1583726.md">消息：美国将再制裁至少10家侵犯人权中企</a></li>
 <li><a href="/cbnews/20210709/1583527.md">大纪元：文件泄广州群体事件的内部记录</a></li>
-<li><a href="/ssgc/20210709/1583740.md">中国歌舞厅将自我审查   播唱歌单内容“九不准”</a></li>
 <li><a href="/cbnews/20210709/1583705.md">安徽确诊者“跨省移动”当局惊恐 发紧急通告</a></li>
-<li><a href="/funmedia/20210709/1583407.md">4幅画，你最喜欢哪幅？秒测出你是不是个高智商的人？</a></li>
-<li><a href="/headline/20210709/1583748.md">彭博：中国监管机构约谈恒大董事长许家印 要求尽快解决债务危机</a></li>
+<li><a href="/ssgc/20210709/1583740.md">中国歌舞厅将自我审查   播唱歌单内容“九不准”</a></li>
+<li><a href="/cbnews/20210710/1583943.md">涉种族灭绝罪 美国商务部宣布制裁14家中企</a></li>
 <li><a href="/funmedia/20210709/1583572.md">中国最良心寺庙！低调地美了1400多年，却免收门票</a></li>
+<li><a href="/headline/20210709/1583748.md">彭博：中国监管机构约谈恒大董事长许家印 要求尽快解决债务危机</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210710/1584089.md" target="_blank">夜总会？中国大学的招生海报让人无语</a></li>
+<li><a href="/comments/20210710/1584082.md" target="_blank">围堵中共多国齐发声   2022冬运会何去何从？ 中共热捧基辛格  “接触模式”能重归中美之间么？【希望之声TV-新闻焦点解读-2021/07/09】主持:高洁  嘉宾：方伟  谢田</a></li>
 <li><a href="/cbnews/20210710/1584078.md" target="_blank">文昭：大扩权！中共官场超级「东厂」诞生，中国经济进入「灭活」模式；李克强被削</a></li>
 <li><a href="/cbnews/20210710/1584040.md" target="_blank">敏感时刻 中共突解密曾在台海实验攻击型水下无人机</a></li>
 <li><a href="/cbnews/20210710/1584039.md" target="_blank">中国的银行不能信! 存户400多万存款只剩1元 竟然还被银行告</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/comments/20210709/1583744.md" target="_blank">经历濒死体验，打开了人体封印？艺术家获得超凡能力，协助警方破案；音乐家无师自通，学会作曲</a></li>
 <li><a href="/cbnews/20210709/1583735.md" target="_blank">709大抓捕6周年 维权律师：生存空间越来越窄</a></li>
 <li><a href="/cbnews/20210709/1583726.md" target="_blank">消息：美国将再制裁至少10家侵犯人权中企</a></li>
-<li><a href="/cbnews/20210709/1583706.md" target="_blank">前中共海军司令部军官发推 中共正往福建沿海运送大量战争物质</a></li>
-<li><a href="/cbnews/20210709/1583705.md" target="_blank">安徽确诊者“跨省移动”当局惊恐 发紧急通告</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210710/1584085.md" target="_blank">德国网红遭起底为中共宣传员 大外宣“本土化”再被聚焦</a></li>
+<li><a href="/comments/20210710/1584082.md" target="_blank">围堵中共多国齐发声   2022冬运会何去何从？ 中共热捧基辛格  “接触模式”能重归中美之间么？【希望之声TV-新闻焦点解读-2021/07/09】主持:高洁  嘉宾：方伟  谢田</a></li>
 <li><a href="/comments/20210710/1584070.md" target="_blank">拉斯穆森报告：58%美国人认为媒体是人民公敌</a></li>
 <li><a href="/comments/20210710/1584059.md" target="_blank">【 新视野故事汇 】川普的古道热肠，柔肠侠骨。几多人能懂？</a></li>
 <li><a href="/comments/20210710/1584057.md" target="_blank">【钟宏专栏】婚姻篇（之二）慈善始于家人, 用善心念好婚姻这部美丽经典</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210710/1583952.md" target="_blank">暗杀恐有内鬼 被害海地总统曾力拒中共 11嫌犯闯台使馆；收集孕妇DNA曝3个邪恶目的  蓬佩奥警告中共野心；【希望之声TV-环球看点-2021/7/9】</a></li>
 <li><a href="/comments/20210710/1583948.md" target="_blank">专家：应反思美中关系恶化的原因</a></li>
 <li><a href="/comments/20210710/1583947.md" target="_blank">九个UFO团团围住美军战舰 星际大战一触即发？</a></li>
-<li><a href="/comments/20210710/1583942.md" target="_blank">这是你吃得不够的一大健康食物</a></li>
-<li><a href="/comments/20210710/1583941.md" target="_blank">这2穴位能调理脾胃改善胃食道逆流</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
 <li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/ganwu/20170705/787156.md" target="_blank">感悟神韵（之四）：感悟神韵音乐</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
 
 </ul>
 </div>
