@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/cbnews/20210709/1583706.md">前中共海军司令部军官发推 中共正往福建沿海运送大量战争物质</a></li>
 <li><a href="/cnnews/20210709/1583822.md">南京大学4连跳后 第5位女博士跳楼前与导师的聊天记录曝光</a></li>
 <li><a href="/finance/20210709/1583727.md">彭博：习近平的噩梦 中国将进入深度衰退</a></li>
 <li><a href="/comments/20210709/1583787.md">都搞错了！温家宝身后站的不是薄熙成。华大基因收集孕妇DNA，中共显战略野心曝光。中缅边境建逾千公里围墙，两个不能公开的原因。</a></li>
@@ -20,14 +19,15 @@
 <li><a href="/topimagenews/20210710/1584006.md">美商务部将34家实体纳入黑名单 14中企因侵犯人权与高科技监控入列</a></li>
 <li><a href="/cbnews/20210710/1584089.md">夜总会？中国大学的招生海报让人无语</a></li>
 <li><a href="/bannedvideo/20210710/1584083.md">滴滴25款APP全下架！习近平穷追不舍另有原因？官员爆料：滴滴“阳奉阴违”摆了习近平一道；欧盟新决议刺痛中共：制裁港官抵制奥运。</a></li>
-<li><a href="/cbnews/20210709/1583726.md">消息：美国将再制裁至少10家侵犯人权中企</a></li>
 <li><a href="/comments/20210710/1584097.md">习近平召见四高官 一度考虑对湖北和武汉发布戒严令 前湖北省委书记蒋超良和省委副书记兼武汉市委书记马国强和省委副书记兼省长王晓东 三人同时被内部宣布了处分决定 中南海谣言预言_491</a></li>
-<li><a href="/bannedvideo/20210710/1583968.md">陈光诚入美国籍： 中共是是全人类的灾难</a></li>
-<li><a href="/cbnews/20210709/1583705.md">安徽确诊者“跨省移动”当局惊恐 发紧急通告</a></li>
-<li><a href="/comments/20210710/1583973.md">【高官犯聚饭局】消息指恒大陈姓高层出席饭局 同名男子 5 月被控强奸</a></li>
+<li><a href="/cbnews/20210709/1583726.md">消息：美国将再制裁至少10家侵犯人权中企</a></li>
 <li><a href="/cbnews/20210710/1584192.md">传滴滴赴美获国务院支持 当局定性“阳奉阴违”</a></li>
+<li><a href="/bannedvideo/20210710/1583968.md">陈光诚入美国籍： 中共是是全人类的灾难</a></li>
+<li><a href="/comments/20210710/1583973.md">【高官犯聚饭局】消息指恒大陈姓高层出席饭局 同名男子 5 月被控强奸</a></li>
 <li><a href="/ssgc/20210709/1583740.md">中国歌舞厅将自我审查   播唱歌单内容“九不准”</a></li>
 <li><a href="/cbnews/20210710/1583943.md">涉种族灭绝罪 美国商务部宣布制裁14家中企</a></li>
+<li><a href="/cnnews/20210710/1584210.md">蹊跷？传多省回收公务员政府性奖金</a></li>
+<li><a href="/headline/20210709/1583748.md">彭博：中国监管机构约谈恒大董事长许家印 要求尽快解决债务危机</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210710/1584338.md" target="_blank">【国安法第一案手记】唐英杰案“光复”与“革命”字义的学者论战</a></li>
 <li><a href="/comments/20210710/1584326.md" target="_blank">地道重庆小面 麻辣浓厚 香气扑鼻</a></li>
 <li><a href="/comments/20210710/1584325.md" target="_blank">从V字旅现象到梁健辉刺警的启示 【袁红冰纵论天下】特别专题 07102021</a></li>
 <li><a href="/comments/20210710/1584306.md" target="_blank">古人怎么保护牙齿，是否也用牙刷？</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210710/1584205.md" target="_blank">政法委赤裸裸叫嚣 害人加劫财件件令人发指</a></li>
 <li><a href="/comments/20210710/1584204.md" target="_blank">中共新套路：让公务员和教师们互斗</a></li>
 <li><a href="/comments/20210710/1584186.md" target="_blank">夸张！传山东大学女学伴需政审 被强奸不曝光全寝室保研</a></li>
-<li><a href="/comments/20210710/1584185.md" target="_blank">中共太不自信了！老百姓唱歌也管 出新规严控卡拉OK</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/comments/20210329/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
-<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
+<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
 <li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/ganwu/20170705/787156.md" target="_blank">感悟神韵（之四）：感悟神韵音乐</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
 
 </ul>
 </div>
