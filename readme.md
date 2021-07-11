@@ -11,23 +11,23 @@
 <li><a href="/headline/20210711/1584644.md">20大临近 习近平出状况不是小事？</a></li>
 <li><a href="/topimagenews/20210711/1584605.md">中国全面降准放水万亿 分析指非好兆头 势再出手</a></li>
 <li><a href="/cbnews/20210711/1584612.md">北京女子试戴百万名表不慎滑落 小小裂痕要支付天价赔偿费</a></li>
-<li><a href="/cnnews/20210711/1584928.md">突发利空！两只千亿巨头大解禁，900亿天量！股价已暴跌40%</a></li>
-<li><a href="/comments/20210711/1584864.md">中共百年红二代中的太子党一览表 注意排序门第</a></li>
 <li><a href="/funmedia/20210711/1584552.md">世界唯一没有癌症的国家 拒绝游客苹果带入境</a></li>
-<li><a href="/cbnews/20210711/1584611.md">不满车位被BMW挡 她开更大台“呛声封印”结局却逆转了</a></li>
+<li><a href="/cnnews/20210711/1584928.md">突发利空！两只千亿巨头大解禁，900亿天量！股价已暴跌40%</a></li>
 <li><a href="/comments/20210711/1584609.md">习近平震怒出手与此有关？滴滴通过大数据监测中共各部委出行规律：公安部24小时无休 国防部全天活跃……细思极恐 中南海不可告人的秘密_417</a></li>
+<li><a href="/comments/20210711/1584864.md">中共百年红二代中的太子党一览表 注意排序门第</a></li>
+<li><a href="/cbnews/20210711/1584611.md">不满车位被BMW挡 她开更大台“呛声封印”结局却逆转了</a></li>
 <li><a href="/comments/20210711/1584867.md">海地第一夫人首发声明揭海地总统被杀原因；G20推全球最低税率：敲响数字巨头避税天堂丧钟【希望之声-午夜新闻-2021/07/10】</a></li>
 <li><a href="/funmedia/20210711/1584856.md">为什么日本的酒店从不查房，女服务员道出原因却让中国游客羞愧</a></li>
 <li><a href="/cnnews/20210711/1584857.md">特斯拉女车主转发习近平“头破血流”论 最新贴文引来30多万差评大潮【阿波罗网报道】</a></li>
 <li><a href="/comments/20210711/1584604.md">滴滴出行背后太子党势力与海内外金融大鳄曝光 23轮融资细节揭秘 中南海不可告人的秘密_416</a></li>
-<li><a href="/topimagenews/20210711/1584789.md">中共新式潜舰有意外沉没之虞？一张照片看出致命缺失</a></li>
 <li><a href="/bannedvideo/20210711/1584927.md">【内幕】真没钱了？公务员停发奖金绩效越演越烈，和教师们干起来了；欧美联手阻击一带一路；国土面积960万是错的？金融反腐新规出台，中纪委护航，金融权贵坐不住；全面降准放水万亿为哪般。IL</a></li>
-<li><a href="/comments/20210711/1584543.md">成龙献媚表忠 ：我要做党员 网民神回复亮了</a></li>
-<li><a href="/comments/20210711/1584889.md">滴滴出行背后大佬 柳传志家族势力范围惊人 门生遍布 执掌千亿商业帝国 柳传志的江湖地位与神秘的泰山会及中企俱乐部揭秘 中南海不可告人的秘密_418</a></li>
+<li><a href="/topimagenews/20210711/1584789.md">中共新式潜舰有意外沉没之虞？一张照片看出致命缺失</a></li>
 <li><a href="/comments/20210711/1584863.md">【要闻精粹】美军一撤伞中共急撤人 个个谎言都露馅了</a></li>
-<li><a href="/cbnews/20210711/1584575.md">徽州宴女老板叫嚣 小孩命不如她的狗值钱惹众怒 上千民众抗议</a></li>
-<li><a href="/topimagenews/20210711/1584916.md">主动投案！原山西国保总队总队长栽了</a></li>
+<li><a href="/comments/20210711/1584920.md">中国人口未来必然塌陷，习近平应该要有常识知道国力即将江河日下 — 曾节明</a></li>
+<li><a href="/comments/20210711/1584889.md">滴滴出行背后大佬 柳传志家族势力范围惊人 门生遍布 执掌千亿商业帝国 柳传志的江湖地位与神秘的泰山会及中企俱乐部揭秘 中南海不可告人的秘密_418</a></li>
+<li><a href="/comments/20210711/1584543.md">成龙献媚表忠 ：我要做党员 网民神回复亮了</a></li>
 <li><a href="/cnnews/20210711/1584894.md">中共教科书谎言汇编：李大钊才是实锤颠覆国家罪 战斗英雄漏洞百出</a></li>
+<li><a href="/topimagenews/20210711/1584916.md">主动投案！原山西国保总队总队长栽了</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210712/1585084.md" target="_blank">上太空倒数计时！布兰森兴奋推文：马斯克现身为我加油</a></li>
 <li><a href="/comments/20210711/1585042.md" target="_blank">贝佐斯失先机 维珍银河创办人布兰森正飞往太空</a></li>
 <li><a href="/comments/20210711/1585041.md" target="_blank">【区议员辞职潮】陈剑琴最后的落区 相拥哭别街坊 “无咗议员，社区自救”</a></li>
 <li><a href="/comments/20210711/1585040.md" target="_blank">【明德新闻一览】塔利班与中共是一家？胡锡进洋洋自得认了！中共连老百姓唱个歌也怕…</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210711/1572499.md" target="_blank">视频：盖盖冲马桶？你做错啦！</a></li>
 <li><a href="/comments/20210711/1584933.md" target="_blank">英美等 21 国发联合声明 关注《苹果》停刊 忧香港立新法打压传媒</a></li>
 <li><a href="/comments/20210711/1584932.md" target="_blank">林郑：部分青年不懂道德品格 网媒记者若捏造事实较难追查</a></li>
-<li><a href="/comments/20210711/1584931.md" target="_blank">港台电视 31 黄金时段改播内地剧集 头炮《号手就位》由解放军宣传局出品</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
 <li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
+<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
+<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
 
 </ul>
 </div>
