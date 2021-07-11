@@ -20,13 +20,13 @@
 <li><a href="/cbnews/20210710/1584187.md">天亮时分：李克强揭穿习近平谎言；对付中共，美智库不排除军事选项；中欧协定复活？中共虚张声势（政论天下第463集 20210709）</a></li>
 <li><a href="/baitai/20210710/1584428.md">外交部副部长乐玉成：搞砸中美关系是最大的政治不正确</a></li>
 <li><a href="/lifebaike/20210710/1584505.md">女人发生外遇 几乎都是贪图这四样东西</a></li>
+<li><a href="/cnnews/20210710/1584443.md">滴滴获李克强支持？习当局定性“阳奉阴违”；山大女学伴被留学生强奸，全寝室保研</a></li>
 <li><a href="/cnnews/20210710/1584454.md">海地总统遇刺 幕后主使隐约浮现</a></li>
 <li><a href="/comments/20210710/1584264.md">刺杀海地总统 外国职业杀手团浮出；21国声明：关注港府或出新法打压媒体【希望之声-午夜新闻-2021/07/09】【希望之声TV】</a></li>
-<li><a href="/cnnews/20210710/1584443.md">滴滴获李克强支持？习当局定性“阳奉阴违”；山大女学伴被留学生强奸，全寝室保研</a></li>
 <li><a href="/ssgc/20210710/1584283.md">〖兲朝浮世绘〗胡锡进这是心里坏，怂恿着习总往枪口上撞</a></li>
 <li><a href="/bannedvideo/20210710/1584379.md">出厂半年，山东舰航母甲板就严重破损；航母甲板涂层有多么高科技？中美航母甲板对比。</a></li>
-<li><a href="/yule/20210710/1584253.md">福原爱到离婚都没来看孩子！知情人爆“残忍实情”：没回台计划</a></li>
 <li><a href="/funmedia/20210711/1584552.md">世界唯一没有癌症的国家 拒绝游客苹果带入境</a></li>
+<li><a href="/yule/20210710/1584253.md">福原爱到离婚都没来看孩子！知情人爆“残忍实情”：没回台计划</a></li>
 <li><a href="/topimagenews/20210710/1584235.md">孟晚舟再遇挫！加拿大法院驳回其申请</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210711/1584692.md" target="_blank">美教育部为1,800名学生减免5,560万学贷债务</a></li>
+<li><a href="/comments/20210711/1584683.md" target="_blank">澳媒：曾宣布招聘千名党员客服 滴滴出行遭下架关键点</a></li>
 <li><a href="/comments/20210711/1584650.md" target="_blank">老钱说钱:对岸的穷人世界</a></li>
 <li><a href="/comments/20210711/1584649.md" target="_blank">网络民议：我们不能像胡锡进那样 被塔利班当作朋友还沾沾自喜</a></li>
 <li><a href="/comments/20210711/1584648.md" target="_blank">滤镜 :法西斯美学的诱惑——崇高感、归属感、自豪感</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210711/1584547.md" target="_blank">李家超再提“假新闻” 称对业界订守则自行规管“态度开放” 记协：业界一直自我规管</a></li>
 <li><a href="/comments/20210711/1584546.md" target="_blank">【钟宏专栏】诗歌篇：《五言古风 咏梅》</a></li>
 <li><a href="/comments/20210711/1584545.md" target="_blank">【宁静不宁静】专栏：谁开创玛雅文明 ? 瘦长头骨可揭秘</a></li>
-<li><a href="/comments/20210711/1584544.md" target="_blank">【画缘】怎么样画西红柿？</a></li>
-<li><a href="/comments/20210711/1584543.md" target="_blank">成龙献媚表忠 ：我要做党员 网民神回复亮了</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20210329/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
 <li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
 
 </ul>
 </div>
