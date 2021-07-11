@@ -25,9 +25,9 @@
 <li><a href="/bannedvideo/20210711/1585073.md">紫光集团破产！方正集团破产！</a></li>
 <li><a href="/bannedvideo/20210711/1584987.md">陈破空：政治老人另类露面。官媒承认习近平是个问题！明年二十大仍存变数</a></li>
 <li><a href="/lifebaike/20210711/1584651.md">日本东京街头惊现一只巨猫 所有路人都看呆了…</a></li>
+<li><a href="/cbnews/20210712/1585141.md">温家宝参加赵紫阳旧部高尚全告别式 朱镕基“露面”</a></li>
 <li><a href="/cbnews/20210711/1584941.md">近距离感受党文化的一个表现：自大，狂妄</a></li>
 <li><a href="/cnnews/20210711/1584686.md">两党拥趸罕见一致：相信病毒来自实验室</a></li>
-<li><a href="/finance/20210711/1584700.md">冲上热搜！字节跳动重大宣布，员工炸了</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210712/1585191.md" target="_blank">躲警男装晕3日夜“插尿管之痛”也忍！最后败给1碗咖喱牛肉…</a></li>
 <li><a href="/cbnews/20210712/1585180.md" target="_blank">北京将现入汛最强降雨 景区关闭 停户外活动</a></li>
 <li><a href="/cbnews/20210712/1585172.md" target="_blank">云南瑞丽再新增病例 方舱实验室也加入检测</a></li>
 <li><a href="/cbnews/20210712/1585162.md" target="_blank">为何日本越来越有可能为保卫台湾而战？</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/comments/20210711/1584751.md" target="_blank">【杰森视角】习近平不满足当毛泽东，他有更大的梦！中共新情人看中共：人傻，钱多，别走！中共棒打滴滴，硬和美国股市脱钩？滴滴的数据真让中共担心！</a></li>
 <li><a href="/cbnews/20210711/1584724.md" target="_blank">战狼装可爱？澳洲学者：象群迁徙影片成中共争话语权新武器</a></li>
 <li><a href="/comments/20210711/1584637.md" target="_blank">他是文艺复兴头号小鲜肉！为了他，教皇把梵蒂冈的墙壁全铲了！文艺复兴第一画：《雅典学院》！【大话西油 姜光宇】(2021.07.10）</a></li>
-<li><a href="/comments/20210711/1584633.md" target="_blank">海地总统遇刺 是绑架非刺杀？习江斗升级？传官方四字定性滴滴突删“坚决服从”【希望之声TV-每日头条-2021/7/10】</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210712/1585194.md" target="_blank">德州州长：本州选举法改革将令选举更易更公正</a></li>
 <li><a href="/comments/20210712/1585190.md" target="_blank">诗一首：《思乡》</a></li>
 <li><a href="/comments/20210712/1585186.md" target="_blank">宾州政府阻碍审票 下令各县不得交出选票和机器</a></li>
 <li><a href="/comments/20210712/1585178.md" target="_blank">【钟宏专栏】诗歌篇：《七绝 桃源》 题David Sun 摄影《布理斯班风光》</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210712/1585123.md" target="_blank">【画缘】素描静物玻璃怎么画？</a></li>
 <li><a href="/comments/20210712/1585122.md" target="_blank">【钟宏专栏】诗歌篇：《初冬访陈庄赏梅采橘》</a></li>
 <li><a href="/comments/20210712/1585121.md" target="_blank">纽时：美国打击中共芯片制造业有一个杀手锏</a></li>
-<li><a href="/comments/20210712/1585106.md" target="_blank">遭控暗杀海地总统 涉案佣兵家属称仅受雇当保镳</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/ganwu/20170705/787156.md" target="_blank">感悟神韵（之四）：感悟神韵音乐</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
 <li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
 <li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
 
 </ul>
 </div>
