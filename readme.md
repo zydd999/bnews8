@@ -15,8 +15,8 @@
 <li><a href="/comments/20210711/1584864.md">中共百年红二代中的太子党一览表 注意排序门第</a></li>
 <li><a href="/cnnews/20210711/1584928.md">突发利空！两只千亿巨头大解禁，900亿天量！股价已暴跌40%</a></li>
 <li><a href="/cbnews/20210711/1584611.md">不满车位被BMW挡 她开更大台“呛声封印”结局却逆转了</a></li>
-<li><a href="/comments/20210711/1584867.md">海地第一夫人首发声明揭海地总统被杀原因；G20推全球最低税率：敲响数字巨头避税天堂丧钟【希望之声-午夜新闻-2021/07/10】</a></li>
 <li><a href="/comments/20210711/1584975.md">李燕铭：滴滴风暴副国级大老虎浮现 一名副国级高官疑出事 失踪两周缺席“七一”党庆等重大政治活动 习近平十天内六大动作整肃滴滴出行 揭秘滴滴出行形成垄断地位黑幕</a></li>
+<li><a href="/comments/20210711/1584867.md">海地第一夫人首发声明揭海地总统被杀原因；G20推全球最低税率：敲响数字巨头避税天堂丧钟【希望之声-午夜新闻-2021/07/10】</a></li>
 <li><a href="/cnnews/20210711/1584857.md">特斯拉女车主转发习近平“头破血流”论 最新贴文引来30多万差评大潮【阿波罗网报道】</a></li>
 <li><a href="/funmedia/20210711/1584856.md">为什么日本的酒店从不查房，女服务员道出原因却让中国游客羞愧</a></li>
 <li><a href="/comments/20210711/1584920.md">中国人口未来必然塌陷，习近平应该要有常识知道国力即将江河日下 — 曾节明</a></li>
@@ -27,7 +27,7 @@
 <li><a href="/topimagenews/20210711/1584789.md">中共新式潜舰有意外沉没之虞？一张照片看出致命缺失</a></li>
 <li><a href="/comments/20210711/1584863.md">【要闻精粹】美军一撤伞中共急撤人 个个谎言都露馅了</a></li>
 <li><a href="/cnnews/20210711/1584894.md">中共教科书谎言汇编：李大钊才是实锤颠覆国家罪 战斗英雄漏洞百出</a></li>
-<li><a href="/cbnews/20210711/1584575.md">徽州宴女老板叫嚣 小孩命不如她的狗值钱惹众怒 上千民众抗议</a></li>
+<li><a href="/lifebaike/20210711/1584651.md">日本东京街头惊现一只巨猫 所有路人都看呆了…</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210712/1585129.md" target="_blank">德国哪些城市租金上涨？哪些下降？</a></li>
+<li><a href="/comments/20210712/1585125.md" target="_blank">【区议员辞职潮】没有议席后怎维系社区力量？ 莫嘉娴︰退守居民协会 罗健熙︰或兼做小生意</a></li>
+<li><a href="/comments/20210712/1585124.md" target="_blank">【区议员离任潮】邓威文最后落区 街坊忧社区问题死灰复燃 “单靠居民力量未必做到”</a></li>
+<li><a href="/comments/20210712/1585123.md" target="_blank">【画缘】素描静物玻璃怎么画？</a></li>
+<li><a href="/comments/20210712/1585122.md" target="_blank">【钟宏专栏】诗歌篇：《初冬访陈庄赏梅采橘》</a></li>
 <li><a href="/comments/20210712/1585121.md" target="_blank">纽时：美国打击中共芯片制造业有一个杀手锏</a></li>
 <li><a href="/comments/20210712/1585106.md" target="_blank">遭控暗杀海地总统 涉案佣兵家属称仅受雇当保镳</a></li>
 <li><a href="/comments/20210712/1585096.md" target="_blank">自制老北京风味酸梅汤 抗暑热乏力的保健饮料</a></li>
@@ -118,11 +123,6 @@
 <li><a href="/comments/20210711/1584988.md" target="_blank">美国亿万富豪被逼“维权”。索罗斯入局比特币，究竟是福是祸？FBI截取比特币管道曝光。</a></li>
 <li><a href="/comments/20210711/1584983.md" target="_blank">曾节明：中共与中国人民不是一回事，但现在分不开了</a></li>
 <li><a href="/comments/20210711/1584975.md" target="_blank">李燕铭：滴滴风暴副国级大老虎浮现 一名副国级高官疑出事 失踪两周缺席“七一”党庆等重大政治活动 习近平十天内六大动作整肃滴滴出行 揭秘滴滴出行形成垄断地位黑幕</a></li>
-<li><a href="/comments/20210711/1584963.md" target="_blank">李燕铭：中南海四字定性滴滴事件 很多高官要被拖下水 原中宣部高官披露内部消息 习近平十天内六大动作接力整肃 官媒密集发文点名批判 习近平剑指江泽民曾庆红 北戴河会前掀起政治大风暴</a></li>
-<li><a href="/comments/20210711/1584958.md" target="_blank">王功彪：日本侵略军与中共暴政对中国人民造成伤害的比较（四）</a></li>
-<li><a href="/comments/20210711/1584957.md" target="_blank">唯美之灵在心灵之巅点燃信仰的金灯（第八部分）—— 如何回归心灵的故乡（东方哲人解析当代人类困惑  第三十八讲）【袁红冰杏坛】 07112021</a></li>
-<li><a href="/comments/20210711/1584951.md" target="_blank">因为习近平 诈骗犯争相返国 云南祭出每日限额</a></li>
-<li><a href="/comments/20210711/1584950.md" target="_blank">【小说连载】七海归途之雪伦公主（31）</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
 <li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
+<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20210329/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
 
 </ul>
 </div>
