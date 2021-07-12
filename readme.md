@@ -12,22 +12,22 @@
 <li><a href="/comments/20210711/1584867.md">海地第一夫人首发声明揭海地总统被杀原因；G20推全球最低税率：敲响数字巨头避税天堂丧钟【希望之声-午夜新闻-2021/07/10】</a></li>
 <li><a href="/funmedia/20210711/1584856.md">为什么日本的酒店从不查房，女服务员道出原因却让中国游客羞愧</a></li>
 <li><a href="/comments/20210711/1584975.md">李燕铭：滴滴风暴副国级大老虎浮现 一名副国级高官疑出事 失踪两周缺席“七一”党庆等重大政治活动 习近平十天内六大动作整肃滴滴出行 揭秘滴滴出行形成垄断地位黑幕</a></li>
-<li><a href="/cnnews/20210711/1584857.md">特斯拉女车主转发习近平“头破血流”论 最新贴文引来30多万差评大潮【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20210712/1585141.md">温家宝参加赵紫阳旧部高尚全告别式 朱镕基“露面”</a></li>
+<li><a href="/cnnews/20210711/1584857.md">特斯拉女车主转发习近平“头破血流”论 最新贴文引来30多万差评大潮【阿波罗网报道】</a></li>
 <li><a href="/comments/20210711/1584920.md">中国人口未来必然塌陷，习近平应该要有常识知道国力即将江河日下 — 曾节明</a></li>
-<li><a href="/topimagenews/20210711/1584916.md">主动投案！原山西国保总队总队长栽了</a></li>
 <li><a href="/comments/20210711/1584889.md">滴滴出行背后大佬 柳传志家族势力范围惊人 门生遍布 执掌千亿商业帝国 柳传志的江湖地位与神秘的泰山会及中企俱乐部揭秘 中南海不可告人的秘密_418</a></li>
+<li><a href="/topimagenews/20210711/1584916.md">主动投案！原山西国保总队总队长栽了</a></li>
+<li><a href="/cbnews/20210712/1585140.md">南京大学副教授火了 敢骂“无道昏君” 微博被逼删</a></li>
 <li><a href="/bannedvideo/20210711/1584927.md">【内幕】真没钱了？公务员停发奖金绩效越演越烈，和教师们干起来了；欧美联手阻击一带一路；国土面积960万是错的？金融反腐新规出台，中纪委护航，金融权贵坐不住；全面降准放水万亿为哪般。IL</a></li>
 <li><a href="/topimagenews/20210711/1584789.md">中共新式潜舰有意外沉没之虞？一张照片看出致命缺失</a></li>
-<li><a href="/comments/20210711/1584863.md">【要闻精粹】美军一撤伞中共急撤人 个个谎言都露馅了</a></li>
-<li><a href="/cbnews/20210712/1585140.md">南京大学副教授火了 敢骂“无道昏君” 微博被逼删</a></li>
-<li><a href="/cnnews/20210711/1584894.md">中共教科书谎言汇编：李大钊才是实锤颠覆国家罪 战斗英雄漏洞百出</a></li>
 <li><a href="/bannedvideo/20210711/1585073.md">紫光集团破产！方正集团破产！</a></li>
+<li><a href="/comments/20210711/1584863.md">【要闻精粹】美军一撤伞中共急撤人 个个谎言都露馅了</a></li>
+<li><a href="/cnnews/20210711/1584894.md">中共教科书谎言汇编：李大钊才是实锤颠覆国家罪 战斗英雄漏洞百出</a></li>
 <li><a href="/bannedvideo/20210711/1584987.md">陈破空：政治老人另类露面。官媒承认习近平是个问题！明年二十大仍存变数</a></li>
 <li><a href="/worldnews/20210712/1585105.md">中共拯救孟晚舟 弄巧成拙 引渡案接近终局</a></li>
-<li><a href="/cbnews/20210711/1584977.md">女大学生遭系书记骚扰自杀：终获判决 遗书曝光</a></li>
 <li><a href="/cbnews/20210711/1584941.md">近距离感受党文化的一个表现：自大，狂妄</a></li>
-<li><a href="/finance/20210711/1584700.md">冲上热搜！字节跳动重大宣布，员工炸了</a></li>
+<li><a href="/cbnews/20210711/1584977.md">女大学生遭系书记骚扰自杀：终获判决 遗书曝光</a></li>
+<li><a href="/worldnews/20210711/1584819.md">英国悄悄警告辉瑞和Moderna疫苗可能在“极其罕见”的情况下导致心脏损伤</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210712/1585249.md" target="_blank">战略教师：美军撤出阿富汗 美国输了吗</a></li>
+<li><a href="/comments/20210712/1585248.md" target="_blank">张菁：香港自我审查与推洗脑教育加剧</a></li>
+<li><a href="/comments/20210712/1585247.md" target="_blank">周晓辉：建围墙游街勒令回国 中缅边境出事了？</a></li>
+<li><a href="/comments/20210712/1585246.md" target="_blank">袁斌：中共是全世界杀人最多的刽子手党</a></li>
+<li><a href="/comments/20210712/1585236.md" target="_blank">【阿隋厨房】蒜香香菇土豆烤鸡腿 荤素搭配一锅出 省时省力 Roasted Chicken Drumsticks with</a></li>
 <li><a href="/comments/20210712/1585234.md" target="_blank">【萧茗看世界】央视董经纬新闻造假新证据：雅虎印度报导，中国没有参加上海经合组织国家安全部长会议 (中文字幕 独家）</a></li>
 <li><a href="/comments/20210712/1585224.md" target="_blank">颜纯钩：面对酷政，突然有点怀念说人话的曾荫权</a></li>
 <li><a href="/comments/20210712/1585223.md" target="_blank">游识猷：科技大发展太恐怖了</a></li>
@@ -118,11 +123,6 @@
 <li><a href="/comments/20210712/1585170.md" target="_blank">新车有必要做防锈处理、延长保修期吗？</a></li>
 <li><a href="/comments/20210712/1585158.md" target="_blank">美保守派联盟主席：取消文化主义者最怕川普的声音</a></li>
 <li><a href="/comments/20210712/1585157.md" target="_blank">维珍银河捷船先登 布兰森首飞太空评估未来客户体验</a></li>
-<li><a href="/comments/20210712/1585153.md" target="_blank">立陶宛外交部﹕不久将来或为港人提供简化移民程序</a></li>
-<li><a href="/comments/20210712/1585152.md" target="_blank">【智慧专栏】古文浅译：《尚书•洪范》《老子》</a></li>
-<li><a href="/comments/20210712/1585151.md" target="_blank">【智慧专栏】摄影：清早盛开的小花，现在居然要关上了</a></li>
-<li><a href="/comments/20210712/1585147.md" target="_blank">冻结审议《中欧投资协定》后 欧盟开始着手对抗“一带一路”</a></li>
-<li><a href="/comments/20210712/1585139.md" target="_blank">“跪上瘾了” ！老拜登在白宫又下跪了 网民：一天不跪 浑身难受</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
 <li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
 
 </ul>
 </div>
