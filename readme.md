@@ -11,19 +11,19 @@
 <li><a href="/topimagenews/20210712/1585184.md">紫光集团只是序幕！谢金河：平安，不平安！中国经济潜藏90年代‘台湾病’</a></li>
 <li><a href="/worldnews/20210712/1585105.md">中共拯救孟晚舟 弄巧成拙 引渡案接近终局</a></li>
 <li><a href="/bannedvideo/20210712/1585198.md">在美国的中国留学生已经减少近一半！        中国各地公职人员收入减半，怨声载道！</a></li>
-<li><a href="/baitai/20210712/1585219.md">易中天：什么亡我之心不死，我看是神经病</a></li>
 <li><a href="/topimagenews/20210712/1585372.md">惊人信号！中纪委连用44次“斗争” 杀气腾腾 【阿波罗网报道】</a></li>
+<li><a href="/baitai/20210712/1585219.md">易中天：什么亡我之心不死，我看是神经病</a></li>
 <li><a href="/finance/20210712/1585163.md">打压滴滴或让中国未来八年损失高达45万亿</a></li>
-<li><a href="/health/20210712/1585309.md">冰箱里的“1物”，是白血病的“温床”，为了家人尽快扔掉</a></li>
 <li><a href="/cbnews/20210712/1585298.md">天亮时分：习近平这个错误决策，影响四十五万亿美元资本流动；朱镕基与江泽民另类露面；中共外长自说自话，遭欧盟严厉驳斥（政论天下第465集 20210711）</a></li>
+<li><a href="/health/20210712/1585309.md">冰箱里的“1物”，是白血病的“温床”，为了家人尽快扔掉</a></li>
 <li><a href="/cbnews/20210711/1585069.md">胡锡进炫耀塔利班是中国好友 网友谯翻：三观尽毁</a></li>
 <li><a href="/worldnews/20210712/1585308.md">古巴爆大规模抗议 要结束共产主义独裁统治</a></li>
 <li><a href="/baitai/20210712/1585217.md">塔利班逼近新疆中共引狼入室</a></li>
 <li><a href="/cnnews/20210712/1585119.md">经济重启返城上班 租屋需求大增 房租大涨33%</a></li>
 <li><a href="/cnnews/20210712/1585181.md">中国新能源车产量占全球一半 引爆发式污染</a></li>
 <li><a href="/cbnews/20210712/1585344.md">炫耀与塔利班是朋友 胡锡进被骂翻</a></li>
-<li><a href="/ssgc/20210712/1585149.md">〖兲朝浮世绘〗中共传授经验给塔利班 本性邪恶臭味相投</a></li>
 <li><a href="/bannedvideo/20210712/1585133.md">习近平王岐山出面继续施压美国，结果如何？亲共匈牙利诉苦：中国疫苗真有问题；虚假评论加扩张 中国卖家占亚马逊商家一半【编译】哈里斯给选举不要证件找理由，这说法你买帐吗？ CS</a></li>
+<li><a href="/ssgc/20210712/1585149.md">〖兲朝浮世绘〗中共传授经验给塔利班 本性邪恶臭味相投</a></li>
 <li><a href="/ssgc/20210712/1585342.md">〖微博谈〗网络巨头公司已成为习近平的心病</a></li>
 <li><a href="/cbnews/20210712/1585118.md">不满13岁叛逆女 成都父母逼她山东荒岛求生</a></li>
 <li><a href="/renquan/20210711/1585070.md">“九不准”的禁歌为文革招魂</a></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210712/1585577.md" target="_blank">中国大陆一锅双星教程：韩星5A新唐人+中星6B</a></li>
 <li><a href="/cbnews/20210712/1585553.md" target="_blank">龙卷风入侵山东 天地昏暗 汽车掀翻、大楼窗户被吹走</a></li>
 <li><a href="/cbnews/20210712/1585545.md" target="_blank">维权人士陈云飞见律师：正构思《囚笼里的驯兽师》</a></li>
 <li><a href="/comments/20210712/1585535.md" target="_blank">5000年前绝美水晶匕首，亚特兰蒂斯后裔的杰作？2000年前的土陶罐，竟是古人的电池？古老的两河文明也有针灸？</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/comments/20210712/1585202.md" target="_blank">遇惊险未遂谋杀 反共人士戈壁东揭离奇内幕；顾虑啥？拜登未准备与习会面【希望之声TV-每日头条-2021/7/11】</a></li>
 <li><a href="/cbnews/20210712/1585201.md" target="_blank">内幕：张高丽为何承认江泽民是活摘器官的元凶</a></li>
 <li><a href="/comments/20210712/1585200.md" target="_blank">场面再现！数万粉丝呼喊“USA”。川普再骂老乌龟。大峡谷买新机器，第三次或更多次复查。宾州之路不平坦。</a></li>
-<li><a href="/comments/20210712/1585197.md" target="_blank">CPAC川普誓言，不让美国被极左派拿走</a></li>
 
 </ul>
 </div>
@@ -98,8 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210712/1585571.md" target="_blank">【杜耀明评论】武夫当道，特区强权政治变本加厉</a></li>
+<li><a href="/comments/20210712/1585451.md" target="_blank">中国足球球霸、球痞横行，是邓计生的必然结果 — 曾节明</a></li>
 <li><a href="/comments/20210712/1585567.md" target="_blank">【高官犯聚饭局】吉祥荟会籍最贵 780 万元 宴请人未明 警罕见拒公布“犯聚者”性别年龄</a></li>
-<li><a href="/comments/20210712/1585564.md" target="_blank">温嫔容中医师：不打疫苗的小孩</a></li>
+<li><a href="/comments/20210712/1585564.md" target="_blank">温嫔容中医师：疫苗破坏人体免疫系统</a></li>
 <li><a href="/comments/20210712/1585552.md" target="_blank">日媒盛赞台湾：疫苗不足 2个月内竟能再度控制疫情</a></li>
 <li><a href="/comments/20210712/1585551.md" target="_blank">欧盟外长会议拟延长对俄经济制裁 莫斯科或将反制</a></li>
 <li><a href="/comments/20210712/1585538.md" target="_blank">澳洲参议员派屈克呼吁政府：抛弃「一中」政策</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210712/1585397.md" target="_blank">数伏了 5道黄瓜凉拌菜 清凉爽口开胃 别提多舒服了</a></li>
 <li><a href="/comments/20210712/1585395.md" target="_blank">大风、冰雹袭击中国多省 北京更逢30最大暴雨 交通大乱、民众们抱树求生</a></li>
 <li><a href="/comments/20210712/1585394.md" target="_blank">海地总统遭暗杀 警逮幕后“核心”人物：欲篡位密谋当总统</a></li>
-<li><a href="/comments/20210712/1585385.md" target="_blank">房顶历险 一位英国伞兵坠入美南卡州一民居</a></li>
-<li><a href="/comments/20210712/1585383.md" target="_blank">参加CPAC 保守派人士吁清除批判性种族理论</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
 <li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
 
 </ul>
 </div>
