@@ -11,23 +11,23 @@
 <li><a href="/cbnews/20210712/1585141.md">温家宝参加赵紫阳旧部高尚全告别式 朱镕基“露面”</a></li>
 <li><a href="/comments/20210711/1584920.md">中国人口未来必然塌陷，习近平应该要有常识知道国力即将江河日下 — 曾节明</a></li>
 <li><a href="/cbnews/20210712/1585140.md">南京大学副教授火了 敢骂“无道昏君” 微博被逼删</a></li>
-<li><a href="/comments/20210711/1584889.md">滴滴出行背后大佬 柳传志家族势力范围惊人 门生遍布 执掌千亿商业帝国 柳传志的江湖地位与神秘的泰山会及中企俱乐部揭秘 中南海不可告人的秘密_418</a></li>
 <li><a href="/bannedvideo/20210711/1584927.md">【内幕】真没钱了？公务员停发奖金绩效越演越烈，和教师们干起来了；欧美联手阻击一带一路；国土面积960万是错的？金融反腐新规出台，中纪委护航，金融权贵坐不住；全面降准放水万亿为哪般。IL</a></li>
 <li><a href="/topimagenews/20210712/1585184.md">紫光集团只是序幕！谢金河：平安，不平安！中国经济潜藏90年代‘台湾病’</a></li>
 <li><a href="/bannedvideo/20210711/1585073.md">紫光集团破产！方正集团破产！</a></li>
-<li><a href="/topimagenews/20210711/1584916.md">主动投案！原山西国保总队总队长栽了</a></li>
 <li><a href="/bannedvideo/20210712/1585198.md">在美国的中国留学生已经减少近一半！        中国各地公职人员收入减半，怨声载道！</a></li>
+<li><a href="/topimagenews/20210711/1584916.md">主动投案！原山西国保总队总队长栽了</a></li>
 <li><a href="/worldnews/20210712/1585105.md">中共拯救孟晚舟 弄巧成拙 引渡案接近终局</a></li>
-<li><a href="/cnnews/20210711/1584894.md">中共教科书谎言汇编：李大钊才是实锤颠覆国家罪 战斗英雄漏洞百出</a></li>
 <li><a href="/bannedvideo/20210711/1584987.md">陈破空：政治老人另类露面。官媒承认习近平是个问题！明年二十大仍存变数</a></li>
-<li><a href="/cbnews/20210711/1584941.md">近距离感受党文化的一个表现：自大，狂妄</a></li>
-<li><a href="/cbnews/20210711/1584977.md">女大学生遭系书记骚扰自杀：终获判决 遗书曝光</a></li>
 <li><a href="/baitai/20210712/1585219.md">易中天：什么亡我之心不死，我看是神经病</a></li>
+<li><a href="/cbnews/20210711/1584977.md">女大学生遭系书记骚扰自杀：终获判决 遗书曝光</a></li>
+<li><a href="/cbnews/20210711/1584941.md">近距离感受党文化的一个表现：自大，狂妄</a></li>
 <li><a href="/finance/20210712/1585163.md">打压滴滴或让中国未来八年损失高达45万亿</a></li>
 <li><a href="/cnnews/20210712/1585119.md">经济重启返城上班 租屋需求大增 房租大涨33%</a></li>
 <li><a href="/cbnews/20210711/1585069.md">胡锡进炫耀塔利班是中国好友 网友谯翻：三观尽毁</a></li>
-<li><a href="/cnnews/20210711/1584895.md">毛的窑洞不能随便靠近 刘少奇通过忠诚赢得二号人物 王明惨了</a></li>
 <li><a href="/cnnews/20210712/1585181.md">中国新能源车产量占全球一半 引爆发式污染</a></li>
+<li><a href="/bannedvideo/20210711/1584952.md">大陆天怒人怨，天灾不断。7月10日，山西五台山，多年不遇的暴雨、冰雹，泥石流，山洪泥石流暴发造成当地50多辆车被冲走，多人受困，损失严重。</a></li>
+<li><a href="/bannedvideo/20210712/1585133.md">习近平王岐山出面继续施压美国，结果如何？亲共匈牙利诉苦：中国疫苗真有问题；虚假评论加扩张 中国卖家占亚马逊商家一半【编译】哈里斯给选举不要证件找理由，这说法你买帐吗？ CS</a></li>
+<li><a href="/ssgc/20210712/1585149.md">〖兲朝浮世绘〗中共传授经验给塔利班 本性邪恶臭味相投</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210712/1585385.md" target="_blank">房顶历险 一位英国伞兵坠入美南卡州一民居</a></li>
+<li><a href="/comments/20210712/1585383.md" target="_blank">参加CPAC 保守派人士吁清除批判性种族理论</a></li>
+<li><a href="/comments/20210712/1585382.md" target="_blank">香港支联会：7月底将遣散所有成员 现阶段纲领不变</a></li>
 <li><a href="/comments/20210712/1585379.md" target="_blank">郑若骅：为“恐怖活动”辩解或颂扬美化 均违反国安法</a></li>
 <li><a href="/comments/20210712/1585378.md" target="_blank">【高官犯聚饭局】 谢伟俊：民以食为天 仅一次半次 查锡我：政府想淡化事件</a></li>
 <li><a href="/comments/20210712/1585368.md" target="_blank">恶性内卷的“衡水模式”，是邓计生的必然结果 — 曾节明</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210712/1585248.md" target="_blank">张菁：香港自我审查与推洗脑教育加剧</a></li>
 <li><a href="/comments/20210712/1585247.md" target="_blank">周晓辉：建围墙游街勒令回国 中缅边境出事了？</a></li>
 <li><a href="/comments/20210712/1585246.md" target="_blank">袁斌：中共是全世界杀人最多的刽子手党</a></li>
-<li><a href="/comments/20210712/1585236.md" target="_blank">【阿隋厨房】蒜香香菇土豆烤鸡腿 荤素搭配一锅出 省时省力 Roasted Chicken Drumsticks with</a></li>
-<li><a href="/comments/20210712/1585234.md" target="_blank">【萧茗看世界】央视董经纬新闻造假新证据：雅虎印度报导，中国没有参加上海经合组织国家安全部长会议 (中文字幕 独家）</a></li>
-<li><a href="/comments/20210712/1585224.md" target="_blank">颜纯钩：面对酷政，突然有点怀念说人话的曾荫权</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
 <li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
 <li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
 
 </ul>
 </div>
