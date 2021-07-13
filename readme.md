@@ -11,23 +11,23 @@
 <li><a href="/cnnews/20210712/1585570.md">习近平一举让中共损失45万亿？新中国制造引爆发式污染；赤裸打造基层政权</a></li>
 <li><a href="/ssgc/20210712/1585587.md">柜桶见底——习近平的噩梦悄然来临</a></li>
 <li><a href="/headline/20210712/1585549.md">【财政紧张】中国多个省市取消公务员绩效 江西有教师被追回已发工资</a></li>
-<li><a href="/cnnews/20210712/1585430.md">中共喉舌再提“铁帽子王”！再提周永康、薄熙来等6大老虎” 再提判死刑的赖小民</a></li>
 <li><a href="/ssgc/20210713/1585803.md">〖兲朝浮世绘〗江蛤蟆这个老滑头要跟习维尼割席了？</a></li>
 <li><a href="/bannedvideo/20210712/1585719.md">中国发出威胁：要用原子弹摧毁日本！</a></li>
-<li><a href="/cbnews/20210713/1585834.md">年薪15万单身男相亲50次 制表曝战绩 网民炸锅</a></li>
 <li><a href="/bannedvideo/20210712/1585491.md">文睿：由不得你不信，钱荒开始快速质变，看中共如何收场</a></li>
-<li><a href="/bannedvideo/20210713/1585849.md">追讨奖金，中国公务员和教师一片哀嚎，地方财政真没钱了？疯了！中共军事频道威胁对日本实施核打击；专家分析：中共想动用核武【#秦鹏观察 7/12】</a></li>
+<li><a href="/cbnews/20210713/1585834.md">年薪15万单身男相亲50次 制表曝战绩 网民炸锅</a></li>
 <li><a href="/cnnews/20210713/1585950.md">习近平强按住党内元老？北戴河博弈前奏</a></li>
-<li><a href="/comments/20210712/1585535.md">5000年前绝美水晶匕首，亚特兰蒂斯后裔的杰作？2000年前的土陶罐，竟是古人的电池？古老的两河文明也有针灸？</a></li>
+<li><a href="/bannedvideo/20210713/1585849.md">追讨奖金，中国公务员和教师一片哀嚎，地方财政真没钱了？疯了！中共军事频道威胁对日本实施核打击；专家分析：中共想动用核武【#秦鹏观察 7/12】</a></li>
 <li><a href="/comments/20210713/1585879.md">川普首次披露一些鲜为人知的事，并揭开了一个谜底：是谁阻止了去年对宾州的调查。答案出人意料！</a></li>
+<li><a href="/comments/20210712/1585535.md">5000年前绝美水晶匕首，亚特兰蒂斯后裔的杰作？2000年前的土陶罐，竟是古人的电池？古老的两河文明也有针灸？</a></li>
 <li><a href="/comments/20210713/1585756.md">罕见！古巴大规模抗议 要共产独裁下台；川普CPAC讲演 让美国再次伟大 民调飙升【希望之声TV-环球看点-2021/7/12】</a></li>
 <li><a href="/cnnews/20210712/1585649.md">慎入：美国说唱歌手直播中被枪杀 网友吓惨</a></li>
 <li><a href="/cbnews/20210712/1585525.md">基层选举被废除？中共加强对基层政权管理</a></li>
 <li><a href="/cbnews/20210713/1585794.md">被前男友强拖上车 广西妙龄女哀号求救 惊动全网</a></li>
 <li><a href="/cnnews/20210712/1585446.md">川普领先49点大胜CPAC2024草根民调 德桑蒂斯21% 彭斯没票【阿波罗网编译】</a></li>
 <li><a href="/cnnews/20210712/1585448.md">上海奉贤爆炸2死4伤 浦东16人中毒送医</a></li>
+<li><a href="/cnnews/20210713/1585948.md">按摩店内藏“50米深井”老板支吾…他们一查惊：根本发了</a></li>
 <li><a href="/cnnews/20210713/1585809.md">美加边境马上重开，唯独这类人不许过境</a></li>
-<li><a href="/finance/20210712/1585705.md">没钱了？多地曝公务员停发奖金 广东亦未能幸免</a></li>
+<li><a href="/cbnews/20210713/1586020.md">习近平出状况 心力交瘁？ 美发火药味警告 中共罕有密集军演</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210713/1586150.md" target="_blank">古巴爆发数十年最大抗议 拜登表态；物价飙升 美消费者担忧 通胀预期创新高【希望之声-午夜新闻-2021/07/12】</a></li>
 <li><a href="/cbnews/20210713/1586070.md" target="_blank">王沪宁“复旦帮”当道 习近平被拖入外交泥潭</a></li>
 <li><a href="/cbnews/20210713/1586059.md" target="_blank">江峰：《苹果日报》美空谴责不行动，习近平更狼；美关闭伊外宣网站，为何不对中共进行类似制裁？拜登打嘴炮的真实原因，川普CPAC演讲揭真相【江峰漫谈20210712第346期】</a></li>
 <li><a href="/comments/20210713/1586058.md" target="_blank">虹化之谜！众目睽睽之下高僧肉身消失？进藏干部亲见人体虹化！西藏喇嘛，返老还童，七日后离奇消失？正等虹化？现前虹化？西藏特有的神秘现象。</a></li>
@@ -60,13 +61,13 @@
 <li><a href="/cbnews/20210713/1585804.md" target="_blank">狗比人值钱事件发酵“徽州宴”敷衍道歉受质疑</a></li>
 <li><a href="/cbnews/20210713/1585794.md" target="_blank">被前男友强拖上车 广西妙龄女哀号求救 惊动全网</a></li>
 <li><a href="/cbnews/20210713/1585775.md" target="_blank">南海谁的不是中共说了算！日、美外长严批中共不守仲裁案结果 威胁航行自由</a></li>
-<li><a href="/comments/20210713/1585756.md" target="_blank">罕见！古巴大规模抗议 要共产独裁下台；川普CPAC讲演 让美国再次伟大 民调飙升【希望之声TV-环球看点-2021/7/12】</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20210713/1586149.md" target="_blank">六中全会将至 江泽民会被清算吗？江系担心【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20210713/1586069.md" target="_blank">赵乐际密集动作 中共政坛或再度大地震？【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20210713/1586042.md" target="_blank">连续3天一字跌停，有机构出逃近1800万元！重组预期破灭，这股还有几个板？</a></li>
 <li><a href="/topimagenews/20210713/1585784.md" target="_blank">中企半年违约额创新高 3大机构响警国企债台高筑</a></li>
@@ -91,13 +92,15 @@
 <li><a href="/topimagenews/20210707/1582028.md" target="_blank">全球首见AI战争！以色列出动无人机蜂群攻击哈玛斯</a></li>
 <li><a href="/topimagenews/20210706/1581728.md" target="_blank">武统梦碎 日本副首相一语定音？ 脸书谷歌推特扬言离港 滴滴抗命习近平?</a></li>
 <li><a href="/topimagenews/20210706/1581523.md" target="_blank">以色列货轮被炸？还是伊朗又糗大了？</a></li>
-<li><a href="/topimagenews/20210706/1581506.md" target="_blank">茅板块蒸发逾1900亿元！千亿市值“牙茅”跌停！“眼茅”“药茅”跳水</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210713/1586178.md" target="_blank">李燕铭：北戴河大战在即 习近平动杀机剑指江泽民曾庆红 新华社重提铁帽子王 中纪委千字文44次提“斗争”：找准靶心一击即中！ 《“铁帽子王”政变》网络热传信息量超大 王岐山旧部重提习近平打虎金句：打虎无禁区全覆盖零容忍 不管什么人职位有多高 反腐败斗争必须决战决胜</a></li>
+<li><a href="/comments/20210713/1586176.md" target="_blank">如何给孩子起个好名字？（二）</a></li>
+<li><a href="/comments/20210713/1586150.md" target="_blank">古巴爆发数十年最大抗议 拜登表态；物价飙升 美消费者担忧 通胀预期创新高【希望之声-午夜新闻-2021/07/12】</a></li>
 <li><a href="/comments/20210713/1586119.md" target="_blank">布林肯发布“防止种族灭绝和暴行的年度报告报告”再控新疆种族灭绝和暴行</a></li>
 <li><a href="/comments/20210713/1586096.md" target="_blank">压力大牙龈流血 医：这类水果可改善</a></li>
 <li><a href="/comments/20210713/1586095.md" target="_blank">高温防中暑之救命原则慎防热伤害</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210713/1586019.md" target="_blank">艰难挺过百年，中共靠谁续命？一尊若不在内斗中失败，必在内斗中疯癫。中国将进入混乱期。│#熊猫侠</a></li>
 <li><a href="/comments/20210713/1586012.md" target="_blank">福克斯CPAC播免责声明挨批；美华人团体纽约集会，揭中共百年罪恶；TikTok母公司曾被警告？被指因此放弃美股IPO；英伞兵“空袭”加州民宅；美媒：美国打击中共芯片制造业有一个杀手锏；【希望之声TV】</a></li>
 <li><a href="/comments/20210713/1586011.md" target="_blank">拜登：政府将雇用更多警察 打击非法枪支犯罪</a></li>
-<li><a href="/comments/20210713/1586007.md" target="_blank">美代表团抵达海地 白宫：就总统刺杀案提供帮助</a></li>
-<li><a href="/comments/20210713/1585995.md" target="_blank">【微博精粹】受够了！共产党古巴人民起义！有警察特种部队加入</a></li>
-<li><a href="/comments/20210713/1585994.md" target="_blank">章天亮:中共看得见吃不着的大饼与雷曼式崩盘风暴</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
 <li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/comments/20210329/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
 
 </ul>
 </div>
