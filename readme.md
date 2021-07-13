@@ -9,13 +9,13 @@
 <li><a href="/ssgc/20210713/1585803.md">〖兲朝浮世绘〗江蛤蟆这个老滑头要跟习维尼割席了？</a></li>
 <li><a href="/cbnews/20210713/1585834.md">年薪15万单身男相亲50次 制表曝战绩 网民炸锅</a></li>
 <li><a href="/topimagenews/20210713/1586069.md">赵乐际密集动作 中共政坛或再度大地震？【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20210713/1586020.md">习近平出状况 心力交瘁？ 美发火药味警告 中共罕有密集军演</a></li>
 <li><a href="/cnnews/20210713/1585950.md">习近平强按住党内元老？北戴河博弈前奏</a></li>
+<li><a href="/cbnews/20210713/1586020.md">习近平出状况 心力交瘁？ 美发火药味警告 中共罕有密集军演</a></li>
 <li><a href="/cnnews/20210713/1586124.md">周立波为何倒霉？原来踢翻了中国的一只大醋缸</a></li>
 <li><a href="/comments/20210713/1585879.md">川普首次披露一些鲜为人知的事，并揭开了一个谜底：是谁阻止了去年对宾州的调查。答案出人意料！</a></li>
 <li><a href="/bannedvideo/20210713/1585849.md">追讨奖金，中国公务员和教师一片哀嚎，地方财政真没钱了？疯了！中共军事频道威胁对日本实施核打击；专家分析：中共想动用核武【#秦鹏观察 7/12】</a></li>
-<li><a href="/comments/20210713/1585756.md">罕见！古巴大规模抗议 要共产独裁下台；川普CPAC讲演 让美国再次伟大 民调飙升【希望之声TV-环球看点-2021/7/12】</a></li>
 <li><a href="/cnnews/20210713/1585948.md">按摩店内藏“50米深井”老板支吾…他们一查惊：根本发了</a></li>
+<li><a href="/comments/20210713/1585756.md">罕见！古巴大规模抗议 要共产独裁下台；川普CPAC讲演 让美国再次伟大 民调飙升【希望之声TV-环球看点-2021/7/12】</a></li>
 <li><a href="/funmedia/20210713/1585933.md">发个婚后笑话给大家，笑了三天三夜</a></li>
 <li><a href="/cnnews/20210713/1585946.md">灰犀牛出现了！房地产形势严峻！中共经济面临崩盘？【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20210713/1585794.md">被前男友强拖上车 广西妙龄女哀号求救 惊动全网</a></li>
@@ -23,11 +23,11 @@
 <li><a href="/bannedvideo/20210713/1585880.md">【惨了】一语犯众怒 党媒被骂翻；云南疫情穿帮 造假实锤；女大学生遭系党委书记侵犯自杀，老母上街呼吁追究，遗书曝光细节；北京6警齐发风力超11级，中国各地异象；中朝边界卖国条约引关注 CT</a></li>
 <li><a href="/cnnews/20210713/1585809.md">美加边境马上重开，唯独这类人不许过境</a></li>
 <li><a href="/yule/20210713/1585901.md">王石带娇妻与姜文聚餐！身形单薄显瘦弱，田朴珺路边热聊叉腰大笑</a></li>
+<li><a href="/comments/20210713/1586076.md">中国多地政府追讨奖金的信号：政治运动和教师大下岗即将来临 — 曾节明</a></li>
 <li><a href="/topimagenews/20210713/1586042.md">连续3天一字跌停，有机构出逃近1800万元！重组预期破灭，这股还有几个板？</a></li>
+<li><a href="/topimagenews/20210713/1586149.md">六中全会将至 江泽民会被清算吗？江系担心【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20210713/1586064.md">大陆多地未打疫苗者出行受限 民怨沸腾</a></li>
 <li><a href="/finance/20210713/1586021.md">大陆就业压力前所未有 专家揭内幕</a></li>
-<li><a href="/cbnews/20210713/1585892.md">文昭：传说中的财政危机？中国多地停发公务员绩效奖、追讨已发奖金！王朝末年「标配」模式启动？</a></li>
-<li><a href="/headline/20210713/1585828.md">习近平批官员懒政怠政 被绑住手脚何以有为？</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210713/1586395.md" target="_blank">时事大家谈：专访吴强：从我的经历，看中国知识分子境遇</a></li>
+<li><a href="/comments/20210713/1586391.md" target="_blank">香港民研：林郑月娥民望创反修例以来新高 各司局长民望均上升</a></li>
 <li><a href="/comments/20210713/1586381.md" target="_blank">中共推全民思政洗脑 分析：习近平借此拿下“教权”</a></li>
 <li><a href="/comments/20210713/1586380.md" target="_blank">在冰岛试验大获成功 每周四天工作制离我们还有多远？</a></li>
 <li><a href="/comments/20210713/1586376.md" target="_blank">【任甄评论】爱国教育的套路和尴尬</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210713/1586272.md" target="_blank">古人是如何造“静”字？</a></li>
 <li><a href="/comments/20210713/1586256.md" target="_blank">澳洲前外长：中共已越来越孤立 「这都是它自作自受」</a></li>
 <li><a href="/comments/20210713/1586255.md" target="_blank">当代中国人的最大悲哀（中共命运的轨迹和人类前途  第三十一讲）【袁红冰纵论天下】 07132021</a></li>
-<li><a href="/comments/20210713/1586248.md" target="_blank">【小说连载】七海归途之雪伦公主（33）</a></li>
-<li><a href="/comments/20210713/1586247.md" target="_blank">【区议员辞职潮】观塘区会主席泪别全港最老选区 蔡泽鸿：惊啲老嘢冇人理</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
 <li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
 <li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20210611/1564824.md" target="_blank">【曾铮专栏】感悟神韵（之一）神韵的主旨</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
 
 </ul>
 </div>
