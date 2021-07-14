@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/worldnews/20210713/1586333.md">金正恩“新欢”曝光！她紧紧挨着坐</a></li>
-<li><a href="/cnnews/20210713/1586124.md">周立波为何倒霉？原来踢翻了中国的一只大醋缸</a></li>
 <li><a href="/comments/20210713/1586076.md">中国多地政府追讨奖金的信号：政治运动和教师大下岗即将来临 — 曾节明</a></li>
 <li><a href="/topimagenews/20210713/1586149.md">六中全会将至 江泽民会被清算吗？江系担心【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20210713/1586331.md">习近平拍板？各地政府强制追讨奖金，统一行动？欧盟掰了！推出计划制衡一带一路</a></li>
@@ -16,18 +15,19 @@
 <li><a href="/cbnews/20210714/1586583.md">中共清理公务员津贴 有官员需回吐十几万…</a></li>
 <li><a href="/bannedvideo/20210714/1586535.md">莫言被中共踢出百名作家行列！    还不逃，终点站将是夹边沟！</a></li>
 <li><a href="/bannedvideo/20210713/1586293.md">新西兰清空5000份签证申请，中国人出国移民越来越难，能跑掉就跑吧！</a></li>
-<li><a href="/yule/20210714/1586538.md">她十年拿8影后…章子怡竟批演技烂、不认识</a></li>
 <li><a href="/ssgc/20210714/1586760.md">〖兲朝浮世绘〗中共养不起庞大的行政人员和维稳人员，只能任由他们抢了</a></li>
+<li><a href="/yule/20210714/1586538.md">她十年拿8影后…章子怡竟批演技烂、不认识</a></li>
 <li><a href="/health/20210714/1586625.md">中国每天一万人确诊癌症，医生忠告，45岁以后，晨起四多晚上两少</a></li>
 <li><a href="/cnnews/20210713/1586237.md">当权派媒体承认：通货膨胀正在起飞 "一切"都在"疯狂涨价"【阿波罗网编译】</a></li>
 <li><a href="/cnnews/20210713/1586253.md">北京高校女官员沈志莉贪腐细节曝光</a></li>
 <li><a href="/cnnews/20210714/1586554.md">一场疫情的完美风暴正在酝酿…</a></li>
 <li><a href="/lifebaike/20210713/1586234.md">肾到底如何一步步衰竭？4件“伤肾利器”，排在第一多数人都忽视</a></li>
+<li><a href="/cbnews/20210714/1586767.md">薄熙来大秘徐鸣突倒台牵出新靠山内幕 李克强“躺枪”？</a></li>
 <li><a href="/cbnews/20210714/1586551.md">湖南女行员诱惑已婚主管 正宫气炸拉红布条举发</a></li>
 <li><a href="/bannedvideo/20210713/1586224.md">文睿：速度太快，支撑中共的4个因素全面溃烂，那一天难道真要到了吗？</a></li>
+<li><a href="/bannedvideo/20210714/1586717.md">周薄级别大老虎要落马?习近平连发强烈警告，中共内斗谁握免死金牌；抖音被中共下架！在港美企有危险，美扩大制裁；勒索黑客REvil神祕消失；北京协助古巴断网【 #晚间新闻 】｜  #新唐人电视台</a></li>
 <li><a href="/bannedvideo/20210713/1586305.md">陈破空：亲习媒体揭底：江泽民挺习，胡温朱反习！扬言：习近平不再受政治老人节制</a></li>
 <li><a href="/cbnews/20210713/1586390.md">乱：网曝北大医院医生带女友值班 还帮病人拔尿管</a></li>
-<li><a href="/cbnews/20210714/1586767.md">薄熙来大秘徐鸣突倒台牵出新靠山内幕 李克强“躺枪”？</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210714/1586885.md" target="_blank">李燕铭：习近平北戴河会前拿下薄熙来“文胆”徐鸣深度内幕 徐鸣是“红色重庆”主要策划人 薄周密谋政变 徐鸣出谋收买200多左派 薄熙来落马前将徐鸣调职避风头 薄熙来三大臂膀中两人落马 黄奇帆悬了？</a></li>
 <li><a href="/comments/20210714/1586864.md" target="_blank">美对冲基金创始人：美国应禁止中共数字人民币</a></li>
 <li><a href="/comments/20210714/1586863.md" target="_blank">多喝水健康？ 营养师：这类人群要注意</a></li>
 <li><a href="/comments/20210714/1586862.md" target="_blank">居家防疫好食材！ 玉米的挑选、保存</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210714/1586750.md" target="_blank">陈思敏：数据之外 中国经济放缓压力有多大？</a></li>
 <li><a href="/comments/20210714/1586745.md" target="_blank">杜特蒂当副手父女配？女儿剑指总统大位民调领先</a></li>
 <li><a href="/comments/20210714/1586744.md" target="_blank">【养生专家】：炎炎三伏话饮食</a></li>
-<li><a href="/comments/20210714/1586743.md" target="_blank">南非骚乱升级 已致72死 LG等韩企遭波及</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
 
 </ul>
 </div>
