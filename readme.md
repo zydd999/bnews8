@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210715/1587342.md" target="_blank">文昭：中南海惊了：古巴人民历史性反共！习近平又「芯」碎，紫光破产重整；原来举国优势算漏了一样</a></li>
+<li><a href="/comments/20210715/1587336.md" target="_blank">美德首脑会见 论中俄问题恐陷紧张氛围；连根拔起 美国补助业者换调中国电信设备【希望之声TV-每日头条-2021/7/14】</a></li>
 <li><a href="/cbnews/20210715/1587330.md" target="_blank">萧铭：（独家分析）滴滴着急上市不能说的原因；习近平几年前的一句话透露了打压滴滴的真正原因</a></li>
 <li><a href="/cbnews/20210715/1587308.md" target="_blank">陕西榆林禁止义务教育学科在校外培训 引质疑</a></li>
 <li><a href="/cbnews/20210715/1587283.md" target="_blank">15岁女孩要5000买手机父亲只给3000 愤而跳楼</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/comments/20210714/1586995.md" target="_blank">祕鲁荒原神祕巨画暗藏天机，外星人制作的宇宙星图？纳斯卡惊现奇异“木乃伊”，DNA异于人类，他们是未知古老人种，还是外星种族？</a></li>
 <li><a href="/cbnews/20210714/1586980.md" target="_blank">南科大实验室起火 博士后烧伤 迅速冲上热搜</a></li>
 <li><a href="/cbnews/20210714/1586965.md" target="_blank">中国作家莫言遭中共封杀 一段视频揭其原因</a></li>
-<li><a href="/cbnews/20210714/1586964.md" target="_blank">莫言被踢出“中国百年名作家”之列热传</a></li>
-<li><a href="/cbnews/20210714/1586945.md" target="_blank">传美拟扩大对中制裁 警告：投资新疆、香港有风险</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210715/1587336.md" target="_blank">美德首脑会见 论中俄问题恐陷紧张氛围；连根拔起 美国补助业者换调中国电信设备【希望之声TV-每日头条-2021/7/14】</a></li>
 <li><a href="/comments/20210715/1587303.md" target="_blank">研究：经常食用美国南方食物会增加猝死风险</a></li>
 <li><a href="/comments/20210715/1587302.md" target="_blank">2021夏秋留学旅游，哪些疫苗被热门国家认可？</a></li>
 <li><a href="/comments/20210715/1587290.md" target="_blank">【智慧专栏】古文浅译：《论语•季氏》《资治通鉴•周纪二》《礼记•中庸》</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210715/1587209.md" target="_blank">新冠医院大火死亡增至 92人 伊拉克全国哀悼3天</a></li>
 <li><a href="/comments/20210715/1587208.md" target="_blank">银保监会：中国银行业面临坏账上升压力</a></li>
 <li><a href="/comments/20210715/1587206.md" target="_blank">巴基斯坦巴士大爆炸 中方伤亡惨重 被疑针对“一带一路”；南非大骚乱72亡千人被捕 外企遭殃；打核嘴炮？中共军媒扬言核轰日本；给自己壮胆？中共秀水下无人机 【希望之声TV-环球看点-2021/7/14】</a></li>
-<li><a href="/comments/20210715/1587199.md" target="_blank">【国正专栏】生活随笔：德国小子游新竹</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
 <li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
 <li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
 
 </ul>
 </div>
