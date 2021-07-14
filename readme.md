@@ -13,8 +13,8 @@
 <li><a href="/health/20210714/1586625.md">中国每天一万人确诊癌症，医生忠告，45岁以后，晨起四多晚上两少</a></li>
 <li><a href="/cbnews/20210714/1586767.md">薄熙来大秘徐鸣突倒台牵出新靠山内幕 李克强“躺枪”？</a></li>
 <li><a href="/bannedvideo/20210714/1586812.md">💥消息指投诚美国的中共官员，供出材料足以开战！大陆扬言核灭日本，日本不客气，让台湾“独立”；美日台为“台战”分工，日守东北台守西南；古巴示威在中国变味；“火星男孩”介绍火星社会｜新闻拍案惊奇 大宇</a></li>
-<li><a href="/yule/20210714/1586538.md">她十年拿8影后…章子怡竟批演技烂、不认识</a></li>
 <li><a href="/cbnews/20210714/1586965.md">中国作家莫言遭中共封杀 一段视频揭其原因</a></li>
+<li><a href="/yule/20210714/1586538.md">她十年拿8影后…章子怡竟批演技烂、不认识</a></li>
 <li><a href="/cbnews/20210714/1586927.md">习近平内部讲话曝光 党内有人挑战“习核心”</a></li>
 <li><a href="/bannedvideo/20210714/1586717.md">周薄级别大老虎要落马?习近平连发强烈警告，中共内斗谁握免死金牌；抖音被中共下架！在港美企有危险，美扩大制裁；勒索黑客REvil神祕消失；北京协助古巴断网【 #晚间新闻 】｜  #新唐人电视台</a></li>
 <li><a href="/topimagenews/20210714/1586860.md">北戴河会议将至 中纪委刀指曾庆红老巢：露头就打！反复敲打！【阿波罗网报道】</a></li>
@@ -23,10 +23,10 @@
 <li><a href="/cbnews/20210714/1586861.md">哈尔滨强拆现场爆发激烈冲突 面对群狼压境 民众奋起反抗</a></li>
 <li><a href="/comments/20210714/1586775.md">【微博精粹】习近平李克强联手出重磅文件 可能被古巴吓到了</a></li>
 <li><a href="/cnnews/20210714/1586554.md">一场疫情的完美风暴正在酝酿…</a></li>
+<li><a href="/bannedvideo/20210714/1586973.md">文睿：不用我黑，中国经济真要出事儿，流水线工人30%硕士，人民大学、武汉大学一声叹息</a></li>
+<li><a href="/bannedvideo/20210714/1586957.md">网友：浙江杭州，逛商场偶遇一“爱国”女子追着一日本女子大骂：“滚出中国，滚出这个商场”</a></li>
 <li><a href="/health/20210714/1586748.md">哈佛惊奇发现：常吃这种食物的人寿命更长、更不怕癌！你爱吃吗</a></li>
 <li><a href="/cnnews/20210714/1586709.md">轻装打份像“裸体” 比基尼冠军网红上不了飞机</a></li>
-<li><a href="/bannedvideo/20210714/1586957.md">网友：浙江杭州，逛商场偶遇一“爱国”女子追着一日本女子大骂：“滚出中国，滚出这个商场”</a></li>
-<li><a href="/bannedvideo/20210714/1586973.md">文睿：不用我黑，中国经济真要出事儿，流水线工人30%硕士，人民大学、武汉大学一声叹息</a></li>
 <li><a href="/bannedvideo/20210714/1586519.md">【信号】习近平敢动铁帽子王？欲分裂欧盟；女华人一炮而红CPAC发声；世卫喊停混打疫苗；强生疫苗被贴警语；美国务院首评中共种族灭绝；拜登太太联手芝麻街美军中推种族议题；通胀疯狂左媒认了KV</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -98,6 +98,15 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210715/1587189.md" target="_blank">【曾铮专栏】感悟神韵（之五）：感悟神韵声乐</a></li>
+<li><a href="/comments/20210715/1587188.md" target="_blank">丧心病狂！中国军评片威胁日本干预台海将用核弹轰炸</a></li>
+<li><a href="/comments/20210715/1587187.md" target="_blank">【大事件博物馆】奥巴马的穆斯林童年和共产主义的青春期</a></li>
+<li><a href="/comments/20210715/1587186.md" target="_blank">如何辨识假消息 抵御中共大外宣？“时代漫谈”邀九位专家学者“求真相”</a></li>
+<li><a href="/comments/20210715/1587185.md" target="_blank">建制派再改议事规则 流会罚缺席者一日人工约3300元 开会穿商业衣饰</a></li>
+<li><a href="/comments/20210715/1587184.md" target="_blank">狱中悼念刘晓波 邹幸彤：不能辜负前⼈付出 在地顽抗不撤不退</a></li>
+<li><a href="/comments/20210715/1587183.md" target="_blank">王永平宣布封笔 “与其欲言又止，不如放下自在”</a></li>
+<li><a href="/comments/20210715/1587181.md" target="_blank">薄熙来大秘被查更多细节曝光 哪个“大人物”曾帮他躲过一劫？</a></li>
+<li><a href="/comments/20210715/1587180.md" target="_blank">诗八首：《骑马过河》《中秋》《不可预测》《俗家子弟》《杂谈》《画像》《李贺》《风景》</a></li>
 <li><a href="/comments/20210715/1587179.md" target="_blank">【世界美景】视频：四分钟带您感受泰国泰北小城</a></li>
 <li><a href="/comments/20210714/1587150.md" target="_blank">美财长：美欧应维持统一战线共抗中共</a></li>
 <li><a href="/comments/20210714/1587145.md" target="_blank">八旬母亲露出几十年没有过的开心笑容</a></li>
@@ -114,15 +123,6 @@
 <li><a href="/comments/20210714/1587010.md" target="_blank">美澳主导 十一国参与“护身军刀”联合军演 旨在牵制中国</a></li>
 <li><a href="/comments/20210714/1587009.md" target="_blank">【东洲专栏】诗歌篇：《真言》</a></li>
 <li><a href="/comments/20210714/1586995.md" target="_blank">祕鲁荒原神祕巨画暗藏天机，外星人制作的宇宙星图？纳斯卡惊现奇异“木乃伊”，DNA异于人类，他们是未知古老人种，还是外星种族？</a></li>
-<li><a href="/comments/20210714/1586994.md" target="_blank">「伊丽莎白女王号」百人染疫 军方：整体部署不受影响</a></li>
-<li><a href="/comments/20210714/1586987.md" target="_blank">【书展 2021】刘锐绍：书展充斥“白色压力” 吁港人勿自我收缩</a></li>
-<li><a href="/comments/20210714/1586986.md" target="_blank">【高官犯聚饭局】邓炳强首开腔 指官员牺牲陪家人时间 看不到损政府声誉</a></li>
-<li><a href="/comments/20210714/1586985.md" target="_blank">被问会否查港大评议会 邓炳强：会跟进任何违国安法、煽动罪指控</a></li>
-<li><a href="/comments/20210714/1586984.md" target="_blank">建制派狙击港大评议会 葛珮帆斥陈文敏吴霭仪“为恐怖主义辩解” 张华峰：道歉就可全身而退？</a></li>
-<li><a href="/comments/20210714/1586983.md" target="_blank">【小说连载】七海归途之雪伦公主（34）</a></li>
-<li><a href="/comments/20210714/1586981.md" target="_blank">【紫菱讲故事】风云人物：：戴笠将军是天使还是魔鬼？</a></li>
-<li><a href="/comments/20210714/1586974.md" target="_blank">德国外长：中共利用疫苗捐赠扩大影响力而非救人</a></li>
-<li><a href="/comments/20210714/1586972.md" target="_blank">埃尔多安与习近平通话关注维族 土中声明不同露玄机</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
 <li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
+<li><a href="/ganwu/20170705/787156.md" target="_blank">感悟神韵（之四）：感悟神韵音乐</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
 <li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
 
 </ul>
 </div>
