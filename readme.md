@@ -16,18 +16,18 @@
 <li><a href="/cbnews/20210714/1586965.md">中国作家莫言遭中共封杀 一段视频揭其原因</a></li>
 <li><a href="/cbnews/20210714/1586927.md">习近平内部讲话曝光 党内有人挑战“习核心”</a></li>
 <li><a href="/yule/20210714/1586538.md">她十年拿8影后…章子怡竟批演技烂、不认识</a></li>
-<li><a href="/bannedvideo/20210714/1586717.md">周薄级别大老虎要落马?习近平连发强烈警告，中共内斗谁握免死金牌；抖音被中共下架！在港美企有危险，美扩大制裁；勒索黑客REvil神祕消失；北京协助古巴断网【 #晚间新闻 】｜  #新唐人电视台</a></li>
 <li><a href="/topimagenews/20210714/1586860.md">北戴河会议将至 中纪委刀指曾庆红老巢：露头就打！反复敲打！【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20210714/1586551.md">湖南女行员诱惑已婚主管 正宫气炸拉红布条举发</a></li>
+<li><a href="/bannedvideo/20210714/1586717.md">周薄级别大老虎要落马?习近平连发强烈警告，中共内斗谁握免死金牌；抖音被中共下架！在港美企有危险，美扩大制裁；勒索黑客REvil神祕消失；北京协助古巴断网【 #晚间新闻 】｜  #新唐人电视台</a></li>
 <li><a href="/comments/20210714/1586907.md">习近平以台湾为诱饵，准备拿日本开刀</a></li>
+<li><a href="/cbnews/20210714/1586551.md">湖南女行员诱惑已婚主管 正宫气炸拉红布条举发</a></li>
 <li><a href="/bannedvideo/20210714/1586973.md">文睿：不用我黑，中国经济真要出事儿，流水线工人30%硕士，人民大学、武汉大学一声叹息</a></li>
 <li><a href="/cbnews/20210714/1586861.md">哈尔滨强拆现场爆发激烈冲突 面对群狼压境 民众奋起反抗</a></li>
 <li><a href="/comments/20210714/1586775.md">【微博精粹】习近平李克强联手出重磅文件 可能被古巴吓到了</a></li>
 <li><a href="/cnnews/20210714/1586554.md">一场疫情的完美风暴正在酝酿…</a></li>
 <li><a href="/bannedvideo/20210714/1586957.md">网友：浙江杭州，逛商场偶遇一“爱国”女子追着一日本女子大骂：“滚出中国，滚出这个商场”</a></li>
 <li><a href="/health/20210714/1586748.md">哈佛惊奇发现：常吃这种食物的人寿命更长、更不怕癌！你爱吃吗</a></li>
-<li><a href="/cnnews/20210714/1586709.md">轻装打份像“裸体” 比基尼冠军网红上不了飞机</a></li>
 <li><a href="/topimagenews/20210714/1587052.md">失业凶猛 中国研究生毕业卷香烟；习近平的这些“芯”全碎...罕有批评官员</a></li>
+<li><a href="/cnnews/20210714/1586709.md">轻装打份像“裸体” 比基尼冠军网红上不了飞机</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210715/1587212.md" target="_blank">68岁妇网恋“奔现”碰壁 自广西赴川被拉黑</a></li>
+<li><a href="/comments/20210715/1587206.md" target="_blank">巴基斯坦巴士大爆炸 中方伤亡惨重 被疑针对“一带一路”；南非大骚乱72亡千人被捕 外企遭殃；打核嘴炮？中共军媒扬言核轰日本；给自己壮胆？中共秀水下无人机 【希望之声TV-环球看点-2021/7/14】</a></li>
 <li><a href="/cbnews/20210714/1587142.md" target="_blank">河南焦作爆发山洪 水库泄洪冲毁九渡村</a></li>
 <li><a href="/cbnews/20210714/1587141.md" target="_blank">访民穿“没腐败就没访民”文化衫 遭保安抢脱</a></li>
 <li><a href="/cbnews/20210714/1587122.md" target="_blank">辽宁沈阳发生持刀伤人案 致2死7伤</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/cbnews/20210714/1586861.md" target="_blank">哈尔滨强拆现场爆发激烈冲突 面对群狼压境 民众奋起反抗</a></li>
 <li><a href="/cbnews/20210714/1586840.md" target="_blank">欧盟商界不想与中共脱钩 专家：危险的选择</a></li>
 <li><a href="/cbnews/20210714/1586839.md" target="_blank">江峰：塔利班是敌是友？美撤军真空王毅犯难不敢上；新华社黑了习近平一把：打江山还是打人民？上海合作组织外长会议聚焦阿富汗，中共一带一路中亚天然气管道危险【江峰漫谈20210713第347期】</a></li>
-<li><a href="/comments/20210714/1586833.md" target="_blank">德州众议院投票允许逮捕逃往华盛顿阻止投票法案的民主党；日本白皮书 首提台局势稳定重要性【希望之声-午夜新闻-2021/07/13】</a></li>
-<li><a href="/cbnews/20210714/1586813.md" target="_blank">中共战狼再惹议 驻法使馆威胁报社删报导</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210715/1587209.md" target="_blank">新冠医院大火死亡增至 92人 伊拉克全国哀悼3天</a></li>
+<li><a href="/comments/20210715/1587208.md" target="_blank">银保监会：中国银行业面临坏账上升压力</a></li>
+<li><a href="/comments/20210715/1587206.md" target="_blank">巴基斯坦巴士大爆炸 中方伤亡惨重 被疑针对“一带一路”；南非大骚乱72亡千人被捕 外企遭殃；打核嘴炮？中共军媒扬言核轰日本；给自己壮胆？中共秀水下无人机 【希望之声TV-环球看点-2021/7/14】</a></li>
 <li><a href="/comments/20210715/1587199.md" target="_blank">【国正专栏】生活随笔：德国小子游新竹</a></li>
 <li><a href="/comments/20210715/1587189.md" target="_blank">【曾铮专栏】感悟神韵（之五）：感悟神韵声乐</a></li>
 <li><a href="/comments/20210715/1587188.md" target="_blank">丧心病狂！中国军评片威胁日本干预台海将用核弹轰炸</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210714/1587037.md" target="_blank">德州大戏上演！州长命令法警到DC追捕58名逃跑的民主党州议员。乔州黑幕撕开一角，初步发现：错误竟达60%。大峡谷情况更新。</a></li>
 <li><a href="/comments/20210714/1587020.md" target="_blank">【火山评论】北大，请不要以名校的马甲上演女孩献祭</a></li>
 <li><a href="/comments/20210714/1587012.md" target="_blank">【东洲专栏】散文篇：人类在等著什么？</a></li>
-<li><a href="/comments/20210714/1587011.md" target="_blank">【东洲专栏】散文篇：默默的倒骑驴</a></li>
-<li><a href="/comments/20210714/1587010.md" target="_blank">美澳主导 十一国参与“护身军刀”联合军演 旨在牵制中国</a></li>
-<li><a href="/comments/20210714/1587009.md" target="_blank">【东洲专栏】诗歌篇：《真言》</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
 <li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
 
 </ul>
 </div>
