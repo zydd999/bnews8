@@ -10,8 +10,8 @@
 <li><a href="/ssgc/20210714/1586760.md">〖兲朝浮世绘〗中共养不起庞大的行政人员和维稳人员，只能任由他们抢了</a></li>
 <li><a href="/cbnews/20210714/1586583.md">中共清理公务员津贴 有官员需回吐十几万…</a></li>
 <li><a href="/health/20210714/1586625.md">中国每天一万人确诊癌症，医生忠告，45岁以后，晨起四多晚上两少</a></li>
-<li><a href="/cbnews/20210714/1586767.md">薄熙来大秘徐鸣突倒台牵出新靠山内幕 李克强“躺枪”？</a></li>
 <li><a href="/bannedvideo/20210714/1586812.md">💥消息指投诚美国的中共官员，供出材料足以开战！大陆扬言核灭日本，日本不客气，让台湾“独立”；美日台为“台战”分工，日守东北台守西南；古巴示威在中国变味；“火星男孩”介绍火星社会｜新闻拍案惊奇 大宇</a></li>
+<li><a href="/cbnews/20210714/1586767.md">薄熙来大秘徐鸣突倒台牵出新靠山内幕 李克强“躺枪”？</a></li>
 <li><a href="/cbnews/20210714/1586965.md">中国作家莫言遭中共封杀 一段视频揭其原因</a></li>
 <li><a href="/cbnews/20210714/1586927.md">习近平内部讲话曝光 党内有人挑战“习核心”</a></li>
 <li><a href="/yule/20210714/1586538.md">她十年拿8影后…章子怡竟批演技烂、不认识</a></li>
@@ -24,8 +24,8 @@
 <li><a href="/comments/20210714/1586775.md">【微博精粹】习近平李克强联手出重磅文件 可能被古巴吓到了</a></li>
 <li><a href="/cnnews/20210714/1586554.md">一场疫情的完美风暴正在酝酿…</a></li>
 <li><a href="/topimagenews/20210714/1587052.md">失业凶猛 中国研究生毕业卷香烟；习近平的这些“芯”全碎...罕有批评官员</a></li>
-<li><a href="/bannedvideo/20210714/1586957.md">网友：浙江杭州，逛商场偶遇一“爱国”女子追着一日本女子大骂：“滚出中国，滚出这个商场”</a></li>
 <li><a href="/cnnews/20210714/1587057.md">中国楼市最大的悬念即将揭晓</a></li>
+<li><a href="/bannedvideo/20210714/1586957.md">网友：浙江杭州，逛商场偶遇一“爱国”女子追着一日本女子大骂：“滚出中国，滚出这个商场”</a></li>
 <li><a href="/health/20210714/1586748.md">哈佛惊奇发现：常吃这种食物的人寿命更长、更不怕癌！你爱吃吗</a></li>
 <li><a href="/cnnews/20210714/1586709.md">轻装打份像“裸体” 比基尼冠军网红上不了飞机</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210715/1587261.md" target="_blank">“大暑小暑，上蒸下煮”，三伏天吃什么？</a></li>
 <li><a href="/comments/20210715/1587258.md" target="_blank">猪价下跌 中国两大养猪企业上半年预亏</a></li>
 <li><a href="/comments/20210715/1587256.md" target="_blank">诗八首：《最初的冬天》《天黑了》《不可预测》《旅途》《青梅竹马》《画像》《李贺》《风景》</a></li>
 <li><a href="/comments/20210715/1587246.md" target="_blank">A股四大指数齐跌 锂电板块蒸发超2500亿</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210715/1587183.md" target="_blank">王永平宣布封笔 “与其欲言又止，不如放下自在”</a></li>
 <li><a href="/comments/20210715/1587181.md" target="_blank">薄熙来大秘被查更多细节曝光 哪个“大人物”曾帮他躲过一劫？</a></li>
 <li><a href="/comments/20210715/1587180.md" target="_blank">诗八首：《骑马过河》《中秋》《不可预测》《俗家子弟》《杂谈》《画像》《李贺》《风景》</a></li>
-<li><a href="/comments/20210715/1587179.md" target="_blank">【世界美景】视频：四分钟带您感受泰国泰北小城</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
 <li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20210612/1565472.md" target="_blank">感悟神韵（之二）：感悟神韵的艺术风格</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
 <li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
 <li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
 
 </ul>
 </div>
