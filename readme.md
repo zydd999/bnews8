@@ -7,7 +7,6 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/comments/20210714/1586662.md">习近平辛辣出手，一副国级消失。滴滴出行背后的红色资本链曝光。北戴河会议前，习近平再度联手胡锦涛，打击江泽民派系与红色资本。</a></li>
 <li><a href="/ssgc/20210714/1586760.md">〖兲朝浮世绘〗中共养不起庞大的行政人员和维稳人员，只能任由他们抢了</a></li>
-<li><a href="/cbnews/20210714/1586583.md">中共清理公务员津贴 有官员需回吐十几万…</a></li>
 <li><a href="/health/20210714/1586625.md">中国每天一万人确诊癌症，医生忠告，45岁以后，晨起四多晚上两少</a></li>
 <li><a href="/bannedvideo/20210714/1586812.md">💥消息指投诚美国的中共官员，供出材料足以开战！大陆扬言核灭日本，日本不客气，让台湾“独立”；美日台为“台战”分工，日守东北台守西南；古巴示威在中国变味；“火星男孩”介绍火星社会｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/cbnews/20210714/1586767.md">薄熙来大秘徐鸣突倒台牵出新靠山内幕 李克强“躺枪”？</a></li>
@@ -16,8 +15,8 @@
 <li><a href="/topimagenews/20210714/1586860.md">北戴河会议将至 中纪委刀指曾庆红老巢：露头就打！反复敲打！【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20210714/1586717.md">周薄级别大老虎要落马?习近平连发强烈警告，中共内斗谁握免死金牌；抖音被中共下架！在港美企有危险，美扩大制裁；勒索黑客REvil神祕消失；北京协助古巴断网【 #晚间新闻 】｜  #新唐人电视台</a></li>
 <li><a href="/comments/20210714/1586907.md">习近平以台湾为诱饵，准备拿日本开刀</a></li>
-<li><a href="/cbnews/20210714/1586861.md">哈尔滨强拆现场爆发激烈冲突 面对群狼压境 民众奋起反抗</a></li>
 <li><a href="/bannedvideo/20210714/1586973.md">文睿：不用我黑，中国经济真要出事儿，流水线工人30%硕士，人民大学、武汉大学一声叹息</a></li>
+<li><a href="/cbnews/20210714/1586861.md">哈尔滨强拆现场爆发激烈冲突 面对群狼压境 民众奋起反抗</a></li>
 <li><a href="/comments/20210714/1586775.md">【微博精粹】习近平李克强联手出重磅文件 可能被古巴吓到了</a></li>
 <li><a href="/topimagenews/20210714/1587052.md">失业凶猛 中国研究生毕业卷香烟；习近平的这些“芯”全碎...罕有批评官员</a></li>
 <li><a href="/cnnews/20210714/1587057.md">中国楼市最大的悬念即将揭晓</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/cbnews/20210714/1586964.md">莫言被踢出“中国百年名作家”之列热传</a></li>
 <li><a href="/lifebaike/20210714/1586949.md">家中有这些征兆是大吉，喜从天降，贵人临门</a></li>
 <li><a href="/ssgc/20210714/1586831.md">〖微博谈〗习近平狠狠羞辱华尔街</a></li>
+<li><a href="/bannedvideo/20210714/1586940.md">拜登围着中国敲敲打打，感觉要有大事发生；疫情走到今天，该轮到新加坡模式了吗（20210714 第638期）</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -67,6 +67,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20210715/1587324.md" target="_blank">东莞台心医院草菅人命 当时没有筹够医疗费 15岁女孩悲惨离世</a></li>
 <li><a href="/topimagenews/20210715/1587248.md" target="_blank">印度神童预言下半年经济复苏 两年后生活重回正轨</a></li>
 <li><a href="/topimagenews/20210714/1587052.md" target="_blank">失业凶猛 中国研究生毕业卷香烟；习近平的这些“芯”全碎&#8230;罕有批评官员</a></li>
 <li><a href="/topimagenews/20210714/1586860.md" target="_blank">北戴河会议将至 中纪委刀指曾庆红老巢：露头就打！反复敲打！【阿波罗网报道】</a></li>
@@ -91,7 +92,6 @@
 <li><a href="/topimagenews/20210708/1582726.md" target="_blank">枪声砰砰作响！海地暗杀总统现场录像疑似曝光</a></li>
 <li><a href="/topimagenews/20210707/1582217.md" target="_blank">广州发生疑似报复社会事件 一辆SUV车冲向车辆行人 撞翻一片</a></li>
 <li><a href="/topimagenews/20210707/1582216.md" target="_blank">二十大争夺中共“刀把子” 江系再为周强造势【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20210707/1582113.md" target="_blank">滴滴狂跌近千亿！中概股暴跌风暴 最惨狂泻40%</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
 
 </ul>
 </div>
