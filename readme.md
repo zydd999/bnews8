@@ -24,9 +24,9 @@
 <li><a href="/cbnews/20210714/1586861.md">哈尔滨强拆现场爆发激烈冲突 面对群狼压境 民众奋起反抗</a></li>
 <li><a href="/comments/20210714/1586775.md">【微博精粹】习近平李克强联手出重磅文件 可能被古巴吓到了</a></li>
 <li><a href="/cnnews/20210714/1586554.md">一场疫情的完美风暴正在酝酿…</a></li>
+<li><a href="/topimagenews/20210714/1587052.md">失业凶猛 中国研究生毕业卷香烟；习近平的这些“芯”全碎...罕有批评官员</a></li>
 <li><a href="/bannedvideo/20210714/1586957.md">网友：浙江杭州，逛商场偶遇一“爱国”女子追着一日本女子大骂：“滚出中国，滚出这个商场”</a></li>
 <li><a href="/health/20210714/1586748.md">哈佛惊奇发现：常吃这种食物的人寿命更长、更不怕癌！你爱吃吗</a></li>
-<li><a href="/topimagenews/20210714/1587052.md">失业凶猛 中国研究生毕业卷香烟；习近平的这些“芯”全碎...罕有批评官员</a></li>
 <li><a href="/cnnews/20210714/1586709.md">轻装打份像“裸体” 比基尼冠军网红上不了飞机</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -98,6 +98,14 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210715/1587239.md" target="_blank">美中关系缓和？传美下周将派副国务卿访天津</a></li>
+<li><a href="/comments/20210715/1587238.md" target="_blank">CNN：拜登政府拟建立“美中热线”以减少冲突</a></li>
+<li><a href="/comments/20210715/1587237.md" target="_blank">21家国企被评级机构列入负面观察名单</a></li>
+<li><a href="/comments/20210715/1587230.md" target="_blank">壹传媒出售台湾桃园印刷厂房 涉 1.39 亿港元</a></li>
+<li><a href="/comments/20210715/1587229.md" target="_blank">【澳门立会选举】《星岛》引消息指苏嘉豪因串联港台反中势力被 DQ 苏：个别媒介断章取义</a></li>
+<li><a href="/comments/20210715/1587227.md" target="_blank">【阉割通识】教局办“公社科”培训 教师：讲者促多角度思考 惟持份者例子全支持中国</a></li>
+<li><a href="/comments/20210715/1587226.md" target="_blank">曾罕有炮轰审报告“乱批评” 入境处去信承诺加倍谨慎 确保不发生同样情况</a></li>
+<li><a href="/comments/20210715/1587225.md" target="_blank">【国正专栏】生活随笔：在威尼斯等天黑，等到打雷+闪电+暴雨</a></li>
 <li><a href="/comments/20210715/1587209.md" target="_blank">新冠医院大火死亡增至 92人 伊拉克全国哀悼3天</a></li>
 <li><a href="/comments/20210715/1587208.md" target="_blank">银保监会：中国银行业面临坏账上升压力</a></li>
 <li><a href="/comments/20210715/1587206.md" target="_blank">巴基斯坦巴士大爆炸 中方伤亡惨重 被疑针对“一带一路”；南非大骚乱72亡千人被捕 外企遭殃；打核嘴炮？中共军媒扬言核轰日本；给自己壮胆？中共秀水下无人机 【希望之声TV-环球看点-2021/7/14】</a></li>
@@ -115,14 +123,6 @@
 <li><a href="/comments/20210714/1587150.md" target="_blank">美财长：美欧应维持统一战线共抗中共</a></li>
 <li><a href="/comments/20210714/1587145.md" target="_blank">八旬母亲露出几十年没有过的开心笑容</a></li>
 <li><a href="/comments/20210714/1587138.md" target="_blank">时事大家谈：刘晓波逝世四周年 中共“文字狱”变本加厉</a></li>
-<li><a href="/comments/20210714/1587099.md" target="_blank">【标题】川普任内白宫国安顾问，扮演美台重要角色；房价飞涨宁当租客 美国潜在房主纷纷放弃置业【希望之声TV-两岸要闻-2021/7/14】</a></li>
-<li><a href="/comments/20210714/1587093.md" target="_blank">【未普评论】从接触到竞争看美中关系的范式变化（上）</a></li>
-<li><a href="/comments/20210714/1587063.md" target="_blank">疫情笼罩下 马克龙主持“赢得未来”国庆阅兵式</a></li>
-<li><a href="/comments/20210714/1587059.md" target="_blank">【任甄评论】中共的焦虑</a></li>
-<li><a href="/comments/20210714/1587053.md" target="_blank">张杰：习近平与金正恩两个逆行兄弟</a></li>
-<li><a href="/comments/20210714/1587037.md" target="_blank">德州大戏上演！州长命令法警到DC追捕58名逃跑的民主党州议员。乔州黑幕撕开一角，初步发现：错误竟达60%。大峡谷情况更新。</a></li>
-<li><a href="/comments/20210714/1587020.md" target="_blank">【火山评论】北大，请不要以名校的马甲上演女孩献祭</a></li>
-<li><a href="/comments/20210714/1587012.md" target="_blank">【东洲专栏】散文篇：人类在等著什么？</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
 <li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
 
 </ul>
 </div>
