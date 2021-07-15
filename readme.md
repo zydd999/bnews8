@@ -21,13 +21,13 @@
 <li><a href="/cbnews/20210714/1586964.md">莫言被踢出“中国百年名作家”之列热传</a></li>
 <li><a href="/lifebaike/20210714/1586949.md">家中有这些征兆是大吉，喜从天降，贵人临门</a></li>
 <li><a href="/cbnews/20210715/1587282.md">科威特73℃高温把汽车烤化了?别又被骗了</a></li>
-<li><a href="/bannedvideo/20210715/1587315.md">#习近平 不是不改革，而是屡改屡败、停滞不前！</a></li>
 <li><a href="/bannedvideo/20210715/1587329.md">二手房凉了，中国楼市现巨变；中共下放执法权，“朝阳大妈”权力跃升；黑命贵标志被雷劈；蓬佩奥捍卫信仰自由：绝不能纵容中共；南非暴乱72人亡，母亲被迫高空抛婴儿【#全球新闻 】</a></li>
+<li><a href="/bannedvideo/20210715/1587315.md">#习近平 不是不改革，而是屡改屡败、停滞不前！</a></li>
 <li><a href="/bannedvideo/20210714/1586940.md">拜登围着中国敲敲打打，感觉要有大事发生；疫情走到今天，该轮到新加坡模式了吗（20210714 第638期）</a></li>
 <li><a href="/ssgc/20210714/1587096.md">公务员也减薪 苦日子将击垮中共</a></li>
-<li><a href="/topimagenews/20210715/1587324.md">东莞台心医院草菅人命 当时没有筹够医疗费 15岁女孩悲惨离世</a></li>
+<li><a href="/topimagenews/20210715/1587502.md">习近平感觉不安全？港媒：中央警卫局局长换人 【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20210715/1587248.md">印度神童预言下半年经济复苏 两年后生活重回正轨</a></li>
-<li><a href="/health/20210714/1587008.md">睡觉出现3种异常 或是肝脏早期癌变信号</a></li>
+<li><a href="/topimagenews/20210715/1587324.md">东莞台心医院草菅人命 当时没有筹够医疗费 15岁女孩悲惨离世</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210715/1587548.md" target="_blank">扩增军备 中共在南海岛礁建军事三角区</a></li>
+<li><a href="/cbnews/20210715/1587547.md" target="_blank">中共治下中国大陆黑心食品 牛肉丸子的原料原来是这个&#8230;</a></li>
 <li><a href="/cbnews/20210715/1587537.md" target="_blank">深圳赛格大厦诡异晃动 官方调查结果出炉</a></li>
 <li><a href="/comments/20210715/1587521.md" target="_blank">美澳联合军演开幕 不速之客靠近军演海域；古巴人罕见抗议 当局严厉镇压【希望之声-午夜新闻-2021/07/14】</a></li>
 <li><a href="/comments/20210715/1587475.md" target="_blank">弗洛伊德纪念墙画被雷击损毁；美苏式沟通再现？美高官被指下周访中、筹备“美中热线”；近八成美国人希望对疫情索赔【希望之声TV-北美新闻-2021/7/14】</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/cbnews/20210715/1587212.md" target="_blank">68岁妇网恋“奔现”碰壁 自广西赴川被拉黑</a></li>
 <li><a href="/comments/20210715/1587206.md" target="_blank">巴基斯坦巴士大爆炸 中方伤亡惨重 被疑针对“一带一路”；南非大骚乱72亡千人被捕 外企遭殃；打核嘴炮？中共军媒扬言核轰日本；给自己壮胆？中共秀水下无人机 【希望之声TV-环球看点-2021/7/14】</a></li>
 <li><a href="/cbnews/20210714/1587142.md" target="_blank">河南焦作爆发山洪 水库泄洪冲毁九渡村</a></li>
-<li><a href="/cbnews/20210714/1587141.md" target="_blank">访民穿“没腐败就没访民”文化衫 遭保安抢脱</a></li>
-<li><a href="/cbnews/20210714/1587122.md" target="_blank">辽宁沈阳发生持刀伤人案 致2死7伤</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210715/1587543.md" target="_blank">巴西总统疑肠阻塞拟接受「紧急手术」</a></li>
 <li><a href="/comments/20210715/1587525.md" target="_blank">当心「鼠标手」上身！ 医授1分钟自我检测法</a></li>
 <li><a href="/comments/20210715/1587524.md" target="_blank">「这项」运动消耗超多热量！ 医：是仰卧起坐的4倍</a></li>
 <li><a href="/comments/20210715/1587523.md" target="_blank">“冬病夏治-三伏贴”正当时</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210715/1587428.md" target="_blank">【中文同声翻译】宗教自由峰会 佩洛西蓬佩奥等发言</a></li>
 <li><a href="/comments/20210715/1587426.md" target="_blank">四川汶川县发生4.8级地震 都江堰震感强烈 成都等地震感明显</a></li>
 <li><a href="/comments/20210715/1587425.md" target="_blank">剑指中共 美日澳等11国护身军刀联合军演 声势浩大</a></li>
-<li><a href="/comments/20210715/1587421.md" target="_blank">中南海高官专列上的特供美女！中国铁路总公司中央专运中心为国家一级保密单位 招聘女列车员内情曝光 中南海不可告人的秘密_421</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20210329/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
 <li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
 
 </ul>
 </div>
