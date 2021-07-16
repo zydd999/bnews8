@@ -11,7 +11,6 @@
 <li><a href="/bannedvideo/20210716/1588063.md">美军运输机再抵台湾，中共嘴硬腿软，原因有两个；台积电董事长：没有人希望为了台湾开战，因为不想破坏芯片产业链【#秦鹏观察 7/15】</a></li>
 <li><a href="/headline/20210716/1588038.md">世卫总干事谭德赛：不能排除“实验室泄露说”，中国应交出原始数据</a></li>
 <li><a href="/bannedvideo/20210716/1588166.md">武毒所求助电邮外泄，谭德塞立马倒戈，猛扇中共嘴巴；破红线！美空军专机突降台北；重庆万人对抗警察现场枪响；白宫：共产主义是失败的意识形态；亚利桑那父女被困洪水车顶【 #晚间新闻 】｜  #新唐人电视台</a></li>
-<li><a href="/topimagenews/20210716/1587997.md">美中进入金融战“深水区” 谢金河：脱钩序幕</a></li>
 <li><a href="/cnnews/20210716/1588203.md">中共官网罕见披露李克强发火 怒拍桌子</a></li>
 <li><a href="/cbnews/20210716/1588364.md">华大基因编辑董事长汪建2017年公开讲话 称“我们可以造出任何病毒”</a></li>
 <li><a href="/ssgc/20210716/1588159.md">〖兲朝浮世绘〗习近平热脸贴了埃尔多安的冷屁股</a></li>
@@ -19,15 +18,16 @@
 <li><a href="/funmedia/20210716/1588059.md">如果有一天，你发现自己越来越安静，说明你正在“走上坡路”</a></li>
 <li><a href="/lifebaike/20210716/1588026.md">听到女儿被轮奸 妈妈举刀怒追3公里 单挑强奸犯</a></li>
 <li><a href="/cnnews/20210716/1588272.md">为二十大做准备 陈敏尔大秘履新 重庆官场持续换血 【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20210716/1587998.md">科兴疫苗大赚 背后涉江派权贵及美养老基金</a></li>
 <li><a href="/bannedvideo/20210716/1588402.md">川普总统首次公开声明军事政变和米利将军的事情</a></li>
 <li><a href="/bannedvideo/20210716/1588453.md">让人瞠目结舌！在听证会上，两位专家不断抛出震撼弹，令人浮想联翩！不过，这还只是冰山一角！</a></li>
 <li><a href="/health/20210716/1588381.md">餐桌上的天然阿司匹林！睡前煮碗它，化栓降脂、抗衰老，老中医天天喝</a></li>
 <li><a href="/cbnews/20210716/1588168.md">热搜！14岁少女身高2米26独霸篮下 网友傻眼</a></li>
 <li><a href="/lifebaike/20210716/1588395.md">俗话说：“鱼不蒜，牛不韭，肉不姜”是什么意思呢？有依据吗？</a></li>
-<li><a href="/cbnews/20210716/1588312.md">上海摄影师拍摄中共百年庆灯光秀突发病 费用不足死在党的医院里</a></li>
 <li><a href="/cbnews/20210716/1588558.md">天亮时分：不满中共羞辱，美副国务卿取消访华；亚利桑那审计结果触目惊心；《中华文明史》网友问答（政论天下第468集 20210716）</a></li>
+<li><a href="/cbnews/20210716/1588312.md">上海摄影师拍摄中共百年庆灯光秀突发病 费用不足死在党的医院里</a></li>
 <li><a href="/lifebaike/20210716/1588027.md">什么才叫做会开车的人？老司机：很多人都是瞎开，关键看细节</a></li>
+<li><a href="/ssgc/20210716/1588160.md">〖微博谈〗一对没有灵魂的道德婊</a></li>
+<li><a href="/cnnews/20210716/1588523.md">前基金高管与女下属被妻捉奸 女下属报案1人被捕</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210717/1588658.md" target="_blank">专栏 | 夜话中南海：“放弃参加高考”的应勇是如何成为复旦大学兼职教授的？</a></li>
 <li><a href="/comments/20210717/1588635.md" target="_blank">7.20 DC全民反迫害集会游行【希望之声TV】</a></li>
 <li><a href="/cbnews/20210717/1588617.md" target="_blank">8旬汉爱上异国美娇娘 5年网恋被诈270万元</a></li>
 <li><a href="/comments/20210717/1588599.md" target="_blank">“老鹰法案”众院通过？台驻美代表处“正名”有望；美中竟没互派大使？美前副助卿任临时代办；阿里和腾讯握手言和？有人高兴有人寒心【希望之声TV-环球看点-2021/7/15】</a></li>
@@ -60,13 +61,13 @@
 <li><a href="/cbnews/20210716/1588167.md" target="_blank">广东东莞发生随机砍人事件 官称6伤</a></li>
 <li><a href="/cbnews/20210716/1588153.md" target="_blank">“精赵”是群什么人？古人早已定论！</a></li>
 <li><a href="/cbnews/20210716/1588112.md" target="_blank">亲中港媒放料错误…美要员不会来华访问？</a></li>
-<li><a href="/comments/20210716/1588111.md" target="_blank">中共核威胁日本的企图及西方国家应采取的对策</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20210717/1588653.md" target="_blank">中国热浪来袭！不甩国家储备今年5次投放 煤炭价格再走高</a></li>
 <li><a href="/topimagenews/20210716/1587997.md" target="_blank">美中进入金融战“深水区” 谢金河：脱钩序幕</a></li>
 <li><a href="/topimagenews/20210715/1587586.md" target="_blank">警告习近平不要做赫鲁晓夫 政敌“绵里藏针”“借刀杀人”【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20210715/1587554.md" target="_blank">齐齐哈尔马戏团表演发生事故 老虎舞台现场吃马 乱作一团</a></li>
@@ -91,13 +92,15 @@
 <li><a href="/topimagenews/20210710/1584006.md" target="_blank">美商务部将34家实体纳入黑名单 14中企因侵犯人权与高科技监控入列</a></li>
 <li><a href="/topimagenews/20210710/1583935.md" target="_blank">维稳经济！中国人行全面降准0.5个百分点降准释 放水1万亿人币</a></li>
 <li><a href="/topimagenews/20210709/1583469.md" target="_blank">印度神童最新预言 7月小心4件事</a></li>
-<li><a href="/topimagenews/20210709/1583332.md" target="_blank">新疆沙漠出现神秘机场 美卫星监测疑“中国版51区”</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210717/1588662.md" target="_blank">美俄日中在APEC承诺尽力抗疫 但在别的领域有冲突</a></li>
+<li><a href="/comments/20210717/1588657.md" target="_blank">评论 | 唯色：平措汪杰先生谈昌都战役后签“十七条协议”（四</a></li>
+<li><a href="/comments/20210717/1588652.md" target="_blank">【苏苏专栏】童画王国第1-2-3集：看九岁小孩如何画出不同风格的童话公主</a></li>
 <li><a href="/comments/20210717/1588650.md" target="_blank">含而不露 拜登APEC讲话多处对抗中共</a></li>
 <li><a href="/comments/20210717/1588649.md" target="_blank">中国电动汽车拜腾被债权人申请破产</a></li>
 <li><a href="/comments/20210717/1588638.md" target="_blank">制裁中共官员在即！美副国务卿突然不访问中国了</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210716/1588529.md" target="_blank">原来这才是医生口中的“清淡饮食”</a></li>
 <li><a href="/comments/20210716/1588528.md" target="_blank">医：疫苗混打的副作用就像被火车撞两次</a></li>
 <li><a href="/comments/20210716/1588500.md" target="_blank">监管风暴升级：网信办联合公安、国安等七部门进驻滴滴</a></li>
-<li><a href="/comments/20210716/1588498.md" target="_blank">将卸任的默克尔与拜登谈合作 有实质意义？国际宗教自由千人峰会 “反共”成共识【希望之声TV-两岸要闻-2021/7/16】</a></li>
-<li><a href="/comments/20210716/1588459.md" target="_blank">举头——永动机直挂星空</a></li>
-<li><a href="/comments/20210716/1588457.md" target="_blank">夏宝龙：坚决将反中乱港分子排除在管治架构外 指警队执行国安法是国家骄傲</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
-<li><a href="/comments/20210612/1565472.md" target="_blank">感悟神韵（之二）：感悟神韵的艺术风格</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
 
 </ul>
 </div>
