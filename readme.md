@@ -6,12 +6,11 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/yule/20210716/1588537.md">李亚鹏被曝是圈内资深海王 手握王菲把柄借钱</a></li>
-<li><a href="/comments/20210716/1588420.md">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 ......</a></li>
 <li><a href="/bannedvideo/20210716/1588453.md">让人瞠目结舌！在听证会上，两位专家不断抛出震撼弹，令人浮想联翩！不过，这还只是冰山一角！</a></li>
 <li><a href="/cnnews/20210716/1588577.md">11年前被章子怡抛弃的他 现在身家百亿</a></li>
 <li><a href="/cbnews/20210716/1588558.md">天亮时分：不满中共羞辱，美副国务卿取消访华；亚利桑那审计结果触目惊心；《中华文明史》网友问答（政论天下第468集 20210716）</a></li>
-<li><a href="/cbnews/20210717/1588722.md">文昭：恒大闯祸、在重庆激起民变，给维稳出新难题；李克强罕见拍桌子、怒喊抓人，碰上这个不可战胜的敌人</a></li>
 <li><a href="/cbnews/20210717/1588916.md">习近平看展览 身边一人引关注！站位微妙 细节之中看端倪 【阿波罗网报道】</a></li>
+<li><a href="/cbnews/20210717/1588722.md">文昭：恒大闯祸、在重庆激起民变，给维稳出新难题；李克强罕见拍桌子、怒喊抓人，碰上这个不可战胜的敌人</a></li>
 <li><a href="/finance/20210717/1588689.md">“世界第一屠夫”痛下狠手？"太子爷"突遭罢免，未来谁接班</a></li>
 <li><a href="/comments/20210717/1588638.md">制裁中共官员在即！美副国务卿突然不访问中国了</a></li>
 <li><a href="/cnnews/20210717/1588741.md">遭起底！美女“扛水泥养家”被爆造假 2年后超惨</a></li>
@@ -21,13 +20,14 @@
 <li><a href="/comments/20210717/1588749.md">香港中联办七副主任被美国列恐怖名单 ；祭金融制裁拜登和默克尔签署《华盛顿宣言》【希望之声TV-2021/7/16】</a></li>
 <li><a href="/headline/20210717/1588607.md">中共发布“涉党史辟谣榜”：毛岸英因蛋炒饭牺牲？雷锋是假的？</a></li>
 <li><a href="/comments/20210717/1588598.md">习近平更换贴身内侍 中央警卫局归属成焦点；世卫承认报告出错 零号病人另有其人【希望之声TV-中国时局--2021/7/16】</a></li>
+<li><a href="/cnnews/20210717/1588692.md">唐人街告急！非裔“占领”华人社区 肆意横行</a></li>
 <li><a href="/yule/20210716/1588524.md">“坐大腿门”越闹越大 韩国美女的中国老公翻车</a></li>
 <li><a href="/cnnews/20210716/1588523.md">前基金高管与女下属被妻捉奸 女下属报案1人被捕</a></li>
-<li><a href="/cnnews/20210717/1588692.md">唐人街告急！非裔“占领”华人社区 肆意横行</a></li>
-<li><a href="/bannedvideo/20210717/1588679.md">武汉武昌拆迁户杀官员 造成2死1重伤</a></li>
 <li><a href="/baitai/20210717/1588878.md">上海正倾力上演“黑社会治国”大戏</a></li>
+<li><a href="/bannedvideo/20210717/1588679.md">武汉武昌拆迁户杀官员 造成2死1重伤</a></li>
 <li><a href="/bannedvideo/20210717/1588708.md">忍无可忍!不愿背黑锅李克强能熬到退休吗(2021年7月16日)</a></li>
 <li><a href="/comments/20210716/1588573.md">一带一路没戏了？中国主权基金爆出20多位高管出走</a></li>
+<li><a href="/cbnews/20210717/1588841.md">武汉强拆又酿血案 65岁老人强忍半年后奋起反抗 2死1伤</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210717/1589024.md" target="_blank">【区议员辞职潮】林郑：仍在研究宣誓 “唔可以澄清”会否追薪津 辞职是个人选择</a></li>
+<li><a href="/comments/20210717/1589023.md" target="_blank">否认包庇犯聚三武官但赶尽杀绝学生 林郑：不能借此美化七一刺警案</a></li>
+<li><a href="/comments/20210717/1589022.md" target="_blank">【小说连载】七海归途之雪伦公主（37）</a></li>
 <li><a href="/comments/20210717/1589020.md" target="_blank">香港大学研究：辉瑞疫苗抗体高出科兴疫苗9倍</a></li>
 <li><a href="/comments/20210717/1589003.md" target="_blank">当你内心总是听到回家的召唤时，那就是你灵魂来自宇宙的证明</a></li>
 <li><a href="/comments/20210717/1588999.md" target="_blank">二十二载风雨无阻 法轮功学员在柏林中领馆前抗议迫害</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210717/1588954.md" target="_blank">【大雄专栏】画里话外：觉醒斩获罗马大奖，大雄邀主创人员聊聊背后的奇闻趣事</a></li>
 <li><a href="/comments/20210717/1588953.md" target="_blank">【娜娜专栏】诗歌篇：《世尘情》寄调～长相思</a></li>
 <li><a href="/comments/20210717/1588945.md" target="_blank">美国制裁7名中联办主任 气坏中共外交部：必将“反击”</a></li>
-<li><a href="/comments/20210717/1588944.md" target="_blank">海地总统遇刺案新发展 前司法部官员疑下令杀人</a></li>
-<li><a href="/comments/20210717/1588943.md" target="_blank">拜登政府风向变了 高官认真看待武汉实验室外泄假设</a></li>
-<li><a href="/comments/20210717/1588942.md" target="_blank">狂打嗝10日后住进医院 巴西总统喊话“很快就会回来”</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20210611/1564824.md" target="_blank">【曾铮专栏】感悟神韵（之一）神韵的主旨</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
 <li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
 
 </ul>
 </div>
