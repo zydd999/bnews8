@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/bannedvideo/20210718/1589160.md">李克强拍桌大骂！    中共内斗升级！</a></li>
-<li><a href="/lifebaike/20210717/1589140.md">长相越是漂亮的女孩子其实越好追</a></li>
 <li><a href="/cbnews/20210718/1589221.md">不准读《老人与海》，下一步该不准学英语了吧？</a></li>
 <li><a href="/bannedvideo/20210718/1589260.md">谭德塞发出迄今最强信号，谁策划48国致信世卫反对溯源政治化，复必泰抗体高科兴9倍，混打疫苗实验安慰中共？巴基斯坦恐袭战狼何在？</a></li>
 <li><a href="/headline/20210718/1589219.md">法国世界报：习近平不是一个会容忍中国的地方，无论多么小，长期逃脱中央集权系统的人</a></li>
@@ -15,19 +14,20 @@
 <li><a href="/cnnews/20210718/1589243.md">这里4成居民打算搬离 华人移民的天堂还是地狱</a></li>
 <li><a href="/comments/20210718/1589458.md">北大数学天才许晨阳出走，留下了发人深省的三句话</a></li>
 <li><a href="/topimagenews/20210718/1589472.md">强烈信号！中纪委连提判死刑的四员“大将” 警告谁？【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20210718/1589210.md">检举邻居盗采砂石！夫妻遭辗“四肢断裂”惨死 儿目睹崩溃</a></li>
 <li><a href="/health/20210718/1589452.md">新婚夜新郎尿血进医院，医生说经常这样肯定受不住，新娘骂他畜生</a></li>
+<li><a href="/cbnews/20210718/1589210.md">检举邻居盗采砂石！夫妻遭辗“四肢断裂”惨死 儿目睹崩溃</a></li>
 <li><a href="/cbnews/20210718/1589279.md">中国药业巨头猝亡 生前是毛思想极端崇拜者</a></li>
-<li><a href="/lifebaike/20210718/1589241.md">外遇30年！75岁绿帽王找奸夫对质 方知还有小四</a></li>
-<li><a href="/ssgc/20210718/1589464.md">〖微博谈〗闭关加速的成果显现</a></li>
 <li><a href="/topimagenews/20210718/1589531.md">温语抚慰后穷匕首见 大外宣没想到玩砸了！【阿波罗网报道】</a></li>
+<li><a href="/ssgc/20210718/1589464.md">〖微博谈〗闭关加速的成果显现</a></li>
+<li><a href="/lifebaike/20210718/1589241.md">外遇30年！75岁绿帽王找奸夫对质 方知还有小四</a></li>
 <li><a href="/bannedvideo/20210718/1589172.md">【重磅】川普：根据7月15日的听证会结果，我们必须要取消2020大选的官方认证结果，还等什么呢？！</a></li>
 <li><a href="/cnnews/20210718/1589190.md">又一爱国大V被抓 爆雷的P2P大佬 北大清华特别多</a></li>
 <li><a href="/yule/20210718/1589269.md">王菲北京豪宅曝光 2米高佛像立在阳台</a></li>
 <li><a href="/funmedia/20210718/1589339.md">越没本事的男人，越爱说下面这三句话，十有九准</a></li>
 <li><a href="/comments/20210718/1589164.md">炫富女郭美美又火了！ 罪名与赵本山女徒弟类似</a></li>
-<li><a href="/headline/20210718/1589206.md">世卫总干事谭德塞：放弃新冠病毒是“人造病毒”的理论还为时过早</a></li>
 <li><a href="/yule/20210718/1589286.md">遭网友吐槽为何不开国产车：孟非霸气回怼</a></li>
+<li><a href="/headline/20210718/1589206.md">世卫总干事谭德塞：放弃新冠病毒是“人造病毒”的理论还为时过早</a></li>
+<li><a href="/baitai/20210718/1589457.md">孙大午案庭审进行中 现场混乱爆激烈冲突</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210718/1589662.md" target="_blank">与世卫杠上了！ 官媒《环球时报》发动网民签名查美国 网友吐槽</a></li>
+<li><a href="/comments/20210718/1589661.md" target="_blank">不走来不及啦！ 英国“特许入境许可”到期 今天香港机场挤满送机人潮</a></li>
 <li><a href="/comments/20210718/1589637.md" target="_blank">心里烦躁焦虑该怎么办呢</a></li>
 <li><a href="/comments/20210718/1589636.md" target="_blank">中国大陆爆感染猴B病毒：兽医「解剖2只猴子」染病亡</a></li>
 <li><a href="/comments/20210718/1589627.md" target="_blank">美国不答应！中共难买到芯片机！中国疫苗受质疑 专家：打外国加强针【希望之声TV-两岸要闻-2021/7/18】</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210718/1589513.md" target="_blank">诗一首：《夏日偶成》</a></li>
 <li><a href="/comments/20210718/1589512.md" target="_blank">【文昭思绪飞扬】2021革命性考古发现——未知人种“龙人”</a></li>
 <li><a href="/comments/20210718/1589501.md" target="_blank">同时感染2种病毒变异株？</a></li>
-<li><a href="/comments/20210718/1589500.md" target="_blank">桃香满枝头，桃补心、活血、生津</a></li>
-<li><a href="/comments/20210718/1589499.md" target="_blank">中暑分阴阳 疗法大不同</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
 <li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
 <li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
 
 </ul>
 </div>
