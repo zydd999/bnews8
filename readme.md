@@ -20,14 +20,14 @@
 <li><a href="/ssgc/20210718/1589464.md">〖微博谈〗闭关加速的成果显现</a></li>
 <li><a href="/lifebaike/20210718/1589241.md">外遇30年！75岁绿帽王找奸夫对质 方知还有小四</a></li>
 <li><a href="/funmedia/20210718/1589339.md">越没本事的男人，越爱说下面这三句话，十有九准</a></li>
-<li><a href="/bannedvideo/20210718/1589172.md">【重磅】川普：根据7月15日的听证会结果，我们必须要取消2020大选的官方认证结果，还等什么呢？！</a></li>
 <li><a href="/yule/20210718/1589269.md">王菲北京豪宅曝光 2米高佛像立在阳台</a></li>
 <li><a href="/cnnews/20210718/1589190.md">又一爱国大V被抓 爆雷的P2P大佬 北大清华特别多</a></li>
 <li><a href="/yule/20210718/1589286.md">遭网友吐槽为何不开国产车：孟非霸气回怼</a></li>
-<li><a href="/baitai/20210718/1589457.md">孙大午案庭审进行中 现场混乱爆激烈冲突</a></li>
 <li><a href="/headline/20210718/1589206.md">世卫总干事谭德塞：放弃新冠病毒是“人造病毒”的理论还为时过早</a></li>
+<li><a href="/baitai/20210718/1589457.md">孙大午案庭审进行中 现场混乱爆激烈冲突</a></li>
 <li><a href="/comments/20210718/1589421.md">计划经济成中共保政权的唯一选项；为什么回归邓小平路线已不可能？ — 曾节明</a></li>
 <li><a href="/health/20210718/1589519.md">过了50岁，谨记“不吃3物，不睡3觉”，身体健康</a></li>
+<li><a href="/comments/20210718/1589468.md">逾百万古巴人每天用美国支持的技术破网；叙利亚内战不断、经济崩盘阿萨德大选大胜 4连任就职。【希望之声-午夜新闻-2021/07/17】</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210719/1589711.md" target="_blank">【第三只眼睛】要变天了？母猪上树，太阳西边起，六月飞雪，全都应验了</a></li>
 <li><a href="/comments/20210719/1589704.md" target="_blank">CPLP第13届峰会闭幕 安哥拉新任轮值主席国</a></li>
 <li><a href="/comments/20210719/1589703.md" target="_blank">虞超 ：进取与不争</a></li>
 <li><a href="/comments/20210719/1589702.md" target="_blank">【真观点】警惕! 一个荒诞又邪恶的理论已全面渗透美国教育界, 从中小学生到大学教授都被迫学习</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210718/1589536.md" target="_blank">美国爱国者2型导弹首次在澳洲发射</a></li>
 <li><a href="/comments/20210718/1589532.md" target="_blank">唯美之灵在心灵之巅点燃信仰的金灯（第十部分）—— 唯美之灵是人生意义的皇冠（东方哲人解析当代人类困惑  第四十讲）【袁红冰杏坛】 07182021</a></li>
 <li><a href="/comments/20210718/1589520.md" target="_blank">西方国家对于中资疑虑与日俱增 东欧对北京态度转变</a></li>
-<li><a href="/comments/20210718/1589515.md" target="_blank">萧泽颐：反恐演习要“全民参与” 批准游行需考虑国家安全</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
 <li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/ganwu/20170705/787156.md" target="_blank">感悟神韵（之四）：感悟神韵音乐</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
 
 </ul>
 </div>
