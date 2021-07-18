@@ -9,25 +9,25 @@
 <li><a href="/cbnews/20210717/1589081.md">科兴疫苗大股东惊人 一批顶级中共权贵浮出水面；一带一路变死路，废墟照曝光</a></li>
 <li><a href="/topimagenews/20210717/1588988.md">习近平要有大动作？中共政法系高官被调虎离山 【阿波罗网报道】</a></li>
 <li><a href="/baitai/20210717/1588878.md">上海正倾力上演“黑社会治国”大戏</a></li>
-<li><a href="/comments/20210717/1588749.md">香港中联办七副主任被美国列恐怖名单 ；祭金融制裁拜登和默克尔签署《华盛顿宣言》【希望之声TV-2021/7/16】</a></li>
 <li><a href="/bannedvideo/20210717/1589052.md">中共要吃定台湾 日本反应吓傻中共！（2021年7月17日）</a></li>
 <li><a href="/cbnews/20210717/1588841.md">武汉强拆又酿血案 65岁老人强忍半年后奋起反抗 2死1伤</a></li>
 <li><a href="/topimagenews/20210717/1588839.md">大事件！日本、美国多次挑战中共底线！中共如何应对？【阿波罗网报道】</a></li>
 <li><a href="/yule/20210717/1589007.md">华晨宇工作室发布声明，承认爆料照片中的人是华晨宇</a></li>
 <li><a href="/headline/20210717/1588796.md">法国学者：习近平已自视先知 如何确保不会发生第三次世界大战</a></li>
 <li><a href="/finance/20210717/1588846.md">中国4亿房奴“毁掉”实体经济？消费还不如印度</a></li>
-<li><a href="/comments/20210717/1588984.md">李燕铭：北戴河会议要出大事？习近平连点江泽民死穴！敏感日前夕 习重磅出击 河南河北两身份特别高官相继落马 两週内9名政法高官密集被查 习近平清洗行动逼近江泽民核心罪恶 中国政局核心问题再度浮现</a></li>
 <li><a href="/lifebaike/20210717/1589140.md">长相越是漂亮的女孩子其实越好追</a></li>
+<li><a href="/comments/20210717/1588984.md">李燕铭：北戴河会议要出大事？习近平连点江泽民死穴！敏感日前夕 习重磅出击 河南河北两身份特别高官相继落马 两週内9名政法高官密集被查 习近平清洗行动逼近江泽民核心罪恶 中国政局核心问题再度浮现</a></li>
+<li><a href="/bannedvideo/20210718/1589160.md">李克强拍桌大骂！    中共内斗升级！</a></li>
 <li><a href="/funmedia/20210717/1589028.md">北京独居大爷住1300平豪宅 为何感动数百万观众</a></li>
 <li><a href="/bannedvideo/20210717/1588952.md">阿富汗形势逆转，政府军全面反攻；塔利班损失惨重要求和谈；阿富汗总统：不谈！三个月解放全国（20210717 第640期）</a></li>
-<li><a href="/bannedvideo/20210718/1589160.md">李克强拍桌大骂！    中共内斗升级！</a></li>
 <li><a href="/lifebaike/20210717/1589004.md">洗衣服时不小心把卫生纸洗了？这一招帮你瞬间清除</a></li>
 <li><a href="/worldnews/20210717/1588917.md">不信新冠病毒！他狂吸病患呼气身亡</a></li>
+<li><a href="/comments/20210717/1589099.md">中南海内斗空前激烈的九大信号</a></li>
 <li><a href="/bannedvideo/20210717/1589053.md">陈破空：罕见！李克强拍桌怒骂，暗指习家军！官媒论胡锦涛功绩，其中一条让某人难堪</a></li>
 <li><a href="/baitai/20210717/1588969.md">大数据实验室｜全军覆没！麻省理工零录取中国学生，斯坦福取消大陆面试</a></li>
-<li><a href="/comments/20210717/1589099.md">中南海内斗空前激烈的九大信号</a></li>
 <li><a href="/comments/20210717/1588887.md">【微博精粹】谭书记这回不“反华”也不行了</a></li>
 <li><a href="/bannedvideo/20210717/1589038.md">怎样的中国人才算堂堂正正？入了外籍就像是离婚再娶，哪有整天喊着要忠于前妻的道理？中共和西方价值观的根本差别，在于身份认同的排他性（华人中国人傻傻分不清第2期 20210717）</a></li>
+<li><a href="/lifebaike/20210717/1589005.md">煮大虾时，千万不要直接下锅，教您一招，比广东人做得还好吃</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210718/1589264.md" target="_blank">美国联邦法官裁定奥巴马时代的“童年抵美者暂缓遣返计划”DACA是非法的。川普曾阻止该计画，这个裁定将会给拜登政府带来更多压力。【希望之声TV-每日头条-2021/7/17】</a></li>
 <li><a href="/cbnews/20210718/1589258.md" target="_blank">多迹象显示美中关系将继续恶化 尚未到止跌点</a></li>
 <li><a href="/comments/20210718/1589248.md" target="_blank">名画中藏着拉斐尔的隐密婚事！一生挚爱见不得光，只好画在画布上！拉斐尔骂米开朗基罗是“刽子手”！他是唯一获准被埋进“万神殿”里的大画家！【大话西油 姜光宇】(2021.07.17）</a></li>
 <li><a href="/cbnews/20210718/1589221.md" target="_blank">不准读《老人与海》，下一步该不准学英语了吧？</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210717/1588722.md" target="_blank">文昭：恒大闯祸、在重庆激起民变，给维稳出新难题；李克强罕见拍桌子、怒喊抓人，碰上这个不可战胜的敌人</a></li>
 <li><a href="/cbnews/20210717/1588709.md" target="_blank">萧铭：剑指一带一路，欧洲有意做抗共的龙头老大吗？德法能阻止欧洲的抗共大潮吗？中美争夺欧洲谁会赢？美国在欧洲战胜中共的四样法宝 ｜萧茗看世界</a></li>
 <li><a href="/cbnews/20210717/1588666.md" target="_blank">举报非法采砂 陕西夫妇遭碾压致死细节曝光</a></li>
-<li><a href="/cbnews/20210717/1588658.md" target="_blank">专栏 | 夜话中南海：“放弃参加高考”的应勇是如何成为复旦大学兼职教授的？</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210718/1589264.md" target="_blank">美国联邦法官裁定奥巴马时代的“童年抵美者暂缓遣返计划”DACA是非法的。川普曾阻止该计画，这个裁定将会给拜登政府带来更多压力。【希望之声TV-每日头条-2021/7/17】</a></li>
+<li><a href="/comments/20210718/1589263.md" target="_blank">赵汀阳：一旦社会出了难以解决的问题 就会鼓励娱乐和体育</a></li>
+<li><a href="/comments/20210718/1589262.md" target="_blank">燕梳楼:孙大午犯了什么事之此文告诉你那些不可告人的内幕</a></li>
+<li><a href="/comments/20210718/1589261.md" target="_blank">贺卫方：没有司法独立就没有公正</a></li>
+<li><a href="/comments/20210718/1589259.md" target="_blank">周勍：孙大午事件背景―――独家专访出狱后的孙大午</a></li>
 <li><a href="/comments/20210718/1589248.md" target="_blank">名画中藏着拉斐尔的隐密婚事！一生挚爱见不得光，只好画在画布上！拉斐尔骂米开朗基罗是“刽子手”！他是唯一获准被埋进“万神殿”里的大画家！【大话西油 姜光宇】(2021.07.17）</a></li>
 <li><a href="/comments/20210718/1589235.md" target="_blank">警告中共 美将派25猛禽战斗机参加西太平洋军演</a></li>
 <li><a href="/comments/20210718/1589234.md" target="_blank">李克强喊追查 巴基斯坦爆炸案真相现曙光</a></li>
@@ -118,11 +123,6 @@
 <li><a href="/comments/20210718/1589164.md" target="_blank">炫富女郭美美又火了！ 罪名与赵本山女徒弟类似</a></li>
 <li><a href="/comments/20210718/1589155.md" target="_blank">美国对港发营商警示 林郑︰以偏概全、不能坐视不理 律政司︰非文明国家所为</a></li>
 <li><a href="/comments/20210718/1589154.md" target="_blank">【品读唐诗 之四】歌颂泰山的千古绝唱。古人最爱去的地方是哪里呢？“诗圣”杜甫留存下来的最早的一首诗作《望岳》有何绝妙之处？</a></li>
-<li><a href="/comments/20210718/1589153.md" target="_blank">中国4家银行被罚3亿 牵出“官太太俱乐部”只领工资不上班</a></li>
-<li><a href="/comments/20210717/1589134.md" target="_blank">曾采访香港反送中 曾获普立兹奖路透社摄记阿富汗身亡</a></li>
-<li><a href="/comments/20210717/1589133.md" target="_blank">王友群：中共内斗空前激烈的九大信号</a></li>
-<li><a href="/comments/20210717/1589127.md" target="_blank">三伏天学这5招养生</a></li>
-<li><a href="/comments/20210717/1589126.md" target="_blank">三伏天流汗多，记得多吃这4种果，堪比吃保健品不显老</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
 <li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
 
 </ul>
 </div>
