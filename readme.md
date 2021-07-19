@@ -9,25 +9,25 @@
 <li><a href="/cnnews/20210719/1589775.md">北上广的年轻人 越来越“不要脸”</a></li>
 <li><a href="/yule/20210719/1589744.md">网曝42岁名教授出轨！和多人有染亲密照也被曝光，前任是知名女星</a></li>
 <li><a href="/headline/20210718/1589620.md">北京向荷兰施压图进口制晶片光刻机 美国反对未能成事</a></li>
-<li><a href="/cbnews/20210719/1589917.md">北京发生地震</a></li>
 <li><a href="/finance/20210719/1589709.md">披露滴滴背后的中共权贵大家族江泽民之孙背后的女人</a></li>
-<li><a href="/comments/20210718/1589661.md">不走来不及啦！ 英国“特许入境许可”到期 今天香港机场挤满送机人潮</a></li>
 <li><a href="/cnnews/20210719/1589781.md">中国23岁网红塔吊女司机坠亡</a></li>
+<li><a href="/cbnews/20210719/1589917.md">北京发生地震</a></li>
+<li><a href="/comments/20210718/1589661.md">不走来不及啦！ 英国“特许入境许可”到期 今天香港机场挤满送机人潮</a></li>
 <li><a href="/bannedvideo/20210718/1589617.md">【震惊】中国人消费力还不如印度；拜登撤川普对中关税？滴滴遭“七堂会审”意外揭开柳家3代红色面纱；杠杆玩砸：全中国两家最牛3000亿级校企破产；马来一带一路中企数百人染疫境遇惨</a></li>
 <li><a href="/topimagenews/20210719/1589755.md">震惊 中国人消费还不如印度 拜登撤川普对中关税？滴滴案揭柳家3代红色面纱</a></li>
-<li><a href="/bannedvideo/20210718/1589586.md">陈破空：等不及了，他想用此人取代王沪宁！两名老上将涉政变失踪？七一内幕比想象的复杂</a></li>
 <li><a href="/cnnews/20210719/1589797.md">男子点5个菜花690元 老婆还怕浪费 上菜后发现…</a></li>
-<li><a href="/cnnews/20210719/1589767.md">为何第2剂疫苗副作用更严重？专家揭原因</a></li>
 <li><a href="/topimagenews/20210719/1589964.md">品出事儿不妙了！江系发问：政法为何倒查三十年 【阿波罗网报道】</a></li>
+<li><a href="/cnnews/20210719/1589767.md">为何第2剂疫苗副作用更严重？专家揭原因</a></li>
 <li><a href="/cbnews/20210719/1589925.md">习近平更换警卫局长 北戴河静悄悄</a></li>
 <li><a href="/yule/20210719/1589758.md">吴亦凡真正的麻烦来了，身兼80多个代言，违约金或高达4亿</a></li>
 <li><a href="/bannedvideo/20210718/1589618.md">数据！💥英国接种疫苗人群占新病例47%,以色列自然免疫力是疫苗免疫力近7倍💥美国一周因疫苗离世人数从6985人增至9048人💥中共国家长强烈反对给孩子⋯⋯</a></li>
 <li><a href="/bannedvideo/20210719/1589752.md">【习近平】要再开杀戒？信号强烈；美统计网站连2周：疫苗接种死竟多于病毒死；联合国助中共扩大全球警务拒公布所签协议；洛杉矶恢复室内口罩令，警长拒执行；偷买美军冲锋舟，中国人判3年半KL</a></li>
 <li><a href="/lishi/20210719/1589790.md">沈阳雪堆中千余苏军尸体背后的暴行</a></li>
 <li><a href="/topimagenews/20210719/1589727.md">恐怖！电动机车行驶中起火爆炸 杭州父女烧成重伤</a></li>
-<li><a href="/cbnews/20210719/1589795.md">中共再“发飙” 接连实弹军演</a></li>
 <li><a href="/bannedvideo/20210719/1589945.md">习近平要发布第三份历史决议？这一次要彻底清算他？全球倒习，习拉他垫背。｜薇羽看世间 第335期 20210718</a></li>
+<li><a href="/cbnews/20210719/1589795.md">中共再“发飙” 接连实弹军演</a></li>
 <li><a href="/comments/20210719/1589802.md">中共疯了！“不漏一人” 3岁以上都要打疫苗 多地开始施压未成年人</a></li>
+<li><a href="/topimagenews/20210719/1589716.md">游客朝孔子雕像扔钱 瞬间变聚赌现场！馆方崩溃：阻止不了</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210719/1590125.md" target="_blank">【火山评论】首长专列海选服务员 高官美色特供何时休</a></li>
 <li><a href="/comments/20210719/1590098.md" target="_blank">孙大午犯了什么事？那些不可告人的内幕</a></li>
 <li><a href="/comments/20210719/1590093.md" target="_blank">【东洲专栏】随笔篇：《人类劣根性》</a></li>
 <li><a href="/comments/20210719/1590092.md" target="_blank">再一架美运输机突降台湾 网友呛声：“故意踩红线 给阿共仔看”</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210719/1590012.md" target="_blank">打疫苗忧脑血栓？ 医：疫染血栓风险更高</a></li>
 <li><a href="/comments/20210719/1590011.md" target="_blank">大暑时节 分享6道凉拌菜 清热解暑 凉爽开胃</a></li>
 <li><a href="/comments/20210719/1589968.md" target="_blank">中国人，你为什么被人看不起？辱华时代如何自保？│#熊猫侠</a></li>
-<li><a href="/comments/20210719/1589963.md" target="_blank">他乡遇故知 香港片《时代革命》缘何在他乡上演？</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
 <li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
 
 </ul>
 </div>
