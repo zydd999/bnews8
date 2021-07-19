@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/comments/20210718/1589458.md">北大数学天才许晨阳出走，留下了发人深省的三句话</a></li>
 <li><a href="/topimagenews/20210718/1589472.md">强烈信号！中纪委连提判死刑的四员“大将” 警告谁？【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20210719/1589685.md">南宁女地铁淫秽直播被逮捕</a></li>
 <li><a href="/topimagenews/20210718/1589531.md">温语抚慰后穷匕首见 大外宣没想到玩砸了！【阿波罗网报道】</a></li>
@@ -13,21 +12,22 @@
 <li><a href="/cnnews/20210719/1589775.md">北上广的年轻人 越来越“不要脸”</a></li>
 <li><a href="/yule/20210719/1589744.md">网曝42岁名教授出轨！和多人有染亲密照也被曝光，前任是知名女星</a></li>
 <li><a href="/headline/20210718/1589620.md">北京向荷兰施压图进口制晶片光刻机 美国反对未能成事</a></li>
+<li><a href="/comments/20210718/1589421.md">计划经济成中共保政权的唯一选项；为什么回归邓小平路线已不可能？ — 曾节明</a></li>
 <li><a href="/topimagenews/20210719/1589755.md">震惊 中国人消费还不如印度 拜登撤川普对中关税？滴滴案揭柳家3代红色面纱</a></li>
 <li><a href="/bannedvideo/20210718/1589617.md">【震惊】中国人消费力还不如印度；拜登撤川普对中关税？滴滴遭“七堂会审”意外揭开柳家3代红色面纱；杠杆玩砸：全中国两家最牛3000亿级校企破产；马来一带一路中企数百人染疫境遇惨</a></li>
-<li><a href="/comments/20210718/1589421.md">计划经济成中共保政权的唯一选项；为什么回归邓小平路线已不可能？ — 曾节明</a></li>
-<li><a href="/bannedvideo/20210718/1589586.md">陈破空：等不及了，他想用此人取代王沪宁！两名老上将涉政变失踪？七一内幕比想象的复杂</a></li>
 <li><a href="/health/20210718/1589519.md">过了50岁，谨记“不吃3物，不睡3觉”，身体健康</a></li>
+<li><a href="/bannedvideo/20210718/1589586.md">陈破空：等不及了，他想用此人取代王沪宁！两名老上将涉政变失踪？七一内幕比想象的复杂</a></li>
 <li><a href="/comments/20210718/1589661.md">不走来不及啦！ 英国“特许入境许可”到期 今天香港机场挤满送机人潮</a></li>
 <li><a href="/finance/20210719/1589709.md">披露滴滴背后的中共权贵大家族江泽民之孙背后的女人</a></li>
-<li><a href="/comments/20210718/1589468.md">逾百万古巴人每天用美国支持的技术破网；叙利亚内战不断、经济崩盘阿萨德大选大胜 4连任就职。【希望之声-午夜新闻-2021/07/17】</a></li>
 <li><a href="/cnnews/20210719/1589767.md">为何第2剂疫苗副作用更严重？专家揭原因</a></li>
 <li><a href="/cnnews/20210719/1589781.md">中国23岁网红塔吊女司机坠亡</a></li>
-<li><a href="/bannedvideo/20210718/1589618.md">数据！💥英国接种疫苗人群占新病例47%,以色列自然免疫力是疫苗免疫力近7倍💥美国一周因疫苗离世人数从6985人增至9048人💥中共国家长强烈反对给孩子⋯⋯</a></li>
-<li><a href="/lifebaike/20210718/1589467.md">【老照片】林彪出逃前4个月给毛的求饶信 可惜毛并未看到</a></li>
+<li><a href="/comments/20210718/1589468.md">逾百万古巴人每天用美国支持的技术破网；叙利亚内战不断、经济崩盘阿萨德大选大胜 4连任就职。【希望之声-午夜新闻-2021/07/17】</a></li>
 <li><a href="/yule/20210719/1589758.md">吴亦凡真正的麻烦来了，身兼80多个代言，违约金或高达4亿</a></li>
+<li><a href="/bannedvideo/20210718/1589618.md">数据！💥英国接种疫苗人群占新病例47%,以色列自然免疫力是疫苗免疫力近7倍💥美国一周因疫苗离世人数从6985人增至9048人💥中共国家长强烈反对给孩子⋯⋯</a></li>
+<li><a href="/cnnews/20210719/1589797.md">男子点5个菜花690元 老婆还怕浪费 上菜后发现…</a></li>
+<li><a href="/lifebaike/20210718/1589467.md">【老照片】林彪出逃前4个月给毛的求饶信 可惜毛并未看到</a></li>
 <li><a href="/topimagenews/20210719/1589727.md">恐怖！电动机车行驶中起火爆炸 杭州父女烧成重伤</a></li>
-<li><a href="/bannedvideo/20210718/1589478.md">反美是工作，赴美是生活，只要能去美国读博，哪怕是个扫厕所的专业也行！【时事小品｜害群之马】｜大陆新闻解毒</a></li>
+<li><a href="/bannedvideo/20210719/1589752.md">【习近平】要再开杀戒？信号强烈；美统计网站连2周：疫苗接种死竟多于病毒死；联合国助中共扩大全球警务拒公布所签协议；洛杉矶恢复室内口罩令，警长拒执行；偷买美军冲锋舟，中国人判3年半KL</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210719/1589951.md" target="_blank">女司机倒车看后方 下一秒撞倒丈夫夹死自己</a></li>
 <li><a href="/cbnews/20210719/1589925.md" target="_blank">习近平更换警卫局长 北戴河静悄悄</a></li>
 <li><a href="/cbnews/20210719/1589917.md" target="_blank">北京发生地震</a></li>
 <li><a href="/comments/20210719/1589816.md" target="_blank">面对观众的刁钻提问，觉醒主创如何接招？</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210718/1589309.md" target="_blank">看到人性之恶：女孩拉丁舞比赛中2次推倒对手</a></li>
 <li><a href="/cbnews/20210718/1589308.md" target="_blank">网红和医美背后：都暗藏着一场生死劫</a></li>
 <li><a href="/cbnews/20210718/1589279.md" target="_blank">中国药业巨头猝亡 生前是毛思想极端崇拜者</a></li>
-<li><a href="/comments/20210718/1589264.md" target="_blank">美国联邦法官裁定奥巴马时代的“童年抵美者暂缓遣返计划”DACA是非法的。川普曾阻止该计画，这个裁定将会给拜登政府带来更多压力。【希望之声TV-每日头条-2021/7/17】</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210719/1589955.md" target="_blank">美名主持：美国人做哪些事 能让国家变得更好？</a></li>
+<li><a href="/comments/20210719/1589954.md" target="_blank">丝情画意的中国刺绣之旅(上)</a></li>
+<li><a href="/comments/20210719/1589946.md" target="_blank">暴雨成灾！北京取消350架次航班 河北易县12座桥梁坍塌 内蒙水库溃堤</a></li>
 <li><a href="/comments/20210719/1589935.md" target="_blank">美左派欲强推基础设施法案 格雷厄姆：将尽力阻止</a></li>
 <li><a href="/comments/20210719/1589927.md" target="_blank">美通信委员建议：用高空气球为古巴人提供互联网</a></li>
 <li><a href="/comments/20210719/1589926.md" target="_blank">休斯顿古巴人集会抗议古巴政权暴行 吁解救被抓抗议者</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210719/1589816.md" target="_blank">面对观众的刁钻提问，觉醒主创如何接招？</a></li>
 <li><a href="/comments/20210719/1589814.md" target="_blank">当庭崩溃大哭：“我接到起诉书看到这个罪名就吓死了”</a></li>
 <li><a href="/comments/20210719/1589810.md" target="_blank">情陷海岛缘早就，弱冠青丝不言愁《巴顿将军》第五集精彩回顾20210718</a></li>
-<li><a href="/comments/20210719/1589805.md" target="_blank">3中国人被IS绑架 马里武装分子袭击中国工程公司；习近平自曝 六中全会或有腥风血雨？【希望之声TV-每日头条 2021/7/16】</a></li>
-<li><a href="/comments/20210719/1589802.md" target="_blank">中共疯了！“不漏一人” 3岁以上都要打疫苗 多地开始施压未成年人</a></li>
-<li><a href="/comments/20210719/1589788.md" target="_blank">华人布鲁克林大游行 22年平和坚韧反迫害</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20210612/1565472.md" target="_blank">感悟神韵（之二）：感悟神韵的艺术风格</a></li>
+<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
 <li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
 
 </ul>
 </div>
