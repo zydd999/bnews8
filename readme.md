@@ -25,8 +25,8 @@
 <li><a href="/bannedvideo/20210719/1589752.md">【习近平】要再开杀戒？信号强烈；美统计网站连2周：疫苗接种死竟多于病毒死；联合国助中共扩大全球警务拒公布所签协议；洛杉矶恢复室内口罩令，警长拒执行；偷买美军冲锋舟，中国人判3年半KL</a></li>
 <li><a href="/lishi/20210719/1589790.md">沈阳雪堆中千余苏军尸体背后的暴行</a></li>
 <li><a href="/topimagenews/20210719/1589727.md">恐怖！电动机车行驶中起火爆炸 杭州父女烧成重伤</a></li>
-<li><a href="/topimagenews/20210719/1589716.md">游客朝孔子雕像扔钱 瞬间变聚赌现场！馆方崩溃：阻止不了</a></li>
 <li><a href="/cbnews/20210719/1589795.md">中共再“发飙” 接连实弹军演</a></li>
+<li><a href="/bannedvideo/20210719/1589945.md">习近平要发布第三份历史决议？这一次要彻底清算他？全球倒习，习拉他垫背。｜薇羽看世间 第335期 20210718</a></li>
 <li><a href="/comments/20210719/1589802.md">中共疯了！“不漏一人” 3岁以上都要打疫苗 多地开始施压未成年人</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210719/1590098.md" target="_blank">孙大午犯了什么事？那些不可告人的内幕</a></li>
+<li><a href="/comments/20210719/1590093.md" target="_blank">【东洲专栏】随笔篇：《人类劣根性》</a></li>
+<li><a href="/comments/20210719/1590092.md" target="_blank">再一架美运输机突降台湾 网友呛声：“故意踩红线 给阿共仔看”</a></li>
 <li><a href="/comments/20210719/1590082.md" target="_blank">庄生蝶：云影集（五）</a></li>
 <li><a href="/comments/20210719/1590080.md" target="_blank">海上的亡魂？船舱突现不速之客，留下神祕讯息后悄然消失，吓坏船员；灵魂可以离体吗？穿越时空，竟是求救信号？台湾富商离世，舍不下家人，转生小鸟回访？你身边的他，究竟是谁？</a></li>
 <li><a href="/comments/20210719/1590074.md" target="_blank">【小说连载】七海归途之雪伦公主（39）</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210719/1590011.md" target="_blank">大暑时节 分享6道凉拌菜 清热解暑 凉爽开胃</a></li>
 <li><a href="/comments/20210719/1589968.md" target="_blank">中国人，你为什么被人看不起？辱华时代如何自保？│#熊猫侠</a></li>
 <li><a href="/comments/20210719/1589963.md" target="_blank">他乡遇故知 香港片《时代革命》缘何在他乡上演？</a></li>
-<li><a href="/comments/20210719/1589959.md" target="_blank">美澳两国联合军演 中共派两艘情报船监视 澳防长惊讶；贝佐斯参加速成训练 20日搭自家火箭登太空；美国计划于9月下旬举行四国集团领导人面对面峰会对抗中共【希望之声-午夜新闻-2021/07/18】</a></li>
-<li><a href="/comments/20210719/1589955.md" target="_blank">美名主持：美国人做哪些事 能让国家变得更好？</a></li>
-<li><a href="/comments/20210719/1589954.md" target="_blank">丝情画意的中国刺绣之旅(上)</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
 <li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
 
 </ul>
 </div>
