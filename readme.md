@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/cbnews/20210719/1589917.md">北京发生地震</a></li>
 <li><a href="/bannedvideo/20210719/1590042.md">习近平认怂了！面对全球围剿 还是要全面开战（2021年7月17日）</a></li>
 <li><a href="/topimagenews/20210719/1589964.md">品出事儿不妙了！江系发问：政法为何倒查三十年 【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20210719/1590043.md">习近平要动谁？王岐山嫡系被派往... 【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20210719/1590078.md">文睿：要出大事儿，美军机今天第三次降落台湾，习近平被逼入绝境</a></li>
-<li><a href="/cbnews/20210719/1589925.md">习近平更换警卫局长 北戴河静悄悄</a></li>
 <li><a href="/topimagenews/20210719/1590068.md">“印度神童”再曝疫情高峰时间 点名“台湾”建议这事</a></li>
 <li><a href="/bannedvideo/20210719/1589945.md">习近平要发布第三份历史决议？这一次要彻底清算他？全球倒习，习拉他垫背。｜薇羽看世间 第335期 20210718</a></li>
 <li><a href="/topimagenews/20210719/1590055.md">震撼视频！内蒙古呼伦贝尔两座水库溃堤 冲毁几十万亩良田</a></li>
+<li><a href="/yule/20210720/1590358.md">54岁王祖贤被偶遇 一转身网全崩溃</a></li>
 <li><a href="/finance/20210719/1589956.md">七件大事预警，小心巨震</a></li>
 <li><a href="/bannedvideo/20210719/1590200.md">一件丑事看穿川普真面目！犬父无虎子，儿女都是一路货色，细数川普全家丑闻！拜托，骂川普也会黄标吗？（坐澳观天第381期 20210919）</a></li>
-<li><a href="/yule/20210720/1590358.md">54岁王祖贤被偶遇 一转身网全崩溃</a></li>
-<li><a href="/cnnews/20210719/1589996.md">毛最后日子的医学治疗概况 张玉凤垄断了与毛的沟通</a></li>
 <li><a href="/cnnews/20210720/1590343.md">毛骨悚然!日本这种医用机器人,如此逼真</a></li>
+<li><a href="/cnnews/20210719/1589996.md">毛最后日子的医学治疗概况 张玉凤垄断了与毛的沟通</a></li>
 <li><a href="/lifebaike/20210719/1590099.md">10万刀家具被华人租客搬空！房东崩溃报警</a></li>
 <li><a href="/headline/20210719/1590067.md">又一架美军运输机抵台AIT及台湾外交部缄默</a></li>
-<li><a href="/cnnews/20210719/1590145.md">习近平剪裙边？江系力捧最高法院长亲信被抓；雪上加霜，中国电商遭亚马逊大批下架</a></li>
 <li><a href="/cbnews/20210720/1590352.md">中航书记张陶殴打2院士 遭开除党籍及逮捕</a></li>
+<li><a href="/cnnews/20210719/1590145.md">习近平剪裙边？江系力捧最高法院长亲信被抓；雪上加霜，中国电商遭亚马逊大批下架</a></li>
+<li><a href="/worldnews/20210720/1590377.md">中共公安部副部长杜航伟被举报</a></li>
 <li><a href="/comments/20210719/1590092.md">再一架美运输机突降台湾 网友呛声：“故意踩红线 给阿共仔看”</a></li>
 <li><a href="/cbnews/20210719/1589951.md">女司机倒车看后方 下一秒撞倒丈夫夹死自己</a></li>
 <li><a href="/baitai/20210719/1590059.md">知名男星吴亦凡被控诱骗数名未成年女性</a></li>
 <li><a href="/cnnews/20210719/1590177.md">被重罚8亿！全球第一大雇主栽了 发生了什么？</a></li>
 <li><a href="/comments/20210719/1590267.md">别再怪别人了，这个赵家人才是辱华源头，不要脸，记住他│#熊猫侠</a></li>
+<li><a href="/yule/20210720/1590393.md">4年前周星驰如此评价吴亦凡 网惊叹</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210720/1590561.md" target="_blank">天亮时分：中共逮捕爱国大V；恒大股票暴跌，资金遭冻结；拜登要取消对华关税？（政论天下第470集 20210719）</a></li>
 <li><a href="/comments/20210720/1590548.md" target="_blank">违宪与脸书合作被揭 白宫尴尬；打过疫苗还中招！德州“出逃”议员 5人感染新冠；不信就试试！格雷厄姆要以其人之道 还治其人之身</a></li>
 <li><a href="/comments/20210720/1590475.md" target="_blank">对抗中共 日本拟部署F-35B战机在靠东海基地；石油输出国家组织欧派克OPEC+达成增产协议 8月开始启动；内需疲弱冲击下 中国电商又遭亚马逊大批下架 【希望之声TV-两岸要闻-2021/07/19】</a></li>
 <li><a href="/comments/20210720/1590449.md" target="_blank">美频频出手，中共转攻为守？美军机抵台将成常态？中共用“洋网红”助推，外宣还是内宣？</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210719/1589925.md" target="_blank">习近平更换警卫局长 北戴河静悄悄</a></li>
 <li><a href="/cbnews/20210719/1589917.md" target="_blank">北京发生地震</a></li>
 <li><a href="/comments/20210719/1589816.md" target="_blank">面对观众的刁钻提问，觉醒主创如何接招？</a></li>
-<li><a href="/cbnews/20210719/1589811.md" target="_blank">中缅边境防疫墙能挡住新冠病毒传回中国吗？</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
 <li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
 <li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
 
 </ul>
 </div>
