@@ -5,8 +5,8 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/yule/20210720/1590358.md">54岁王祖贤被偶遇 一转身网全崩溃</a></li>
 <li><a href="/yule/20210720/1590393.md">4年前周星驰如此评价吴亦凡 网惊叹</a></li>
+<li><a href="/yule/20210720/1590358.md">54岁王祖贤被偶遇 一转身网全崩溃</a></li>
 <li><a href="/worldnews/20210720/1590377.md">中共公安部副部长杜航伟被举报</a></li>
 <li><a href="/cnnews/20210720/1590343.md">毛骨悚然!日本这种医用机器人,如此逼真</a></li>
 <li><a href="/ssgc/20210720/1590453.md">〖兲朝浮世绘〗不知道习近平又要怎样折腾了</a></li>
@@ -20,14 +20,14 @@
 <li><a href="/bannedvideo/20210720/1590644.md">7月16日，广东中山。女车主因在饭局中喝了酒，在网络平台叫了代驾。代驾司机的电动自行车，在客户小车的后备箱中自燃。女车主焦急大喊：“快点、快点，把我车给炸了！”</a></li>
 <li><a href="/cbnews/20210720/1590561.md">天亮时分：中共逮捕爱国大V；恒大股票暴跌，资金遭冻结；拜登要取消对华关税？（政论天下第470集 20210719）</a></li>
 <li><a href="/comments/20210720/1590740.md">刚刚，这个"战狼"大号崩了 数百万粉丝欲哭无泪</a></li>
-<li><a href="/funmedia/20210720/1590566.md">稀奇！河南一家人嫌脏，2次捣毁燕巢，第3次燕子筑巢自带“小厕所”，轰动全网</a></li>
-<li><a href="/ssgc/20210720/1590679.md">新华网微博出现异常贴文</a></li>
-<li><a href="/ssgc/20210720/1590720.md">中国官媒近期突然转调 频发赞扬邓小平理论文章</a></li>
 <li><a href="/cbnews/20210720/1590785.md">大手笔！美联手11国3连重锤中共；要破产！中共地方债付息6年翻3倍达去年达...</a></li>
+<li><a href="/funmedia/20210720/1590566.md">稀奇！河南一家人嫌脏，2次捣毁燕巢，第3次燕子筑巢自带“小厕所”，轰动全网</a></li>
+<li><a href="/ssgc/20210720/1590720.md">中国官媒近期突然转调 频发赞扬邓小平理论文章</a></li>
+<li><a href="/ssgc/20210720/1590679.md">新华网微博出现异常贴文</a></li>
 <li><a href="/health/20210720/1590675.md">有这3种习惯的人，45岁以后容易有老人臭，尤其是男性朋友</a></li>
-<li><a href="/cbnews/20210720/1590419.md">文昭：「中南海保镳」头领突然换人，不是防政变、就是要政变？详扒中共这只关键、暗黑的精锐力量</a></li>
 <li><a href="/comments/20210720/1590608.md">李燕铭：习近平女习明泽信息泄密案发酵 广东省政法委副书记江楷鑫与茂名市公安局副局长李土华等十余名政法公安涉炮制冤案被查 江泽民曾庆红上海帮政法帮连环另类政变 习近平反击 王岐山中纪委旧部空降接掌广东省纪委 王小洪公安部特勤局副手接掌广东省公安厅 掀起清洗风暴 广东逾30名官员密集落马</a></li>
-<li><a href="/bannedvideo/20210720/1590405.md">被中国制裁的美官员却来中国上班，到底是谁搬起了石头砸了谁的脚，我已经被绕晕了！</a></li>
+<li><a href="/cbnews/20210720/1590419.md">文昭：「中南海保镳」头领突然换人，不是防政变、就是要政变？详扒中共这只关键、暗黑的精锐力量</a></li>
+<li><a href="/cnnews/20210720/1590472.md">上年纪的人在中国生活越来越难了</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210721/1590921.md" target="_blank">众院新行动 中共 “千人计划”流产；怎么了？文在寅与菅义伟取消峰会；洪水倒灌 河南登封腾起蘑菇云；海地领导权移交起疑云【希望之声TV-环球看点-2021/7/20】</a></li>
 <li><a href="/cbnews/20210720/1590881.md" target="_blank">习近平的恐惧 反映中共面临生死存亡</a></li>
 <li><a href="/comments/20210720/1590038.md" target="_blank">共产党政权生存的三要素，及由此推断现存各共产党国家演变 — 曾节明</a></li>
 <li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210720/1590359.md" target="_blank">专栏 | 夜话中南海：谁会与应勇竞争下届中央政法委书记？</a></li>
 <li><a href="/cbnews/20210720/1590352.md" target="_blank">中航书记张陶殴打2院士 遭开除党籍及逮捕</a></li>
 <li><a href="/cbnews/20210720/1590340.md" target="_blank">电瓶车起火与锂电池有关!7岁女孩伤情极其危重</a></li>
-<li><a href="/comments/20210720/1590289.md" target="_blank">网络攻击20年 美三大部门联合警报 指向中共；中共近台海域军演 台风“烟花”发威；惨！内蒙古洪灾 水库大坝瞬间崩堤；中共助贩毒搞垮美国 美媒：拜登快醒！【希望之声TV-环球看点-2021/7/19】</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210721/1590921.md" target="_blank">众院新行动 中共 “千人计划”流产；怎么了？文在寅与菅义伟取消峰会；洪水倒灌 河南登封腾起蘑菇云；海地领导权移交起疑云【希望之声TV-环球看点-2021/7/20】</a></li>
 <li><a href="/comments/20210721/1590906.md" target="_blank">【一分钟料理】蒸豆腐虾仁 营养又清淡开胃</a></li>
 <li><a href="/comments/20210721/1590895.md" target="_blank">【2021 DSE】50 人在囚应考 考评局：人数太少 一直没有纪录他们成绩</a></li>
 <li><a href="/comments/20210721/1590894.md" target="_blank">【now 新闻地震】消息指财经台副总裁罗志辉请辞 两日内 3 开台元老辞职</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210720/1590775.md" target="_blank">【神韵作品】飞天大学学生自编自导短片：《正信》</a></li>
 <li><a href="/comments/20210720/1590740.md" target="_blank">刚刚，这个&#8221;战狼&#8221;大号崩了 数百万粉丝欲哭无泪</a></li>
 <li><a href="/comments/20210720/1590739.md" target="_blank">美国奥运选手和大官是这样搭飞机的</a></li>
-<li><a href="/comments/20210720/1590731.md" target="_blank">【 闱闱道来】散文篇： 渡了时光去看你</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20210611/1564824.md" target="_blank">【曾铮专栏】感悟神韵（之一）神韵的主旨</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
 <li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/comments/20210329/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
+<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
 
 </ul>
 </div>
