@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/bannedvideo/20210719/1590078.md">文睿：要出大事儿，美军机今天第三次降落台湾，习近平被逼入绝境</a></li>
 <li><a href="/bannedvideo/20210719/1590200.md">一件丑事看穿川普真面目！犬父无虎子，儿女都是一路货色，细数川普全家丑闻！拜托，骂川普也会黄标吗？（坐澳观天第381期 20210919）</a></li>
 <li><a href="/yule/20210720/1590358.md">54岁王祖贤被偶遇 一转身网全崩溃</a></li>
 <li><a href="/yule/20210720/1590393.md">4年前周星驰如此评价吴亦凡 网惊叹</a></li>
 <li><a href="/cnnews/20210720/1590343.md">毛骨悚然!日本这种医用机器人,如此逼真</a></li>
-<li><a href="/lifebaike/20210719/1590099.md">10万刀家具被华人租客搬空！房东崩溃报警</a></li>
 <li><a href="/worldnews/20210720/1590377.md">中共公安部副部长杜航伟被举报</a></li>
+<li><a href="/lifebaike/20210719/1590099.md">10万刀家具被华人租客搬空！房东崩溃报警</a></li>
 <li><a href="/cbnews/20210720/1590352.md">中航书记张陶殴打2院士 遭开除党籍及逮捕</a></li>
 <li><a href="/cnnews/20210720/1590582.md">李志绥：毛患有一种罕见的不治之症 与张玉凤吵架又暴发心梗</a></li>
 <li><a href="/ssgc/20210720/1590453.md">〖兲朝浮世绘〗不知道习近平又要怎样折腾了</a></li>
 <li><a href="/cnnews/20210719/1590145.md">习近平剪裙边？江系力捧最高法院长亲信被抓；雪上加霜，中国电商遭亚马逊大批下架</a></li>
-<li><a href="/comments/20210719/1590267.md">别再怪别人了，这个赵家人才是辱华源头，不要脸，记住他│#熊猫侠</a></li>
 <li><a href="/cbnews/20210720/1590561.md">天亮时分：中共逮捕爱国大V；恒大股票暴跌，资金遭冻结；拜登要取消对华关税？（政论天下第470集 20210719）</a></li>
+<li><a href="/comments/20210719/1590267.md">别再怪别人了，这个赵家人才是辱华源头，不要脸，记住他│#熊猫侠</a></li>
 <li><a href="/comments/20210720/1590361.md">袁弓夷：中美战争一触即发 双方都在暗中备战</a></li>
 <li><a href="/cnnews/20210719/1590177.md">被重罚8亿！全球第一大雇主栽了 发生了什么？</a></li>
 <li><a href="/bannedvideo/20210720/1590405.md">被中国制裁的美官员却来中国上班，到底是谁搬起了石头砸了谁的脚，我已经被绕晕了！</a></li>
 <li><a href="/comments/20210719/1590092.md">再一架美运输机突降台湾 网友呛声：“故意踩红线 给阿共仔看”</a></li>
 <li><a href="/bannedvideo/20210720/1590342.md">美国政府今天公布：中共国安部豢养的黑客军团，疯狂攻击美国！</a></li>
+<li><a href="/funmedia/20210720/1590566.md">稀奇！河南一家人嫌脏，2次捣毁燕巢，第3次燕子筑巢自带“小厕所”，轰动全网</a></li>
 <li><a href="/cbnews/20210720/1590419.md">文昭：「中南海保镳」头领突然换人，不是防政变、就是要政变？详扒中共这只关键、暗黑的精锐力量</a></li>
 <li><a href="/comments/20210720/1590375.md">财经作家：中国数据繁荣难掩广泛萧条</a></li>
 <li><a href="/cnnews/20210720/1590356.md">这个姑娘终于清醒了</a></li>
-<li><a href="/funmedia/20210720/1590566.md">稀奇！河南一家人嫌脏，2次捣毁燕巢，第3次燕子筑巢自带“小厕所”，轰动全网</a></li>
 <li><a href="/cnnews/20210720/1590472.md">上年纪的人在中国生活越来越难了</a></li>
+<li><a href="/finance/20210720/1590365.md">新冠疫情恐慌卷土重来 油价又崩了</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210720/1590709.md" target="_blank">中共首派两艘军舰 澳洲前军官：侦察「护身军刀」战力</a></li>
+<li><a href="/comments/20210720/1590706.md" target="_blank">港台增“创意组” 重推《温故知新》</a></li>
+<li><a href="/comments/20210720/1590705.md" target="_blank">【小说连载】七海归途之雪伦公主（40）</a></li>
+<li><a href="/comments/20210720/1590704.md" target="_blank">【丝情画意】中国刺绣之旅 (下)</a></li>
+<li><a href="/comments/20210720/1590703.md" target="_blank">二十四节气： 《大暑 》</a></li>
 <li><a href="/comments/20210720/1590702.md" target="_blank">【 闱闱道来】 细说红楼 ：“天下无能第一，古今不肖无双”之宝玉其人（贰）</a></li>
 <li><a href="/comments/20210720/1590701.md" target="_blank">不能等待中共暴政自行消亡的原因和中国人的责任（下集）—— 等待中中国只能为中共暴政殉葬 （中共命运的轨迹和人类前途  第三十三讲）【袁红冰纵论天下】 07202021</a></li>
 <li><a href="/comments/20210720/1590688.md" target="_blank">【智慧专栏】中国传统色彩欣赏 (三）《京绿》</a></li>
@@ -118,11 +123,6 @@
 <li><a href="/comments/20210720/1590608.md" target="_blank">李燕铭：习近平女习明泽信息泄密案发酵 广东省政法委副书记江楷鑫与茂名市公安局副局长李土华等十余名政法公安涉炮制冤案被查 江泽民曾庆红上海帮政法帮连环另类政变 习近平反击 王岐山中纪委旧部空降接掌广东省纪委 王小洪公安部特勤局副手接掌广东省公安厅 掀起清洗风暴 广东逾30名官员密集落马</a></li>
 <li><a href="/comments/20210720/1590607.md" target="_blank">美作家：“大重置”的“社会正义”旗号深具中共特色</a></li>
 <li><a href="/comments/20210720/1590606.md" target="_blank">美众院通过法案 阻止中共“千人计划”在美挖人才</a></li>
-<li><a href="/comments/20210720/1590605.md" target="_blank">蔬果施有机肥原则 果子小 落果原因 橙子树究竟哪个月开花</a></li>
-<li><a href="/comments/20210720/1590604.md" target="_blank">夏天护肤程序化，会令肌肤更爽</a></li>
-<li><a href="/comments/20210720/1590600.md" target="_blank">河南登封一工厂发生爆炸 地方当局称洪水漫入引发的爆炸</a></li>
-<li><a href="/comments/20210720/1590599.md" target="_blank">研究：胆固醇药物或将中共病毒死亡率降低46%</a></li>
-<li><a href="/comments/20210720/1590595.md" target="_blank">美前住房部长：批判性种族理论在制造分裂和冲突</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
 <li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
 <li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
+<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
 
 </ul>
 </div>
