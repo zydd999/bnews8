@@ -20,14 +20,14 @@
 <li><a href="/lifebaike/20210719/1590099.md">10万刀家具被华人租客搬空！房东崩溃报警</a></li>
 <li><a href="/headline/20210719/1590067.md">又一架美军运输机抵台AIT及台湾外交部缄默</a></li>
 <li><a href="/cnnews/20210719/1590145.md">习近平剪裙边？江系力捧最高法院长亲信被抓；雪上加霜，中国电商遭亚马逊大批下架</a></li>
-<li><a href="/comments/20210719/1590092.md">再一架美运输机突降台湾 网友呛声：“故意踩红线 给阿共仔看”</a></li>
+<li><a href="/cnnews/20210720/1590343.md">毛骨悚然!日本这种医用机器人,如此逼真</a></li>
 <li><a href="/ssgc/20210719/1589907.md">〖微博谈〗孙大午对中共的认识不够透</a></li>
+<li><a href="/comments/20210719/1590092.md">再一架美运输机突降台湾 网友呛声：“故意踩红线 给阿共仔看”</a></li>
 <li><a href="/baitai/20210719/1590059.md">知名男星吴亦凡被控诱骗数名未成年女性</a></li>
 <li><a href="/cnnews/20210719/1590177.md">被重罚8亿！全球第一大雇主栽了 发生了什么？</a></li>
-<li><a href="/cnnews/20210720/1590343.md">毛骨悚然!日本这种医用机器人,如此逼真</a></li>
 <li><a href="/comments/20210719/1590267.md">别再怪别人了，这个赵家人才是辱华源头，不要脸，记住他│#熊猫侠</a></li>
 <li><a href="/cbnews/20210719/1589951.md">女司机倒车看后方 下一秒撞倒丈夫夹死自己</a></li>
-<li><a href="/comments/20210719/1589903.md">【微博精粹】跪也是死！又一名老刀客杀3官</a></li>
+<li><a href="/yule/20210720/1590358.md">54岁王祖贤被偶遇 一转身网全崩溃</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210720/1590475.md" target="_blank">对抗中共 日本拟部署F-35B战机在靠东海基地；石油输出国家组织欧派克OPEC+达成增产协议 8月开始启动；内需疲弱冲击下 中国电商又遭亚马逊大批下架 【希望之声TV-两岸要闻-2021/07/19】</a></li>
 <li><a href="/comments/20210720/1590449.md" target="_blank">美频频出手，中共转攻为守？美军机抵台将成常态？中共用“洋网红”助推，外宣还是内宣？</a></li>
 <li><a href="/comments/20210720/1590429.md" target="_blank">4特工遭美起诉  多国同步谴责中共网络攻击 【希望之声TV-新闻焦点解读-2021/07/19】主持:高洁  嘉宾：林晓旭</a></li>
 <li><a href="/cbnews/20210720/1590419.md" target="_blank">文昭：「中南海保镳」头领突然换人，不是防政变、就是要政变？详扒中共这只关键、暗黑的精锐力量</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/comments/20210719/1589816.md" target="_blank">面对观众的刁钻提问，觉醒主创如何接招？</a></li>
 <li><a href="/cbnews/20210719/1589811.md" target="_blank">中缅边境防疫墙能挡住新冠病毒传回中国吗？</a></li>
 <li><a href="/comments/20210719/1589810.md" target="_blank">情陷海岛缘早就，弱冠青丝不言愁《巴顿将军》第五集精彩回顾20210718</a></li>
-<li><a href="/cbnews/20210719/1589807.md" target="_blank">美国思想领袖：人权倡导者劳拉‧哈斯：中共如何窜改国际人权规范？为何对抗中共？中国被「消失」多少人？中共掩盖泄漏事故，人们有知情权！（预告片）| 大纪元</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210720/1590487.md" target="_blank">【家国记忆】青春蒙难1 我家被抢走几个亿</a></li>
+<li><a href="/comments/20210720/1590486.md" target="_blank">阿富汗，虚假“帝国坟场”背后的真实帝国暗战</a></li>
+<li><a href="/comments/20210720/1590476.md" target="_blank">中共公安部副部长杜航伟被举报 罪恶簿曝光 背后政法大老虎落马 中南海不可告人的秘密_423</a></li>
+<li><a href="/comments/20210720/1590475.md" target="_blank">对抗中共 日本拟部署F-35B战机在靠东海基地；石油输出国家组织欧派克OPEC+达成增产协议 8月开始启动；内需疲弱冲击下 中国电商又遭亚马逊大批下架 【希望之声TV-两岸要闻-2021/07/19】</a></li>
 <li><a href="/comments/20210720/1590470.md" target="_blank">洪博学：恶土无法长出善念 你是不是那片雪花</a></li>
 <li><a href="/comments/20210720/1590449.md" target="_blank">美频频出手，中共转攻为守？美军机抵台将成常态？中共用“洋网红”助推，外宣还是内宣？</a></li>
 <li><a href="/comments/20210720/1590429.md" target="_blank">4特工遭美起诉  多国同步谴责中共网络攻击 【希望之声TV-新闻焦点解读-2021/07/19】主持:高洁  嘉宾：林晓旭</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210720/1590337.md" target="_blank">台湾政大社会学系主任﹕陈健民抵台 将任客座教授</a></li>
 <li><a href="/comments/20210720/1590335.md" target="_blank">诗一首：《手 艺》</a></li>
 <li><a href="/comments/20210720/1590328.md" target="_blank">美司法部：4名中共国安部雇员被起诉</a></li>
-<li><a href="/comments/20210720/1590327.md" target="_blank">海地20日组新政府 新旧总理交替疑云四起</a></li>
-<li><a href="/comments/20210720/1590326.md" target="_blank">摆脱对中依赖 日本关西企业拟将重心移至台湾</a></li>
-<li><a href="/comments/20210720/1590323.md" target="_blank">夏季真「伤心」！ 中医分享心脏保养秘诀</a></li>
-<li><a href="/comments/20210720/1590322.md" target="_blank">防晒护唇膏真的有用吗？</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/comments/20210611/1564824.md" target="_blank">【曾铮专栏】感悟神韵（之一）神韵的主旨</a></li>
 <li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
 <li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
 
 </ul>
 </div>
