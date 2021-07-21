@@ -5,16 +5,14 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/cbnews/20210720/1590733.md">高级黑？中共官媒这样赞颂习近平</a></li>
 <li><a href="/bannedvideo/20210721/1590951.md">郑州水灾人祸，惊心动魄！  仅仅地铁里，恐有数千人遇难！</a></li>
 <li><a href="/bannedvideo/20210720/1590882.md">积水淹没大批中国城市！    郑州地铁被淹，旅客绝望；铝厂熔炉灌水，引发大爆炸！</a></li>
 <li><a href="/bannedvideo/20210721/1590901.md">突发：郑州地铁，赶紧救人！半壁江山，一半在水里，一般蒙鼓里！</a></li>
 <li><a href="/cbnews/20210721/1590932.md">悲惨！河南郑州暴雨 洪水肆虐 多人被洪水直接卷走</a></li>
 <li><a href="/comments/20210721/1591050.md">郑州地铁5号线究竟死多少人？官方喊“有惊无险” 央视聚焦欧洲洪水</a></li>
 <li><a href="/cbnews/20210720/1590785.md">大手笔！美联手11国3连重锤中共；要破产！中共地方债付息6年翻3倍达去年达...</a></li>
-<li><a href="/cnnews/20210721/1590997.md">北纬40度魔咒出现了？4个大国无一幸免</a></li>
 <li><a href="/cbnews/20210721/1591311.md">发死人财！骇人听闻！郑州地铁五号线死者被剪切眼角膜</a></li>
-<li><a href="/comments/20210720/1590740.md">刚刚，这个"战狼"大号崩了 数百万粉丝欲哭无泪</a></li>
+<li><a href="/cnnews/20210721/1590997.md">北纬40度魔咒出现了？4个大国无一幸免</a></li>
 <li><a href="/bannedvideo/20210721/1591007.md">7月20日，一位女主播正在碧云路上做现场直播时，一对父子被大洪水冲下来，吓得女主播直叫妈呀，......</a></li>
 <li><a href="/bannedvideo/20210721/1591072.md">大陆民众：郑州都已经快沉下去了，CCAV还在忙着报道欧洲意大利的暴雨...你们是欧洲人的中央电视台吗？卧槽你们十八代祖宗...</a></li>
 <li><a href="/bannedvideo/20210721/1591151.md">玩忽职守造成郑州大劫！    二千多人被困列车，26小时没吃没喝！    郑州人民不顾洪水危险，蜂拥而上，打捞浮财！</a></li>
@@ -27,6 +25,8 @@
 <li><a href="/bannedvideo/20210720/1590819.md">吴亦凡遇到了不要命的！党媒：赶紧趁机刷一波热点转移话题，近期政治丑闻太多啦！</a></li>
 <li><a href="/bannedvideo/20210721/1591032.md">郑州暴雨地铁悲剧事件总结：一党独裁，遍地是灾！</a></li>
 <li><a href="/bannedvideo/20210721/1591075.md">【太惨】中国郑州大洪水，百乘客困地铁多人亡被封杀；破中共阻力，台湾与立陶宛互设“使馆”；骂方方成名女自干五患癌自称被锤醒；新华社高级黑习近平？胡春华亲信被彻底遗忘；吴亦凡恐退圈 CT</a></li>
+<li><a href="/comments/20210721/1591203.md">【微博精粹】慎入！郑州大水死人 没空气没救援 只有胡锡进人日这帮杂碎卖嘴</a></li>
+<li><a href="/cbnews/20210721/1591270.md">郑州洪灾，水库溃坝：我们要真相，不要糊涂账</a></li>
 <li><a href="/bannedvideo/20210721/1591012.md">比尔.盖茨：把疫苗打到每个人的身体里! 你没有选择！ 深层政府DeepState与中共的真实关系让人震惊</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210721/1591418.md" target="_blank">首次发现：苏丹古墓布局类似星系内天体分布</a></li>
 <li><a href="/comments/20210721/1591408.md" target="_blank">“美国先知凯西”追溯20年，透露亚特兰蒂斯的高度文明细节？凯西为什么拥有神奇能力？探索不到的海底文明存在吗？震惊世界的人鱼宝宝，向人类揭示了一个天机…你身边的人，可能是它们…</a></li>
 <li><a href="/comments/20210721/1591405.md" target="_blank">【小说连载】七海归途之雪伦公主（41）</a></li>
 <li><a href="/comments/20210721/1591404.md" target="_blank">徐英伟称将研究爆眼少女案是否涉刻意发假讯息煽动 工联会指医管局无主动澄清</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210721/1591315.md" target="_blank">79相关人员确诊 组委会不排除最后一刻取消奥运</a></li>
 <li><a href="/comments/20210721/1591301.md" target="_blank">德瑞法轮功学员柏林集会 政要及民众支持反迫害</a></li>
 <li><a href="/comments/20210721/1591291.md" target="_blank">警国安处拘前《苹果日报》执总林文宗 指控串谋勾结境外势力</a></li>
-<li><a href="/comments/20210721/1591290.md" target="_blank">【睇片】港大要求学生会迁出综合大楼限期届满 校方安排工人换锁</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
 <li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
 <li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
 
 </ul>
 </div>
