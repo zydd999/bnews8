@@ -15,19 +15,19 @@
 <li><a href="/cbnews/20210720/1590785.md">大手笔！美联手11国3连重锤中共；要破产！中共地方债付息6年翻3倍达去年达...</a></li>
 <li><a href="/cnnews/20210721/1590997.md">北纬40度魔咒出现了？4个大国无一幸免</a></li>
 <li><a href="/comments/20210720/1590740.md">刚刚，这个"战狼"大号崩了 数百万粉丝欲哭无泪</a></li>
+<li><a href="/cbnews/20210721/1591311.md">发死人财！骇人听闻！郑州地铁五号线死者被剪切眼角膜</a></li>
 <li><a href="/bannedvideo/20210721/1591007.md">7月20日，一位女主播正在碧云路上做现场直播时，一对父子被大洪水冲下来，吓得女主播直叫妈呀，......</a></li>
 <li><a href="/bannedvideo/20210721/1591072.md">大陆民众：郑州都已经快沉下去了，CCAV还在忙着报道欧洲意大利的暴雨...你们是欧洲人的中央电视台吗？卧槽你们十八代祖宗...</a></li>
 <li><a href="/bannedvideo/20210721/1591151.md">玩忽职守造成郑州大劫！    二千多人被困列车，26小时没吃没喝！    郑州人民不顾洪水危险，蜂拥而上，打捞浮财！</a></li>
 <li><a href="/lifebaike/20210720/1590883.md">北大四位学霸美女，赴美留学不归，都嫁美国人</a></li>
 <li><a href="/ssgc/20210720/1590720.md">中国官媒近期突然转调 频发赞扬邓小平理论文章</a></li>
-<li><a href="/cbnews/20210721/1591311.md">发死人财！骇人听闻！郑州地铁五号线死者被剪切眼角膜</a></li>
 <li><a href="/cbnews/20210720/1590881.md">习近平的恐惧 反映中共面临生死存亡</a></li>
 <li><a href="/comments/20210721/1591039.md">河南洪灾惨烈多水坝溃坝求救刷屏【希望之声TV-新闻焦点解读-2021/07/20】主持:高洁  嘉宾：林晓旭</a></li>
 <li><a href="/baitai/20210721/1591068.md">给彭丽媛的公开信</a></li>
 <li><a href="/comments/20210721/1591116.md">暴打院士的书记 原来后台这么硬？；隐忍22年 世界各地法轮功学员纪念反迫害22周年 各国政要支持；退路已无 民企将从此在中国消失？民企继续被强迫入股国资； 【希望之声TV-红潮禁文-2021-】</a></li>
 <li><a href="/bannedvideo/20210720/1590819.md">吴亦凡遇到了不要命的！党媒：赶紧趁机刷一波热点转移话题，近期政治丑闻太多啦！</a></li>
 <li><a href="/bannedvideo/20210721/1591032.md">郑州暴雨地铁悲剧事件总结：一党独裁，遍地是灾！</a></li>
-<li><a href="/bannedvideo/20210721/1591075.md">【太惨】中国郑州大洪水，百乘客困地铁多人亡被封杀；破中共阻力，台湾与立陶宛互设“使馆”；骂方方成名女自干五患癌自称被锤醒；新华社高级黑习近平？胡春华亲信被彻底遗忘；吴亦凡恐退圈 CT</a></li>
+<li><a href="/yule/20210721/1591236.md">疑吴亦凡更多选妃内幕曝光：全程果体、挑剩下的表哥、经纪人再分</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
 <li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
 
 </ul>
 </div>
