@@ -13,18 +13,18 @@
 <li><a href="/bannedvideo/20210720/1590644.md">7月16日，广东中山。女车主因在饭局中喝了酒，在网络平台叫了代驾。代驾司机的电动自行车，在客户小车的后备箱中自燃。女车主焦急大喊：“快点、快点，把我车给炸了！”</a></li>
 <li><a href="/bannedvideo/20210720/1590882.md">积水淹没大批中国城市！    郑州地铁被淹，旅客绝望；铝厂熔炉灌水，引发大爆炸！</a></li>
 <li><a href="/ssgc/20210720/1590721.md">继恒大后 又一房企打折卖房套现</a></li>
+<li><a href="/cbnews/20210721/1590932.md">悲惨！河南郑州暴雨 洪水肆虐 多人被洪水直接卷走</a></li>
 <li><a href="/bannedvideo/20210721/1590901.md">突发：郑州地铁，赶紧救人！半壁江山，一半在水里，一般蒙鼓里！</a></li>
 <li><a href="/cbnews/20210720/1590561.md">天亮时分：中共逮捕爱国大V；恒大股票暴跌，资金遭冻结；拜登要取消对华关税？（政论天下第470集 20210719）</a></li>
-<li><a href="/cbnews/20210721/1590932.md">悲惨！河南郑州暴雨 洪水肆虐 多人被洪水直接卷走</a></li>
 <li><a href="/cbnews/20210720/1590785.md">大手笔！美联手11国3连重锤中共；要破产！中共地方债付息6年翻3倍达去年达...</a></li>
 <li><a href="/funmedia/20210720/1590566.md">稀奇！河南一家人嫌脏，2次捣毁燕巢，第3次燕子筑巢自带“小厕所”，轰动全网</a></li>
 <li><a href="/comments/20210720/1590740.md">刚刚，这个"战狼"大号崩了 数百万粉丝欲哭无泪</a></li>
 <li><a href="/ssgc/20210720/1590720.md">中国官媒近期突然转调 频发赞扬邓小平理论文章</a></li>
+<li><a href="/cnnews/20210721/1590997.md">北纬40度魔咒出现了？4个大国无一幸免</a></li>
+<li><a href="/lifebaike/20210720/1590883.md">北大四位学霸美女，赴美留学不归，都嫁美国人</a></li>
 <li><a href="/comments/20210720/1590608.md">李燕铭：习近平女习明泽信息泄密案发酵 广东省政法委副书记江楷鑫与茂名市公安局副局长李土华等十余名政法公安涉炮制冤案被查 江泽民曾庆红上海帮政法帮连环另类政变 习近平反击 王岐山中纪委旧部空降接掌广东省纪委 王小洪公安部特勤局副手接掌广东省公安厅 掀起清洗风暴 广东逾30名官员密集落马</a></li>
 <li><a href="/ssgc/20210720/1590679.md">新华网微博出现异常贴文</a></li>
 <li><a href="/cbnews/20210720/1590881.md">习近平的恐惧 反映中共面临生死存亡</a></li>
-<li><a href="/lifebaike/20210720/1590883.md">北大四位学霸美女，赴美留学不归，都嫁美国人</a></li>
-<li><a href="/cnnews/20210721/1590997.md">北纬40度魔咒出现了？4个大国无一幸免</a></li>
 <li><a href="/health/20210720/1590675.md">有这3种习惯的人，45岁以后容易有老人臭，尤其是男性朋友</a></li>
 <li><a href="/bannedvideo/20210720/1590689.md">高手！习近平被耍 现在耍拜登 他两面通吃 笑到最后？（2021年7月20日）</a></li>
 <li><a href="/cbnews/20210720/1590638.md">新华社又闹笑话了！拽文或一语成谶 【阿波罗网报道】</a></li>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210721/1591167.md" target="_blank">河南洪灾 郑州地铁凌晨仍有人受困 多地求援帖刷屏</a></li>
+<li><a href="/comments/20210721/1591166.md" target="_blank">跨国议会联盟：民主国家必须行动 制止迫害追责中共</a></li>
+<li><a href="/comments/20210721/1591159.md" target="_blank">胡锡进喊话习近平，该动手了，用行动验证警告。V字旅和以色列带给台湾的启示，投降主义必须清除。│#熊猫侠</a></li>
+<li><a href="/comments/20210721/1591140.md" target="_blank">男星吴亦凡涉嫌诱奸未成年少女 事实不清央视忙发声</a></li>
 <li><a href="/comments/20210721/1591116.md" target="_blank">暴打院士的书记 原来后台这么硬？；隐忍22年 世界各地法轮功学员纪念反迫害22周年 各国政要支持；退路已无 民企将从此在中国消失？民企继续被强迫入股国资； 【希望之声TV-红潮禁文-2021-】</a></li>
 <li><a href="/comments/20210721/1591115.md" target="_blank">茨威格 罗曼·罗兰 纪德：三个人的莫斯科之旅</a></li>
 <li><a href="/comments/20210721/1591114.md" target="_blank">沉雁：史上最下作的活儿：师夷长技以制夷</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210721/1591043.md" target="_blank">蓬佩奥：美国应带领全球 制止中共迫害法轮功</a></li>
 <li><a href="/comments/20210721/1591039.md" target="_blank">河南洪灾惨烈多水坝溃坝求救刷屏【希望之声TV-新闻焦点解读-2021/07/20】主持:高洁  嘉宾：林晓旭</a></li>
 <li><a href="/comments/20210721/1591033.md" target="_blank">诗朗诵《二十二载的讴歌》｜纪念“七·二零”22周年</a></li>
-<li><a href="/comments/20210721/1591026.md" target="_blank">【东洲专栏】故事篇：《记昨夜的传奇》</a></li>
-<li><a href="/comments/20210721/1591025.md" target="_blank">【钟宏专栏】诗歌篇：《七绝 优昙婆罗花》</a></li>
-<li><a href="/comments/20210721/1591024.md" target="_blank">十字路口：现代奇人预言：中共与党魁厄运</a></li>
-<li><a href="/comments/20210721/1591021.md" target="_blank">微电影《抓捕》</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210611/1564824.md" target="_blank">【曾铮专栏】感悟神韵（之一）神韵的主旨</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20210329/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
 
 </ul>
 </div>
