@@ -14,20 +14,20 @@
 <li><a href="/ssgc/20210720/1590721.md">继恒大后 又一房企打折卖房套现</a></li>
 <li><a href="/bannedvideo/20210721/1590901.md">突发：郑州地铁，赶紧救人！半壁江山，一半在水里，一般蒙鼓里！</a></li>
 <li><a href="/cbnews/20210721/1590932.md">悲惨！河南郑州暴雨 洪水肆虐 多人被洪水直接卷走</a></li>
+<li><a href="/comments/20210721/1591050.md">郑州地铁5号线究竟死多少人？官方喊“有惊无险” 央视聚焦欧洲洪水</a></li>
 <li><a href="/cbnews/20210720/1590785.md">大手笔！美联手11国3连重锤中共；要破产！中共地方债付息6年翻3倍达去年达...</a></li>
 <li><a href="/cnnews/20210721/1590997.md">北纬40度魔咒出现了？4个大国无一幸免</a></li>
-<li><a href="/comments/20210721/1591050.md">郑州地铁5号线究竟死多少人？官方喊“有惊无险” 央视聚焦欧洲洪水</a></li>
 <li><a href="/comments/20210720/1590740.md">刚刚，这个"战狼"大号崩了 数百万粉丝欲哭无泪</a></li>
 <li><a href="/bannedvideo/20210721/1591007.md">7月20日，一位女主播正在碧云路上做现场直播时，一对父子被大洪水冲下来，吓得女主播直叫妈呀，......</a></li>
 <li><a href="/ssgc/20210720/1590720.md">中国官媒近期突然转调 频发赞扬邓小平理论文章</a></li>
 <li><a href="/lifebaike/20210720/1590883.md">北大四位学霸美女，赴美留学不归，都嫁美国人</a></li>
 <li><a href="/cbnews/20210720/1590881.md">习近平的恐惧 反映中共面临生死存亡</a></li>
 <li><a href="/ssgc/20210720/1590679.md">新华网微博出现异常贴文</a></li>
+<li><a href="/bannedvideo/20210721/1591072.md">大陆民众：郑州都已经快沉下去了，CCAV还在忙着报道欧洲意大利的暴雨...你们是欧洲人的中央电视台吗？卧槽你们十八代祖宗...</a></li>
 <li><a href="/health/20210720/1590675.md">有这3种习惯的人，45岁以后容易有老人臭，尤其是男性朋友</a></li>
 <li><a href="/bannedvideo/20210720/1590689.md">高手！习近平被耍 现在耍拜登 他两面通吃 笑到最后？（2021年7月20日）</a></li>
 <li><a href="/cbnews/20210720/1590638.md">新华社又闹笑话了！拽文或一语成谶 【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20210720/1590819.md">吴亦凡遇到了不要命的！党媒：赶紧趁机刷一波热点转移话题，近期政治丑闻太多啦！</a></li>
-<li><a href="/bannedvideo/20210721/1591072.md">大陆民众：郑州都已经快沉下去了，CCAV还在忙着报道欧洲意大利的暴雨...你们是欧洲人的中央电视台吗？卧槽你们十八代祖宗...</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210721/1591301.md" target="_blank">德瑞法轮功学员柏林集会 政要及民众支持反迫害</a></li>
+<li><a href="/comments/20210721/1591291.md" target="_blank">警国安处拘前《苹果日报》执总林文宗 指控串谋勾结境外势力</a></li>
+<li><a href="/comments/20210721/1591290.md" target="_blank">【睇片】港大要求学生会迁出综合大楼限期届满 校方安排工人换锁</a></li>
+<li><a href="/comments/20210721/1591288.md" target="_blank">【DQ 区议员】报章再引消息指政府本周发信 或不全面追薪</a></li>
+<li><a href="/comments/20210721/1591287.md" target="_blank">“这可能是我最后一条微信” 郑州地铁惨况曝光 王丹：民怨都是逐步积累【多视频】</a></li>
 <li><a href="/comments/20210721/1591271.md" target="_blank">万事皆有因缘，它是来报仇的</a></li>
 <li><a href="/comments/20210721/1591268.md" target="_blank">7月第2宗元首遇刺！马利临时总统险遭武装份子暗杀；善与恶的较量 记法轮功反迫害22年【希望之声TV-环球看点-2021/7/20】</a></li>
 <li><a href="/comments/20210721/1591267.md" target="_blank">暴打院士的书记 原来后台这么硬？；隐忍22年 世界各地法轮功学员纪念反迫害22周年 各国政要支持； 【希望之声TV-红潮禁文-2021/7/20】</a></li>
@@ -118,11 +123,6 @@
 <li><a href="/comments/20210721/1591114.md" target="_blank">沉雁：史上最下作的活儿：师夷长技以制夷</a></li>
 <li><a href="/comments/20210721/1591100.md" target="_blank">全美学者协会：美国四年内关了大半孔子学院</a></li>
 <li><a href="/comments/20210721/1591093.md" target="_blank">【家国记忆】青春蒙难 2 当代少男少女的天方夜谭 我“解放了”女教师</a></li>
-<li><a href="/comments/20210721/1591091.md" target="_blank">香港电台紧跟中共 不许称蔡英文为台湾总统</a></li>
-<li><a href="/comments/20210721/1591082.md" target="_blank">魏晋：暴打院士的航天系张陶书记的大靠山是他？</a></li>
-<li><a href="/comments/20210721/1591077.md" target="_blank">程晓农：台湾：中美冷战的“热点”？ 大外宣4种武统推演</a></li>
-<li><a href="/comments/20210721/1591076.md" target="_blank">山河路人：假如黄生写一篇关于自己被抓的文章</a></li>
-<li><a href="/comments/20210721/1591065.md" target="_blank">美议员提法案阻中共买美国土地 “中共是我们的敌人”</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20210611/1564824.md" target="_blank">【曾铮专栏】感悟神韵（之一）神韵的主旨</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20210612/1565472.md" target="_blank">感悟神韵（之二）：感悟神韵的艺术风格</a></li>
+<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
 
 </ul>
 </div>
