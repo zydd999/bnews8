@@ -6,28 +6,28 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cnnews/20210722/1591707.md">动手了！郑州开抓暴雨“不当言论者”</a></li>
-<li><a href="/cnnews/20210722/1592049.md">郑州灾后一片狼藉 十分悲惨 民众：“一家一家死在车里”</a></li>
 <li><a href="/cnnews/20210722/1591685.md">郑州豪雨“四小时淹没地下道”车辆全灭顶 惨烈画面曝</a></li>
-<li><a href="/cbnews/20210722/1592011.md">郑州地铁员工揭露郑州地铁乘客被困洪水内幕</a></li>
+<li><a href="/cnnews/20210722/1592049.md">郑州灾后一片狼藉 十分悲惨 民众：“一家一家死在车里”</a></li>
 <li><a href="/cbnews/20210722/1592162.md">郑州救灾志愿者的博文：死亡人数在4位数以上</a></li>
+<li><a href="/cbnews/20210722/1592011.md">郑州地铁员工揭露郑州地铁乘客被困洪水内幕</a></li>
 <li><a href="/topimagenews/20210722/1592091.md">郑州大洪水倒灌地铁5号线 死亡人数成谜 两篇推文告诉你更多的真相</a></li>
 <li><a href="/topimagenews/20210722/1591665.md">河南郑州暴雨停水停电 居民疯抢食物 涌超市以现钞抢买桶装水</a></li>
-<li><a href="/comments/20210722/1591675.md">郑州空前大洪灾背后的秘密……</a></li>
 <li><a href="/bannedvideo/20210722/1591936.md">郑州京广路隧道！四公里长，初步预估三位数死亡</a></li>
-<li><a href="/cnnews/20210722/1591698.md">他划船目睹“神秘巨兽”渡河！5秒片全网颤栗：抱着的是啥</a></li>
+<li><a href="/comments/20210722/1591675.md">郑州空前大洪灾背后的秘密……</a></li>
 <li><a href="/cbnews/20210722/1591927.md">地方官员：为什么泄洪不能预警通知</a></li>
+<li><a href="/cnnews/20210722/1591698.md">他划船目睹“神秘巨兽”渡河！5秒片全网颤栗：抱着的是啥</a></li>
 <li><a href="/cnnews/20210722/1591706.md">干哥哥帮付医药费！女报恩嫁给她 5年后结局让人哭了</a></li>
 <li><a href="/cnnews/20210722/1591742.md">中共让他亲手处决自己的父亲 十年后...</a></li>
 <li><a href="/comments/20210722/1591912.md">厉害了我的国开始吃疯狂开发的苦果了</a></li>
 <li><a href="/bannedvideo/20210722/1592056.md">洪水过后，河南郑州京广路隧道。网友：京广路隧道，五分钟淹平，四公里的隧道能逃出来多少？</a></li>
+<li><a href="/comments/20210722/1591990.md">郑州百姓：政府大灾当晚断网封消息 一段催泪文字曝二号线乘客生死</a></li>
 <li><a href="/comments/20210722/1591976.md">河南水灾，天灾人祸，民怨四起，高官稳坐中南海，却吓坏了习近平；重庆突发杀警案，现第二个杨佳。【希望之声-午夜新闻-2021/07/21】</a></li>
 <li><a href="/bannedvideo/20210722/1591626.md">郑州一些遇难者的眼角膜，被就地盗摘！    我在河南三次旅行的可怕经历！    解放军对台作战中心，被洪水摧垮！</a></li>
-<li><a href="/comments/20210722/1591990.md">郑州百姓：政府大灾当晚断网封消息 一段催泪文字曝二号线乘客生死</a></li>
+<li><a href="/bannedvideo/20210722/1592096.md">文睿：美国高官羞辱性访华，中共的脊梁骨彻底断了，王毅代替一尊受辱</a></li>
 <li><a href="/worldnews/usa/20210722/1592005.md">阴谋集团预谋已久的“人口灭绝”计划？</a></li>
 <li><a href="/cbnews/20210722/1591848.md">无耻到了新高度：郑州无良地产商拿灾难开涮！一句标语让民众都怒了</a></li>
 <li><a href="/ssgc/20210722/1591752.md">〖兲朝浮世绘〗政府泄洪送命的是百姓 官员们还落井下石直接断网</a></li>
 <li><a href="/comments/20210722/1591772.md">郑州水灾 是人祸而非天灾？绝望中女孩发出最后一条微信......【希望之声TV-每日头条-2021/7/21】</a></li>
-<li><a href="/bannedvideo/20210722/1592096.md">文睿：美国高官羞辱性访华，中共的脊梁骨彻底断了，王毅代替一尊受辱</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210723/1592315.md" target="_blank">拟让中美关系有“护栏” 美国务院谈副卿访华目的</a></li>
+<li><a href="/comments/20210723/1592314.md" target="_blank">暴雨侵袭 郑州富士康一厂区停产2天</a></li>
+<li><a href="/comments/20210723/1592311.md" target="_blank">【杜耀明评论】抹不走漂不白的七二一元朗黑夜</a></li>
+<li><a href="/comments/20210723/1592307.md" target="_blank">【7.21 白衣人暴动案】白衣人家属哭诉判刑不公 “华记”促用国安法查法官</a></li>
+<li><a href="/comments/20210723/1592306.md" target="_blank">【区议员宣辞】沙田区议会重选主席 由DQ“高危”李志宏出任 李：不须再推多一人送死</a></li>
 <li><a href="/comments/20210722/1592297.md" target="_blank">42岁男罹罕病，长期睡眠被封「食人魔」</a></li>
 <li><a href="/comments/20210722/1592296.md" target="_blank">台湾发现：人类ACE2突变致难以对抗武汉病毒 登国际顶尖期刊</a></li>
 <li><a href="/comments/20210722/1592291.md" target="_blank">成龙党庆高唱《怒吼吧黄河》引来郑州大洪水，凶手原来是你，请成龙带头捐款将功补过│#熊猫侠</a></li>
@@ -118,11 +123,6 @@
 <li><a href="/comments/20210722/1592159.md" target="_blank">新西兰谴责中共网络攻击外交官遭传唤 学者：中共干预内政</a></li>
 <li><a href="/comments/20210722/1592158.md" target="_blank">眼睛的高超骗人技巧</a></li>
 <li><a href="/comments/20210722/1592151.md" target="_blank">好莱坞获奖作曲家：小孩音乐教育 要学声乐</a></li>
-<li><a href="/comments/20210722/1592138.md" target="_blank">赵映寿：红酒——通往奴役的片断 之十五</a></li>
-<li><a href="/comments/20210722/1592122.md" target="_blank">反修例运动成立 制药及医疗仪器业职工总会全体请辞 将启动解散程序</a></li>
-<li><a href="/comments/20210722/1592121.md" target="_blank">英媒：巫堃泰抵英申请政治庇护 忧因国安法被捕</a></li>
-<li><a href="/comments/20210722/1592119.md" target="_blank">郭荣铿出任哈佛甘迺迪亚洲学人 发表国安法下国际营商风险论文</a></li>
-<li><a href="/comments/20210722/1592118.md" target="_blank">【小说连载】七海归途之雪伦公主（42）</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/ganwu/20170705/787156.md" target="_blank">感悟神韵（之四）：感悟神韵音乐</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
 <li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/comments/20210611/1564824.md" target="_blank">【曾铮专栏】感悟神韵（之一）神韵的主旨</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
 
 </ul>
 </div>
