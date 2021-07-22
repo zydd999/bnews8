@@ -24,9 +24,9 @@
 <li><a href="/cnnews/20210722/1591706.md">干哥哥帮付医药费！女报恩嫁给她 5年后结局让人哭了</a></li>
 <li><a href="/bannedvideo/20210721/1591439.md">美国一天内三重拳习近平悬了！洪水滔天、大兵压境，美防长直奔中共后院……</a></li>
 <li><a href="/comments/20210722/1591675.md">郑州空前大洪灾背后的秘密……</a></li>
-<li><a href="/cnnews/20210722/1591698.md">他划船目睹“神秘巨兽”渡河！5秒片全网颤栗：抱着的是啥</a></li>
 <li><a href="/cnnews/20210722/1591742.md">中共让他亲手处决自己的父亲 十年后...</a></li>
-<li><a href="/ssgc/20210721/1591286.md">〖微博谈〗整个党国上上下下都梦游一样</a></li>
+<li><a href="/cnnews/20210722/1591698.md">他划船目睹“神秘巨兽”渡河！5秒片全网颤栗：抱着的是啥</a></li>
+<li><a href="/ssgc/20210722/1591752.md">〖兲朝浮世绘〗政府泄洪送命的是百姓 官员们还落井下石直接断网</a></li>
 <li><a href="/bannedvideo/20210722/1591626.md">郑州一些遇难者的眼角膜，被就地盗摘！    我在河南三次旅行的可怕经历！    解放军对台作战中心，被洪水摧垮！</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210722/1591976.md" target="_blank">河南水灾，天灾人祸，民怨四起，高官稳坐中南海，却吓坏了习近平；重庆突发杀警案，现第二个杨佳。【希望之声-午夜新闻-2021/07/21】</a></li>
 <li><a href="/cbnews/20210722/1591927.md" target="_blank">地方官员：为什么泄洪不能预警通知</a></li>
 <li><a href="/comments/20210722/1591915.md" target="_blank">来真的！公认的科技巨头宿敌手握大权；首战惨败！美国女足东奥会赛前跪地’黑命贵；川普预言成真 数据不说谎！</a></li>
 <li><a href="/cbnews/20210722/1591904.md" target="_blank">亲历民间高人治病奇迹</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210721/1591393.md" target="_blank">萧铭：河南暴雨，洪灾，爆炸，地陷，天灾还是中共建大量水库水坝惹的祸？常庄水库泄洪，保郑州，下游遭殃；铝厂爆炸；富士康能保住吗？｜萧茗看世界</a></li>
 <li><a href="/cbnews/20210721/1591312.md" target="_blank">叫板习近平！江系也提“庆亲王” 要其“多栽花，少栽刺”？【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20210721/1591311.md" target="_blank">发死人财！骇人听闻！郑州地铁五号线死者被剪切眼角膜</a></li>
-<li><a href="/cbnews/20210721/1591270.md" target="_blank">郑州洪灾，水库溃坝：我们要真相，不要糊涂账</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210722/1591976.md" target="_blank">河南水灾，天灾人祸，民怨四起，高官稳坐中南海，却吓坏了习近平；重庆突发杀警案，现第二个杨佳。【希望之声-午夜新闻-2021/07/21】</a></li>
 <li><a href="/comments/20210722/1591973.md" target="_blank">胡锡进喊话习近平，该动手了，用行动验证警告。V字旅和以色列带给台湾的启示，投降主义必须清除。（修改版）│#熊猫侠</a></li>
 <li><a href="/comments/20210722/1591970.md" target="_blank">在700年前的中国古墓中发现了壮观的绘画</a></li>
 <li><a href="/comments/20210722/1591969.md" target="_blank">托尔伦德人吐露心声： 沼泽体最后一餐的新分析</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210722/1591822.md" target="_blank">困境成为了愚弄人和转移视线的工具</a></li>
 <li><a href="/comments/20210722/1591811.md" target="_blank">郑州水灾，又是水库泄洪？地铁为何不停开？官民两重天，真相何处寻？美副国务卿访华，又会不欢而散吗？</a></li>
 <li><a href="/comments/20210722/1591809.md" target="_blank">【特稿】善与恶的较量 记法轮功反迫害22年</a></li>
-<li><a href="/comments/20210722/1591808.md" target="_blank">【郑州特大暴雨】地铁如河水汹涌 “人祸”还是“天祸”？让专家说话！“悉尼奶爸”最新节目您不容错过</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
 <li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
 <li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
+<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
+<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
 
 </ul>
 </div>
