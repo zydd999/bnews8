@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cbnews/20210721/1591311.md">发死人财！骇人听闻！郑州地铁五号线死者被剪切眼角膜</a></li>
-<li><a href="/bannedvideo/20210721/1591151.md">玩忽职守造成郑州大劫！    二千多人被困列车，26小时没吃没喝！    郑州人民不顾洪水危险，蜂拥而上，打捞浮财！</a></li>
 <li><a href="/yule/20210721/1591236.md">疑吴亦凡更多选妃内幕曝光：全程果体、挑剩下的表哥、经纪人再分</a></li>
 <li><a href="/bannedvideo/20210721/1591411.md">郑州大洪水，遇难知多少，随处可见的漂浮的尸体！</a></li>
 <li><a href="/cbnews/20210721/1591270.md">郑州洪灾，水库溃坝：我们要真相，不要糊涂账</a></li>
@@ -16,18 +15,19 @@
 <li><a href="/ssgc/20210721/1591402.md">常庄水库泄洪14小时未发预警 民众质疑郑州洪灾是人祸</a></li>
 <li><a href="/bannedvideo/20210721/1591362.md">河南的农村一片汪洋，比郑州还惨，只是听不到他们的声音而已，村民求助无门。</a></li>
 <li><a href="/comments/20210721/1591203.md">【微博精粹】慎入！郑州大水死人 没空气没救援 只有胡锡进人日这帮杂碎卖嘴</a></li>
-<li><a href="/finance/20210721/1591438.md">财经冷眼：外企加速撤离 中共竟如此挽留</a></li>
 <li><a href="/comments/20210721/1591267.md">暴打院士的书记 原来后台这么硬？；隐忍22年 世界各地法轮功学员纪念反迫害22周年 各国政要支持； 【希望之声TV-红潮禁文-2021/7/20】</a></li>
+<li><a href="/finance/20210721/1591438.md">财经冷眼：外企加速撤离 中共竟如此挽留</a></li>
 <li><a href="/cnnews/20210721/1591534.md">江泽民“梦中情人” 曾被江青妒忌 曝中南海舞会内幕 不像宋祖英</a></li>
 <li><a href="/cbnews/20210721/1591312.md">叫板习近平！江系也提“庆亲王” 要其“多栽花，少栽刺”？【阿波罗网报道】</a></li>
 <li><a href="/comments/20210721/1591338.md">【独家重磅】彭丽媛政治排名超越政治局委员 “跻身”正国级 央视报道出现重大变化 “第九常委”彭丽媛二十大将走到前台？</a></li>
 <li><a href="/bannedvideo/20210721/1591508.md">郑州悲剧的源头是：水库开闸泄洪，不做任何预警！党媒丧事喜办！无耻！</a></li>
+<li><a href="/cnnews/20210722/1591685.md">郑州豪雨“四小时淹没地下道”车辆全灭顶 惨烈画面曝</a></li>
 <li><a href="/cbnews/20210721/1591393.md">萧铭：河南暴雨，洪灾，爆炸，地陷，天灾还是中共建大量水库水坝惹的祸？常庄水库泄洪，保郑州，下游遭殃；铝厂爆炸；富士康能保住吗？｜萧茗看世界</a></li>
 <li><a href="/topimagenews/20210722/1591665.md">河南郑州暴雨停水停电 居民疯抢食物 涌超市以现钞抢买桶装水</a></li>
-<li><a href="/cnnews/20210722/1591685.md">郑州豪雨“四小时淹没地下道”车辆全灭顶 惨烈画面曝</a></li>
 <li><a href="/cbnews/20210721/1591221.md">江峰：前一篇可控制，下一篇紧急扩散要泄洪，人民日报盖不住了？”百年一遇“的谎言：不为人知的板桥溃坝历史惊人重演，郑州地铁惨剧与工厂爆炸；新华社开始黑习总【江峰漫谈20210720第349期】</a></li>
 <li><a href="/comments/20210721/1591529.md">水库被炸 郑州危急；湍流中绝望父亲无法拉住女儿的手【希望之声TV】</a></li>
 <li><a href="/bannedvideo/20210721/1591439.md">美国一天内三重拳习近平悬了！洪水滔天、大兵压境，美防长直奔中共后院……</a></li>
+<li><a href="/bannedvideo/20210721/1591256.md">视频：河南洪灾，很恐怖</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210722/1591871.md" target="_blank">早上就开始泄洪，不通告不预警</a></li>
 <li><a href="/cbnews/20210722/1591848.md" target="_blank">无耻到了新高度：郑州无良地产商拿灾难开涮！一句标语让民众都怒了</a></li>
 <li><a href="/cbnews/20210722/1591847.md" target="_blank">天亮时分：习近平为何突然认怂？中美对话重启；郑州大洪水，是天灾更是人祸（政论天下第472集 20210721）</a></li>
 <li><a href="/comments/20210722/1591811.md" target="_blank">郑州水灾，又是水库泄洪？地铁为何不停开？官民两重天，真相何处寻？美副国务卿访华，又会不欢而散吗？</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/comments/20210721/1591268.md" target="_blank">7月第2宗元首遇刺！马利临时总统险遭武装份子暗杀；善与恶的较量 记法轮功反迫害22年【希望之声TV-环球看点-2021/7/20】</a></li>
 <li><a href="/comments/20210721/1591267.md" target="_blank">暴打院士的书记 原来后台这么硬？；隐忍22年 世界各地法轮功学员纪念反迫害22周年 各国政要支持； 【希望之声TV-红潮禁文-2021/7/20】</a></li>
 <li><a href="/comments/20210721/1591257.md" target="_blank">打压比特币别有用心？被批干涉内政 韩政府要求中共驻韩大使谨慎；【希望之声-午夜新闻-2021/07/20】</a></li>
-<li><a href="/cbnews/20210721/1591221.md" target="_blank">江峰：前一篇可控制，下一篇紧急扩散要泄洪，人民日报盖不住了？”百年一遇“的谎言：不为人知的板桥溃坝历史惊人重演，郑州地铁惨剧与工厂爆炸；新华社开始黑习总【江峰漫谈20210720第349期】</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210722/1591726.md" target="_blank">中国社民党关于“7.20”郑州特大洪灾的声明 — 曾节明</a></li>
+<li><a href="/comments/20210722/1591860.md" target="_blank">美卫生专家小组：新冠病毒很可能从武汉实验室泄漏</a></li>
+<li><a href="/comments/20210722/1591859.md" target="_blank">【苹果高层案 ‧ 不断更新】 被控串谋勾结外国势力 四高层首次提堂</a></li>
 <li><a href="/comments/20210722/1591858.md" target="_blank">王靖渝受中共追逃 惊险抵达荷兰寻求政庇</a></li>
 <li><a href="/comments/20210722/1591824.md" target="_blank">李晓斌：惨绝人寰的人为灾难噩梦又回来了</a></li>
 <li><a href="/comments/20210722/1591823.md" target="_blank">司马秦剑: 河南溃坝事件 46年前的世界级特大灾难</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210722/1591760.md" target="_blank">河南暴雨洪灾谁之过？ 国会激辩 福奇暴怒 到底谁撒谎？【希望之声TV-新闻焦点解读-2021/07/21】主持:高洁  嘉宾：秦鹏</a></li>
 <li><a href="/comments/20210722/1591757.md" target="_blank">有效阻止中共病毒 美医疗界发现“超级抗体”</a></li>
 <li><a href="/comments/20210722/1591755.md" target="_blank">【遥相辉映的东西文化】济公与圣若瑟：济公竟与有神通的意大利修士很相似？</a></li>
-<li><a href="/comments/20210722/1591751.md" target="_blank">美政府解密文件：中共网攻或致美能源管道爆炸</a></li>
-<li><a href="/comments/20210722/1591748.md" target="_blank">扞卫传统价值 川普前助理秘书参选联邦议员</a></li>
-<li><a href="/comments/20210722/1591741.md" target="_blank">河南天灾+人祸灾情惨重 习近平警告：大灾后有大疫</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
 <li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
 
 </ul>
 </div>
