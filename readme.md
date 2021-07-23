@@ -12,12 +12,12 @@
 <li><a href="/comments/20210723/1592458.md">【河南特大洪灾】李克强罕见静悄悄 两习近平亲信命运受关注</a></li>
 <li><a href="/comments/20210723/1592844.md">水落尸出 生还者记录残酷惊魂细节；水灾引爆内斗 习近平秘密离京；滴滴挑战中央权威【希望之声TV】</a></li>
 <li><a href="/comments/20210723/1592480.md">京广隧道死伤人数成谜   洪水继续中共准备庆功会  中共拒绝世卫二次调查   美国副卿访华【希望之声TV-新闻焦点解读-2021/07/22】主持:高洁  嘉宾： 谢田</a></li>
-<li><a href="/comments/20210723/1592738.md">河南洪灾严重 习近平避走拉萨 李克强关注杀猪</a></li>
 <li><a href="/bannedvideo/20210724/1592983.md">郑州京广隧道最新消息：现场拖车司机爆料已经发现6000多具尸体，数量还在持续增加。</a></li>
+<li><a href="/comments/20210723/1592738.md">河南洪灾严重 习近平避走拉萨 李克强关注杀猪</a></li>
 <li><a href="/comments/20210723/1592599.md">选择习近平接班就是江泽民老狗决定的。 — 曾节明</a></li>
 <li><a href="/bannedvideo/20210723/1592829.md">陈破空：内幕惊人：习家军批斗李克强，力阻他到灾区作秀！只准突出习近平。洪灾背后的高层恶斗</a></li>
-<li><a href="/comments/20210723/1592652.md">”地铁内躺了一排，脸上盖着布“ 生还者记录绝望时刻 200毫米降雨真or假？</a></li>
 <li><a href="/cbnews/20210723/1592783.md">河南洪灾私人无数 习近平却去拉萨</a></li>
+<li><a href="/comments/20210723/1592652.md">”地铁内躺了一排，脸上盖着布“ 生还者记录绝望时刻 200毫米降雨真or假？</a></li>
 <li><a href="/cbnews/20210723/1592861.md">河南大洪水灾后惨状 祭奠 寻亲 逃难 交通瘫痪......</a></li>
 <li><a href="/baitai/20210723/1592777.md">【404文库】凤凰卫视 &#124; 郑州市民：朋友说“在隧道里出不去了”</a></li>
 <li><a href="/ssgc/20210723/1592620.md">〖兲朝浮世绘〗郑州洪灾京广快速隧道预估死亡千人以上</a></li>
@@ -26,8 +26,8 @@
 <li><a href="/health/20210723/1592487.md">体内有癌，四肢先知？手脚出现4种反常，可能是癌细胞的信号</a></li>
 <li><a href="/cbnews/20210723/1592715.md">打脸习近平！政敌把中俄关系肥皂泡戳破了【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20210723/1592637.md">江峰：习近平定调“内涝”开始盖泄洪真相，保嫡系”之江新军“河南省委书记楼阳生与郑州市委书记徐立毅；全国海绵城市规划竟然源于他？香港人这次不再捐款，科技公司纳捐避难【江峰漫谈20210722第350期】</a></li>
+<li><a href="/bannedvideo/20210724/1593020.md">郑州京广隧道，已拖出6300尸体！        为掩盖真相，解放军已全面接管隧道！</a></li>
 <li><a href="/bannedvideo/20210723/1592641.md">隧道被灌满前的一刻</a></li>
-<li><a href="/cbnews/20210723/1592590.md">郑州洪灾传对台指挥作战中心和1:1模型区全被暴雨摧毁，多名解放军因此丧命</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210724/1593081.md" target="_blank">默克尔出席“最后一场夏季记者会 ” 谢幕进入倒计时</a></li>
+<li><a href="/comments/20210724/1593072.md" target="_blank">美副国务卿访韩谈国际秩序挑战 剑指中共</a></li>
+<li><a href="/comments/20210724/1593071.md" target="_blank">【 修炼故事】一名西人大法弟子的真实经历：“只有天使，才有这样的奇迹” (译文）</a></li>
+<li><a href="/comments/20210724/1593070.md" target="_blank">【宇宙在巨变中】极超新星爆炸诞生新恒星 能量为超新星十倍</a></li>
 <li><a href="/comments/20210724/1593067.md" target="_blank">美中会谈在即 美媒：拜登对中政策将面临考验</a></li>
 <li><a href="/comments/20210724/1593054.md" target="_blank">是才子佳人的爱情悲剧还是一个唐朝渣男的诗意自白？</a></li>
 <li><a href="/comments/20210724/1593049.md" target="_blank">啥征兆？美副国务卿访华前 中共深夜制裁美国人和实体</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210724/1593010.md" target="_blank">【世界美景】摄影：《安静》</a></li>
 <li><a href="/comments/20210724/1592999.md" target="_blank">上海调高房贷利率 首套升至5% 二套5.7%</a></li>
 <li><a href="/comments/20210724/1592992.md" target="_blank">河南卫河决堤 40多名智障儿童被困2天 紧急求救</a></li>
-<li><a href="/comments/20210724/1592991.md" target="_blank">【绘画专栏】林宏山水墨创作欣赏（二）画风温馨幽雅，笔墨浑厚，用笔细腻不失豪放</a></li>
-<li><a href="/comments/20210724/1592985.md" target="_blank">【火山评论】郑州这「千年一遇」的死法</a></li>
-<li><a href="/comments/20210724/1592973.md" target="_blank">一尊突降拉萨河南人懵了，李克强也沉默，灾前中共领导集体躺平，没人管了。这究竟是个怎样奇葩的国度？│#熊猫侠</a></li>
-<li><a href="/comments/20210724/1592964.md" target="_blank">出席西九奥运活动 《声梦》同场表演 林郑：政府首购电视转播权 盼市民支持港运动员</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/ganwu/20170705/787156.md" target="_blank">感悟神韵（之四）：感悟神韵音乐</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
 <li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
 <li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
 
 </ul>
 </div>
