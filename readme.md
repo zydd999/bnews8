@@ -20,14 +20,14 @@
 <li><a href="/bannedvideo/20210722/1592096.md">文睿：美国高官羞辱性访华，中共的脊梁骨彻底断了，王毅代替一尊受辱</a></li>
 <li><a href="/comments/20210722/1591990.md">郑州百姓：政府大灾当晚断网封消息 一段催泪文字曝二号线乘客生死</a></li>
 <li><a href="/comments/20210723/1592353.md">痛心的一幕！郑州京广隧道几百辆车摞一起 网民：水刚抽一小部分，就发现十多具尸体</a></li>
-<li><a href="/topimagenews/20210722/1592198.md">中国洪灾 农村景象恐怖；习近平预知？警告7个字；人祸：市中心水突暴涨</a></li>
 <li><a href="/worldnews/usa/20210722/1592005.md">阴谋集团预谋已久的“人口灭绝”计划？</a></li>
+<li><a href="/topimagenews/20210722/1592198.md">中国洪灾 农村景象恐怖；习近平预知？警告7个字；人祸：市中心水突暴涨</a></li>
 <li><a href="/bannedvideo/20210722/1592133.md">警察不让大家靠近京广路隧道。7月20日，郑州京广路4公里隧道瞬间被淹，上百部车浸没。很多人闷在车里。</a></li>
 <li><a href="/bannedvideo/20210722/1592125.md">洪水后郑州京广北路隧道惨景，7月20日，郑州京广路4公里隧道瞬间被淹，上百部车浸没。很多人闷在车里。</a></li>
-<li><a href="/cbnews/20210722/1591848.md">无耻到了新高度：郑州无良地产商拿灾难开涮！一句标语让民众都怒了</a></li>
 <li><a href="/cbnews/20210722/1592259.md">一个内行眼里的中原水灾</a></li>
 <li><a href="/bannedvideo/20210722/1591996.md">郑州大洪水，民众视频中公务员、解放军、警察、城管、消防员、救护人员很难看到，没有政府救援，老百姓只能自救。</a></li>
 <li><a href="/bannedvideo/20210722/1592207.md">好消息！终于有了制约中共病毒的办法了</a></li>
+<li><a href="/comments/20210722/1592192.md">政协委员上书 挑战习近平；地铁2号线催泪短信曝光；比郑州更强降雨袭新乡</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210723/1592553.md" target="_blank">逃会后回德州 民主党议员称将与共和党人真诚对话</a></li>
 <li><a href="/comments/20210723/1592524.md" target="_blank">福克斯名嘴：加州议员靠与女共碟龌龊关系 获取竞选资金</a></li>
 <li><a href="/comments/20210723/1592523.md" target="_blank">拜登不赞成取消“冗长辩论” 恐令国会陷混乱</a></li>
 <li><a href="/comments/20210723/1592519.md" target="_blank">可关上万人 新疆最大集中营曝光</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210723/1592418.md" target="_blank">【古韵流芳】品读唐诗 之三《以物言志大唐第一咏蝉诗》品读唐诗 之四《歌颂泰山的千古绝唱》</a></li>
 <li><a href="/comments/20210723/1592417.md" target="_blank">迫害22年间 四位至亲相继离我而去</a></li>
 <li><a href="/comments/20210723/1592416.md" target="_blank">五香花生毛豆 保持毛豆翠绿有窍门</a></li>
-<li><a href="/comments/20210723/1592402.md" target="_blank">台积电拟在日本建晶圆厂 最快2023年月产4万片</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20210612/1565472.md" target="_blank">感悟神韵（之二）：感悟神韵的艺术风格</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
 <li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
 
 </ul>
 </div>
