@@ -14,20 +14,20 @@
 <li><a href="/topimagenews/20210723/1592613.md">内藏防弹衣？习近平这件衣服有点怪 【阿波罗网报道】</a></li>
 <li><a href="/comments/20210723/1592458.md">【河南特大洪灾】李克强罕见静悄悄 两习近平亲信命运受关注</a></li>
 <li><a href="/yule/20210723/1592374.md">不只吴亦凡！广告小妹惊爆中国男星渣渣排行榜、赫见超大咖</a></li>
-<li><a href="/comments/20210723/1592480.md">京广隧道死伤人数成谜   洪水继续中共准备庆功会  中共拒绝世卫二次调查   美国副卿访华【希望之声TV-新闻焦点解读-2021/07/22】主持:高洁  嘉宾： 谢田</a></li>
 <li><a href="/comments/20210723/1592844.md">水落尸出 生还者记录残酷惊魂细节；水灾引爆内斗 习近平秘密离京；滴滴挑战中央权威【希望之声TV】</a></li>
+<li><a href="/comments/20210723/1592480.md">京广隧道死伤人数成谜   洪水继续中共准备庆功会  中共拒绝世卫二次调查   美国副卿访华【希望之声TV-新闻焦点解读-2021/07/22】主持:高洁  嘉宾： 谢田</a></li>
 <li><a href="/comments/20210723/1592738.md">河南洪灾严重 习近平避走拉萨 李克强关注杀猪</a></li>
 <li><a href="/worldnews/20210723/1592426.md">北师大喻国明院长评论河南水灾 微博帐号遭禁</a></li>
 <li><a href="/comments/20210723/1592599.md">选择习近平接班就是江泽民老狗决定的。 — 曾节明</a></li>
-<li><a href="/ssgc/20210723/1592361.md">习近平突访西藏拉萨 上任近十年首次</a></li>
 <li><a href="/comments/20210723/1592652.md">”地铁内躺了一排，脸上盖着布“ 生还者记录绝望时刻 200毫米降雨真or假？</a></li>
+<li><a href="/ssgc/20210723/1592361.md">习近平突访西藏拉萨 上任近十年首次</a></li>
 <li><a href="/ssgc/20210723/1592620.md">〖兲朝浮世绘〗郑州洪灾京广快速隧道预估死亡千人以上</a></li>
 <li><a href="/cbnews/20210723/1592606.md">暴雨过后，“逼捐”开始了？</a></li>
-<li><a href="/weiquan/20210723/1592603.md">遭中共长期迫害的著名公众知识分子李悔之&#65288;本名李立群&#65289;以死抗争 昨晚服毒自杀 今上午8时53分去世</a></li>
 <li><a href="/bannedvideo/20210723/1592381.md">【被逮到】曾庆红向习近平举白旗？惊！民主党否决病毒溯源法；川普给未宣布参选总统理由；美卫生专家小组：病毒很可能从武汉实验室泄漏；美副卿访津目的何在？东京讨论台海安全 北京跳脚KV</a></li>
+<li><a href="/weiquan/20210723/1592603.md">遭中共长期迫害的著名公众知识分子李悔之&#65288;本名李立群&#65289;以死抗争 昨晚服毒自杀 今上午8时53分去世</a></li>
 <li><a href="/health/20210723/1592487.md">体内有癌，四肢先知？手脚出现4种反常，可能是癌细胞的信号</a></li>
-<li><a href="/cbnews/20210723/1592637.md">江峰：习近平定调“内涝”开始盖泄洪真相，保嫡系”之江新军“河南省委书记楼阳生与郑州市委书记徐立毅；全国海绵城市规划竟然源于他？香港人这次不再捐款，科技公司纳捐避难【江峰漫谈20210722第350期】</a></li>
-<li><a href="/bannedvideo/20210723/1592641.md">隧道被灌满前的一刻</a></li>
+<li><a href="/cbnews/20210723/1592783.md">河南洪灾私人无数 习近平却去拉萨</a></li>
+<li><a href="/baitai/20210723/1592777.md">【404文库】凤凰卫视 &#124; 郑州市民：朋友说“在隧道里出不去了”</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210724/1592973.md" target="_blank">一尊突降拉萨河南人懵了，李克强也沉默，灾前中共领导集体躺平，没人管了。这究竟是个怎样奇葩的国度？│#熊猫侠</a></li>
+<li><a href="/comments/20210724/1592964.md" target="_blank">出席西九奥运活动 《声梦》同场表演 林郑：政府首购电视转播权 盼市民支持港运动员</a></li>
+<li><a href="/comments/20210724/1592963.md" target="_blank">政府更新利益申报册 张建宗离任后 郑若骅、聂德权成高官“楼王”</a></li>
+<li><a href="/comments/20210724/1592962.md" target="_blank">【国正专栏】生活篇：《再访金门 》</a></li>
 <li><a href="/comments/20210724/1592961.md" target="_blank">【国正专栏】故事篇：印度男当场抓到电车扒手</a></li>
 <li><a href="/comments/20210723/1592953.md" target="_blank">前UCLA华裔教授窃美导弹芯片 获5年重判</a></li>
 <li><a href="/comments/20210723/1592939.md" target="_blank">事实核查：郑州洪水劫是天灾还是人祸</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210723/1592778.md" target="_blank">为儿寻找前世父母，患癌妈妈推特寻亲；6岁孩子死后灵魂徘徊山林，等待转生，轮回故事轰动日本皇室。</a></li>
 <li><a href="/comments/20210723/1592766.md" target="_blank">【小说连载】七海归途之雪伦公主（43）</a></li>
 <li><a href="/comments/20210723/1592765.md" target="_blank">上诉庭副庭长杨振权 获特首委任截取通讯监察专员</a></li>
-<li><a href="/comments/20210723/1592764.md" target="_blank">李家超指正筹备 23 条立法 会比 03 年版本更严 处理“最极端”情况</a></li>
-<li><a href="/comments/20210723/1592763.md" target="_blank">【绘本案】回应国安警拘言语治疗师总工会理事 12工会联署:继续发声，各工会如常运作</a></li>
-<li><a href="/comments/20210723/1592762.md" target="_blank">两名科大学者被指离职  李静君：已约满离任    成名： 仲喺科大</a></li>
-<li><a href="/comments/20210723/1592761.md" target="_blank">受命中共在美国“猎狐”9人被指控参与国际性威胁恐吓行动</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
 <li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/ganwu/20170705/787156.md" target="_blank">感悟神韵（之四）：感悟神韵音乐</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/comments/20210612/1565472.md" target="_blank">感悟神韵（之二）：感悟神韵的艺术风格</a></li>
 <li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
 
 </ul>
 </div>
