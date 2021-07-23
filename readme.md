@@ -6,28 +6,28 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cbnews/20210722/1592162.md">郑州救灾志愿者的博文：死亡人数在4位数以上</a></li>
-<li><a href="/topimagenews/20210722/1592091.md">郑州大洪水倒灌地铁5号线 死亡人数成谜 两篇推文告诉你更多的真相</a></li>
 <li><a href="/comments/20210722/1592194.md">告急！比郑州更强降雨袭新乡；政协委员上书 挑战习近平；地铁2号线催泪短信曝光【希望之声TV】</a></li>
 <li><a href="/comments/20210723/1592338.md">郑州京广隧道爆出惨重灾情 当局封锁现场；动手了！郑州抓灾情“不当言论者”；美副卿访中？要先与日韩讨论 北京又紧张了【希望之声TV-环球看点-2021/7/22】</a></li>
 <li><a href="/cbnews/20210722/1592270.md">尸横马路 郑州洪水后汽车堆积隧道 “车里都有人”</a></li>
-<li><a href="/comments/20210723/1592353.md">痛心的一幕！郑州京广隧道几百辆车摞一起 网民：水刚抽一小部分，就发现十多具尸体</a></li>
 <li><a href="/cnnews/20210723/1592619.md">被中共禁播 ：京广隧道大批民众与警方爆冲突 很多是失联者家属</a></li>
+<li><a href="/comments/20210723/1592353.md">痛心的一幕！郑州京广隧道几百辆车摞一起 网民：水刚抽一小部分，就发现十多具尸体</a></li>
 <li><a href="/bannedvideo/20210722/1592096.md">文睿：美国高官羞辱性访华，中共的脊梁骨彻底断了，王毅代替一尊受辱</a></li>
 <li><a href="/topimagenews/20210722/1592198.md">中国洪灾 农村景象恐怖；习近平预知？警告7个字；人祸：市中心水突暴涨</a></li>
 <li><a href="/bannedvideo/20210722/1592133.md">警察不让大家靠近京广路隧道。7月20日，郑州京广路4公里隧道瞬间被淹，上百部车浸没。很多人闷在车里。</a></li>
 <li><a href="/bannedvideo/20210723/1592435.md">郑州最悲惨的地方浮现，京广隧道水淹上千辆车；专家：郑州水灾是“人造洪水”；中共黑客网攻，“忠实盟友”也不放过【#秦鹏观察 7/22】</a></li>
 <li><a href="/cbnews/20210722/1592259.md">一个内行眼里的中原水灾</a></li>
 <li><a href="/bannedvideo/20210722/1592125.md">洪水后郑州京广北路隧道惨景，7月20日，郑州京广路4公里隧道瞬间被淹，上百部车浸没。很多人闷在车里。</a></li>
-<li><a href="/bannedvideo/20210722/1592207.md">好消息！终于有了制约中共病毒的办法了</a></li>
+<li><a href="/comments/20210723/1592585.md">郑州隧道抬出尸体视频流出 逃生者讲述惊魂五分钟</a></li>
 <li><a href="/comments/20210723/1592458.md">【河南特大洪灾】李克强罕见静悄悄 两习近平亲信命运受关注</a></li>
+<li><a href="/bannedvideo/20210722/1592207.md">好消息！终于有了制约中共病毒的办法了</a></li>
 <li><a href="/comments/20210722/1592192.md">政协委员上书 挑战习近平；地铁2号线催泪短信曝光；比郑州更强降雨袭新乡</a></li>
 <li><a href="/yule/20210723/1592374.md">不只吴亦凡！广告小妹惊爆中国男星渣渣排行榜、赫见超大咖</a></li>
-<li><a href="/comments/20210723/1592585.md">郑州隧道抬出尸体视频流出 逃生者讲述惊魂五分钟</a></li>
+<li><a href="/topimagenews/20210723/1592613.md">内藏防弹衣？习近平这件衣服有点怪 【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20210722/1592153.md">郑州京广路隧道，市民自发查看是否车里还有生还人员</a></li>
 <li><a href="/bannedvideo/20210722/1592123.md">第二灾大洪水 刘伯温预言应验 繁华市 变汪洋 高楼阁 变坭岗（2021年7月22日）</a></li>
-<li><a href="/topimagenews/20210723/1592613.md">内藏防弹衣？习近平这件衣服有点怪 【阿波罗网报道】</a></li>
 <li><a href="/comments/20210723/1592480.md">京广隧道死伤人数成谜   洪水继续中共准备庆功会  中共拒绝世卫二次调查   美国副卿访华【希望之声TV-新闻焦点解读-2021/07/22】主持:高洁  嘉宾： 谢田</a></li>
 <li><a href="/ssgc/20210723/1592361.md">习近平突访西藏拉萨 上任近十年首次</a></li>
+<li><a href="/worldnews/20210723/1592426.md">北师大喻国明院长评论河南水灾 微博帐号遭禁</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210723/1592738.md" target="_blank">河南洪灾严重 习近平避走拉萨 李克强关注杀猪</a></li>
+<li><a href="/comments/20210723/1592737.md" target="_blank">绿豆汤有助控血压血糖！ 营养师：这样吃是关键</a></li>
 <li><a href="/comments/20210723/1592727.md" target="_blank">走路慢、毛巾拧不干 当心肌少症缠身</a></li>
 <li><a href="/comments/20210723/1592726.md" target="_blank">打疫苗就能预防变种病毒？ 重症医：须完整接种二剂</a></li>
 <li><a href="/comments/20210723/1592725.md" target="_blank">心跳越快，寿命越短？“理想的心率”应该具有哪些特征？</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210723/1592624.md" target="_blank">拜登：习近平聪明强硬并坚信21世纪将由寡头决定 习近平与普京正押注独裁 中南海不可告人的秘密_426</a></li>
 <li><a href="/comments/20210723/1592615.md" target="_blank">郑州洪水加爆炸 为何现极端灾难？</a></li>
 <li><a href="/comments/20210723/1592610.md" target="_blank">前泳坛明星黄晓敏寄语粉丝:心存善良 远离中共！【希望之声TV】</a></li>
-<li><a href="/comments/20210723/1592607.md" target="_blank">美移民改联会：2024年美非法移民或超2千万</a></li>
-<li><a href="/comments/20210723/1592602.md" target="_blank">白宫拟投30亿推动经济复苏 餐饮业忧通胀加剧</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/ganwu/20170705/787156.md" target="_blank">感悟神韵（之四）：感悟神韵音乐</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
 <li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
 <li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
 <li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
-<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
 
 </ul>
 </div>
