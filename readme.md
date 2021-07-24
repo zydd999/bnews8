@@ -7,7 +7,6 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cnnews/20210723/1592619.md">被中共禁播 ：京广隧道大批民众与警方爆冲突 很多是失联者家属</a></li>
 <li><a href="/cnnews/20210723/1592698.md">掩盖不住了？郑州京广隧道后续 全部交给部队了</a></li>
-<li><a href="/comments/20210723/1592585.md">郑州隧道抬出尸体视频流出 逃生者讲述惊魂五分钟</a></li>
 <li><a href="/topimagenews/20210723/1592613.md">内藏防弹衣？习近平这件衣服有点怪 【阿波罗网报道】</a></li>
 <li><a href="/comments/20210723/1592844.md">水落尸出 生还者记录残酷惊魂细节；水灾引爆内斗 习近平秘密离京；滴滴挑战中央权威【希望之声TV】</a></li>
 <li><a href="/bannedvideo/20210724/1592983.md">郑州京广隧道最新消息：现场拖车司机爆料已经发现6000多具尸体，数量还在持续增加。</a></li>
@@ -16,11 +15,11 @@
 <li><a href="/comments/20210723/1592652.md">”地铁内躺了一排，脸上盖着布“ 生还者记录绝望时刻 200毫米降雨真or假？</a></li>
 <li><a href="/comments/20210723/1592599.md">选择习近平接班就是江泽民老狗决定的。 — 曾节明</a></li>
 <li><a href="/bannedvideo/20210723/1592829.md">陈破空：内幕惊人：习家军批斗李克强，力阻他到灾区作秀！只准突出习近平。洪灾背后的高层恶斗</a></li>
+<li><a href="/comments/20210724/1593032.md">郑州再曝惨案！广汇小区地下停车场淹死多人</a></li>
 <li><a href="/comments/20210724/1592973.md">一尊突降拉萨河南人懵了，李克强也沉默，灾前中共领导集体躺平，没人管了。这究竟是个怎样奇葩的国度？│#熊猫侠</a></li>
 <li><a href="/comments/20210724/1593015.md">东京奥运开幕了！郑州隧道：逾千失踪者家属夜晚伫立街头 隧道被军队接管；重磅! 加拿大移民部开放3万名额【希望之声TV-环球看点-2021/7/23】</a></li>
 <li><a href="/cbnews/20210723/1592783.md">河南洪灾私人无数 习近平却去拉萨</a></li>
 <li><a href="/ssgc/20210723/1592620.md">〖兲朝浮世绘〗郑州洪灾京广快速隧道预估死亡千人以上</a></li>
-<li><a href="/comments/20210724/1593032.md">郑州再曝惨案！广汇小区地下停车场淹死多人</a></li>
 <li><a href="/cbnews/20210724/1593042.md">郑州大水冲毁白酒仓库！大批路人抢名酒 板娘磕头求放过</a></li>
 <li><a href="/baitai/20210723/1592777.md">【404文库】凤凰卫视 &#124; 郑州市民：朋友说“在隧道里出不去了”</a></li>
 <li><a href="/cbnews/20210723/1592861.md">河南大洪水灾后惨状 祭奠 寻亲 逃难 交通瘫痪......</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/cbnews/20210723/1592715.md">打脸习近平！政敌把中俄关系肥皂泡戳破了【阿波罗网报道】</a></li>
 <li><a href="/weiquan/20210723/1592603.md">遭中共长期迫害的著名公众知识分子李悔之&#65288;本名李立群&#65289;以死抗争 昨晚服毒自杀 今上午8时53分去世</a></li>
 <li><a href="/baitai/20210723/1592843.md">吴亦凡事件大反转？ 网民爆：都美竹曾是援交妹</a></li>
+<li><a href="/cbnews/20210723/1592637.md">江峰：习近平定调“内涝”开始盖泄洪真相，保嫡系”之江新军“河南省委书记楼阳生与郑州市委书记徐立毅；全国海绵城市规划竟然源于他？香港人这次不再捐款，科技公司纳捐避难【江峰漫谈20210722第350期】</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,9 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210724/1593210.md" target="_blank">韩亦言：郑州洪灾指挥调度揭秘-我是无我</a></li>
+<li><a href="/cbnews/20210724/1593182.md" target="_blank">特大凶兆已现！习近平车队现灵异一幕</a></li>
+<li><a href="/cbnews/20210724/1593181.md" target="_blank">郑州地铁公布部分遇难者名单 最年轻仅20岁</a></li>
 <li><a href="/cbnews/20210724/1593141.md" target="_blank">我不关心德国，我不关心ZZ，我只关心这片土地上的生命</a></li>
 <li><a href="/cbnews/20210724/1593140.md" target="_blank">天亮时分：习近平出巡宛如出殡；李克强被迫躺平；华为也被割韭菜；美国同意天津对话后，中共给美国下马威（政论天下第473集 20210723）</a></li>
 <li><a href="/comments/20210724/1593110.md" target="_blank">京广隧道被封杀  失职？渎职？必须追责；教育中概股全数腰斩，谁惹得祸？美美国副卿访华前 中共制裁7前美国官员；【希望之声TV-新闻焦点解读-2021/07/23】主持:高洁  嘉宾：蓝述</a></li>
@@ -58,9 +61,6 @@
 <li><a href="/comments/20210723/1592844.md" target="_blank">水落尸出 生还者记录残酷惊魂细节；水灾引爆内斗 习近平秘密离京；滴滴挑战中央权威【希望之声TV】</a></li>
 <li><a href="/cbnews/20210723/1592801.md" target="_blank">郑州耗巨资打造海绵城市失效 泄洪死亡惨重 专家：豆腐渣工程</a></li>
 <li><a href="/cbnews/20210723/1592784.md" target="_blank">长期遭中共迫害的着名公众知识分子李悔之（本名李立群）服毒自杀身亡</a></li>
-<li><a href="/cbnews/20210723/1592783.md" target="_blank">河南洪灾私人无数 习近平却去拉萨</a></li>
-<li><a href="/comments/20210723/1592778.md" target="_blank">为儿寻找前世父母，患癌妈妈推特寻亲；6岁孩子死后灵魂徘徊山林，等待转生，轮回故事轰动日本皇室。</a></li>
-<li><a href="/cbnews/20210723/1592715.md" target="_blank">打脸习近平！政敌把中俄关系肥皂泡戳破了【阿波罗网报道】</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,12 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210724/1593211.md" target="_blank">航空公司临时取消/更改航班，乘客自己需要做什么？</a></li>
+<li><a href="/comments/20210724/1593202.md" target="_blank">胡不归 ：从“加速”、“躺平”到“献忠学” 在审查系统下一个个消失的政治黑话</a></li>
+<li><a href="/comments/20210724/1593201.md" target="_blank">招行 2021 中国私人财富报告</a></li>
+<li><a href="/comments/20210724/1593200.md" target="_blank">534亿 郑州把海绵城市吹成了泡沫</a></li>
+<li><a href="/comments/20210724/1593180.md" target="_blank">荷兰阿纳姆市议会投票通过 与武汉断绝友好关系</a></li>
+<li><a href="/comments/20210724/1593179.md" target="_blank">河南洪灾北扩 邯郸告急 新乡灾区实行军管</a></li>
 <li><a href="/comments/20210724/1593172.md" target="_blank">郑州地铁五号线到底发生了什么？幸存者千字长文曝死里逃生绝望惊魂经历：砸破窗的哪一瞬间所有人都快哭了…… 活着真好</a></li>
 <li><a href="/comments/20210724/1593159.md" target="_blank">沉雁：要命的不是洪水 而是猛兽</a></li>
 <li><a href="/comments/20210724/1593158.md" target="_blank">我经历的“七五八”垮坝 泄洪外加垮坝的惊天力量</a></li>
@@ -117,12 +123,6 @@
 <li><a href="/comments/20210724/1593071.md" target="_blank">【 修炼故事】一名西人大法弟子的真实经历：“只有天使，才有这样的奇迹” (译文）</a></li>
 <li><a href="/comments/20210724/1593070.md" target="_blank">【宇宙在巨变中】极超新星爆炸诞生新恒星 能量为超新星十倍</a></li>
 <li><a href="/comments/20210724/1593067.md" target="_blank">美中会谈在即 美媒：拜登对中政策将面临考验</a></li>
-<li><a href="/comments/20210724/1593054.md" target="_blank">是才子佳人的爱情悲剧还是一个唐朝渣男的诗意自白？</a></li>
-<li><a href="/comments/20210724/1593049.md" target="_blank">啥征兆？美副国务卿访华前 中共深夜制裁美国人和实体</a></li>
-<li><a href="/comments/20210724/1593048.md" target="_blank">佩洛西称自己是支持堕胎的天主教徒 美大主教反驳</a></li>
-<li><a href="/comments/20210724/1593047.md" target="_blank">中共监管整顿吓跑投资者 中概股重挫近10%</a></li>
-<li><a href="/comments/20210724/1593035.md" target="_blank">疫情笼罩下东京奥运会开幕 5大看点一次看</a></li>
-<li><a href="/comments/20210724/1593034.md" target="_blank">【戈壁东专栏】时事篇：《美国“主流媒体”在做中共五毛做不到的事：帮助中共欺骗美国人》</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
 <li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
 <li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
 <li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
 
 </ul>
 </div>
