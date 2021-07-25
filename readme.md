@@ -7,12 +7,10 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/topimagenews/20210724/1593332.md">郑州京广隧道 深夜数辆加长挂车驶出 疑偷运大量死难者遗体</a></li>
 <li><a href="/topimagenews/20210724/1593333.md">仅过1个半小时！新华社刚称习近平“第一” 江系马上压他一头【阿波罗网报道】</a></li>
-<li><a href="/comments/20210724/1593282.md">北戴河风声鹤唳，高层权斗露迹；惨过郑州！卫河决堤；郑州再曝惨案！停车场淹死多人；【希望之声-午夜新闻-2021/07/23】</a></li>
 <li><a href="/bannedvideo/20210724/1593469.md">郑州京广隧道，拖出来的公交车用黑布遮挡着车窗</a></li>
 <li><a href="/comments/20210724/1593438.md">军队全面接手！京广隧道传已挖出6000遗体 真相恐成“国家机密”</a></li>
 <li><a href="/comments/20210724/1593503.md">习近平西藏行 露两不祥信号；河南师大数千人喊救救我们 郑州居民楼塌陷；河南下令封杀言论；习提备战 同日美国务卿宣布访印</a></li>
 <li><a href="/cbnews/20210724/1593510.md">郑州京广路隧道幸存者：蹲车顶，快坚持不住的时候，他想起了孩子…</a></li>
-<li><a href="/topimagenews/20210724/1593284.md">郑州京广隧道幸存者自述逃生经过 过了一道鬼门关</a></li>
 <li><a href="/bannedvideo/20210724/1593329.md">郑州市洪灾后，郑州一地标性建筑，花园路兰德中心大楼倾斜</a></li>
 <li><a href="/cnnews/20210724/1593442.md">中国的老师们，朝九晚五快没了</a></li>
 <li><a href="/cbnews/20210724/1593524.md">看看天灾人祸 中宣部在通报啥？他们在想啥？一目了然</a></li>
@@ -20,14 +18,16 @@
 <li><a href="/comments/20210725/1593625.md">习近平突访西藏 真正目的是这个</a></li>
 <li><a href="/cbnews/20210724/1593495.md">4位救人者掉入深坑后视频戛然而止 昨传来好消息</a></li>
 <li><a href="/bannedvideo/20210724/1593383.md">郑州京广隧道被淹没 目击者：打捞出车里都是一家子人｜@新闻精选【新唐人亚太电视】三节新闻Live直播 ｜20210724</a></li>
-<li><a href="/cbnews/20210724/1593509.md">郑州京广隧道遗体显现 失联亲人心焦</a></li>
 <li><a href="/topimagenews/20210725/1593649.md">郑州洪水灾情画面成“负能量”被禁 官媒“灾难美学”惹人怒</a></li>
+<li><a href="/cbnews/20210724/1593509.md">郑州京广隧道遗体显现 失联亲人心焦</a></li>
 <li><a href="/bannedvideo/20210725/1593594.md">中共第83集团军“杨根思部队官兵到达郑州市封锁京广北路隧道   隧道恶臭熏天 三步一岗五步一哨防群众靠近拍摄传播 遇难人数成国家机密</a></li>
 <li><a href="/comments/20210724/1593334.md">【要闻精粹】老天有眼不服不行 习近平去西藏变身“灵车”</a></li>
 <li><a href="/cnnews/20210725/1593621.md">郑州洪灾李克强罕未批示 疑泄洪酿人祸</a></li>
 <li><a href="/comments/20210725/1593597.md">岁月不饶人！51岁鲁豫近照认不出 头大身小似大头娃</a></li>
 <li><a href="/bannedvideo/20210724/1593514.md">#郑州水灾 中共封口令曝光！挨家挨户一个不放过只口头传达！中共国灾难不断，手把手人身翻墙⋯⋯</a></li>
 <li><a href="/cnnews/20210725/1593653.md">史上最贵iPhone 13快来了 分析师指暗藏这项惊喜</a></li>
+<li><a href="/cbnews/20210724/1593362.md">萧铭：王维洛专访：郑州为何如此惨？泄洪黑幕：追逐利益，无人负责的国度；南水北调如何加剧郑州灾情？| 萧茗看世界</a></li>
+<li><a href="/bannedvideo/20210725/1593637.md">中共特务胆大包天，悍然摧毁美国境内的 病毒帝习近平 雕像！</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210725/1593833.md" target="_blank">郑州京广隧道里惊人的秘密 军队已出动维稳；“烟花”逼近浙江 上海也紧张【希望之声-午夜新闻-2021/07/24】</a></li>
 <li><a href="/cbnews/20210725/1593754.md" target="_blank">中共黑手伸向海外！&#8221;…办公室后窗户上就挨了一枪…”</a></li>
 <li><a href="/cbnews/20210725/1593753.md" target="_blank">京广北隧道 一辆遮挡了黑布的公交车…</a></li>
 <li><a href="/cbnews/20210725/1593735.md" target="_blank">网传郑州空中喷药防新冠?</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210724/1593380.md" target="_blank">愚人节？新华社：“习近平对推进农村厕所革命做重要批示”【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20210724/1593362.md" target="_blank">萧铭：王维洛专访：郑州为何如此惨？泄洪黑幕：追逐利益，无人负责的国度；南水北调如何加剧郑州灾情？| 萧茗看世界</a></li>
 <li><a href="/cbnews/20210724/1593316.md" target="_blank">位于美国加州的中共病毒塑像 遭人纵火烧毁 疑似中共背景人所为</a></li>
-<li><a href="/cbnews/20210724/1593311.md" target="_blank">南京机场疫情蔓延四省 党委书记兼董事长停职</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210725/1593839.md" target="_blank">想成大业者必看~古人选才的五个标准</a></li>
+<li><a href="/comments/20210725/1593838.md" target="_blank">罗卜种不好的原因你找到了吗？</a></li>
+<li><a href="/comments/20210725/1593837.md" target="_blank">孩子幼儿时从事厨房活动训练，可提高四肢协调力</a></li>
+<li><a href="/comments/20210725/1593833.md" target="_blank">郑州京广隧道里惊人的秘密 军队已出动维稳；“烟花”逼近浙江 上海也紧张【希望之声-午夜新闻-2021/07/24】</a></li>
 <li><a href="/comments/20210725/1593806.md" target="_blank">从被“自焚”伪案欺骗生误解 到缘归佛法修炼</a></li>
 <li><a href="/comments/20210725/1593800.md" target="_blank">胡锡进，到底是河南人还是荷兰人</a></li>
 <li><a href="/comments/20210725/1593799.md" target="_blank">李木通: 从古巴骚动看共产末路</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210725/1593688.md" target="_blank">奥运第一天九块金牌产生；腾讯惨了！奥运会失手切掉中国队 惹翻小粉红；海地总统葬礼传枪声国际代表团匆忙撤离【希望之声TV-两岸新闻-2021/7/24】</a></li>
 <li><a href="/comments/20210725/1593683.md" target="_blank">水利专家王维洛揭 导致郑州重大水灾的真正罪魁祸首</a></li>
 <li><a href="/comments/20210725/1593681.md" target="_blank">林保华：“七五八”大水和水灾的人为因素</a></li>
-<li><a href="/comments/20210725/1593663.md" target="_blank">7处查辨暴雨泡水车，可千万别买回家了</a></li>
-<li><a href="/comments/20210725/1593659.md" target="_blank">印度豪雨成灾前所未有 洪涝灾害肆虐欧亚 </a></li>
-<li><a href="/comments/20210725/1593652.md" target="_blank">十字路口：郑州隧道变坟场 中共十罪危害世界</a></li>
-<li><a href="/comments/20210725/1593642.md" target="_blank">河南特大洪灾未了 浙江又拉响红色警报 吉林长春突发火灾60人伤亡</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
 <li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
-<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
 
 </ul>
 </div>
