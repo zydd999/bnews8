@@ -27,7 +27,7 @@
 <li><a href="/bannedvideo/20210725/1593637.md">中共特务胆大包天，悍然摧毁美国境内的 病毒帝习近平 雕像！</a></li>
 <li><a href="/comments/20210725/1593641.md">郑州豪雨成灾！ “最美灾民”意外爆红 网一看全暴动：快救她</a></li>
 <li><a href="/yule/20210725/1593669.md">吴亦凡录影到一半牵走未成年少女 Angelababy惊险解围</a></li>
-<li><a href="/bannedvideo/20210725/1593661.md">【郑州】隧道深夜偷运遗体；小区地下停车场死多少人？敏感时刻王沪宁新华社出大作；中宣部密令也被扒；幸存者自述如何逃过鬼门关；腾讯直播奥运开幕切掉中国队进场 网崩溃KA</a></li>
+<li><a href="/bannedvideo/20210725/1593978.md">河南新乡获嘉县获嘉大坝决堤，撤离逃命场景。</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210726/1594130.md" target="_blank">【文昭谈古论今】《一年一遇暴雨，郑州VS东京》《小粉红险了，京广路隧道解谜罗生门》</a></li>
+<li><a href="/comments/20210726/1594129.md" target="_blank">【薇羽时光】《6000国家机密》《老天爷不背锅》《高僧的警示：瘟疫劫》</a></li>
+<li><a href="/comments/20210726/1594128.md" target="_blank">台风“烟花”袭击浙江宁波 海水倒灌水情严峻 飞机铁路全部停运</a></li>
+<li><a href="/comments/20210726/1594127.md" target="_blank">一场绚烂夺目，充满色彩与声音的飨宴</a></li>
+<li><a href="/comments/20210726/1594126.md" target="_blank">河南村民加高河堤自救 官兵毁堤泄洪引发冲突 结果…</a></li>
 <li><a href="/comments/20210726/1594114.md" target="_blank">【新世纪影视】微电影《抓捕》</a></li>
 <li><a href="/comments/20210726/1594113.md" target="_blank">【文昭谈古论】《一年一遇暴雨，郑州VS东京》《小粉红险了，京广路隧道解谜罗生门》</a></li>
 <li><a href="/comments/20210726/1594112.md" target="_blank">【薇羽时光】《6000国家机密》《老天爷不背锅》</a></li>
@@ -118,11 +123,6 @@
 <li><a href="/comments/20210725/1594055.md" target="_blank">群起围堵阻外媒采访 郑州男大叫“将他（西方记者）扣下来”</a></li>
 <li><a href="/comments/20210725/1594051.md" target="_blank">“这不就像捕鱼？”官媒说漏嘴 京广隧道逃生无路；仓库突起火“至少14人罹难” 浓烟狂窜多人跳楼逃生</a></li>
 <li><a href="/comments/20210725/1594046.md" target="_blank">刘锐绍评河南洪灾反映大陆官场政治文化扭曲</a></li>
-<li><a href="/comments/20210725/1594040.md" target="_blank">“这不就像捕鱼？”官媒说漏嘴 京广隧道逃生无路；中国仓库突起火“至少14人罹难” 浓烟狂窜多人跳楼逃生【希望之声TV】</a></li>
-<li><a href="/comments/20210725/1594032.md" target="_blank">【东洲专栏】历史篇：《论当代的历史》</a></li>
-<li><a href="/comments/20210725/1594031.md" target="_blank">【明慧之窗】以史为鉴：关于“忍”的中西故事</a></li>
-<li><a href="/comments/20210725/1594030.md" target="_blank">【第三只眼睛】《郑州上空惊现“大灾信号”》《看哭了！一群狗救活了全村所有人》</a></li>
-<li><a href="/comments/20210725/1593991.md" target="_blank">陈茂波︰2049 年前香港必须“告别㓥房” 㓥房业主佘庆云：不切实际</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
 <li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/ganwu/20170705/787156.md" target="_blank">感悟神韵（之四）：感悟神韵音乐</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
 <li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/comments/20210611/1564824.md" target="_blank">【曾铮专栏】感悟神韵（之一）神韵的主旨</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
 
 </ul>
 </div>
