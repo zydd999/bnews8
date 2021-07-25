@@ -5,13 +5,10 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/topimagenews/20210724/1593332.md">郑州京广隧道 深夜数辆加长挂车驶出 疑偷运大量死难者遗体</a></li>
-<li><a href="/topimagenews/20210724/1593333.md">仅过1个半小时！新华社刚称习近平“第一” 江系马上压他一头【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20210724/1593469.md">郑州京广隧道，拖出来的公交车用黑布遮挡着车窗</a></li>
 <li><a href="/comments/20210724/1593438.md">军队全面接手！京广隧道传已挖出6000遗体 真相恐成“国家机密”</a></li>
 <li><a href="/comments/20210724/1593503.md">习近平西藏行 露两不祥信号；河南师大数千人喊救救我们 郑州居民楼塌陷；河南下令封杀言论；习提备战 同日美国务卿宣布访印</a></li>
 <li><a href="/cbnews/20210724/1593510.md">郑州京广路隧道幸存者：蹲车顶，快坚持不住的时候，他想起了孩子…</a></li>
-<li><a href="/bannedvideo/20210724/1593329.md">郑州市洪灾后，郑州一地标性建筑，花园路兰德中心大楼倾斜</a></li>
 <li><a href="/cnnews/20210724/1593442.md">中国的老师们，朝九晚五快没了</a></li>
 <li><a href="/cnnews/20210724/1593443.md">陆媒:中国高房价“恶果”已现 满大街商铺倒闭</a></li>
 <li><a href="/cbnews/20210724/1593524.md">看看天灾人祸 中宣部在通报啥？他们在想啥？一目了然</a></li>
@@ -22,12 +19,15 @@
 <li><a href="/cbnews/20210724/1593509.md">郑州京广隧道遗体显现 失联亲人心焦</a></li>
 <li><a href="/cnnews/20210725/1593621.md">郑州洪灾李克强罕未批示 疑泄洪酿人祸</a></li>
 <li><a href="/bannedvideo/20210725/1593594.md">中共第83集团军“杨根思部队官兵到达郑州市封锁京广北路隧道   隧道恶臭熏天 三步一岗五步一哨防群众靠近拍摄传播 遇难人数成国家机密</a></li>
-<li><a href="/comments/20210724/1593334.md">【要闻精粹】老天有眼不服不行 习近平去西藏变身“灵车”</a></li>
+<li><a href="/topimagenews/20210725/1593795.md">京广隧道拖出来公交车,但车窗却用黑布挡上！为何？【阿波罗网报道】</a></li>
 <li><a href="/comments/20210725/1593597.md">岁月不饶人！51岁鲁豫近照认不出 头大身小似大头娃</a></li>
 <li><a href="/comments/20210725/1593688.md">奥运第一天九块金牌产生；腾讯惨了！奥运会失手切掉中国队 惹翻小粉红；海地总统葬礼传枪声国际代表团匆忙撤离【希望之声TV-两岸新闻-2021/7/24】</a></li>
+<li><a href="/cbnews/20210725/1593753.md">京广北隧道 一辆遮挡了黑布的公交车…</a></li>
 <li><a href="/cnnews/20210725/1593653.md">史上最贵iPhone 13快来了 分析师指暗藏这项惊喜</a></li>
 <li><a href="/bannedvideo/20210724/1593514.md">#郑州水灾 中共封口令曝光！挨家挨户一个不放过只口头传达！中共国灾难不断，手把手人身翻墙⋯⋯</a></li>
 <li><a href="/bannedvideo/20210725/1593637.md">中共特务胆大包天，悍然摧毁美国境内的 病毒帝习近平 雕像！</a></li>
+<li><a href="/cbnews/20210724/1593362.md">萧铭：王维洛专访：郑州为何如此惨？泄洪黑幕：追逐利益，无人负责的国度；南水北调如何加剧郑州灾情？| 萧茗看世界</a></li>
+<li><a href="/comments/20210725/1593641.md">郑州豪雨成灾！ “最美灾民”意外爆红 网一看全暴动：快救她</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210725/1593801.md" target="_blank">中共今日的“返祖”，是习近平个性的偶然吗？ — 曾节明</a></li>
 <li><a href="/cbnews/20210725/1593850.md" target="_blank">被查官员名字太有趣！中纪委：河北原人大副主任被查 【阿波罗网报道】</a></li>
 <li><a href="/comments/20210725/1593833.md" target="_blank">郑州京广隧道里惊人的秘密 军队已出动维稳；“烟花”逼近浙江 上海也紧张【希望之声-午夜新闻-2021/07/24】</a></li>
 <li><a href="/cbnews/20210725/1593754.md" target="_blank">中共黑手伸向海外！&#8221;…办公室后窗户上就挨了一枪…”</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210724/1593494.md" target="_blank">郑州暴雨3人被困车内 路人急忙提着菜刀冲上去</a></li>
 <li><a href="/cbnews/20210724/1593472.md" target="_blank">寻找被冲走的邹德强：但是至今…</a></li>
 <li><a href="/cbnews/20210724/1593380.md" target="_blank">愚人节？新华社：“习近平对推进农村厕所革命做重要批示”【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20210724/1593362.md" target="_blank">萧铭：王维洛专访：郑州为何如此惨？泄洪黑幕：追逐利益，无人负责的国度；南水北调如何加剧郑州灾情？| 萧茗看世界</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210725/1593885.md" target="_blank">京奥VS东奥 罗冠聪：港人喜见台港夺牌 中国夺金不屑一顾</a></li>
+<li><a href="/comments/20210725/1593801.md" target="_blank">中共今日的“返祖”，是习近平个性的偶然吗？ — 曾节明</a></li>
+<li><a href="/comments/20210725/1593872.md" target="_blank">王者会归来吗？川普总统在转折点行动上发表重要讲话</a></li>
+<li><a href="/comments/20210725/1593874.md" target="_blank">李燕铭：习近平严防北戴河政变 四名副部级高官密集落马 河北省三高官三周内相继被查 六年前河北省委书记周本顺涉江曾北戴河政变阴谋被火速查办</a></li>
 <li><a href="/comments/20210725/1593869.md" target="_blank">河南灾情封口令、报导要求出台！谁也不放过！凤凰卫视沈星一句话 账号被封</a></li>
 <li><a href="/comments/20210725/1593868.md" target="_blank">【绘画专栏】艺术家.宋玛缇雅画作欣赏（一）《翠竹鸟唱》《满谷祥云》《海天落照》……</a></li>
 <li><a href="/comments/20210725/1593839.md" target="_blank">想成大业者必看~古人选才的五个标准</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210725/1593723.md" target="_blank">遭遇暴雨在车内如何自救</a></li>
 <li><a href="/comments/20210725/1593701.md" target="_blank">拂心论世:老胡 到底是河南人还是荷兰人？</a></li>
 <li><a href="/comments/20210725/1593700.md" target="_blank">闲谈集:比洪水更可怕的 是冷漠和胡说八道</a></li>
-<li><a href="/comments/20210725/1593699.md" target="_blank">横河观点：避洪灾 习邓有何不同?</a></li>
-<li><a href="/comments/20210725/1593698.md" target="_blank">可怕的小粉红，拿下首金的杨倩被网爆</a></li>
-<li><a href="/comments/20210725/1593615.md" target="_blank">今天中国人的珍贵是人的语言无法形容的，因此上天一再用这样的故事唤醒大家的生命灵性。这部片的观看量超过十亿，但真正看懂的人却寥寥无几，此刻面对河南的大雨我欲哭无泪。</a></li>
-<li><a href="/comments/20210725/1593688.md" target="_blank">奥运第一天九块金牌产生；腾讯惨了！奥运会失手切掉中国队 惹翻小粉红；海地总统葬礼传枪声国际代表团匆忙撤离【希望之声TV-两岸新闻-2021/7/24】</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
 <li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
 
 </ul>
 </div>
