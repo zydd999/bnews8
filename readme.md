@@ -20,8 +20,8 @@
 <li><a href="/bannedvideo/20210724/1593383.md">郑州京广隧道被淹没 目击者：打捞出车里都是一家子人｜@新闻精选【新唐人亚太电视】三节新闻Live直播 ｜20210724</a></li>
 <li><a href="/topimagenews/20210725/1593649.md">郑州洪水灾情画面成“负能量”被禁 官媒“灾难美学”惹人怒</a></li>
 <li><a href="/cbnews/20210724/1593509.md">郑州京广隧道遗体显现 失联亲人心焦</a></li>
-<li><a href="/bannedvideo/20210725/1593594.md">中共第83集团军“杨根思部队官兵到达郑州市封锁京广北路隧道   隧道恶臭熏天 三步一岗五步一哨防群众靠近拍摄传播 遇难人数成国家机密</a></li>
 <li><a href="/cnnews/20210725/1593621.md">郑州洪灾李克强罕未批示 疑泄洪酿人祸</a></li>
+<li><a href="/bannedvideo/20210725/1593594.md">中共第83集团军“杨根思部队官兵到达郑州市封锁京广北路隧道   隧道恶臭熏天 三步一岗五步一哨防群众靠近拍摄传播 遇难人数成国家机密</a></li>
 <li><a href="/comments/20210724/1593334.md">【要闻精粹】老天有眼不服不行 习近平去西藏变身“灵车”</a></li>
 <li><a href="/comments/20210725/1593597.md">岁月不饶人！51岁鲁豫近照认不出 头大身小似大头娃</a></li>
 <li><a href="/comments/20210725/1593688.md">奥运第一天九块金牌产生；腾讯惨了！奥运会失手切掉中国队 惹翻小粉红；海地总统葬礼传枪声国际代表团匆忙撤离【希望之声TV-两岸新闻-2021/7/24】</a></li>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210725/1593869.md" target="_blank">河南灾情封口令、报导要求出台！谁也不放过！凤凰卫视沈星一句话 账号被封</a></li>
+<li><a href="/comments/20210725/1593868.md" target="_blank">【绘画专栏】艺术家.宋玛缇雅画作欣赏（一）《翠竹鸟唱》《满谷祥云》《海天落照》……</a></li>
 <li><a href="/comments/20210725/1593839.md" target="_blank">想成大业者必看~古人选才的五个标准</a></li>
 <li><a href="/comments/20210725/1593838.md" target="_blank">罗卜种不好的原因你找到了吗？</a></li>
 <li><a href="/comments/20210725/1593837.md" target="_blank">孩子幼儿时从事厨房活动训练，可提高四肢协调力</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210725/1593698.md" target="_blank">可怕的小粉红，拿下首金的杨倩被网爆</a></li>
 <li><a href="/comments/20210725/1593615.md" target="_blank">今天中国人的珍贵是人的语言无法形容的，因此上天一再用这样的故事唤醒大家的生命灵性。这部片的观看量超过十亿，但真正看懂的人却寥寥无几，此刻面对河南的大雨我欲哭无泪。</a></li>
 <li><a href="/comments/20210725/1593688.md" target="_blank">奥运第一天九块金牌产生；腾讯惨了！奥运会失手切掉中国队 惹翻小粉红；海地总统葬礼传枪声国际代表团匆忙撤离【希望之声TV-两岸新闻-2021/7/24】</a></li>
-<li><a href="/comments/20210725/1593683.md" target="_blank">水利专家王维洛揭 导致郑州重大水灾的真正罪魁祸首</a></li>
-<li><a href="/comments/20210725/1593681.md" target="_blank">林保华：“七五八”大水和水灾的人为因素</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
 <li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
 
 </ul>
 </div>
