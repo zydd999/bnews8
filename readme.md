@@ -15,8 +15,8 @@
 <li><a href="/cbnews/20210724/1593524.md">看看天灾人祸 中宣部在通报啥？他们在想啥？一目了然</a></li>
 <li><a href="/comments/20210725/1593625.md">习近平突访西藏 真正目的是这个</a></li>
 <li><a href="/cbnews/20210725/1593753.md">京广北隧道 一辆遮挡了黑布的公交车…</a></li>
-<li><a href="/cbnews/20210724/1593495.md">4位救人者掉入深坑后视频戛然而止 昨传来好消息</a></li>
 <li><a href="/topimagenews/20210725/1593649.md">郑州洪水灾情画面成“负能量”被禁 官媒“灾难美学”惹人怒</a></li>
+<li><a href="/cbnews/20210724/1593495.md">4位救人者掉入深坑后视频戛然而止 昨传来好消息</a></li>
 <li><a href="/cbnews/20210724/1593509.md">郑州京广隧道遗体显现 失联亲人心焦</a></li>
 <li><a href="/cnnews/20210725/1593621.md">郑州洪灾李克强罕未批示 疑泄洪酿人祸</a></li>
 <li><a href="/comments/20210725/1593688.md">奥运第一天九块金牌产生；腾讯惨了！奥运会失手切掉中国队 惹翻小粉红；海地总统葬礼传枪声国际代表团匆忙撤离【希望之声TV-两岸新闻-2021/7/24】</a></li>
@@ -26,8 +26,8 @@
 <li><a href="/bannedvideo/20210724/1593514.md">#郑州水灾 中共封口令曝光！挨家挨户一个不放过只口头传达！中共国灾难不断，手把手人身翻墙⋯⋯</a></li>
 <li><a href="/bannedvideo/20210725/1593637.md">中共特务胆大包天，悍然摧毁美国境内的 病毒帝习近平 雕像！</a></li>
 <li><a href="/worldnews/20210725/1593696.md">他们拿着36亿美金比特币逃跑 买了黄金护照</a></li>
-<li><a href="/comments/20210725/1593641.md">郑州豪雨成灾！ “最美灾民”意外爆红 网一看全暴动：快救她</a></li>
 <li><a href="/bannedvideo/20210725/1593690.md">🔥🔥郑州上空惊现“大灾信号”❗喝“孟婆汤”的人都难逃“黄泉劫”❓❗</a></li>
+<li><a href="/comments/20210725/1593641.md">郑州豪雨成灾！ “最美灾民”意外爆红 网一看全暴动：快救她</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,15 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210725/1593951.md" target="_blank">评市民追捧男团 叶刘淑仪这样说：他们的情绪需要出路、发泄</a></li>
+<li><a href="/comments/20210725/1593949.md" target="_blank">法国男子展现惊人预知能力</a></li>
+<li><a href="/comments/20210725/1593948.md" target="_blank">【智慧专栏】中国传统色彩欣赏 (六）《象牙》</a></li>
+<li><a href="/comments/20210725/1593947.md" target="_blank">烟花肆虐！上海大停电、高铁停运</a></li>
+<li><a href="/comments/20210725/1593946.md" target="_blank">【世界美景】摄影：美哉！《落日熔金，暮云合璧》</a></li>
+<li><a href="/comments/20210725/1593945.md" target="_blank">悲剧不断！广东珠海金海大桥箱梁垮塌 5工人坠海失联</a></li>
+<li><a href="/comments/20210725/1593943.md" target="_blank">给柯妈妈的一封公开信：您的儿子不是个“骗子”</a></li>
+<li><a href="/comments/20210725/1593942.md" target="_blank">影片曝光！郑州“死亡隧道”公共汽车盖黑布疑运尸</a></li>
+<li><a href="/comments/20210725/1593941.md" target="_blank">【世界美景】摄影：赏庭前花开花落，看天外云卷云舒</a></li>
 <li><a href="/comments/20210725/1593940.md" target="_blank">请不要贬低V字旅——如果你是善意的【袁红冰纵论天下】特别专题 07252021</a></li>
 <li><a href="/comments/20210725/1593937.md" target="_blank">东奥热浪来袭 各国选手面临湿热天气巨大挑战</a></li>
 <li><a href="/comments/20210725/1593927.md" target="_blank">【戈壁东专栏】故事篇：一个美国的土著和黑人在路上被警察拦下来了……</a></li>
@@ -114,15 +123,6 @@
 <li><a href="/comments/20210725/1593903.md" target="_blank">【法轮大法在台湾的故事】“金色种子”：第一个修炼法轮功的台湾人</a></li>
 <li><a href="/comments/20210725/1593902.md" target="_blank">凉拌什锦土豆丝</a></li>
 <li><a href="/comments/20210725/1593891.md" target="_blank">【戈壁东专栏】生活篇：七月流火季，穿着正装观摩神韵</a></li>
-<li><a href="/comments/20210725/1593890.md" target="_blank">网红台风“烟花”终登陆 宁波人提早将车泊高架桥上</a></li>
-<li><a href="/comments/20210725/1593712.md" target="_blank">人口才是国本，邓计生是中国大陆教育、婚姻极端扭曲的根源 — 曾节明</a></li>
-<li><a href="/comments/20210725/1593889.md" target="_blank">【戈壁东专栏】时事篇：世界的第一个病毒雕塑被烧毁， 这是重大国际政治事件</a></li>
-<li><a href="/comments/20210725/1593887.md" target="_blank">诗一首：《寄 语》</a></li>
-<li><a href="/comments/20210725/1593886.md" target="_blank">诗一首：《心 急》</a></li>
-<li><a href="/comments/20210725/1593885.md" target="_blank">京奥VS东奥 罗冠聪：港人喜见台港夺牌 中国夺金不屑一顾</a></li>
-<li><a href="/comments/20210725/1593801.md" target="_blank">中共今日的“返祖”，是习近平个性的偶然吗？ — 曾节明</a></li>
-<li><a href="/comments/20210725/1593872.md" target="_blank">王者会归来吗？川普总统在转折点行动上发表重要讲话</a></li>
-<li><a href="/comments/20210725/1593874.md" target="_blank">李燕铭：习近平严防北戴河政变 四名副部级高官密集落马 河北省三高官三周内相继被查 六年前河北省委书记周本顺涉江曾北戴河政变阴谋被火速查办</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
 <li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
 <li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/ganwu/20170705/787156.md" target="_blank">感悟神韵（之四）：感悟神韵音乐</a></li>
 <li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
 
 </ul>
 </div>
