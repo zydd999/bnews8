@@ -14,7 +14,6 @@
 <li><a href="/comments/20210725/1594040.md">“这不就像捕鱼？”官媒说漏嘴 京广隧道逃生无路；中国仓库突起火“至少14人罹难” 浓烟狂窜多人跳楼逃生【希望之声TV】</a></li>
 <li><a href="/cbnews/20210726/1594308.md">河南洪灾：14亿人谁敢吭一声</a></li>
 <li><a href="/bannedvideo/20210725/1593978.md">河南新乡获嘉县获嘉大坝决堤，撤离逃命场景。</a></li>
-<li><a href="/comments/20210725/1593947.md">烟花肆虐！上海大停电、高铁停运</a></li>
 <li><a href="/bannedvideo/20210726/1594195.md">异象长江水倒流要出大事 中共要完蛋 2021年7月25日</a></li>
 <li><a href="/cnnews/20210726/1594194.md">吓人！ 习周围竟有这么多大内高手 许家印与江派紧密要被宰？ 习发怒，粤警方移花接木</a></li>
 <li><a href="/bannedvideo/20210726/1594180.md">上海狂风暴雨，上海外滩水涨上来～～</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/cbnews/20210726/1594216.md">天亮时分：滴滴处罚将史无前例，另一产业也面临灭顶之灾；习近平该准备身后事了；删帖沉底1.85亿次，新社交媒体出路何在？（政论天下第474集 20210725）</a></li>
 <li><a href="/bannedvideo/20210725/1593979.md">南京疫情蔓延至多省，南京人的境遇如同当年湖北人？视频中：看我们南京人在厦门有多惨，把我们拉到境外酒店，说我们有（病）毒。</a></li>
 <li><a href="/lishi/20210726/1594215.md">文革“群丑图”从热传到被封杀的背后</a></li>
+<li><a href="/cnnews/20210726/1594363.md">郑州地铁5号线车被拖出 死亡人数成谜 家属地铁口哭声一片</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210726/1594480.md" target="_blank">林肯遗孀照片上竟然出现“他”的身影；追随孙中山的阵亡名将，现身同仁就职典礼，是偶然还是必然？大火焚烧的遗体旁，是谁在舞动？他们的灵魂，真的被拍下来了吗？</a></li>
 <li><a href="/cbnews/20210726/1594450.md" target="_blank">华裔弃婴 加拿大人玛姬麦克尼尔 夺奥运100米蝶泳金牌</a></li>
 <li><a href="/comments/20210726/1594422.md" target="_blank">河南水灾救援者：数十万人被困 救援缓慢；官兵毁堤泄洪 村民护堤遭喷辣椒水；京广隧道被困者讲述惊险逃生经历；【希望之声-午夜新闻-2021/07/25】</a></li>
 <li><a href="/comments/20210726/1594391.md" target="_blank">逆天了！宜宾金沙江下游的水往上倒流【希望之声TV】</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210725/1594080.md" target="_blank">每天喊救命 郑州男水患困地下车库4天3夜获救</a></li>
 <li><a href="/cbnews/20210725/1594075.md" target="_blank">台风烟花避开台湾直扑浙江 3因素组合极端危险</a></li>
 <li><a href="/cbnews/20210725/1594054.md" target="_blank">阻外媒报导水灾！郑州满街都是革命群众</a></li>
-<li><a href="/comments/20210725/1594040.md" target="_blank">“这不就像捕鱼？”官媒说漏嘴 京广隧道逃生无路；中国仓库突起火“至少14人罹难” 浓烟狂窜多人跳楼逃生【希望之声TV】</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210726/1594480.md" target="_blank">林肯遗孀照片上竟然出现“他”的身影；追随孙中山的阵亡名将，现身同仁就职典礼，是偶然还是必然？大火焚烧的遗体旁，是谁在舞动？他们的灵魂，真的被拍下来了吗？</a></li>
+<li><a href="/comments/20210726/1594469.md" target="_blank">韩国Delta变种病毒持续扩散 本周感染率恐突破50%</a></li>
 <li><a href="/comments/20210726/1594462.md" target="_blank">英“伊莉莎白女王号”正在进入南海 下一步行动成悬疑</a></li>
 <li><a href="/comments/20210726/1594434.md" target="_blank">对中国社会严重扭曲的反思：现实生存的影响力远大于中国传统文化的影响力 — 曾节明</a></li>
 <li><a href="/comments/20210726/1594436.md" target="_blank">聚焦奥运 美国女垒将与日本再次争霸夺金</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210726/1594282.md" target="_blank">河南雨太大 很多砖家的脑子都进水了</a></li>
 <li><a href="/comments/20210726/1594281.md" target="_blank">饶毅：未终结的太监化现象 成功的太监很多</a></li>
 <li><a href="/comments/20210726/1594277.md" target="_blank">【贯明文苑】君子无忧无惧</a></li>
-<li><a href="/comments/20210726/1594276.md" target="_blank">【新世纪影视】诗朗诵《二十二载的讴歌》纪念“七·二零”22周年</a></li>
-<li><a href="/comments/20210726/1594275.md" target="_blank">【音乐视频】：《大法弟子诗歌集（一）修炼篇》《大法弟子诗歌集（二） 劝善篇》</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/comments/20210612/1565472.md" target="_blank">感悟神韵（之二）：感悟神韵的艺术风格</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
 <li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
 <li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
 
 </ul>
 </div>
