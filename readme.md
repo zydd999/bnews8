@@ -9,25 +9,25 @@
 <li><a href="/topimagenews/20210725/1593930.md">江系和习近平杠上了：比你习近平早了31年！【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20210725/1594039.md">又要出大事吗？金沙江水倒流！【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20210725/1593850.md">被查官员名字太有趣！中纪委：河北原人大副主任被查 【阿波罗网报道】</a></li>
-<li><a href="/comments/20210725/1593833.md">郑州京广隧道里惊人的秘密 军队已出动维稳；“烟花”逼近浙江 上海也紧张【希望之声-午夜新闻-2021/07/24】</a></li>
 <li><a href="/cbnews/20210725/1594054.md">阻外媒报导水灾！郑州满街都是革命群众</a></li>
-<li><a href="/comments/20210726/1594157.md">中方大使被气疯了！抗议《路透社》这张奥运夺金照片</a></li>
 <li><a href="/cnnews/20210726/1594139.md">郑州隧道大水灭顶 网直击“6公车盖黑布”被拖出 司机爆料隧道内至少6000具尸体</a></li>
+<li><a href="/comments/20210726/1594157.md">中方大使被气疯了！抗议《路透社》这张奥运夺金照片</a></li>
 <li><a href="/bannedvideo/20210725/1593901.md">【政经】吓人！习近平周围竟有这么多“大内高手”；许家印与江派紧密要被宰？ 1天之间，北京灭了1个产业，中概股暴跌；传习近平怒查女儿信息冤案，粤警方移花接木；河南悲剧，罪在定于一尊? IL</a></li>
 <li><a href="/bannedvideo/20210726/1594107.md">中南海肯定又出大事了 北京高层现罕见异象</a></li>
 <li><a href="/comments/20210725/1593916.md">李燕铭：江泽民曾庆红连环布局政变反习 北戴河会前传出敏感消息 习近平怒查习明泽信息外泄冤案 广东嫁祸法轮功 企图掩盖案中案</a></li>
 <li><a href="/comments/20210725/1594040.md">“这不就像捕鱼？”官媒说漏嘴 京广隧道逃生无路；中国仓库突起火“至少14人罹难” 浓烟狂窜多人跳楼逃生【希望之声TV】</a></li>
 <li><a href="/comments/20210725/1593947.md">烟花肆虐！上海大停电、高铁停运</a></li>
 <li><a href="/bannedvideo/20210725/1593978.md">河南新乡获嘉县获嘉大坝决堤，撤离逃命场景。</a></li>
-<li><a href="/bannedvideo/20210725/1593835.md">郑州高铁站，郑州市民和部分遇难者家属为遇难者讨公道</a></li>
 <li><a href="/comments/20210725/1593801.md">中共今日的“返祖”，是习近平个性的偶然吗？ — 曾节明</a></li>
-<li><a href="/comments/20210726/1594145.md">习明泽信息案惊动京城！传习近平大怒下令调查 广东嫁祸法轮功</a></li>
 <li><a href="/bannedvideo/20210726/1594180.md">上海狂风暴雨，上海外滩水涨上来～～</a></li>
+<li><a href="/comments/20210726/1594145.md">习明泽信息案惊动京城！传习近平大怒下令调查 广东嫁祸法轮功</a></li>
+<li><a href="/cnnews/20210726/1594194.md">吓人！ 习周围竟有这么多大内高手 许家印与江派紧密要被宰？ 习发怒，粤警方移花接木</a></li>
+<li><a href="/bannedvideo/20210726/1594195.md">异象长江水倒流要出大事 中共要完蛋 2021年7月25日</a></li>
+<li><a href="/bannedvideo/20210725/1594045.md">郑州民众要求官方公布京广隧道内摄像监控视频，期待公布真实数据来打我脸。</a></li>
+<li><a href="/cbnews/20210726/1594183.md">爸搞创意帮儿子取名“狂”字 妻变脸：要不要看自己姓啥</a></li>
 <li><a href="/bannedvideo/20210725/1593979.md">南京疫情蔓延至多省，南京人的境遇如同当年湖北人？视频中：看我们南京人在厦门有多惨，把我们拉到境外酒店，说我们有（病）毒。</a></li>
 <li><a href="/yule/20210726/1594141.md">44岁赵薇路拍照，衣着随意腰腹圆润，写真似苗条少女，判若两人</a></li>
 <li><a href="/comments/20210726/1594126.md">河南村民加高河堤自救 官兵毁堤泄洪引发冲突 结果…</a></li>
-<li><a href="/bannedvideo/20210725/1594045.md">郑州民众要求官方公布京广隧道内摄像监控视频，期待公布真实数据来打我脸。</a></li>
-<li><a href="/cbnews/20210726/1594183.md">爸搞创意帮儿子取名“狂”字 妻变脸：要不要看自己姓啥</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210726/1594341.md" target="_blank">加州州长以疫情为由令私校停课 法庭判违宪</a></li>
+<li><a href="/comments/20210726/1594340.md" target="_blank">奥地利数学博士 业余自行车选手爆冷夺得东奥公路赛金牌</a></li>
 <li><a href="/comments/20210726/1594326.md" target="_blank">南京一天增40例 疫情播5省7市 珠海也中招</a></li>
 <li><a href="/comments/20210726/1594304.md" target="_blank">杜特蒂亲中急转弯 美菲「军队互访协定」将成正式文件</a></li>
 <li><a href="/comments/20210726/1594296.md" target="_blank">【微博精粹】人民隧道泡 领袖西藏笑 上万市民殡仪馆认尸在嚎啕</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210726/1594226.md" target="_blank">六神磊磊：让杨倩“滚出中国”的脑回路</a></li>
 <li><a href="/comments/20210726/1594225.md" target="_blank">郑州0501号地铁没有终点 逝者家属发出的亲人最后时刻……</a></li>
 <li><a href="/comments/20210726/1594223.md" target="_blank">戏里戏外 电影《归途》 演员重病获新生的真实故事</a></li>
-<li><a href="/comments/20210726/1594210.md" target="_blank">东奥首日美囊括10枚奖牌 女子体操队和男篮表现欠佳</a></li>
-<li><a href="/comments/20210726/1594204.md" target="_blank">台风“烟花”路径奇异 登陆浙江发力；河南灾后现血色黄昏 夜空升血月；习怒查其女信息泄漏冤案？广东欲嫁祸【希望之声TV-每日头条-2021/7/25】</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20210612/1565472.md" target="_blank">感悟神韵（之二）：感悟神韵的艺术风格</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20210611/1564824.md" target="_blank">【曾铮专栏】感悟神韵（之一）神韵的主旨</a></li>
 <li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
 
 </ul>
 </div>
