@@ -18,15 +18,15 @@
 <li><a href="/bannedvideo/20210725/1593978.md">河南新乡获嘉县获嘉大坝决堤，撤离逃命场景。</a></li>
 <li><a href="/comments/20210725/1593947.md">烟花肆虐！上海大停电、高铁停运</a></li>
 <li><a href="/bannedvideo/20210726/1594195.md">异象长江水倒流要出大事 中共要完蛋 2021年7月25日</a></li>
+<li><a href="/cbnews/20210726/1594308.md">河南洪灾：14亿人谁敢吭一声</a></li>
 <li><a href="/bannedvideo/20210726/1594180.md">上海狂风暴雨，上海外滩水涨上来～～</a></li>
 <li><a href="/cnnews/20210726/1594194.md">吓人！ 习周围竟有这么多大内高手 许家印与江派紧密要被宰？ 习发怒，粤警方移花接木</a></li>
 <li><a href="/comments/20210726/1594145.md">习明泽信息案惊动京城！传习近平大怒下令调查 广东嫁祸法轮功</a></li>
-<li><a href="/comments/20210725/1593801.md">中共今日的“返祖”，是习近平个性的偶然吗？ — 曾节明</a></li>
 <li><a href="/bannedvideo/20210726/1594198.md">共军全面接管！京广隧道传挖出6千遗体</a></li>
 <li><a href="/bannedvideo/20210725/1594045.md">郑州民众要求官方公布京广隧道内摄像监控视频，期待公布真实数据来打我脸。</a></li>
 <li><a href="/yule/20210726/1594141.md">44岁赵薇路拍照，衣着随意腰腹圆润，写真似苗条少女，判若两人</a></li>
-<li><a href="/cbnews/20210726/1594183.md">爸搞创意帮儿子取名“狂”字 妻变脸：要不要看自己姓啥</a></li>
 <li><a href="/comments/20210726/1594126.md">河南村民加高河堤自救 官兵毁堤泄洪引发冲突 结果…</a></li>
+<li><a href="/cbnews/20210726/1594183.md">爸搞创意帮儿子取名“狂”字 妻变脸：要不要看自己姓啥</a></li>
 <li><a href="/bannedvideo/20210725/1593979.md">南京疫情蔓延至多省，南京人的境遇如同当年湖北人？视频中：看我们南京人在厦门有多惨，把我们拉到境外酒店，说我们有（病）毒。</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210726/1594391.md" target="_blank">逆天了！宜宾金沙江下游的水往上倒流【希望之声TV】</a></li>
 <li><a href="/cbnews/20210726/1594385.md" target="_blank">保护“第一岛链” 美军下月展示新一代爱国者飞弹系统防御能力</a></li>
 <li><a href="/cbnews/20210726/1594384.md" target="_blank">长春发生惨烈火灾 数人跳楼逃生14死12伤</a></li>
 <li><a href="/cbnews/20210726/1593982.md" target="_blank">斯洛伐克首都政府楼悬挂支持法轮功旗帜</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/comments/20210725/1594040.md" target="_blank">“这不就像捕鱼？”官媒说漏嘴 京广隧道逃生无路；中国仓库突起火“至少14人罹难” 浓烟狂窜多人跳楼逃生【希望之声TV】</a></li>
 <li><a href="/cbnews/20210725/1594039.md" target="_blank">又要出大事吗？金沙江水倒流！【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20210725/1593983.md" target="_blank">沈阳一名男子持刀行凶伤两人 其中一人中20多刀</a></li>
-<li><a href="/comments/20210725/1593940.md" target="_blank">请不要贬低V字旅——如果你是善意的【袁红冰纵论天下】特别专题 07252021</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,13 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210726/1594401.md" target="_blank">无预警泄洪困河南卫辉60万人 传鹤壁因护堤爆官民冲突</a></li>
+<li><a href="/comments/20210726/1594400.md" target="_blank">中企大肆采购美国农业用地 国会议员拟立法禁止</a></li>
+<li><a href="/comments/20210726/1594398.md" target="_blank">美众议员提案 欲暂停移民10年以阻非法越境</a></li>
+<li><a href="/comments/20210726/1594397.md" target="_blank">炎夏捂口罩青春痘狂冒！ 教按5穴位能调血清血</a></li>
+<li><a href="/comments/20210726/1594396.md" target="_blank">口渴时才喝水，已经晚了！肠道、肾脏，甚至大脑都受伤</a></li>
+<li><a href="/comments/20210726/1594395.md" target="_blank">打完疫苗头痛、发烧？ 中医来改善</a></li>
+<li><a href="/comments/20210726/1594391.md" target="_blank">逆天了！宜宾金沙江下游的水往上倒流【希望之声TV】</a></li>
 <li><a href="/comments/20210726/1594303.md" target="_blank">人口是国家之本，兼论邓共的祸国远甚于毛共 — 曾节明</a></li>
 <li><a href="/comments/20210726/1594341.md" target="_blank">加州州长以疫情为由令私校停课 法庭判违宪</a></li>
 <li><a href="/comments/20210726/1594340.md" target="_blank">奥地利数学博士 业余自行车选手爆冷夺得东奥公路赛金牌</a></li>
@@ -116,13 +123,6 @@
 <li><a href="/comments/20210726/1594247.md" target="_blank">《钢之炼金术》作者辱华，牛姨回应：姐是故意的！</a></li>
 <li><a href="/comments/20210726/1594243.md" target="_blank">诗一首：《麻雀》</a></li>
 <li><a href="/comments/20210726/1594241.md" target="_blank">【新视野故事汇】《牛顿手稿让科学家目瞪口呆》《诺查丹玛斯坎坷传奇的一生令人惊叹》</a></li>
-<li><a href="/comments/20210726/1594240.md" target="_blank">【欺世大观】77 救老毛献上贺子珍 山大王反吃了鸿门宴</a></li>
-<li><a href="/comments/20210726/1594239.md" target="_blank">颜纯钩：顾此失彼阵脚大乱，远水近火时势危颠</a></li>
-<li><a href="/comments/20210726/1594238.md" target="_blank">关胖侃财：郑州气象局，对不起，我们骂错你了</a></li>
-<li><a href="/comments/20210726/1594232.md" target="_blank">美商务部长：总值3.5万亿基础设施法有望很快通过</a></li>
-<li><a href="/comments/20210726/1594227.md" target="_blank">衣锦夜行的燕公子：这是一种啥样的牺牲精神</a></li>
-<li><a href="/comments/20210726/1594226.md" target="_blank">六神磊磊：让杨倩“滚出中国”的脑回路</a></li>
-<li><a href="/comments/20210726/1594225.md" target="_blank">郑州0501号地铁没有终点 逝者家属发出的亲人最后时刻……</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
 <li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
 <li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
 
 </ul>
 </div>
