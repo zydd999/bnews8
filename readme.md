@@ -9,25 +9,25 @@
 <li><a href="/cbnews/20210726/1594308.md">河南洪灾：14亿人谁敢吭一声</a></li>
 <li><a href="/bannedvideo/20210726/1594487.md">吓人!习近平不可告人的秘密 （2021年7月26日）</a></li>
 <li><a href="/cnnews/20210726/1594363.md">郑州地铁5号线车被拖出 死亡人数成谜 家属地铁口哭声一片</a></li>
-<li><a href="/bannedvideo/20210726/1594195.md">异象长江水倒流要出大事 中共要完蛋 2021年7月25日</a></li>
-<li><a href="/cnnews/20210726/1594194.md">吓人！ 习周围竟有这么多大内高手 许家印与江派紧密要被宰？ 习发怒，粤警方移花接木</a></li>
 <li><a href="/bannedvideo/20210726/1594413.md">女排惨败众人欢呼，只想看中国输！谢峰貌似在教训谢尔曼；网络围剿战之后，拜登的下一个联合行动是什么？（20210726 第646期）</a></li>
 <li><a href="/headline/20210726/1594545.md">中美外交官天津会晤：中方率先发难，美方表现“有力”</a></li>
 <li><a href="/ssgc/20210726/1594246.md">〖兲朝浮世绘〗洪水来了当官的躲起来 洪水退了当官的来问责百姓</a></li>
-<li><a href="/bannedvideo/20210726/1594198.md">共军全面接管！京广隧道传挖出6千遗体</a></li>
 <li><a href="/comments/20210726/1594534.md">美中天津会谈 中共最着急求撤销对党员制裁 网络炸锅</a></li>
 <li><a href="/cnnews/20210726/1594338.md">看过遗体 许世友说毛是被毒死的 毛死前2个月汪东兴就想抓四人帮</a></li>
 <li><a href="/cbnews/20210726/1594640.md">郑州地铁5号线幸存者 15岁小姑娘亲眼所见 身边死了十几个人</a></li>
 <li><a href="/cnnews/20210726/1594517.md">习近平一出手 华尔街傻了 中共特色小镇仅5年批量倒闭 苹果抛弃京东方</a></li>
 <li><a href="/cbnews/20210726/1594216.md">天亮时分：滴滴处罚将史无前例，另一产业也面临灭顶之灾；习近平该准备身后事了；删帖沉底1.85亿次，新社交媒体出路何在？（政论天下第474集 20210725）</a></li>
-<li><a href="/bannedvideo/20210726/1594336.md">中共内部文件泄露 广东揭阳正在备战｜@新闻精选【新唐人亚太电视】三节新闻Live直播 ｜20210726</a></li>
 <li><a href="/yule/20210726/1594546.md">23岁中国水球女队长爆红 颜值身材惊呆网友</a></li>
+<li><a href="/bannedvideo/20210726/1594336.md">中共内部文件泄露 广东揭阳正在备战｜@新闻精选【新唐人亚太电视】三节新闻Live直播 ｜20210726</a></li>
 <li><a href="/headline/20210726/1594388.md">中国外交官指责美国造成关系僵局 天津对话火药味十足</a></li>
-<li><a href="/bannedvideo/20210726/1594252.md">【惊爆】郑州死亡隧道有2个；幸存司机自述隧道深处有很多车；夫：妻在地铁最后一节车厢，里面人都完了；隧道整修排水刚完工还演习防汛；新乡遭遇更大水灾无人救；陕西水库泄洪不预警村子被冲光JS</a></li>
 <li><a href="/lishi/20210726/1594215.md">文革“群丑图”从热传到被封杀的背后</a></li>
+<li><a href="/bannedvideo/20210726/1594252.md">【惊爆】郑州死亡隧道有2个；幸存司机自述隧道深处有很多车；夫：妻在地铁最后一节车厢，里面人都完了；隧道整修排水刚完工还演习防汛；新乡遭遇更大水灾无人救；陕西水库泄洪不预警村子被冲光JS</a></li>
 <li><a href="/comments/20210726/1594296.md">【微博精粹】人民隧道泡 领袖西藏笑 上万市民殡仪馆认尸在嚎啕</a></li>
 <li><a href="/worldnews/20210726/1594449.md">中共要求解除对党员及其家属签证限制 企图继续盗取技术 操纵美国</a></li>
 <li><a href="/cbnews/20210726/1594450.md">华裔弃婴 加拿大人玛姬麦克尼尔 夺奥运100米蝶泳金牌</a></li>
+<li><a href="/topimagenews/20210726/1594218.md">亚洲议题权威经济学家警告：北京打击在美中概股 是冷战的初期阶段</a></li>
+<li><a href="/comments/20210727/1594686.md">瞒不住了！山东殡仪馆车队支援郑州，郑州水灾火葬场烧不过来了吗？真实数据公布，中共必将归西│#熊猫侠</a></li>
+<li><a href="/bannedvideo/20210726/1594465.md">文睿：逼自己上绝路，习近平的行为深度异常，报应饶过谁？</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210727/1594813.md" target="_blank">美老兵部强制所有员工打新冠疫苗 开联邦机构先例</a></li>
+<li><a href="/comments/20210727/1594807.md" target="_blank">记协﹕拍梁健辉刺警记者 被国安落口供、搜屋、扣留旅游证件</a></li>
+<li><a href="/comments/20210727/1594806.md" target="_blank">水淹卫辉市 60万人受灾 河南又将迎来新一轮降雨</a></li>
 <li><a href="/comments/20210727/1594803.md" target="_blank">帮中共开发数字货币 蚂蚁和腾讯支付主导地位将被削弱</a></li>
 <li><a href="/comments/20210727/1594797.md" target="_blank">Delta变种病毒蔓延 美宣布继续限制国际旅行</a></li>
 <li><a href="/comments/20210727/1594787.md" target="_blank">微视频:郑州大水成因 官方奔着杀人去的？</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210727/1594711.md" target="_blank">神韵给人指出一条希望的路 作家戈壁东感恩</a></li>
 <li><a href="/comments/20210727/1594704.md" target="_blank">天津会谈 王毅急吼吼要求美方撤销…赴美制裁；中共国弃儿 成奥运冠军；中共发文噤声 灾区人街头表现引热议【希望之声TV-环球看点-2021/7/26】</a></li>
 <li><a href="/comments/20210727/1594697.md" target="_blank">全球抗中大势所趋 斯洛伐克与台湾深化互动</a></li>
-<li><a href="/comments/20210727/1594696.md" target="_blank">【东洲专栏】散文篇：我是创世主的弟子</a></li>
-<li><a href="/comments/20210727/1594695.md" target="_blank">【东洲专栏】诗歌篇：《钟》</a></li>
-<li><a href="/comments/20210727/1594686.md" target="_blank">瞒不住了！山东殡仪馆车队支援郑州，郑州水灾火葬场烧不过来了吗？真实数据公布，中共必将归西│#熊猫侠</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
 <li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
 <li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
 
 </ul>
 </div>
