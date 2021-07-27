@@ -7,27 +7,27 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/topimagenews/20210726/1594428.md">信息量很大！武警北京总队司令撰文：必须下手狠、零容忍 【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20210726/1594487.md">吓人!习近平不可告人的秘密 （2021年7月26日）</a></li>
-<li><a href="/cnnews/20210726/1594363.md">郑州地铁5号线车被拖出 死亡人数成谜 家属地铁口哭声一片</a></li>
 <li><a href="/bannedvideo/20210726/1594413.md">女排惨败众人欢呼，只想看中国输！谢峰貌似在教训谢尔曼；网络围剿战之后，拜登的下一个联合行动是什么？（20210726 第646期）</a></li>
 <li><a href="/topimagenews/20210727/1594783.md">“职业五毛”命丧郑州地铁 粉红家属：找中共算总账的时间快到了!【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20210727/1594820.md">水干了却等不到遗体！家人消失郑州地铁 脱困者曝恐怖内幕</a></li>
 <li><a href="/headline/20210726/1594545.md">中美外交官天津会晤：中方率先发难，美方表现“有力”</a></li>
 <li><a href="/comments/20210727/1594686.md">瞒不住了！山东殡仪馆车队支援郑州，郑州水灾火葬场烧不过来了吗？真实数据公布，中共必将归西│#熊猫侠</a></li>
-<li><a href="/comments/20210726/1594534.md">美中天津会谈 中共最着急求撤销对党员制裁 网络炸锅</a></li>
 <li><a href="/cbnews/20210726/1594640.md">郑州地铁5号线幸存者 15岁小姑娘亲眼所见 身边死了十几个人</a></li>
+<li><a href="/comments/20210726/1594534.md">美中天津会谈 中共最着急求撤销对党员制裁 网络炸锅</a></li>
 <li><a href="/cbnews/20210727/1594785.md">洪灾之后 郑州火车站这样卖油条 众人傻眼</a></li>
+<li><a href="/bannedvideo/20210727/1594816.md">浙江封疆大吏发难河南书记？知名媒体人要求郑州书记下台；美中会谈，中共提二份清单第一是允许党员和家属签证，学者笑美国不人道【#秦鹏观察 7/26】</a></li>
 <li><a href="/comments/20210727/1594704.md">天津会谈 王毅急吼吼要求美方撤销…赴美制裁；中共国弃儿 成奥运冠军；中共发文噤声 灾区人街头表现引热议【希望之声TV-环球看点-2021/7/26】</a></li>
 <li><a href="/cbnews/20210727/1594784.md">中国留学生持F1签证赴美国，登机被拒</a></li>
-<li><a href="/bannedvideo/20210727/1594816.md">浙江封疆大吏发难河南书记？知名媒体人要求郑州书记下台；美中会谈，中共提二份清单第一是允许党员和家属签证，学者笑美国不人道【#秦鹏观察 7/26】</a></li>
 <li><a href="/cnnews/20210726/1594517.md">习近平一出手 华尔街傻了 中共特色小镇仅5年批量倒闭 苹果抛弃京东方</a></li>
 <li><a href="/yule/20210726/1594546.md">23岁中国水球女队长爆红 颜值身材惊呆网友</a></li>
-<li><a href="/headline/20210726/1594388.md">中国外交官指责美国造成关系僵局 天津对话火药味十足</a></li>
 <li><a href="/cbnews/20210726/1594450.md">华裔弃婴 加拿大人玛姬麦克尼尔 夺奥运100米蝶泳金牌</a></li>
-<li><a href="/worldnews/20210726/1594449.md">中共要求解除对党员及其家属签证限制 企图继续盗取技术 操纵美国</a></li>
+<li><a href="/headline/20210726/1594388.md">中国外交官指责美国造成关系僵局 天津对话火药味十足</a></li>
 <li><a href="/baitai/20210727/1594683.md">最残忍的不是洪水，而是蠢得让骨肉绝望的庸众</a></li>
+<li><a href="/worldnews/20210726/1594449.md">中共要求解除对党员及其家属签证限制 企图继续盗取技术 操纵美国</a></li>
+<li><a href="/bannedvideo/20210727/1594836.md">【抗暴】河南人自救与官兵爆冲突；内斗信息量很大！武警北京司令撰文：必须下手狠、零容忍；郑州地铁口装挡板不敢让人看；幸存15岁姑娘亲眼见：身边死十几个人；无预警泄洪困60万人；重灾区现异象CT</a></li>
 <li><a href="/cnnews/20210727/1594793.md">出现新变种！病毒源头曝光 已扩散26国</a></li>
 <li><a href="/topimagenews/20210727/1594801.md">大作家老舍的婚外恋 搭上了自己的命 周恩来一手干的</a></li>
-<li><a href="/bannedvideo/20210726/1594465.md">文睿：逼自己上绝路，习近平的行为深度异常，报应饶过谁？</a></li>
+<li><a href="/cnnews/20210727/1594809.md">洪灾之后 郑州火车站见“油条摊贩”众人傻眼：根本卖金条</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210727/1595047.md" target="_blank">涉嫌暗杀总统 海地前安全主管被捕</a></li>
 <li><a href="/comments/20210727/1594931.md" target="_blank">从人口即国本的角度看社会模式 — 曾节明</a></li>
 <li><a href="/comments/20210727/1595035.md" target="_blank">我的音乐想想：缘起在晨雾飘渺间</a></li>
 <li><a href="/comments/20210727/1595026.md" target="_blank">“烟花”袭上海 36万多人已转移；梵蒂冈主教重大金融丑闻 开庭【希望之声-午夜新闻-2021/07/26】</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210727/1594884.md" target="_blank">杨宁： 郑州地铁泡了91列 黑布下死了多少人？</a></li>
 <li><a href="/comments/20210727/1594883.md" target="_blank">剑指中共！英国航舰打击群经新加坡进入南海</a></li>
 <li><a href="/comments/20210727/1594875.md" target="_blank">洪博学：中国人起来革命 才能拯救自己</a></li>
-<li><a href="/comments/20210727/1594861.md" target="_blank">【希望之声TV】中国队连失两金 美日26日奖牌榜排名超过中国</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20210611/1564824.md" target="_blank">【曾铮专栏】感悟神韵（之一）神韵的主旨</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
 <li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20210612/1565472.md" target="_blank">感悟神韵（之二）：感悟神韵的艺术风格</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
 
 </ul>
 </div>
