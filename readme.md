@@ -10,7 +10,6 @@
 <li><a href="/topimagenews/20210727/1595082.md">座谈会上 习近平面前再现独特一幕 【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20210727/1595154.md">高速公路近距离拍摄 郑州地铁5号线车 果然蒙着黑布</a></li>
 <li><a href="/topimagenews/20210727/1595015.md">习近平西藏行令一人意外曝光？江系“泄密”习近平重要军事意图【阿波罗网报道】</a></li>
-<li><a href="/bannedvideo/20210727/1594836.md">【抗暴】河南人自救与官兵爆冲突；内斗信息量很大！武警北京司令撰文：必须下手狠、零容忍；郑州地铁口装挡板不敢让人看；幸存15岁姑娘亲眼见：身边死十几个人；无预警泄洪困60万人；重灾区现异象CT</a></li>
 <li><a href="/cbnews/20210727/1594890.md">美国德州华侨商会：河南洪灾死2.6万人</a></li>
 <li><a href="/cbnews/20210727/1595083.md">后怕！新乡原阳县灾区自愿者睡着了 被抬进灵车 差点被火化</a></li>
 <li><a href="/cbnews/20210727/1595077.md">警示：2021&quot;赊刀人&quot;又出现在河南湖北交界的大别山边</a></li>
@@ -19,15 +18,16 @@
 <li><a href="/bannedvideo/20210727/1595135.md">郑州京广隧道的秘密曝光：悲剧不可避免。专家组10年前的技术报告，就发出了预警。李克强沉默了一个星期，终于就隧道问题发狠话。</a></li>
 <li><a href="/cnnews/20210727/1595157.md">不敢公布的报告：中共情夫和女共谍“方芳”的细节【阿波罗网编译】</a></li>
 <li><a href="/bannedvideo/20210727/1595147.md">🔥🔥中国人惨了，1天之内760万人出事❗“超级细菌”超级致命...阿南德一年前的预言又应验了❗❗</a></li>
+<li><a href="/comments/20210727/1595209.md">北戴河政争两大议题 习近平秘密居所在何处？挡不住哀伤 郑州地铁口的鲜花成敏感“家丑”！白宫披露天津会谈关键“战狼”谢锋升官有原由【希望之声TV-两岸要闻-2021/07/27】</a></li>
 <li><a href="/bannedvideo/20210727/1594843.md">郑州官方承认：91列地铁曾被困在洪水里！    可能又是几千人没了！</a></li>
 <li><a href="/ssgc/20210727/1594980.md">〖兲朝浮世绘〗习近平同志在哪？</a></li>
-<li><a href="/comments/20210727/1595209.md">北戴河政争两大议题 习近平秘密居所在何处？挡不住哀伤 郑州地铁口的鲜花成敏感“家丑”！白宫披露天津会谈关键“战狼”谢锋升官有原由【希望之声TV-两岸要闻-2021/07/27】</a></li>
 <li><a href="/cbnews/20210727/1594917.md">美中关键议题 白宫证实了：没谈</a></li>
-<li><a href="/bannedvideo/20210727/1594832.md">黄安为河南捐款玩砸了，被网友曝出只捐了50元。金额不大，侮辱性极强！</a></li>
-<li><a href="/cbnews/20210727/1595293.md">专栏 | 夜话中南海：习近平为什么安排一个“老外”出任外交部党委书记？</a></li>
-<li><a href="/topimagenews/20210727/1595248.md">传美或限制基金投资中港 A股港股大跌 中国国债大跌 人民币跌破6.5关口</a></li>
 <li><a href="/comments/20210728/1595340.md">郑州伤亡数据被隐匿？李克强撂下话；外地殡仪支援河南 郑州殡馆堆大量遗体；韩朝热线断绝一年多 突然恢复；外媒曝共军攻台最可能地点？专家揭后果【希望之声TV-环球看点-2021/7/27】</a></li>
+<li><a href="/cbnews/20210727/1595293.md">专栏 | 夜话中南海：习近平为什么安排一个“老外”出任外交部党委书记？</a></li>
+<li><a href="/cbnews/20210728/1595320.md">郑州地铁15岁小姑娘完整视频爆更多细节：里面的人快窒息了 外面传“全部获救”</a></li>
+<li><a href="/topimagenews/20210727/1595248.md">传美或限制基金投资中港 A股港股大跌 中国国债大跌 人民币跌破6.5关口</a></li>
 <li><a href="/topimagenews/20210727/1595249.md">监管风暴蔓延中概股暴跌 美证交会要求中企披露北京干预风险</a></li>
+<li><a href="/bannedvideo/20210727/1595039.md">北京武警司令突然罕见发声挑明维护习近平忠于习近平  强烈威慑党内军中反习势力  预示山雨欲来</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210728/1595462.md" target="_blank">为对抗中共全面布阵？美防长首访新加坡，美国务卿首访印度，联同亚太盟友共同抗共挑战，强硬表态不会对威胁让步【希望之声TV-每日头条-2021/7/27】</a></li>
 <li><a href="/cbnews/20210728/1595426.md" target="_blank">偷看女室友洗澡被抓 温州男18楼坠亡…法院：无相关</a></li>
 <li><a href="/cbnews/20210728/1595415.md" target="_blank">专家：天津会谈后 美中敌对恐“像水泥变硬般”固化</a></li>
 <li><a href="/cbnews/20210728/1595414.md" target="_blank">到处蟑螂、老鼠屎…杨国福麻辣烫被爆猪肺当抹布</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/comments/20210727/1594963.md" target="_blank">失利！85个摇摆选区现变量； 各有打算！天津会谈 美正做有序铺垫；不查？纽约养老院老人走的冤！</a></li>
 <li><a href="/cbnews/20210727/1594917.md" target="_blank">美中关键议题 白宫证实了：没谈</a></li>
 <li><a href="/cbnews/20210727/1594915.md" target="_blank">天亮时分：中美谈崩，中共自曝软肋，外交部新战狼亮相；这一关键问题，预示习近平在认真准备内循环（政论天下第475集 20210726）</a></li>
-<li><a href="/cbnews/20210727/1594890.md" target="_blank">美国德州华侨商会：河南洪灾死2.6万人</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210728/1595462.md" target="_blank">为对抗中共全面布阵？美防长首访新加坡，美国务卿首访印度，联同亚太盟友共同抗共挑战，强硬表态不会对威胁让步【希望之声TV-每日头条-2021/7/27】</a></li>
+<li><a href="/comments/20210728/1595458.md" target="_blank">抗议活动扩大至德黑兰 伊朗民众要求民主自由</a></li>
+<li><a href="/comments/20210728/1595457.md" target="_blank">薄熙来旧部、辽宁政协副主席李文喜被起诉 曾参与虐杀高蓉蓉</a></li>
 <li><a href="/comments/20210728/1595456.md" target="_blank">首例 临会脱逃的德州民主党议员被下逮捕令</a></li>
 <li><a href="/comments/20210728/1595448.md" target="_blank">英格兰和威尔士明年将提高水费价格</a></li>
 <li><a href="/comments/20210728/1595438.md" target="_blank">枪口指向谁？北戴河会前武警司令放话“下手要狠”</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210728/1595356.md" target="_blank">【第三只眼睛】：《他说了六个字，神准预言了中共结局》</a></li>
 <li><a href="/comments/20210728/1595340.md" target="_blank">郑州伤亡数据被隐匿？李克强撂下话；外地殡仪支援河南 郑州殡馆堆大量遗体；韩朝热线断绝一年多 突然恢复；外媒曝共军攻台最可能地点？专家揭后果【希望之声TV-环球看点-2021/7/27】</a></li>
 <li><a href="/comments/20210728/1595339.md" target="_blank">【世界美景】视频+摄影：《超然的刺绣艺术》《美丽的人间仙境》《日本富士山之美》《土耳其阿拉拉特山》《捷克石珍珠》《无限生命力》《友谊桥》</a></li>
-<li><a href="/comments/20210728/1595334.md" target="_blank">拜登：将于年底结束在伊拉克的战斗任务</a></li>
-<li><a href="/comments/20210728/1595333.md" target="_blank">慈悲的上帝为我们开了一间药房</a></li>
-<li><a href="/comments/20210728/1595332.md" target="_blank">拜登：有长期武肺症状者 可被视为残障</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
+<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
 <li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20210611/1564824.md" target="_blank">【曾铮专栏】感悟神韵（之一）神韵的主旨</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
 
 </ul>
 </div>
