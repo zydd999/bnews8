@@ -20,13 +20,13 @@
 <li><a href="/cbnews/20210727/1595083.md">后怕！新乡原阳县灾区自愿者睡着了 被抬进灵车 差点被火化</a></li>
 <li><a href="/cnnews/20210727/1594853.md">女护士被拒入法国籍 原因竟是…中国医生扎心了</a></li>
 <li><a href="/bannedvideo/20210727/1595135.md">郑州京广隧道的秘密曝光：悲剧不可避免。专家组10年前的技术报告，就发出了预警。李克强沉默了一个星期，终于就隧道问题发狠话。</a></li>
-<li><a href="/cnnews/20210727/1594793.md">出现新变种！病毒源头曝光 已扩散26国</a></li>
 <li><a href="/cnnews/20210727/1595157.md">不敢公布的报告：中共情夫和女共谍“方芳”的细节【阿波罗网编译】</a></li>
+<li><a href="/cnnews/20210727/1594793.md">出现新变种！病毒源头曝光 已扩散26国</a></li>
 <li><a href="/bannedvideo/20210727/1595147.md">🔥🔥中国人惨了，1天之内760万人出事❗“超级细菌”超级致命...阿南德一年前的预言又应验了❗❗</a></li>
 <li><a href="/ssgc/20210727/1594980.md">〖兲朝浮世绘〗习近平同志在哪？</a></li>
+<li><a href="/cbnews/20210727/1595192.md">郑州洪灾 李克强暗示是人祸；中美关键议题白宫证实没谈；中共最关心啥？一目了然</a></li>
 <li><a href="/bannedvideo/20210727/1594843.md">郑州官方承认：91列地铁曾被困在洪水里！    可能又是几千人没了！</a></li>
 <li><a href="/cnnews/20210727/1594809.md">洪灾之后 郑州火车站见“油条摊贩”众人傻眼：根本卖金条</a></li>
-<li><a href="/cbnews/20210727/1594917.md">美中关键议题 白宫证实了：没谈</a></li>
 <li><a href="/topimagenews/20210727/1594801.md">大作家老舍的婚外恋 搭上了自己的命 周恩来一手干的</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210728/1595361.md" target="_blank">中国年轻人失业率超15% 拖累中国消费增长</a></li>
+<li><a href="/comments/20210728/1595358.md" target="_blank">网传合成图片 指《有线》报道人大将限港人出境 《有线》澄清：有人蓄意误导公众</a></li>
+<li><a href="/comments/20210728/1595357.md" target="_blank">【世界美景】视频：《泰国大象喜欢吃的食物》</a></li>
+<li><a href="/comments/20210728/1595356.md" target="_blank">【第三只眼睛】：《他说了六个字，神准预言了中共结局》</a></li>
 <li><a href="/comments/20210728/1595340.md" target="_blank">郑州伤亡数据被隐匿？李克强撂下话；外地殡仪支援河南 郑州殡馆堆大量遗体；韩朝热线断绝一年多 突然恢复；外媒曝共军攻台最可能地点？专家揭后果【希望之声TV-环球看点-2021/7/27】</a></li>
 <li><a href="/comments/20210728/1595339.md" target="_blank">【世界美景】视频+摄影：《超然的刺绣艺术》《美丽的人间仙境》《日本富士山之美》《土耳其阿拉拉特山》《捷克石珍珠》《无限生命力》《友谊桥》</a></li>
 <li><a href="/comments/20210728/1595334.md" target="_blank">拜登：将于年底结束在伊拉克的战斗任务</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210727/1595236.md" target="_blank">【任甄评论】极权反垄断 绝大的讽刺</a></li>
 <li><a href="/comments/20210727/1595209.md" target="_blank">北戴河政争两大议题 习近平秘密居所在何处？挡不住哀伤 郑州地铁口的鲜花成敏感“家丑”！白宫披露天津会谈关键“战狼”谢锋升官有原由【希望之声TV-两岸要闻-2021/07/27】</a></li>
 <li><a href="/comments/20210727/1595187.md" target="_blank">警务处财务、政务及策划处处长谭惠仪调职 8 月出任土地注册处处长</a></li>
-<li><a href="/comments/20210727/1595186.md" target="_blank">院校来年纷推国安教育 理大一年级本科生必修 岭大共同核心课程含国安</a></li>
-<li><a href="/comments/20210727/1595185.md" target="_blank">真乎 信乎</a></li>
-<li><a href="/comments/20210727/1595165.md" target="_blank">缅甸军政府宣布取消去年大选结果 声称发现“1100万起舞弊事件”</a></li>
-<li><a href="/comments/20210727/1595164.md" target="_blank">无美国经验 港媒：中国副外长秦刚赴美担任大使</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
 <li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
 
 </ul>
 </div>
