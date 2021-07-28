@@ -13,21 +13,21 @@
 <li><a href="/cbnews/20210728/1595387.md">本是英俊小伙 郑州地铁死者家属：遗体不成人形</a></li>
 <li><a href="/cbnews/20210728/1595320.md">郑州地铁15岁小姑娘完整视频爆更多细节：里面的人快窒息了 外面传“全部获救”</a></li>
 <li><a href="/comments/20210728/1595690.md">北戴河前 京畿重臣诡异发声 外媒放话习亲手送中共上路；“送花的太多了！”郑州地铁遇难者头七 官阻民悼念失败 【希望之声-红朝禁闻-2021/07/27】</a></li>
-<li><a href="/lifebaike/20210728/1595537.md">为什么买手机不建议选256GB？内行人：有三个原因</a></li>
-<li><a href="/cbnews/20210727/1595293.md">专栏 | 夜话中南海：习近平为什么安排一个“老外”出任外交部党委书记？</a></li>
 <li><a href="/cnnews/20210728/1595758.md">北京国贸世茂大厦发生火灾 现场浓烟密布 伤亡不明</a></li>
+<li><a href="/lifebaike/20210728/1595537.md">为什么买手机不建议选256GB？内行人：有三个原因</a></li>
 <li><a href="/comments/20210728/1595623.md">谢尔曼的天津会谈：第二次丧权辱国绥靖投降</a></li>
-<li><a href="/cnnews/20210728/1595431.md">广州女子怀孕3个月聚餐被劝酒！下秒头晕险被性侵 公司竟打算开除她</a></li>
-<li><a href="/cnnews/20210728/1595419.md">非裔华埠街头高呼“傻X中国人”遭华男一拳打倒</a></li>
-<li><a href="/weiquan/20210728/1595683.md">孙大午法庭最后陈述</a></li>
-<li><a href="/topimagenews/20210728/1595527.md">河南救灾物资到哪儿了？捐款不翼而飞</a></li>
 <li><a href="/bannedvideo/20210728/1595757.md">文睿：全面消灭中国经济，习近平为最坏情况作准备，赌中国人不敢造反</a></li>
+<li><a href="/weiquan/20210728/1595683.md">孙大午法庭最后陈述</a></li>
+<li><a href="/cnnews/20210728/1595431.md">广州女子怀孕3个月聚餐被劝酒！下秒头晕险被性侵 公司竟打算开除她</a></li>
+<li><a href="/topimagenews/20210728/1595527.md">河南救灾物资到哪儿了？捐款不翼而飞</a></li>
+<li><a href="/cnnews/20210728/1595419.md">非裔华埠街头高呼“傻X中国人”遭华男一拳打倒</a></li>
 <li><a href="/finance/20210728/1595585.md">如果中国的房价下跌：后果有多严重？</a></li>
 <li><a href="/cnnews/20210728/1595443.md">名医甜娶选美千金！5年后电脑惊见她“丑陋秘密”秒离婚</a></li>
 <li><a href="/cnnews/20210728/1595591.md">恐怖分子太爱它了…Toyota对这款新车下达禁令</a></li>
-<li><a href="/health/20210728/1595495.md">美国得脑梗的人少，中国却越来越多，原因都出在哪儿？</a></li>
 <li><a href="/cbnews/20210728/1595673.md">北戴河会议临近 习近平连续出手杀鸡儆猴 【阿波罗网报道】</a></li>
-<li><a href="/bannedvideo/20210728/1595479.md">【郑州地铁】幸存小姑娘爆惊人细节：大家是如何崩溃的；陆媒自曝：无异谋杀百姓；习近平再现独特一幕；北戴河会前习派异动；中国冤气冲天；南京疫情扩散5省10市以上，扬州封城 CT</a></li>
+<li><a href="/health/20210728/1595495.md">美国得脑梗的人少，中国却越来越多，原因都出在哪儿？</a></li>
+<li><a href="/cnnews/20210728/1595781.md">财经冷眼：亚马逊出手 中国1.2万亿出口渠道被切断</a></li>
+<li><a href="/bannedvideo/20210728/1595769.md">7月28日，北京国贸世贸大厦发生火灾，现场浓烟密布</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210728/1595940.md" target="_blank">拜登首次对情报部门讲话 高度关切中共威胁</a></li>
+<li><a href="/comments/20210728/1595931.md" target="_blank">南呼北应 火光冲天！北京世茂大厦 &#038; 广东东莞家俱厂黑烟滚滚</a></li>
 <li><a href="/comments/20210728/1595924.md" target="_blank">人间异象 细思极恐 接下来不知又会发生什么？</a></li>
 <li><a href="/comments/20210728/1595920.md" target="_blank">突发！ 北京国贸世茂大厦发生火灾【希望之声TV】</a></li>
 <li><a href="/comments/20210728/1595918.md" target="_blank">【任甄评论】教育「双减」打压资本，却更揽权</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210728/1595786.md" target="_blank">汉心：个人才是决定集体行动的终端</a></li>
 <li><a href="/comments/20210728/1595777.md" target="_blank">《自由圣火》网站公告</a></li>
 <li><a href="/comments/20210728/1595776.md" target="_blank">多重神祕巧合，帮助女子逃过佛州公寓倒塌；噩梦预警911恐袭，美国女子一个举动救下全家性命；MH17空难，小男孩提前预知生死；人类能改变命运的轨迹吗？</a></li>
-<li><a href="/comments/20210728/1595767.md" target="_blank">【小说连载】七海归途之雪伦公主（48）</a></li>
-<li><a href="/comments/20210728/1595752.md" target="_blank">世卫宣布第二轮溯源调查 病毒研究所外泄争议 外媒：中国刻意误导</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
 <li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
 
 </ul>
 </div>
