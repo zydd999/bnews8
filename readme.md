@@ -11,22 +11,22 @@
 <li><a href="/cbnews/20210727/1595192.md">郑州洪灾 李克强暗示是人祸；中美关键议题白宫证实没谈；中共最关心啥？一目了然</a></li>
 <li><a href="/comments/20210728/1595340.md">郑州伤亡数据被隐匿？李克强撂下话；外地殡仪支援河南 郑州殡馆堆大量遗体；韩朝热线断绝一年多 突然恢复；外媒曝共军攻台最可能地点？专家揭后果【希望之声TV-环球看点-2021/7/27】</a></li>
 <li><a href="/bannedvideo/20210727/1595135.md">郑州京广隧道的秘密曝光：悲剧不可避免。专家组10年前的技术报告，就发出了预警。李克强沉默了一个星期，终于就隧道问题发狠话。</a></li>
-<li><a href="/bannedvideo/20210728/1595447.md">郑州人反抗，用花海和蜡烛堆满地铁口；小学生怒喝“你们还是人吗”；美国防部长警告中共：面对威胁，我们绝不退缩；鹰派空军部长上任【#秦鹏观察 7/27】</a></li>
 <li><a href="/cnnews/20210727/1595157.md">不敢公布的报告：中共情夫和女共谍“方芳”的细节【阿波罗网编译】</a></li>
+<li><a href="/bannedvideo/20210728/1595447.md">郑州人反抗，用花海和蜡烛堆满地铁口；小学生怒喝“你们还是人吗”；美国防部长警告中共：面对威胁，我们绝不退缩；鹰派空军部长上任【#秦鹏观察 7/27】</a></li>
 <li><a href="/bannedvideo/20210728/1595454.md">尽管拼命作弊，中共奥运军团在东京依然一败涂地！</a></li>
 <li><a href="/comments/20210727/1595209.md">北戴河政争两大议题 习近平秘密居所在何处？挡不住哀伤 郑州地铁口的鲜花成敏感“家丑”！白宫披露天津会谈关键“战狼”谢锋升官有原由【希望之声TV-两岸要闻-2021/07/27】</a></li>
 <li><a href="/cbnews/20210728/1595387.md">本是英俊小伙 郑州地铁死者家属：遗体不成人形</a></li>
 <li><a href="/bannedvideo/20210727/1595147.md">🔥🔥中国人惨了，1天之内760万人出事❗“超级细菌”超级致命...阿南德一年前的预言又应验了❗❗</a></li>
-<li><a href="/cbnews/20210727/1595293.md">专栏 | 夜话中南海：习近平为什么安排一个“老外”出任外交部党委书记？</a></li>
 <li><a href="/cbnews/20210728/1595320.md">郑州地铁15岁小姑娘完整视频爆更多细节：里面的人快窒息了 外面传“全部获救”</a></li>
+<li><a href="/cbnews/20210727/1595293.md">专栏 | 夜话中南海：习近平为什么安排一个“老外”出任外交部党委书记？</a></li>
 <li><a href="/topimagenews/20210727/1595248.md">传美或限制基金投资中港 A股港股大跌 中国国债大跌 人民币跌破6.5关口</a></li>
 <li><a href="/topimagenews/20210727/1595249.md">监管风暴蔓延中概股暴跌 美证交会要求中企披露北京干预风险</a></li>
 <li><a href="/cnnews/20210728/1595419.md">非裔华埠街头高呼“傻X中国人”遭华男一拳打倒</a></li>
 <li><a href="/cnnews/20210728/1595431.md">广州女子怀孕3个月聚餐被劝酒！下秒头晕险被性侵 公司竟打算开除她</a></li>
+<li><a href="/lifebaike/20210728/1595537.md">为什么买手机不建议选256GB？内行人：有三个原因</a></li>
 <li><a href="/baitai/20210727/1595216.md">微信暂停个人账号新用户注册</a></li>
 <li><a href="/bannedvideo/20210727/1595167.md">郑州五号线地铁口小学生去献花表达哀思遇阻，发出愤怒的质问：“你们还配做人吗？你们没有小孩吗？”</a></li>
 <li><a href="/cnnews/20210728/1595443.md">名医甜娶选美千金！5年后电脑惊见她“丑陋秘密”秒离婚</a></li>
-<li><a href="/lifebaike/20210728/1595537.md">为什么买手机不建议选256GB？内行人：有三个原因</a></li>
 <li><a href="/topimagenews/20210728/1595527.md">河南救灾物资到哪儿了？捐款不翼而飞</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210728/1595725.md" target="_blank">凉拌木耳豆皮 食材简单 营养超值</a></li>
+<li><a href="/comments/20210728/1595705.md" target="_blank">传统色彩的奥妙</a></li>
 <li><a href="/comments/20210728/1595700.md" target="_blank">美官员：在美上市中国公司须通报被中共干涉风险</a></li>
 <li><a href="/comments/20210728/1595699.md" target="_blank">英国全面解封后 确诊数竟下降一半</a></li>
 <li><a href="/comments/20210728/1595698.md" target="_blank">缓解接种疫苗后不适症状 除了吃止痛药还可以这样做</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210728/1595566.md" target="_blank">横河观点：美副卿访华 中共对美关键诉求</a></li>
 <li><a href="/comments/20210728/1595555.md" target="_blank">沉雁：从困难群众到朝阳群众的距离 就只剩一口气</a></li>
 <li><a href="/comments/20210728/1595539.md" target="_blank">中国科技股连续三天大跳水 引发国际投资担忧</a></li>
-<li><a href="/comments/20210728/1595535.md" target="_blank">郑州初二学生：我的同学消失在京广隧道</a></li>
-<li><a href="/comments/20210728/1595534.md" target="_blank">沙口路地铁站口：有个叫妞妞的孩子要回家</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
-<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
 <li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
+<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/ganwu/20170705/787156.md" target="_blank">感悟神韵（之四）：感悟神韵音乐</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
 <li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
 
 </ul>
 </div>
