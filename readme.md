@@ -17,17 +17,17 @@
 <li><a href="/comments/20210728/1595849.md">抓到了！卫辉60万人蒙灾原因曝光；非洲一副总统传在京确诊 400余人被隔离 【希望之声-两岸要闻-2021/07/28】</a></li>
 <li><a href="/cbnews/20210728/1595832.md">河南救灾物资捐款都失踪；北戴河严密封锁，习近平或放鸽子；微信风口上停新用户注册</a></li>
 <li><a href="/cbnews/20210728/1595673.md">北戴河会议临近 习近平连续出手杀鸡儆猴 【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20210729/1596095.md">加国华裔游泳冠军 中共收取数万美金 真的只是中国弃婴？</a></li>
 <li><a href="/bannedvideo/20210728/1595796.md">去年河南现赊刀人 曾预言 明年活着就给钱 没了就没了 明年更可怕（2021年7月28日）</a></li>
 <li><a href="/bannedvideo/20210728/1595798.md">风高夜黑，当局偷偷派人炸河堤，被河南老乡们抓个正著！</a></li>
-<li><a href="/topimagenews/20210729/1596095.md">加国华裔游泳冠军 中共收取数万美金 真的只是中国弃婴？</a></li>
 <li><a href="/worldnews/20210728/1595930.md">康有为的玄孙女出现在奥运赛场 美貌惊人</a></li>
 <li><a href="/bannedvideo/20210728/1595939.md">郑州殡仪馆堆满尸体!</a></li>
 <li><a href="/topimagenews/20210729/1596005.md">中证监急召见国际投行高层 试图缓解市场忧虑</a></li>
-<li><a href="/bannedvideo/20210728/1595691.md">网传南京240辆挖掘机，铲平一座山在建方舱，当局公安、消防都在现场。但官方不承认在建方舱医院。</a></li>
 <li><a href="/comments/20210728/1595898.md">从没有一场奥运像今年这样让中共抓狂</a></li>
+<li><a href="/bannedvideo/20210728/1595691.md">网传南京240辆挖掘机，铲平一座山在建方舱，当局公安、消防都在现场。但官方不承认在建方舱医院。</a></li>
 <li><a href="/cbnews/20210729/1596046.md">胡锡进就郑州地铁献花发评论 被批“洗地”</a></li>
+<li><a href="/comments/20210729/1596103.md">央视报2亿人“灵活就业”翻车 急关评论区</a></li>
 <li><a href="/bannedvideo/20210728/1595664.md">怀疑成真？中国举重冠军卷入禁药疑云；就赢一指尖！中国这些年到底遗弃了多少这样的孩子？（20210728 第647期）</a></li>
-<li><a href="/lifebaike/20210728/1595746.md">洋葱加白醋，没想到这么厉害，解决很多人的烦恼，简单实用</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210729/1596307.md" target="_blank">防范中共 印度在东部边界布署新型战斗机中队</a></li>
 <li><a href="/cbnews/20210729/1596280.md" target="_blank">萧铭：情况或许比我原来估计的好，精算京广隧道北路死亡人数 ｜萧茗看世界</a></li>
 <li><a href="/comments/20210729/1596275.md" target="_blank">来真的！议员再逃跑德州不手软；羞耻的听证！美企打太极；美国48州再告脸书“希望之声TV-北美新闻-2021/0728”</a></li>
 <li><a href="/cbnews/20210729/1596271.md" target="_blank">注定无眠 郑州地铁“头七”回魂夜拜祭现场</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/comments/20210728/1595849.md" target="_blank">抓到了！卫辉60万人蒙灾原因曝光；非洲一副总统传在京确诊 400余人被隔离 【希望之声-两岸要闻-2021/07/28】</a></li>
 <li><a href="/cbnews/20210728/1595832.md" target="_blank">河南救灾物资捐款都失踪；北戴河严密封锁，习近平或放鸽子；微信风口上停新用户注册</a></li>
 <li><a href="/comments/20210728/1595776.md" target="_blank">多重神祕巧合，帮助女子逃过佛州公寓倒塌；噩梦预警911恐袭，美国女子一个举动救下全家性命；MH17空难，小男孩提前预知生死；人类能改变命运的轨迹吗？</a></li>
-<li><a href="/comments/20210728/1595705.md" target="_blank">传统色彩的奥妙</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210729/1596305.md" target="_blank">拍摄郑州地铁外的鲜花祭奠场景 西安青年被便衣警残暴殴打</a></li>
 <li><a href="/comments/20210729/1596288.md" target="_blank">福克斯名主持：CDC新口罩指南是为政治和控制</a></li>
 <li><a href="/comments/20210729/1596278.md" target="_blank">拜登：正考虑强制所有联邦雇员接种疫苗</a></li>
 <li><a href="/comments/20210729/1596275.md" target="_blank">来真的！议员再逃跑德州不手软；羞耻的听证！美企打太极；美国48州再告脸书“希望之声TV-北美新闻-2021/0728”</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210729/1596118.md" target="_blank">中共出手打击 中概教育股暴跌 欧美投资银行损失上百亿美元</a></li>
 <li><a href="/comments/20210729/1596111.md" target="_blank">布林肯见达赖喇嘛代表 胡锡进：中美早已撕破脸</a></li>
 <li><a href="/comments/20210729/1596103.md" target="_blank">央视报2亿人“灵活就业”翻车 急关评论区</a></li>
-<li><a href="/comments/20210729/1596096.md" target="_blank">金庸最喜欢的武侠小说之一，一个平凡小婢女突然开挂的大唐传奇。</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
 <li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
 
 </ul>
 </div>
