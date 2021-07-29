@@ -11,23 +11,23 @@
 <li><a href="/cnnews/20210728/1595758.md">北京国贸世茂大厦发生火灾 现场浓烟密布 伤亡不明</a></li>
 <li><a href="/bannedvideo/20210728/1595757.md">文睿：全面消灭中国经济，习近平为最坏情况作准备，赌中国人不敢造反</a></li>
 <li><a href="/cnnews/20210728/1595781.md">财经冷眼：亚马逊出手 中国1.2万亿出口渠道被切断</a></li>
-<li><a href="/bannedvideo/20210729/1596033.md">奥运会火爆现场：全场比赛高喊“我操”的中国羽毛球选手陈清晨才24岁还是女性  一下子火了</a></li>
 <li><a href="/comments/20210729/1596041.md">北戴河严密封锁 中共元老对习近平的很多做法感到恼火 习近平可以独立决定二十大高层人事？有三人是李克强的可能接替人选 中南海谣言预言_495</a></li>
 <li><a href="/bannedvideo/20210728/1595769.md">7月28日，北京国贸世贸大厦发生火灾，现场浓烟密布</a></li>
 <li><a href="/comments/20210728/1595849.md">抓到了！卫辉60万人蒙灾原因曝光；非洲一副总统传在京确诊 400余人被隔离 【希望之声-两岸要闻-2021/07/28】</a></li>
 <li><a href="/topimagenews/20210729/1596095.md">加国华裔游泳冠军 中共收取数万美金 真的只是中国弃婴？</a></li>
 <li><a href="/cbnews/20210728/1595832.md">河南救灾物资捐款都失踪；北戴河严密封锁，习近平或放鸽子；微信风口上停新用户注册</a></li>
-<li><a href="/cbnews/20210728/1595673.md">北戴河会议临近 习近平连续出手杀鸡儆猴 【阿波罗网报道】</a></li>
+<li><a href="/comments/20210729/1596103.md">央视报2亿人“灵活就业”翻车 急关评论区</a></li>
 <li><a href="/bannedvideo/20210728/1595796.md">去年河南现赊刀人 曾预言 明年活着就给钱 没了就没了 明年更可怕（2021年7月28日）</a></li>
 <li><a href="/bannedvideo/20210728/1595798.md">风高夜黑，当局偷偷派人炸河堤，被河南老乡们抓个正著！</a></li>
 <li><a href="/worldnews/20210728/1595930.md">康有为的玄孙女出现在奥运赛场 美貌惊人</a></li>
-<li><a href="/comments/20210729/1596103.md">央视报2亿人“灵活就业”翻车 急关评论区</a></li>
-<li><a href="/bannedvideo/20210728/1595939.md">郑州殡仪馆堆满尸体!</a></li>
 <li><a href="/topimagenews/20210729/1596005.md">中证监急召见国际投行高层 试图缓解市场忧虑</a></li>
+<li><a href="/bannedvideo/20210728/1595939.md">郑州殡仪馆堆满尸体!</a></li>
 <li><a href="/comments/20210728/1595898.md">从没有一场奥运像今年这样让中共抓狂</a></li>
 <li><a href="/cbnews/20210729/1596046.md">胡锡进就郑州地铁献花发评论 被批“洗地”</a></li>
 <li><a href="/bannedvideo/20210728/1595691.md">网传南京240辆挖掘机，铲平一座山在建方舱，当局公安、消防都在现场。但官方不承认在建方舱医院。</a></li>
 <li><a href="/cnnews/20210729/1596099.md">河南卫辉志愿者还在水中救人 政府开始通电 电倒八位志愿者</a></li>
+<li><a href="/headline/20210729/1596123.md">中国羽毛球女将奥运场上脏话狂飙 一口一个国骂</a></li>
+<li><a href="/comments/20210728/1595920.md">突发！ 北京国贸世茂大厦发生火灾【希望之声TV】</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -54,13 +54,13 @@
 <li><a href="/comments/20210729/1596096.md" target="_blank">金庸最喜欢的武侠小说之一，一个平凡小婢女突然开挂的大唐传奇。</a></li>
 <li><a href="/cbnews/20210729/1596076.md" target="_blank">毫无人性的“围稳”：让民众献花，天不会塌</a></li>
 <li><a href="/cbnews/20210729/1596075.md" target="_blank">鲁南制药创始人托孤疑被律师独吞? 独生女怒告争回百亿遗产</a></li>
-<li><a href="/comments/20210729/1596064.md" target="_blank">东京疫情再次刷新 专家：极大的危机感；日本再获三金居首位 有望破奥运最佳得金记录【希望之声TV-奥运会专题报导-2021/7/28】</a></li>
 <li><a href="/cbnews/20210729/1596047.md" target="_blank">中共“恼羞成怒”！对外媒敌意高速攀升</a></li>
 <li><a href="/cbnews/20210729/1596046.md" target="_blank">胡锡进就郑州地铁献花发评论 被批“洗地”</a></li>
 <li><a href="/comments/20210729/1596006.md" target="_blank">会爆发大国热战？拜登突造访情报界；老天发怒？河南少林寺被淹了；第二处!中共新疆祕密核武库被发现；地图找不到中华台北 外媒议论纷纷【希望之声TV-环球看点-2021/7/28】</a></li>
 <li><a href="/comments/20210728/1595920.md" target="_blank">突发！ 北京国贸世茂大厦发生火灾【希望之声TV】</a></li>
 <li><a href="/cbnews/20210728/1595912.md" target="_blank">大陆工作近三十年的老律师揭露中共的执法…</a></li>
 <li><a href="/comments/20210728/1595849.md" target="_blank">抓到了！卫辉60万人蒙灾原因曝光；非洲一副总统传在京确诊 400余人被隔离 【希望之声-两岸要闻-2021/07/28】</a></li>
+<li><a href="/cbnews/20210728/1595832.md" target="_blank">河南救灾物资捐款都失踪；北戴河严密封锁，习近平或放鸽子；微信风口上停新用户注册</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
 <li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
 <li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
 
 </ul>
 </div>
