@@ -8,7 +8,6 @@
 <li><a href="/cnnews/20210729/1596169.md">千亿债务压身中国最大“红顶商人”大厦将倾</a></li>
 <li><a href="/cnnews/20210729/1596322.md">出大事了！宛如大片的连环金融大案 神秘人能量惊人</a></li>
 <li><a href="/headline/20210729/1596123.md">中国羽毛球女将奥运场上脏话狂飙 一口一个国骂</a></li>
-<li><a href="/comments/20210729/1596103.md">央视报2亿人“灵活就业”翻车 急关评论区</a></li>
 <li><a href="/cbnews/20210729/1596280.md">萧铭：情况或许比我原来估计的好，精算京广隧道北路死亡人数 ｜萧茗看世界</a></li>
 <li><a href="/bannedvideo/20210729/1596306.md">外交部急了：必须让党官和家属赴美！不答应我们叫塔利班！郑州地铁五号线花祭，最後车厢唯一幸存者和英雄齐现身</a></li>
 <li><a href="/comments/20210729/1596423.md">隧道里拖出来的车 不忍直视！ 【希望之声TV】</a></li>
@@ -17,17 +16,18 @@
 <li><a href="/health/20210729/1596371.md">糖尿病的“祸端”公布了，别再冤枉甜食了，2物再馋也别贪吃</a></li>
 <li><a href="/cbnews/20210729/1596509.md">央视报导泄密翻车 急关评论；美日携手对抗中共启动新合作；中港股市连日暴跌中共急了</a></li>
 <li><a href="/cnnews/20210729/1596347.md">郑州地铁站口 西安大学生用无人机拍摄 遭便衣警察暴打 抢夺设备 惹怒群众</a></li>
+<li><a href="/topimagenews/20210729/1596552.md">郑州上游19日已开始泄洪，而21日才公布内部通知！【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20210729/1596136.md">南京疫情在张家界二次传播 专家称还看不到头</a></li>
 <li><a href="/ssgc/20210729/1596318.md">〖微博谈〗习氏之静默</a></li>
-<li><a href="/topimagenews/20210729/1596552.md">郑州上游19日已开始泄洪，而21日才公布内部通知！【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20210729/1596394.md">郑州火车站现状，处于戒严状态，到处是塌陷的大坑，整个火车站地下全在水里泡著</a></li>
 <li><a href="/cnnews/20210729/1596124.md">争议！中国疫苗到底是帮忙还是添乱？</a></li>
 <li><a href="/ssgc/20210729/1596268.md">〖兲朝浮世绘〗中共+塔利班形成地球上最强大的土匪阵容</a></li>
 <li><a href="/bannedvideo/20210729/1596488.md">陈破空：北戴河紧张，政治老人怒责习近平！拜登暗示战争。美中外长角力，各自会见神秘人。中共大使仓促上任</a></li>
+<li><a href="/cbnews/20210729/1596605.md">大陆一名男子与保安扭打中 咬掉保安一节手指 并高呼：“你弄死我吧！我不想活了！”</a></li>
 <li><a href="/headline/20210729/1596404.md">新任中国驻美大使秦刚 :“中美关系的大门已经打开，就不会关上”</a></li>
 <li><a href="/bannedvideo/20210729/1596170.md">恐惧真相，小伙航拍地铁口被打！民众出手救人质问便衣：为啥不能拍！中共第二处祕密核武库曝光；挫败顶级手机黑客只需这两步；台湾上百政治人物Line被入侵【 #晚间新闻 】｜ #新唐人电视台</a></li>
-<li><a href="/cbnews/20210729/1596133.md">文昭：郑州「菊花阵造反」，中国人血仍未冷！李克强「背锅」压力紧迫，忍不住又出声</a></li>
 <li><a href="/cnnews/20210729/1596283.md">要不是妻子全力施压查找 他被偷偷火化永远成失联人员</a></li>
+<li><a href="/cbnews/20210729/1596133.md">文昭：郑州「菊花阵造反」，中国人血仍未冷！李克强「背锅」压力紧迫，忍不住又出声</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,13 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210730/1596745.md" target="_blank">黄晓明贺表妹东奥桌球女单夺金 引网友热议</a></li>
+<li><a href="/comments/20210730/1596735.md" target="_blank">胡锡进瞎称政府不可能隐瞒河南洪灾 大批网友怒斥：真会舔</a></li>
+<li><a href="/comments/20210730/1596734.md" target="_blank">【宇连空间】纪实剪影：《决堤还是掘堤》《广东省东莞常平镇家俱店发生火灾》《我的天啊还在突突》《西安青年郑州拍摄遭便衣暴力》《2021年7月异象》</a></li>
+<li><a href="/comments/20210730/1596733.md" target="_blank">正见网 “传奇时代”雪中梅－一对生死之交共同见证了这个时代最坎坷的一幕</a></li>
+<li><a href="/comments/20210730/1596732.md" target="_blank">南京建立方舱医院延曝光 张文宏：疫苗不能根除新冠肺炎</a></li>
+<li><a href="/comments/20210730/1596731.md" target="_blank">正见网 【传奇时代纪录片】御风而行（上下集）： 《香港人不怕》《逆境追光》</a></li>
+<li><a href="/comments/20210730/1596730.md" target="_blank">傻眼了！ ！ 南京乱作一团 隔离的人满楼跑！老人和孩子雨夜露宿街头</a></li>
 <li><a href="/comments/20210730/1596729.md" target="_blank">美俄举行军备会谈 美国务院：谈判务实专业</a></li>
 <li><a href="/comments/20210730/1596725.md" target="_blank">河南水灾志愿者险被火化 差2个路口就到&#8230;&#8230;【希望之声TV】</a></li>
 <li><a href="/comments/20210730/1596717.md" target="_blank">十字路口：史上最大共谍案 中共谍战五诡计</a></li>
@@ -116,13 +123,6 @@
 <li><a href="/comments/20210730/1596628.md" target="_blank">程晓农：管控冲突风险 美中在天津谈不出结果</a></li>
 <li><a href="/comments/20210729/1596623.md" target="_blank">美众院将成立两党议员团 问责中共新疆人权问题</a></li>
 <li><a href="/comments/20210729/1596622.md" target="_blank">传滴滴或私有化退市 滴滴否认</a></li>
-<li><a href="/comments/20210729/1596617.md" target="_blank">【专访】王维洛谈中共不提的中苏富锦战役内情</a></li>
-<li><a href="/comments/20210729/1596616.md" target="_blank">量血压是左手还是右手？医生提醒：在家测血压做好这2点才准确</a></li>
-<li><a href="/comments/20210729/1596615.md" target="_blank">看清饮品糖份标识！3点助您把关</a></li>
-<li><a href="/comments/20210729/1596582.md" target="_blank">追查国际：一起最新公开报导的活摘器官杀人命案</a></li>
-<li><a href="/comments/20210729/1596581.md" target="_blank">时事大家谈：中国驻美大使换届，战狼外交下美国将如何“与狼共舞”？</a></li>
-<li><a href="/comments/20210729/1596579.md" target="_blank">超载日越来越早：地球今天进入生物资源负债期</a></li>
-<li><a href="/comments/20210729/1596569.md" target="_blank">梁美芬组凝聚民心平台 称不为立法会选举 发起人包括束健铭、叶家宝</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
 <li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
 <li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
-<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
 
 </ul>
 </div>
