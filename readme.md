@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/cnnews/20210729/1596322.md">出大事了！宛如大片的连环金融大案 神秘人能量惊人</a></li>
 <li><a href="/comments/20210729/1596423.md">隧道里拖出来的车 不忍直视！ 【希望之声TV】</a></li>
-<li><a href="/topimagenews/20210729/1596459.md">突发！沈阳皇姑区地面突现深坑 天塌地陷 末世之兆</a></li>
 <li><a href="/health/20210729/1596371.md">糖尿病的“祸端”公布了，别再冤枉甜食了，2物再馋也别贪吃</a></li>
+<li><a href="/topimagenews/20210729/1596459.md">突发！沈阳皇姑区地面突现深坑 天塌地陷 末世之兆</a></li>
 <li><a href="/cbnews/20210729/1596509.md">央视报导泄密翻车 急关评论；美日携手对抗中共启动新合作；中港股市连日暴跌中共急了</a></li>
 <li><a href="/ssgc/20210730/1596723.md">〖兲朝浮世绘〗崔天凯滞美不归？给党国留了面子</a></li>
 <li><a href="/comments/20210730/1596730.md">傻眼了！ ！ 南京乱作一团 隔离的人满楼跑！老人和孩子雨夜露宿街头</a></li>
 <li><a href="/cnnews/20210729/1596347.md">郑州地铁站口 西安大学生用无人机拍摄 遭便衣警察暴打 抢夺设备 惹怒群众</a></li>
 <li><a href="/topimagenews/20210729/1596552.md">郑州上游19日已开始泄洪，而21日才公布内部通知！【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20210730/1596696.md">美中为何撕破脸？他曝拜登变脸关键</a></li>
 <li><a href="/yule/20210730/1596639.md">女歌手开车带着父母儿子出游，惊传车祸一家六口全罹难</a></li>
+<li><a href="/cbnews/20210730/1596696.md">美中为何撕破脸？他曝拜登变脸关键</a></li>
+<li><a href="/bannedvideo/20210730/1596747.md">拜登对习近平发出战争威胁？天津会谈后，美国3次跨中共底线；盘点东京奥运会种种故事，小粉红出征，惹怒日本民众【#秦鹏观察 7/29】</a></li>
 <li><a href="/worldnews/20210729/1596626.md">南京疫情狂烧！中媒：武汉爆发以来最严峻考验</a></li>
 <li><a href="/bannedvideo/20210729/1596394.md">郑州火车站现状，处于戒严状态，到处是塌陷的大坑，整个火车站地下全在水里泡著</a></li>
-<li><a href="/baitai/20210730/1596660.md">刘又铭：美国总算听见了中国叫的声声「操你妈」</a></li>
 <li><a href="/cbnews/20210729/1596605.md">大陆一名男子与保安扭打中 咬掉保安一节手指 并高呼：“你弄死我吧！我不想活了！”</a></li>
+<li><a href="/baitai/20210730/1596660.md">刘又铭：美国总算听见了中国叫的声声「操你妈」</a></li>
 <li><a href="/bannedvideo/20210729/1596488.md">陈破空：北戴河紧张，政治老人怒责习近平！拜登暗示战争。美中外长角力，各自会见神秘人。中共大使仓促上任</a></li>
-<li><a href="/bannedvideo/20210730/1596747.md">拜登对习近平发出战争威胁？天津会谈后，美国3次跨中共底线；盘点东京奥运会种种故事，小粉红出征，惹怒日本民众【#秦鹏观察 7/29】</a></li>
-<li><a href="/bannedvideo/20210730/1596685.md">河南男子跪求毛主席显灵，让洪水淹没美国！        河南人是中国的黑人（智人）？        郑州溺水者凭翻墙上网经验，救自己一命！</a></li>
 <li><a href="/worldnews/20210729/1596555.md">日本体操妹超甜 姣好的身材让网友喊：恋爱了</a></li>
-<li><a href="/headline/20210729/1596404.md">新任中国驻美大使秦刚 :“中美关系的大门已经打开，就不会关上”</a></li>
+<li><a href="/bannedvideo/20210730/1596685.md">河南男子跪求毛主席显灵，让洪水淹没美国！        河南人是中国的黑人（智人）？        郑州溺水者凭翻墙上网经验，救自己一命！</a></li>
 <li><a href="/cbnews/20210729/1596553.md">今日奥运冠军5岁时竟与郭晶晶同框 后墙文字神预言</a></li>
+<li><a href="/headline/20210729/1596404.md">新任中国驻美大使秦刚 :“中美关系的大门已经打开，就不会关上”</a></li>
 <li><a href="/baitai/20210729/1596476.md">武汉民众今后将凭房票买房</a></li>
 <li><a href="/cnnews/20210729/1596422.md">直击河南卫辉市严重受灾惨状！半夜泄洪不通知 等同于谋杀</a></li>
+<li><a href="/comments/20210729/1596525.md">台湾曝史上最大共谍案；中纪委罕见发话 团派20大之路遇阻；【希望之声-两岸要闻-2021/07/29】</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210730/1596948.md" target="_blank">江峰：悄悄拿下！蔡英文早知情台湾前空军司令二级上将张哲平涉嫌卷入共谍案，曾是参谋总长人选；美不敢卖台F35的原因找到了；习近平军改重挫军情系统内幕【江峰漫谈20210729第353期】</a></li>
 <li><a href="/comments/20210730/1596938.md" target="_blank">影响大了 河南洪灾牵动世界粮食供应链；凭房票买房！计划经济到来？【希望之声-午夜新闻-2021/07/29】</a></li>
 <li><a href="/cbnews/20210730/1596913.md" target="_blank">超强！四川牛人花2年凿悬崖石屋 连床和窗户都自己做</a></li>
 <li><a href="/comments/20210730/1596898.md" target="_blank">谁在围攻美国？鸦雀无声；有办法彻查！病毒起源两党领袖给三大建议；忧国家方向！8成人对川普有这样的期待！“希望之声TV-北美新闻-2021/0729”</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/comments/20210729/1596423.md" target="_blank">隧道里拖出来的车 不忍直视！ 【希望之声TV】</a></li>
 <li><a href="/cbnews/20210729/1596409.md" target="_blank">霸凌科学界！中共伸手诺贝尔奖峰会</a></li>
 <li><a href="/comments/20210729/1596408.md" target="_blank">人类为什么需要信仰（下集）—— 创造上帝的智者应该为信仰的原罪负责（东方哲人解析当代人类困惑  第四十二讲）【袁红冰杏坛】 07292021</a></li>
-<li><a href="/comments/20210729/1596334.md" target="_blank">中美冷战祸及中概股  3天蒸发5000亿美元；究竟多少人遇难？“我们是唯一幸存者”【希望之声-红朝禁闻-2021/07/28】</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20210329/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
 <li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
 <li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
 
 </ul>
 </div>
