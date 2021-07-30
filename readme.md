@@ -17,7 +17,6 @@
 <li><a href="/sports/20210730/1596791.md">荷尔蒙爆棚!日本网友:中国为啥派男人来参赛女子赛?</a></li>
 <li><a href="/comments/20210730/1597065.md">轰动世界的“借尸还魂”案！37岁台湾少妇病逝，复活后自称是18岁冤死少女，故事离奇如小说，可是来“打假”的人都服了。</a></li>
 <li><a href="/topimagenews/20210730/1596955.md">又把王沪宁卖了！江系对王沪宁和周强充满期待 反暴露其底细【阿波罗网报道】</a></li>
-<li><a href="/bannedvideo/20210730/1596685.md">河南男子跪求毛主席显灵，让洪水淹没美国！        河南人是中国的黑人（智人）？        郑州溺水者凭翻墙上网经验，救自己一命！</a></li>
 <li><a href="/cbnews/20210730/1597071.md">严控出境！上半年中国护照签发量 仅2019年2%</a></li>
 <li><a href="/comments/20210730/1596890.md">遭人唾弃的中国奥运冠军，赢了世界又如何？依旧被人看不起。台湾参加奥运，又伤中共玻璃心。│#熊猫侠</a></li>
 <li><a href="/cnnews/20210730/1597128.md">中共怂了 新大使抵华府首日就放软话；灾难面前央视捅大篓子网骂爆</a></li>
@@ -27,6 +26,7 @@
 <li><a href="/bannedvideo/20210730/1596922.md">王毅把塔利班当作正式外国高级外交使团接待让外界大跌眼镜  抛出的言论更令外界忧心忡忡</a></li>
 <li><a href="/cbnews/20210730/1596948.md">江峰：悄悄拿下！蔡英文早知情台湾前空军司令二级上将张哲平涉嫌卷入共谍案，曾是参谋总长人选；美不敢卖台F35的原因找到了；习近平军改重挫军情系统内幕【江峰漫谈20210729第353期】</a></li>
 <li><a href="/cnnews/20210730/1596919.md">以为打完疫苗百毒不侵 32岁华男详述感染经历</a></li>
+<li><a href="/bannedvideo/20210730/1597120.md">中共慌了！  德尔塔病毒已经蔓延到7省15城！</a></li>
 <li><a href="/cnnews/20210730/1596772.md">中国一编程大赛自曝泄密境外…官方直接关评论</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210731/1597306.md" target="_blank">中共新大使履新之际 美频频释放挺台信号</a></li>
 <li><a href="/comments/20210731/1597294.md" target="_blank">【国安法首案】唐英杰判囚 9 年 黄宇逸：刑期算苛刻 汤家骅：量刑须具阻吓作用</a></li>
 <li><a href="/comments/20210731/1597293.md" target="_blank">诗一首：《七月，最后一日的信笔写来》</a></li>
 <li><a href="/comments/20210731/1597282.md" target="_blank">中国恒大拖欠拿地款 被地方政府追讨</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210730/1597096.md" target="_blank">港击剑王子夺金牌现场奏“国歌” 港民抗议或被控违法</a></li>
 <li><a href="/comments/20210730/1597095.md" target="_blank">东奥娇点 华裔桌球女将入韩籍变美登热搜</a></li>
 <li><a href="/comments/20210730/1597077.md" target="_blank">【夏小强世界独家连载】有关拙作《西游漫注》《西游漫注：（1）开篇为何讲宇宙起源？》（音频）</a></li>
-<li><a href="/comments/20210730/1597076.md" target="_blank">【曾铮专栏】译文篇：A Girl Called Niu Niu Will Return Home 有个叫妞妞的孩子要回家</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
 <li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20210611/1564824.md" target="_blank">【曾铮专栏】感悟神韵（之一）神韵的主旨</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
 
 </ul>
 </div>
