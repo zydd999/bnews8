@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cnnews/20210729/1596322.md">出大事了！宛如大片的连环金融大案 神秘人能量惊人</a></li>
-<li><a href="/cbnews/20210729/1596280.md">萧铭：情况或许比我原来估计的好，精算京广隧道北路死亡人数 ｜萧茗看世界</a></li>
 <li><a href="/bannedvideo/20210729/1596306.md">外交部急了：必须让党官和家属赴美！不答应我们叫塔利班！郑州地铁五号线花祭，最後车厢唯一幸存者和英雄齐现身</a></li>
 <li><a href="/comments/20210729/1596423.md">隧道里拖出来的车 不忍直视！ 【希望之声TV】</a></li>
 <li><a href="/topimagenews/20210729/1596290.md">群起抵抗中共暴政！中国人在逐渐觉醒！【阿波罗网报道】</a></li>
@@ -16,18 +15,19 @@
 <li><a href="/cnnews/20210729/1596347.md">郑州地铁站口 西安大学生用无人机拍摄 遭便衣警察暴打 抢夺设备 惹怒群众</a></li>
 <li><a href="/topimagenews/20210729/1596552.md">郑州上游19日已开始泄洪，而21日才公布内部通知！【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20210729/1596318.md">〖微博谈〗习氏之静默</a></li>
+<li><a href="/ssgc/20210730/1596723.md">〖兲朝浮世绘〗崔天凯滞美不归？给党国留了面子</a></li>
 <li><a href="/yule/20210730/1596639.md">女歌手开车带着父母儿子出游，惊传车祸一家六口全罹难</a></li>
-<li><a href="/bannedvideo/20210729/1596394.md">郑州火车站现状，处于戒严状态，到处是塌陷的大坑，整个火车站地下全在水里泡著</a></li>
+<li><a href="/cbnews/20210730/1596696.md">美中为何撕破脸？他曝拜登变脸关键</a></li>
 <li><a href="/worldnews/20210729/1596626.md">南京疫情狂烧！中媒：武汉爆发以来最严峻考验</a></li>
+<li><a href="/bannedvideo/20210729/1596394.md">郑州火车站现状，处于戒严状态，到处是塌陷的大坑，整个火车站地下全在水里泡著</a></li>
 <li><a href="/baitai/20210730/1596660.md">刘又铭：美国总算听见了中国叫的声声「操你妈」</a></li>
 <li><a href="/cbnews/20210729/1596605.md">大陆一名男子与保安扭打中 咬掉保安一节手指 并高呼：“你弄死我吧！我不想活了！”</a></li>
 <li><a href="/bannedvideo/20210729/1596488.md">陈破空：北戴河紧张，政治老人怒责习近平！拜登暗示战争。美中外长角力，各自会见神秘人。中共大使仓促上任</a></li>
-<li><a href="/ssgc/20210730/1596723.md">〖兲朝浮世绘〗崔天凯滞美不归？给党国留了面子</a></li>
-<li><a href="/cbnews/20210730/1596696.md">美中为何撕破脸？他曝拜登变脸关键</a></li>
-<li><a href="/headline/20210729/1596404.md">新任中国驻美大使秦刚 :“中美关系的大门已经打开，就不会关上”</a></li>
 <li><a href="/bannedvideo/20210730/1596685.md">河南男子跪求毛主席显灵，让洪水淹没美国！        河南人是中国的黑人（智人）？        郑州溺水者凭翻墙上网经验，救自己一命！</a></li>
+<li><a href="/headline/20210729/1596404.md">新任中国驻美大使秦刚 :“中美关系的大门已经打开，就不会关上”</a></li>
 <li><a href="/worldnews/20210729/1596555.md">日本体操妹超甜 姣好的身材让网友喊：恋爱了</a></li>
 <li><a href="/cbnews/20210729/1596553.md">今日奥运冠军5岁时竟与郭晶晶同框 后墙文字神预言</a></li>
+<li><a href="/cnnews/20210729/1596283.md">要不是妻子全力施压查找 他被偷偷火化永远成失联人员</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210730/1596898.md" target="_blank">谁在围攻美国？鸦雀无声；有办法彻查！病毒起源两党领袖给三大建议；忧国家方向！8成人对川普有这样的期待！“希望之声TV-北美新闻-2021/0729”</a></li>
+<li><a href="/cbnews/20210730/1596895.md" target="_blank">战狼不够用！不只日本 世界都在帮“台湾”正名</a></li>
 <li><a href="/cbnews/20210730/1596858.md" target="_blank">又一只政法虎被查！还是新疆建设兵团原副司令【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20210730/1596829.md" target="_blank">天亮时分：郑州的菊花革命；铁拳砸向3个领域，习近平很可能不去北戴河；天津会晤后，美国狠踩中共红线；（政论天下第476集 20210729）</a></li>
 <li><a href="/cbnews/20210730/1596803.md" target="_blank">萧铭：王维洛专访3: 中国耗资百亿，千亿，万亿的水利工程为何成为夺命工程？｜萧茗看世界</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/comments/20210729/1596334.md" target="_blank">中美冷战祸及中概股  3天蒸发5000亿美元；究竟多少人遇难？“我们是唯一幸存者”【希望之声-红朝禁闻-2021/07/28】</a></li>
 <li><a href="/cbnews/20210729/1596319.md" target="_blank">江峰：郑州受难数字真相待揭；党员禁入美境积怨中南海；弃对等外交，王毅突临中美副外长谈判爆习近平西藏密电；布林肯见达赖代表秒破新底线【江峰漫谈20210728第352期】</a></li>
 <li><a href="/comments/20210729/1596315.md" target="_blank">美两党提法案对抗中共 美台签约提升台海监控力；“朝阳群众”被收编 八大告密任务【希望之声-午夜新闻-2021/07/28】</a></li>
-<li><a href="/cbnews/20210729/1596307.md" target="_blank">防范中共 印度在东部边界布署新型战斗机中队</a></li>
-<li><a href="/cbnews/20210729/1596280.md" target="_blank">萧铭：情况或许比我原来估计的好，精算京广隧道北路死亡人数 ｜萧茗看世界</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210730/1596910.md" target="_blank">胡锦涛让李克强任辽宁省委书记 抄底薄熙来 薄熙来害怕“死都不知怎么死的” 让心腹大连国安局书记车克民紧紧盯住李克强：来者不善，善者不来！中南海不可告人的秘密_429</a></li>
+<li><a href="/comments/20210730/1596907.md" target="_blank">美国会共和党人提法案 要求完成边境墙修建</a></li>
+<li><a href="/comments/20210730/1596906.md" target="_blank">英国警告：COVID-19可能在未来两周内感染半个缅甸</a></li>
+<li><a href="/comments/20210730/1596898.md" target="_blank">谁在围攻美国？鸦雀无声；有办法彻查！病毒起源两党领袖给三大建议；忧国家方向！8成人对川普有这样的期待！“希望之声TV-北美新闻-2021/0729”</a></li>
 <li><a href="/comments/20210730/1596890.md" target="_blank">遭人唾弃的中国奥运冠军，赢了世界又如何？依旧被人看不起。台湾参加奥运，又伤中共玻璃心。│#熊猫侠</a></li>
 <li><a href="/comments/20210730/1596887.md" target="_blank">北戴河会期原辽宁省委书记闻世震去世 曾与薄熙来打得不可开交 多次讽刺薄熙来搞形象工程：“城市建设得像欧洲，农村发展像非洲” 薄熙来被调离辽宁鲜为人知的内幕 中南海不可告人的秘密_428</a></li>
 <li><a href="/comments/20210730/1596877.md" target="_blank">诗一首：《云 烟》</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210730/1596823.md" target="_blank">拜登宣布所有联邦雇员需接种疫苗 覆盖面600万人</a></li>
 <li><a href="/comments/20210730/1596822.md" target="_blank">东京染疫8月底恐日破1万 东奥金牌前三争夺激烈</a></li>
 <li><a href="/comments/20210730/1596815.md" target="_blank">一桩中国骗子夫妇裹挟澳大利亚政要跨国诈骗中国老人的大案</a></li>
-<li><a href="/comments/20210730/1596793.md" target="_blank">投上亿美元 纽约州帮5万纽约市立大学生免债</a></li>
-<li><a href="/comments/20210730/1596780.md" target="_blank">1.2兆基础设施法案美参院通关 川普：输的是美国</a></li>
-<li><a href="/comments/20210730/1596767.md" target="_blank">台美日战略论坛中神秘嘉宾重磅演讲，呼吁把台湾加入世卫、跨太平洋伙伴全面进步协定等国际组织，强调非常重视台湾【希望之声TV-每日头条-2021/7/29】</a></li>
-<li><a href="/comments/20210730/1596766.md" target="_blank">美日台战略对话火爆 三国结盟再挑中共三底线   驻美大使秦刚走马上任 中共希望他做什么？【希望之声TV-新闻焦点解读-2021/07/29】主持:高洁</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
 <li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
 <li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
 <li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
 
 </ul>
 </div>
