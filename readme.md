@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/comments/20210731/1597380.md">崔天凯滞美不归？大使叛逃惊天动地？后幕险恶 中共内部震荡末日之兆 中南海谣言预言_496</a></li>
 <li><a href="/bannedvideo/20210731/1597416.md">准备叛逃！  中国驻美大使崔天凯拒绝回祖国！</a></li>
 <li><a href="/topimagenews/20210731/1597592.md">广东湛江飞机坠毁 爆炸起火 事发现场多辆军车</a></li>
 <li><a href="/cnnews/20210731/1597440.md">因长得太美无人敢追 父亲为她终生不娶</a></li>
@@ -13,13 +12,12 @@
 <li><a href="/bannedvideo/20210731/1597710.md">文睿：突发：郑州封城了，河南全境危险，整个中国告急</a></li>
 <li><a href="/cbnews/20210731/1597743.md">突发！浙江嘉兴市万科海上新园发生爆炸! 现场惨烈 伤亡不明</a></li>
 <li><a href="/comments/20210731/1597796.md">病毒战重大逆转 北京乱了；郑州水灾过后惊现疫情 ；每一束都有姓名！地铁站花海悼亲人 【希望之声-两岸要闻-2021/07/31】</a></li>
+<li><a href="/cnnews/20210731/1597872.md">资金疯狂外逃 北京这下慌了？</a></li>
 <li><a href="/cnnews/20210731/1597533.md">孟晚舟案迎来关键变化 专家：重要信号</a></li>
 <li><a href="/cbnews/20210731/1597564.md">专栏 | 夜话中南海：习近平长兄习正宁对外交部党委书记齐玉的知遇之恩</a></li>
-<li><a href="/cnnews/20210731/1597872.md">资金疯狂外逃 北京这下慌了？</a></li>
 <li><a href="/bannedvideo/20210731/1597686.md">前驻美大使崔天凯疑似跟中共决裂？当初赴美是工作，如今留美是生活？</a></li>
 <li><a href="/comments/20210731/1597609.md">央视威胁14亿中国人：闭嘴也是一种善良。警告你们：三峡大坝固若金汤！原因你不可能想不到。│#熊猫侠</a></li>
 <li><a href="/bannedvideo/20210731/1597781.md">不甘当替罪羊，崔天凯滞美不归？秦刚已到任，崔天凯竟没被免，38年来最诡异！中纪委的警告，究竟是针对董经纬，还是崔天凯？</a></li>
-<li><a href="/health/20210731/1597391.md">23岁女子外阴癌前病变！曝光的罪魁祸首为所有女性敲响警钟</a></li>
 <li><a href="/bannedvideo/20210731/1597419.md">【内部消息】曝上海内控疫情隐匿不报；北京通报百姓不买帐抢购药房超市；“中共对处境已作最坏打算”秦刚上任为何低调？南京人遭半夜隔离当街淋雨；严控出境！中国护照为2019年2% CT</a></li>
 <li><a href="/comments/20210731/1597633.md">一名太子党猝死 公安部副部长自杀未遂 中共十九大后一年内逾20名官员自杀 详情一览 中南海不可告人的秘密_431</a></li>
 <li><a href="/comments/20210731/1597711.md">习近平八一发文要军队听话 前军官曝他最大心病</a></li>
@@ -28,6 +26,8 @@
 <li><a href="/comments/20210731/1597618.md">江泽民十年间多次提议将薄熙来调任中组部常务副部长、中宣部常务副部长或中办主任 未能在政治局通过 彭真对薄一波说：薄熙来不适宜搞党的工作和军队工作 宋平曾提出调查千人到机场欢迎薄熙来事件 但薄熙来最终被江泽民包庇下来 中南海不可告人的秘密_430</a></li>
 <li><a href="/health/20210731/1597694.md">无论男女，睡前把风油精滴在肚脐上，身体很容易获得这3个好处</a></li>
 <li><a href="/finance/20210731/1597658.md">关系全国！河南大暴雨后 一个问题将雪上加霜！【阿波罗网报道】</a></li>
+<li><a href="/comments/20210731/1597853.md">中南海急求美国解除党员入境限制事出有因</a></li>
+<li><a href="/cbnews/20210731/1597494.md">天亮时分：华尔街绝杀令，2万亿中概股血流成河；崔天凯叛逃？真的假的！教育行业被“扫黄打黑”（政论天下第477集 20210730）</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210801/1597972.md" target="_blank">西班牙员工中暑 公司/企业最高可获约82万欧元罚款</a></li>
 <li><a href="/comments/20210801/1597960.md" target="_blank">人民大学教授这样一本正经地说：美国贫困人口比中国多 美国有高铁么？</a></li>
 <li><a href="/comments/20210801/1597959.md" target="_blank">美议员要求希尔顿终止新疆项目 中共外交部回应</a></li>
 <li><a href="/comments/20210801/1597958.md" target="_blank">是谁让它成了一颗裸奔的星球</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210731/1597853.md" target="_blank">中南海急求美国解除党员入境限制事出有因</a></li>
 <li><a href="/comments/20210731/1597842.md" target="_blank">夫妻俩经常会一起患这5种癌症</a></li>
 <li><a href="/comments/20210731/1597836.md" target="_blank">【封杀教协】教局终止工作关系 教协质疑不顾教师福祉：组织拥 9.5 万会员，具行业代表性</a></li>
-<li><a href="/comments/20210731/1597835.md" target="_blank">【封杀教协】教师求助几近无门 体制内失抗衡声音 被投诉老师恐更易钉牌</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/ganwu/20170705/787156.md" target="_blank">感悟神韵（之四）：感悟神韵音乐</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
 
 </ul>
 </div>
