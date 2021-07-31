@@ -7,17 +7,15 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/topimagenews/20210731/1597339.md">上海版“我爸是李刚！” 徐汇区检察长之子坑爹式自爆:"我家有15套房子！“</a></li>
 <li><a href="/comments/20210731/1597380.md">崔天凯滞美不归？大使叛逃惊天动地？后幕险恶 中共内部震荡末日之兆 中南海谣言预言_496</a></li>
-<li><a href="/cnnews/20210730/1597128.md">中共怂了 新大使抵华府首日就放软话；灾难面前央视捅大篓子网骂爆</a></li>
 <li><a href="/bannedvideo/20210731/1597416.md">准备叛逃！  中国驻美大使崔天凯拒绝回祖国！</a></li>
 <li><a href="/topimagenews/20210731/1597592.md">广东湛江飞机坠毁 爆炸起火 事发现场多辆军车</a></li>
 <li><a href="/comments/20210730/1597174.md">股灾前奏！涉天津秘谈？中国经济下一步；秦刚就位 缺了什么？【希望之声-两岸要闻-2021/07/30】</a></li>
 <li><a href="/cbnews/20210730/1597235.md">张家界有隐情？成都确诊1家3口未看演出</a></li>
-<li><a href="/bannedvideo/20210730/1597120.md">中共慌了！  德尔塔病毒已经蔓延到7省15城！</a></li>
 <li><a href="/bannedvideo/20210731/1597576.md">港珠澳大桥被风吹断裂！    广州地铁追随郑州模式被淹！</a></li>
 <li><a href="/cnnews/20210731/1597440.md">因长得太美无人敢追 父亲为她终生不娶</a></li>
 <li><a href="/yule/20210731/1597375.md">抛弃同居12年的袁立，他娶了冠军张怡宁</a></li>
-<li><a href="/cbnews/20210731/1597346.md">自媒体人苏小和爆料 灾后郑州大街小巷埋伏万名便衣 以防发生群体事件</a></li>
 <li><a href="/cnnews/20210731/1597533.md">孟晚舟案迎来关键变化 专家：重要信号</a></li>
+<li><a href="/cbnews/20210731/1597346.md">自媒体人苏小和爆料 灾后郑州大街小巷埋伏万名便衣 以防发生群体事件</a></li>
 <li><a href="/bannedvideo/20210731/1597419.md">【内部消息】曝上海内控疫情隐匿不报；北京通报百姓不买帐抢购药房超市；“中共对处境已作最坏打算”秦刚上任为何低调？南京人遭半夜隔离当街淋雨；严控出境！中国护照为2019年2% CT</a></li>
 <li><a href="/health/20210731/1597391.md">23岁女子外阴癌前病变！曝光的罪魁祸首为所有女性敲响警钟</a></li>
 <li><a href="/comments/20210731/1597609.md">央视威胁14亿中国人：闭嘴也是一种善良。警告你们：三峡大坝固若金汤！原因你不可能想不到。│#熊猫侠</a></li>
@@ -27,7 +25,9 @@
 <li><a href="/headline/20210731/1597287.md">厦门航空爆发疫情 全市启动应急响应</a></li>
 <li><a href="/cnnews/20210731/1597373.md">可怕…美CDC内部文件透露Delta变异株传染力</a></li>
 <li><a href="/baitai/20210730/1597187.md">与崔天凯待遇不同秦刚赴美第一天就被「冷落」</a></li>
+<li><a href="/bannedvideo/20210731/1597586.md">第二个投诚美国的是他？谣言会成遥遥领先的预言吗？好兄弟塔利班会面释放新信号；秦刚上任迫不及待；张家界成南京疫情二传手，万名游客成高危。｜薇羽看世间 第343期 20210730</a></li>
 <li><a href="/bannedvideo/20210731/1597329.md">南京禄口什么情况？南京禄口机场布满警车，近距离拍摄，可见全是身穿防化服严阵以待的人员，拍摄者一直在喊：完了完了完了……</a></li>
+<li><a href="/comments/20210731/1597633.md">一名太子党猝死 公安部副部长自杀未遂 中共十九大后一年内逾20名官员自杀 详情一览 中南海不可告人的秘密_431</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210731/1597787.md" target="_blank">中国网红疯整形 400支玻尿酸留恐怖后遗症</a></li>
+<li><a href="/comments/20210731/1597784.md" target="_blank">两官媒炮轰后 教育局随即“不承认”教协 不再处理教协转介个案</a></li>
+<li><a href="/comments/20210731/1597783.md" target="_blank">李家超指国安法案件判刑需具阻吓性 称主审法官遭电话恐吓</a></li>
+<li><a href="/comments/20210731/1597782.md" target="_blank">【妙曲天音】正见网《大慈大悲》乐曲</a></li>
 <li><a href="/comments/20210731/1597746.md" target="_blank">驻阿富汗设施遭塔利班袭击 联合国警告：恐构成战争罪</a></li>
 <li><a href="/comments/20210731/1597737.md" target="_blank">【文昭思绪飞扬】：《猛犸象灭绝真相》《“赊刀人”10个月前预言2021河南大水》</a></li>
 <li><a href="/comments/20210731/1597736.md" target="_blank">译文：《海蒂》Heidi by Johanna Spyri ——约翰娜 施皮里 【瑞士】</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210731/1597674.md" target="_blank">【钟宏专栏】诗歌篇：《品茶》</a></li>
 <li><a href="/comments/20210731/1597673.md" target="_blank">【网络文章】：因为有爱</a></li>
 <li><a href="/comments/20210731/1597649.md" target="_blank">贵州一户人家隐居山洞已300多年，走近一看真的是一个世外桃源</a></li>
-<li><a href="/comments/20210731/1597648.md" target="_blank">【小说连载】《不凡之路》第四章 ：小试身手</a></li>
-<li><a href="/comments/20210731/1597647.md" target="_blank">诗一首：《变》</a></li>
-<li><a href="/comments/20210731/1597646.md" target="_blank">诗一首：《梦 之 桥》</a></li>
-<li><a href="/comments/20210731/1597639.md" target="_blank">菲律宾全面恢复美菲「军队互访协定」 重返抗中路线</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20210329/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
 
 </ul>
 </div>
