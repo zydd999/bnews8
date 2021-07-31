@@ -18,14 +18,14 @@
 <li><a href="/cnnews/20210731/1597533.md">孟晚舟案迎来关键变化 专家：重要信号</a></li>
 <li><a href="/bannedvideo/20210731/1597686.md">前驻美大使崔天凯疑似跟中共决裂？当初赴美是工作，如今留美是生活？</a></li>
 <li><a href="/cbnews/20210731/1597564.md">专栏 | 夜话中南海：习近平长兄习正宁对外交部党委书记齐玉的知遇之恩</a></li>
+<li><a href="/comments/20210731/1597796.md">病毒战重大逆转 北京乱了；郑州水灾过后惊现疫情 ；每一束都有姓名！地铁站花海悼亲人 【希望之声-两岸要闻-2021/07/31】</a></li>
 <li><a href="/comments/20210731/1597609.md">央视威胁14亿中国人：闭嘴也是一种善良。警告你们：三峡大坝固若金汤！原因你不可能想不到。│#熊猫侠</a></li>
 <li><a href="/health/20210731/1597391.md">23岁女子外阴癌前病变！曝光的罪魁祸首为所有女性敲响警钟</a></li>
 <li><a href="/comments/20210731/1597633.md">一名太子党猝死 公安部副部长自杀未遂 中共十九大后一年内逾20名官员自杀 详情一览 中南海不可告人的秘密_431</a></li>
 <li><a href="/bannedvideo/20210731/1597419.md">【内部消息】曝上海内控疫情隐匿不报；北京通报百姓不买帐抢购药房超市；“中共对处境已作最坏打算”秦刚上任为何低调？南京人遭半夜隔离当街淋雨；严控出境！中国护照为2019年2% CT</a></li>
-<li><a href="/comments/20210731/1597796.md">病毒战重大逆转 北京乱了；郑州水灾过后惊现疫情 ；每一束都有姓名！地铁站花海悼亲人 【希望之声-两岸要闻-2021/07/31】</a></li>
 <li><a href="/comments/20210731/1597711.md">习近平八一发文要军队听话 前军官曝他最大心病</a></li>
 <li><a href="/bannedvideo/20210731/1597586.md">第二个投诚美国的是他？谣言会成遥遥领先的预言吗？好兄弟塔利班会面释放新信号；秦刚上任迫不及待；张家界成南京疫情二传手，万名游客成高危。｜薇羽看世间 第343期 20210730</a></li>
-<li><a href="/comments/20210731/1597280.md">90分钟 2000人列高风险 疫情扩7省21市 大陆现双爆发中心；百名诺贝尔获奖者怒怼中共；军民雨水情演砸了 民众送空纸箱？【希望之声TV-环球看点-2021/7/30】</a></li>
+<li><a href="/bannedvideo/20210731/1597781.md">不甘当替罪羊，崔天凯滞美不归？秦刚已到任，崔天凯竟没被免，38年来最诡异！中纪委的警告，究竟是针对董经纬，还是崔天凯？</a></li>
 <li><a href="/headline/20210731/1597287.md">厦门航空爆发疫情 全市启动应急响应</a></li>
 <li><a href="/cnnews/20210731/1597373.md">可怕…美CDC内部文件透露Delta变异株传染力</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210801/1597910.md" target="_blank">郑州地铁雨衣爸爸发声：女儿死的惨啊</a></li>
 <li><a href="/cbnews/20210731/1597861.md" target="_blank">水灾刚过 郑州疫情升温 两官员被撤职</a></li>
 <li><a href="/cbnews/20210731/1597846.md" target="_blank">蓬佩奥南加演讲：从信仰开始重塑我们道德</a></li>
 <li><a href="/cbnews/20210731/1597837.md" target="_blank">不惜一切代价：奥运金牌背后的中国体育举国体制</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/comments/20210731/1597421.md" target="_blank">【标题】友谊小船打翻？美防长出访菲律宾后，菲国抛共投美！为防台湾不测 日首相表态联同美国及东协共同应对中共【希望之声TV-每日头条-2021/7/30】</a></li>
 <li><a href="/cbnews/20210731/1597410.md" target="_blank">CDC：麻省染疫人群有74%已施打疫苗</a></li>
 <li><a href="/cbnews/20210731/1597403.md" target="_blank">上海杀妻焚尸案凶手获死刑：妻子怀孕 1尸2命</a></li>
-<li><a href="/cbnews/20210731/1597402.md" target="_blank">CDC研究：麻省染疫人群有74%已施打疫苗</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210801/1597907.md" target="_blank">南京疫情有多严重？孙春兰督阵 50多专家进驻 四千多人急送扬州隔离</a></li>
+<li><a href="/comments/20210801/1597906.md" target="_blank">【智慧专栏】中国传统色彩欣赏 (八）《秋香》</a></li>
 <li><a href="/comments/20210801/1597897.md" target="_blank">时事大家谈：打了疫苗又中招 突破性感染引发哪些忧虑？</a></li>
 <li><a href="/comments/20210801/1597892.md" target="_blank">【网络译文】：《双城记》 查尔斯 狄更斯 [英国] A Tale of Two Cities——By Charles Dickens</a></li>
 <li><a href="/comments/20210801/1597890.md" target="_blank">【封杀教协】创会 48 载 教协会员近 9.5 万 为最大单一行业工会 金禧事件奠地位</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210731/1597806.md" target="_blank">译文：《双城记》 查尔斯 狄更斯 [英国] A Tale of Two Cities——By Charles Dickens</a></li>
 <li><a href="/comments/20210731/1597805.md" target="_blank">【第三只眼睛】：2021大灾来了？占星师被自己预言吓到了！躲了起来</a></li>
 <li><a href="/comments/20210731/1597796.md" target="_blank">病毒战重大逆转 北京乱了；郑州水灾过后惊现疫情 ；每一束都有姓名！地铁站花海悼亲人 【希望之声-两岸要闻-2021/07/31】</a></li>
-<li><a href="/comments/20210731/1597787.md" target="_blank">中国网红疯整形 400支玻尿酸留恐怖后遗症</a></li>
-<li><a href="/comments/20210731/1597784.md" target="_blank">两官媒炮轰后 教育局随即“不承认”教协 不再处理教协转介个案</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20210611/1564824.md" target="_blank">【曾铮专栏】感悟神韵（之一）神韵的主旨</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
 <li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
 
 </ul>
 </div>
