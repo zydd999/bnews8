@@ -5,16 +5,16 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/topimagenews/20210731/1597339.md">上海版“我爸是李刚！” 徐汇区检察长之子坑爹式自爆:"我家有15套房子！“</a></li>
 <li><a href="/comments/20210731/1597380.md">崔天凯滞美不归？大使叛逃惊天动地？后幕险恶 中共内部震荡末日之兆 中南海谣言预言_496</a></li>
+<li><a href="/topimagenews/20210731/1597339.md">上海版“我爸是李刚！” 徐汇区检察长之子坑爹式自爆:"我家有15套房子！“</a></li>
 <li><a href="/bannedvideo/20210731/1597416.md">准备叛逃！  中国驻美大使崔天凯拒绝回祖国！</a></li>
 <li><a href="/topimagenews/20210731/1597592.md">广东湛江飞机坠毁 爆炸起火 事发现场多辆军车</a></li>
 <li><a href="/cnnews/20210731/1597440.md">因长得太美无人敢追 父亲为她终生不娶</a></li>
 <li><a href="/bannedvideo/20210731/1597576.md">港珠澳大桥被风吹断裂！    广州地铁追随郑州模式被淹！</a></li>
 <li><a href="/bannedvideo/20210731/1597710.md">文睿：突发：郑州封城了，河南全境危险，整个中国告急</a></li>
 <li><a href="/yule/20210731/1597375.md">抛弃同居12年的袁立，他娶了冠军张怡宁</a></li>
-<li><a href="/cbnews/20210731/1597743.md">突发！浙江嘉兴市万科海上新园发生爆炸! 现场惨烈 伤亡不明</a></li>
 <li><a href="/cbnews/20210731/1597346.md">自媒体人苏小和爆料 灾后郑州大街小巷埋伏万名便衣 以防发生群体事件</a></li>
+<li><a href="/cbnews/20210731/1597743.md">突发！浙江嘉兴市万科海上新园发生爆炸! 现场惨烈 伤亡不明</a></li>
 <li><a href="/comments/20210731/1597796.md">病毒战重大逆转 北京乱了；郑州水灾过后惊现疫情 ；每一束都有姓名！地铁站花海悼亲人 【希望之声-两岸要闻-2021/07/31】</a></li>
 <li><a href="/cnnews/20210731/1597533.md">孟晚舟案迎来关键变化 专家：重要信号</a></li>
 <li><a href="/cbnews/20210731/1597564.md">专栏 | 夜话中南海：习近平长兄习正宁对外交部党委书记齐玉的知遇之恩</a></li>
@@ -23,11 +23,11 @@
 <li><a href="/health/20210731/1597391.md">23岁女子外阴癌前病变！曝光的罪魁祸首为所有女性敲响警钟</a></li>
 <li><a href="/comments/20210731/1597633.md">一名太子党猝死 公安部副部长自杀未遂 中共十九大后一年内逾20名官员自杀 详情一览 中南海不可告人的秘密_431</a></li>
 <li><a href="/bannedvideo/20210731/1597419.md">【内部消息】曝上海内控疫情隐匿不报；北京通报百姓不买帐抢购药房超市；“中共对处境已作最坏打算”秦刚上任为何低调？南京人遭半夜隔离当街淋雨；严控出境！中国护照为2019年2% CT</a></li>
-<li><a href="/comments/20210731/1597711.md">习近平八一发文要军队听话 前军官曝他最大心病</a></li>
 <li><a href="/bannedvideo/20210731/1597781.md">不甘当替罪羊，崔天凯滞美不归？秦刚已到任，崔天凯竟没被免，38年来最诡异！中纪委的警告，究竟是针对董经纬，还是崔天凯？</a></li>
+<li><a href="/comments/20210731/1597711.md">习近平八一发文要军队听话 前军官曝他最大心病</a></li>
 <li><a href="/bannedvideo/20210731/1597586.md">第二个投诚美国的是他？谣言会成遥遥领先的预言吗？好兄弟塔利班会面释放新信号；秦刚上任迫不及待；张家界成南京疫情二传手，万名游客成高危。｜薇羽看世间 第343期 20210730</a></li>
 <li><a href="/cnnews/20210731/1597373.md">可怕…美CDC内部文件透露Delta变异株传染力</a></li>
-<li><a href="/comments/20210731/1597618.md">江泽民十年间多次提议将薄熙来调任中组部常务副部长、中宣部常务副部长或中办主任 未能在政治局通过 彭真对薄一波说：薄熙来不适宜搞党的工作和军队工作 宋平曾提出调查千人到机场欢迎薄熙来事件 但薄熙来最终被江泽民包庇下来 中南海不可告人的秘密_430</a></li>
+<li><a href="/cnnews/20210731/1597872.md">资金疯狂外逃 北京这下慌了？</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
 <li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
 <li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
 
 </ul>
 </div>
