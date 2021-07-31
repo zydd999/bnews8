@@ -6,28 +6,28 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/topimagenews/20210730/1597024.md">军民雨水情演戏演砸了 救援部队离开灾区 民众送空纸壳箱表示感谢</a></li>
-<li><a href="/lifebaike/20210730/1596790.md">为了大国颜面 23名幸存水兵在海底煎熬数天死去</a></li>
 <li><a href="/cnnews/20210730/1596902.md">打完疫苗染疫更惨！可能出现异常久的新冠症状</a></li>
 <li><a href="/yule/20210730/1597075.md">巩俐不再沉默 揭开张艺谋与陈婷丑闻</a></li>
 <li><a href="/comments/20210730/1596910.md">胡锦涛让李克强任辽宁省委书记 抄底薄熙来 薄熙来害怕“死都不知怎么死的” 让心腹大连国安局书记车克民紧紧盯住李克强：来者不善，善者不来！中南海不可告人的秘密_429</a></li>
-<li><a href="/sports/20210730/1596791.md">荷尔蒙爆棚!日本网友:中国为啥派男人来参赛女子赛?</a></li>
 <li><a href="/comments/20210730/1597065.md">轰动世界的“借尸还魂”案！37岁台湾少妇病逝，复活后自称是18岁冤死少女，故事离奇如小说，可是来“打假”的人都服了。</a></li>
+<li><a href="/topimagenews/20210731/1597339.md">上海版“我爸是李刚！” 徐汇区检察长之子坑爹式自爆:"我家有15套房子！“</a></li>
 <li><a href="/topimagenews/20210730/1596955.md">又把王沪宁卖了！江系对王沪宁和周强充满期待 反暴露其底细【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20210730/1597128.md">中共怂了 新大使抵华府首日就放软话；灾难面前央视捅大篓子网骂爆</a></li>
-<li><a href="/topimagenews/20210731/1597339.md">上海版“我爸是李刚！” 徐汇区检察长之子坑爹式自爆:"我家有15套房子！“</a></li>
 <li><a href="/comments/20210730/1596890.md">遭人唾弃的中国奥运冠军，赢了世界又如何？依旧被人看不起。台湾参加奥运，又伤中共玻璃心。│#熊猫侠</a></li>
 <li><a href="/cbnews/20210730/1597071.md">严控出境！上半年中国护照签发量 仅2019年2%</a></li>
 <li><a href="/comments/20210730/1597174.md">股灾前奏！涉天津秘谈？中国经济下一步；秦刚就位 缺了什么？【希望之声-两岸要闻-2021/07/30】</a></li>
 <li><a href="/cbnews/20210730/1597235.md">张家界有隐情？成都确诊1家3口未看演出</a></li>
 <li><a href="/bannedvideo/20210730/1597120.md">中共慌了！  德尔塔病毒已经蔓延到7省15城！</a></li>
 <li><a href="/cbnews/20210730/1596829.md">天亮时分：郑州的菊花革命；铁拳砸向3个领域，习近平很可能不去北戴河；天津会晤后，美国狠踩中共红线；（政论天下第476集 20210729）</a></li>
-<li><a href="/cbnews/20210730/1596948.md">江峰：悄悄拿下！蔡英文早知情台湾前空军司令二级上将张哲平涉嫌卷入共谍案，曾是参谋总长人选；美不敢卖台F35的原因找到了；习近平军改重挫军情系统内幕【江峰漫谈20210729第353期】</a></li>
 <li><a href="/bannedvideo/20210730/1596922.md">王毅把塔利班当作正式外国高级外交使团接待让外界大跌眼镜  抛出的言论更令外界忧心忡忡</a></li>
+<li><a href="/cbnews/20210730/1596948.md">江峰：悄悄拿下！蔡英文早知情台湾前空军司令二级上将张哲平涉嫌卷入共谍案，曾是参谋总长人选；美不敢卖台F35的原因找到了；习近平军改重挫军情系统内幕【江峰漫谈20210729第353期】</a></li>
 <li><a href="/cnnews/20210730/1596919.md">以为打完疫苗百毒不侵 32岁华男详述感染经历</a></li>
 <li><a href="/yule/20210730/1596929.md">杜珺炮轰张嘉译：他娶我只是想利用我父亲往上爬</a></li>
 <li><a href="/ssgc/20210730/1597133.md">谢田：中共正筹备亡命前最后的一击</a></li>
 <li><a href="/comments/20210730/1596917.md">【微博精粹】百年后的一尊 在苦苦思考“四面楚歌”的含义</a></li>
 <li><a href="/cnnews/20210730/1596977.md">广州暴雨 洪水急速冲进地铁21号线神舟路站 乘客惊恐万分 仓惶逃命</a></li>
+<li><a href="/bannedvideo/20210730/1597103.md">陈破空：李克强话音刚落，记者发文：换掉习家军！舆论沸腾：习近平国师私通美帝</a></li>
+<li><a href="/comments/20210731/1597280.md">90分钟 2000人列高风险 疫情扩7省21市 大陆现双爆发中心；百名诺贝尔获奖者怒怼中共；军民雨水情演砸了 民众送空纸箱？【希望之声TV-环球看点-2021/7/30】</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,9 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210731/1597453.md" target="_blank">为逃避隔离拒接电话 绵阳女子遭行拘5天</a></li>
+<li><a href="/comments/20210731/1597450.md" target="_blank">大雄有问有答2 犀利提问，脑洞大开</a></li>
+<li><a href="/comments/20210731/1597445.md" target="_blank">中美对话清单 各自看重什么？ 港人因喝奥运倒彩被捕，香港未来将如何【希望之声TV-新闻焦点解读-2021/07/30】主持:辛恬  嘉宾：谢田 方伟</a></li>
 <li><a href="/cbnews/20210731/1597426.md" target="_blank">文昭：南京疫情蔓延15省，连锁反应更严重！大树底下寸草不生，保房价也有大坑</a></li>
 <li><a href="/comments/20210731/1597421.md" target="_blank">【标题】友谊小船打翻？美防长出访菲律宾后，菲国抛共投美！为防台湾不测 日首相表态联同美国及东协共同应对中共【希望之声TV-每日头条-2021/7/30】</a></li>
 <li><a href="/cbnews/20210731/1597410.md" target="_blank">CDC：麻省染疫人群有74%已施打疫苗</a></li>
@@ -58,9 +61,6 @@
 <li><a href="/cbnews/20210730/1597070.md" target="_blank">郑州奔驰车堵地库出口致多车被淹：我车贵</a></li>
 <li><a href="/comments/20210730/1597065.md" target="_blank">轰动世界的“借尸还魂”案！37岁台湾少妇病逝，复活后自称是18岁冤死少女，故事离奇如小说，可是来“打假”的人都服了。</a></li>
 <li><a href="/comments/20210730/1596970.md" target="_blank">秦刚履新 首宗大事或是这个；Delta自南京快速扩散 陆媒：武汉以来最严峻考验【希望之声-红朝禁闻-2021/07/29】</a></li>
-<li><a href="/cbnews/20210730/1596948.md" target="_blank">江峰：悄悄拿下！蔡英文早知情台湾前空军司令二级上将张哲平涉嫌卷入共谍案，曾是参谋总长人选；美不敢卖台F35的原因找到了；习近平军改重挫军情系统内幕【江峰漫谈20210729第353期】</a></li>
-<li><a href="/comments/20210730/1596938.md" target="_blank">影响大了 河南洪灾牵动世界粮食供应链；凭房票买房！计划经济到来？【希望之声-午夜新闻-2021/07/29】</a></li>
-<li><a href="/cbnews/20210730/1596913.md" target="_blank">超强！四川牛人花2年凿悬崖石屋 连床和窗户都自己做</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210731/1597450.md" target="_blank">大雄有问有答2 犀利提问，脑洞大开</a></li>
+<li><a href="/comments/20210731/1597448.md" target="_blank">美作家：美司法部撤诉唐娟 将放纵中共间谍活动</a></li>
+<li><a href="/comments/20210731/1597447.md" target="_blank">【东奥最前线】日「紧急事态」再加4府县 台羽毛球男双迎战中国队</a></li>
+<li><a href="/comments/20210731/1597445.md" target="_blank">中美对话清单 各自看重什么？ 港人因喝奥运倒彩被捕，香港未来将如何【希望之声TV-新闻焦点解读-2021/07/30】主持:辛恬  嘉宾：谢田 方伟</a></li>
 <li><a href="/comments/20210731/1597421.md" target="_blank">【标题】友谊小船打翻？美防长出访菲律宾后，菲国抛共投美！为防台湾不测 日首相表态联同美国及东协共同应对中共【希望之声TV-每日头条-2021/7/30】</a></li>
 <li><a href="/comments/20210731/1597415.md" target="_blank">反对“疫苗护照” 意大利议会内众议员举牌抗议</a></li>
 <li><a href="/comments/20210731/1597414.md" target="_blank">德海军护卫舰即将启程前往印太 回程时将通过南海</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210731/1597293.md" target="_blank">诗一首：《七月，最后一日的信笔写来》</a></li>
 <li><a href="/comments/20210731/1597282.md" target="_blank">中国恒大拖欠拿地款 被地方政府追讨</a></li>
 <li><a href="/comments/20210731/1597281.md" target="_blank">赊刀人再现！时间直指2022年8月</a></li>
-<li><a href="/comments/20210731/1597280.md" target="_blank">90分钟 2000人列高风险 疫情扩7省21市 大陆现双爆发中心；百名诺贝尔获奖者怒怼中共；军民雨水情演砸了 民众送空纸箱？【希望之声TV-环球看点-2021/7/30】</a></li>
-<li><a href="/comments/20210731/1597278.md" target="_blank">爱国还是卖国？</a></li>
-<li><a href="/comments/20210731/1597253.md" target="_blank">《新华日报》：一党独裁，遍地是灾</a></li>
-<li><a href="/comments/20210730/1597249.md" target="_blank">西瓜被称为“天然白虎汤”，但需要注意这些</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
 <li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
 
 </ul>
 </div>
