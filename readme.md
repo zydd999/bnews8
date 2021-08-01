@@ -7,8 +7,8 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cnnews/20210731/1597872.md">资金疯狂外逃 北京这下慌了？</a></li>
 <li><a href="/topimagenews/20210801/1598144.md">习近平八一讲话释放强烈信号！一个字被强调了113次【阿波罗网报道】</a></li>
-<li><a href="/bannedvideo/20210801/1597933.md">中南海恐慌！北京连夜封控10个小区！        中共官方承认：国产疫苗低劣！</a></li>
 <li><a href="/yule/20210801/1598086.md">网曝吴亦凡还涉及更严重罪行，多位明星恐受牵连，被曝已供出一位</a></li>
+<li><a href="/bannedvideo/20210801/1597933.md">中南海恐慌！北京连夜封控10个小区！        中共官方承认：国产疫苗低劣！</a></li>
 <li><a href="/comments/20210731/1597853.md">中南海急求美国解除党员入境限制事出有因</a></li>
 <li><a href="/bannedvideo/20210801/1597973.md">突发!郑州封了中国大陆疫情四起  2021年7月31日</a></li>
 <li><a href="/yule/20210801/1597983.md">吴亦凡被刑拘后的5个后续：脸丢到国际，粉丝哭着脱粉，好友避之不及</a></li>
@@ -19,14 +19,14 @@
 <li><a href="/cbnews/20210801/1598071.md">天亮时分：习近平八年干砸八件事，可以盖棺定论了吗？北京日报又作死！新冠病毒Delta变种，北京是悲是喜？（政论天下第478集 20210731）</a></li>
 <li><a href="/bannedvideo/20210801/1597975.md">告急！南京封锁失效，已经蔓延15省26市。打了喵依然中招，你懂的！</a></li>
 <li><a href="/comments/20210801/1597889.md">南京疫情有多严重？孙春兰督阵 50多专家进驻 四千多人紧急转往扬州镇江隔离</a></li>
-<li><a href="/cnnews/20210801/1598020.md">护士爆料：公众不了解COVID-19疫苗实情</a></li>
+<li><a href="/bannedvideo/20210801/1598260.md">文睿：消息坐实，中国护照近乎停止签发，国门要彻底关上了</a></li>
 <li><a href="/cbnews/20210801/1597910.md">郑州地铁雨衣爸爸发声：女儿死的惨啊</a></li>
+<li><a href="/cnnews/20210801/1598020.md">护士爆料：公众不了解COVID-19疫苗实情</a></li>
 <li><a href="/comments/20210801/1597980.md">闹出了国际笑话，闹出了一个历史首次！国际体操联合会出面澄清</a></li>
 <li><a href="/cnnews/20210801/1597982.md">“麟洋配”夺金！央视切颁奖画面 网：习近平听国旗歌会高血压</a></li>
-<li><a href="/cbnews/20210731/1597861.md">水灾刚过 郑州疫情升温 两官员被撤职</a></li>
 <li><a href="/cnnews/20210801/1598159.md">颤抖吧，考公考编的人，最会考试的人来了</a></li>
-<li><a href="/bannedvideo/20210801/1598260.md">文睿：消息坐实，中国护照近乎停止签发，国门要彻底关上了</a></li>
-<li><a href="/cnnews/20210801/1597962.md">这就是江湖：领军企业海润光伏破产了…</a></li>
+<li><a href="/cbnews/20210731/1597861.md">水灾刚过 郑州疫情升温 两官员被撤职</a></li>
+<li><a href="/bannedvideo/20210801/1598230.md">【政经】习近平千年大计雄安降级；习八一发文被曝最大心病；锁国！中共下令严控出国；美媒揭秘中共拿金牌秘诀；中国女排创奥运最差记录；地方隐性债临崩盘当局急了；地产华夏幸福暴跌逾85%。IQ</a></li>
 <li><a href="/cnnews/20210801/1598149.md">红头文件一来，晚十点，一家教培大公司连夜裁员</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210801/1598373.md" target="_blank">孙大午桃源梦碎 企业家：中国只剩专制者的世界</a></li>
 <li><a href="/comments/20210801/1598324.md" target="_blank">关键经济数据17个月来最低 中国经济在下行；整顿校外辅导机构 红头文件下竟与扫黑除恶挂钩；中国女排无缘进八强 成奥运史上战绩最差女排卫冕冠军【希望之声TV-两岸要闻-2021/08/01】</a></li>
 <li><a href="/cbnews/20210801/1598304.md" target="_blank">中国洪灾地区最需要 瑞士人发明的吸管LifeStraw 就是一个净水器</a></li>
 <li><a href="/cbnews/20210801/1598290.md" target="_blank">好人难做！河南灾区捐赠者被讽作秀 气得大骂：“丧尽天良！”</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210801/1597910.md" target="_blank">郑州地铁雨衣爸爸发声：女儿死的惨啊</a></li>
 <li><a href="/cbnews/20210731/1597861.md" target="_blank">水灾刚过 郑州疫情升温 两官员被撤职</a></li>
 <li><a href="/cbnews/20210731/1597846.md" target="_blank">蓬佩奥南加演讲：从信仰开始重塑我们道德</a></li>
-<li><a href="/cbnews/20210731/1597837.md" target="_blank">不惜一切代价：奥运金牌背后的中国体育举国体制</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,15 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210801/1598369.md" target="_blank">刘锐绍评中共斗争文化充斥东京奥运 连串事件令人泄气</a></li>
+<li><a href="/comments/20210801/1598368.md" target="_blank">防疫期间亲子相处快抓狂 医教情绪调适小技巧</a></li>
+<li><a href="/comments/20210801/1598367.md" target="_blank">免疫力低下有5个表现</a></li>
+<li><a href="/comments/20210801/1598366.md" target="_blank">【封杀教协】前理事叹教协将失“投诉中间人”角色 难制衡“皇帝”校长</a></li>
+<li><a href="/comments/20210801/1598365.md" target="_blank">夏日消暑解渴来杯苦荞茶</a></li>
+<li><a href="/comments/20210801/1598364.md" target="_blank">【封杀教协】叶刘指教协以“福利”诱教师 会员反驳: 老师人工唔错，有自己思想</a></li>
+<li><a href="/comments/20210801/1598363.md" target="_blank">美众院共和党人推出 反中国共产党法案</a></li>
+<li><a href="/comments/20210801/1598362.md" target="_blank">土耳其近百起野火烧不停 酿6死游客居民仓皇逃离</a></li>
+<li><a href="/comments/20210801/1598361.md" target="_blank">悲哉，浚县！堤坝被炸家园被毁 一个小县城扛下了一切</a></li>
 <li><a href="/comments/20210801/1598332.md" target="_blank">百岁也逃不掉！被控协助谋杀3500人 前纳粹集中营警卫今秋受审</a></li>
 <li><a href="/comments/20210801/1598324.md" target="_blank">关键经济数据17个月来最低 中国经济在下行；整顿校外辅导机构 红头文件下竟与扫黑除恶挂钩；中国女排无缘进八强 成奥运史上战绩最差女排卫冕冠军【希望之声TV-两岸要闻-2021/08/01】</a></li>
 <li><a href="/comments/20210801/1598318.md" target="_blank">苏明评论：消灭共匪，光复中国大陆</a></li>
@@ -114,15 +123,6 @@
 <li><a href="/comments/20210801/1598265.md" target="_blank">李燕铭：北戴河会前习重磅出招 戴相龙副手落马内幕（五） 习近平备战二十大严防金融政变 政治局释放清洗信号 朱镕基旧部戴相龙副手应声落马 12名金融高管被密集查处 钱袋子争夺战白热化 习近平剑指江泽民集团权贵家族核心利益</a></li>
 <li><a href="/comments/20210801/1598264.md" target="_blank">“爱国爱教爱民”的藏传萨迦派道场被封 甘肃当局“逼僧还俗“</a></li>
 <li><a href="/comments/20210801/1598263.md" target="_blank">美作家：中共正用党文化“改造”美国人 该行动了</a></li>
-<li><a href="/comments/20210801/1598262.md" target="_blank">从穷小子到大老板 路易威登的创业之道</a></li>
-<li><a href="/comments/20210801/1598257.md" target="_blank">李燕铭：北戴河会前习重磅出招 戴相龙副手落马内幕（四） 戴相龙一度传被调查 女婿车峰被抓 江泽民曾庆红随即发动金融政变 车峰案涉更高层案情绝对保密 习近平六年后秋后算帐</a></li>
-<li><a href="/comments/20210801/1598256.md" target="_blank">再夺两金 美泳将德莱塞尔囊括东奥五金</a></li>
-<li><a href="/comments/20210801/1598255.md" target="_blank">“空调病”很常见，看看这些症状，你有没有出现</a></li>
-<li><a href="/comments/20210801/1598254.md" target="_blank">哈佛研究：这水果一天吃半个「防老化、认知衰退」</a></li>
-<li><a href="/comments/20210801/1598253.md" target="_blank">这几类食物，比糖还“毁牙”</a></li>
-<li><a href="/comments/20210801/1598243.md" target="_blank">李燕铭：北戴河会前习重磅出招 戴相龙副手落马内幕（三） 戴相龙蔡鄂生与江泽民上海帮天津帮金融圈勾结黑幕</a></li>
-<li><a href="/comments/20210801/1598242.md" target="_blank">李燕铭：北戴河会前习重磅出招 戴相龙副手落马内幕（二） 习近平对朱镕基人马出手 朱镕基提拔重用的金融干将蔡鄂生被查 朱镕基任总理时组建金融系统中纪委 点将蔡鄂生主掌</a></li>
-<li><a href="/comments/20210801/1598241.md" target="_blank">【7.1 刺警案一个月】定性孤狼式恐袭 悼念献花55人遭票控 港大评议会、直播记者受查</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/comments/20210611/1564824.md" target="_blank">【曾铮专栏】感悟神韵（之一）神韵的主旨</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
 
 </ul>
 </div>
