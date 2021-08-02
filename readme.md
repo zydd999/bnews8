@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/comments/20210801/1598288.md">真回国了？网传崔天凯在上海与张文宏合照</a></li>
 <li><a href="/bannedvideo/20210801/1598315.md">陈破空：两名上将出事！北戴河开打，习家军不认错，放出七下八上的政治暗语。两大阵营闭门对决</a></li>
 <li><a href="/yule/20210802/1598455.md">吴亦凡事件又牵扯出毒品？供出多位明星</a></li>
 <li><a href="/bannedvideo/20210801/1598398.md">国家移民管理局停办普通护照！韭菜翻墙？不行！但是贪官们却急疯了！</a></li>
+<li><a href="/yule/20210802/1598658.md">网传吴亦凡遭捕过程极狼狈 发抖大哭求饶</a></li>
 <li><a href="/bannedvideo/20210802/1598443.md">改开时代结束，享年50岁。闭锁时代来临。即没选票也没第二修正案，而对面手握你的生杀大权，所以？结束了，一切都结束了。享受闭关锁国带来的别样人生吧，你已失去全世界。根本不会打台湾，那是忽悠。</a></li>
 <li><a href="/yule/20210802/1598623.md">曝吴亦凡刑拘后供出同伙 这名男明星立即回应了</a></li>
 <li><a href="/bannedvideo/20210802/1598478.md">【中共出大事】军委副主席发文呼应习近平；河南现恐怖天象天怒人怨；1个村就23死失踪；天下粮仓一线救援泪诉：连水都要喝不上，臭气熏天；甘肃逼僧还俗，文革重演哀声一片 CR</a></li>
-<li><a href="/yule/20210802/1598658.md">网传吴亦凡遭捕过程极狼狈 发抖大哭求饶</a></li>
 <li><a href="/cnnews/20210802/1598489.md">香港新首富诞生！身家超李嘉诚890亿</a></li>
 <li><a href="/bannedvideo/20210802/1598528.md">最近几天我夜观星象，怎么感觉回到了东汉末年？</a></li>
 <li><a href="/cbnews/20210802/1598546.md">学霸爸豪气喊：你考上哪、我就在哪买房！一看成绩单沉默了</a></li>
-<li><a href="/cnnews/20210802/1598516.md">中美金融脱钩是一个正在发生的事实</a></li>
 <li><a href="/cbnews/20210802/1598539.md">因这张照片 中共连发三条贴文炮轰美台</a></li>
+<li><a href="/cnnews/20210802/1598516.md">中美金融脱钩是一个正在发生的事实</a></li>
 <li><a href="/cnnews/20210801/1598299.md">对iPhone而言 飞马事件是手机不安全的最大证明</a></li>
 <li><a href="/comments/20210801/1598324.md">关键经济数据17个月来最低 中国经济在下行；整顿校外辅导机构 红头文件下竟与扫黑除恶挂钩；中国女排无缘进八强 成奥运史上战绩最差女排卫冕冠军【希望之声TV-两岸要闻-2021/08/01】</a></li>
 <li><a href="/comments/20210801/1598418.md">7月30日 山西临汾 大量燕子快速疾飞 不知道预示这什么......【希望之声TV】</a></li>
 <li><a href="/ssgc/20210802/1598542.md">〖兲朝浮世绘〗中共非得把这些历史事件 活生生地再演一遍</a></li>
 <li><a href="/worldnews/20210802/1598540.md">凶手招了！曝惊天内幕：她竟然参与杀害海地总统</a></li>
 <li><a href="/cnnews/20210801/1598300.md">斯坦福大学科学家：放弃幻想，学会与新冠共存</a></li>
-<li><a href="/comments/20210801/1598289.md">新一波本土疫情全国布局 陆媒叹形势严峻近乎失控</a></li>
+<li><a href="/comments/20210802/1598641.md">【微博精粹】没雄起 已烂尾 习近平接近完成了川普的使命</a></li>
 <li><a href="/cbnews/20210802/1598626.md">北戴河休假已开始？习近平等七常委全体隐身 【阿波罗网报道】</a></li>
 <li><a href="/lifebaike/20210801/1598307.md">在南京，没一只鸭子能游过长江，除非它游到北京</a></li>
-<li><a href="/comments/20210802/1598641.md">【微博精粹】没雄起 已烂尾 习近平接近完成了川普的使命</a></li>
+<li><a href="/cnnews/20210802/1598643.md">华尔街大佬付费大玩性虐游戏 豪宅设“性牢”</a></li>
+<li><a href="/cbnews/20210802/1598662.md">气氛诡异！习近平八一发文同时 各大军媒、党媒现罕见一幕 【阿波罗网报道】</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210802/1598832.md" target="_blank">八岁男孩发生大车祸，三次停止呼吸，游历天堂，发现被隐瞒的真相！高龄产妇留下分娩阴影，回溯记忆，解开心结，丈夫为此放弃“无神论”，特殊经历震惊医生亲友！</a></li>
 <li><a href="/cbnews/20210802/1598769.md" target="_blank">Shen Yun Creations &#8211; 新西兰毛利舞</a></li>
 <li><a href="/comments/20210802/1598683.md" target="_blank">中共承认了！变异病毒攻入大陆14省 北京严防死守！放软话！美证管会暂停中企IPO 北京急了【希望之声-午夜新闻-2021/08/01】</a></li>
 <li><a href="/cbnews/20210802/1598672.md" target="_blank">萧铭：大家搞错了！美证监会没有禁止中概股在美国上市；美证监会要求中国公司披露自己是开曼群岛注册的壳公司；马云因为壳公司（VIE）的结构让股东雅虎吃大亏；萧茗专访美前国务次卿卡拉奇 ｜萧茗看世界</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210801/1598236.md" target="_blank">河北邯郸等地上空出现乳状云怪异天象 预示暴风雨即将到来？</a></li>
 <li><a href="/comments/20210801/1598214.md" target="_blank">7月31日 和郑州一样的异状云  出现在河北邯郸、邢台等城市天空 【希望之声TV】</a></li>
 <li><a href="/cbnews/20210801/1598203.md" target="_blank">薛守维：日本天皇赐赠“大光普照国师”的中国高僧隐元禅师</a></li>
-<li><a href="/cbnews/20210801/1598202.md" target="_blank">罕见！军委副主席张又侠发表署名文章 呼应习近平【阿波罗网报道】</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210802/1598832.md" target="_blank">八岁男孩发生大车祸，三次停止呼吸，游历天堂，发现被隐瞒的真相！高龄产妇留下分娩阴影，回溯记忆，解开心结，丈夫为此放弃“无神论”，特殊经历震惊医生亲友！</a></li>
+<li><a href="/comments/20210802/1598818.md" target="_blank">【小说连载】七海归途之雪伦公主（53）</a></li>
 <li><a href="/comments/20210802/1598817.md" target="_blank">三分钟视频：医学博士的升华之路</a></li>
 <li><a href="/comments/20210802/1598814.md" target="_blank">利比亚非法移民偷渡地中海 救援组织2天救起700人</a></li>
 <li><a href="/comments/20210802/1598806.md" target="_blank">应勇：六年前铁幕早已张开 析北京打击教培根本目的</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210802/1598697.md" target="_blank">【宁静不宁静】专栏：北欧神话《创世》《超能力 人人都有？ ！》</a></li>
 <li><a href="/comments/20210802/1598696.md" target="_blank">以色列油轮外海遇袭酿2死 英美谴责伊朗发动致命袭击</a></li>
 <li><a href="/comments/20210802/1598685.md" target="_blank">伊朗人的夺金童话，反映出邓计生对中国人才的史无前例毁灭 — 曾节明</a></li>
-<li><a href="/comments/20210802/1598691.md" target="_blank">李燕铭：北戴河会期吴亦凡案被引爆 深度内幕（三） 吴亦凡背后的第一波势力 是以徐静蕾为代表的“京圈”势力 吴亦凡第一部电影就演主角 导演是徐静蕾 京圈“一姐”徐静蕾与吴亦凡相差16岁爆绯闻 徐静蕾背后的男人：鲜肉熟男才子一个不少</a></li>
-<li><a href="/comments/20210802/1598690.md" target="_blank">水肿、便秘…体内静电太多啦〜吃这些快速排除</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/comments/20210611/1564824.md" target="_blank">【曾铮专栏】感悟神韵（之一）神韵的主旨</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
 <li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
-<li><a href="/ganwu/20170705/787156.md" target="_blank">感悟神韵（之四）：感悟神韵音乐</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20210611/1564824.md" target="_blank">【曾铮专栏】感悟神韵（之一）神韵的主旨</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
 
 </ul>
 </div>
