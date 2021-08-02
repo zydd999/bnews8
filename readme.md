@@ -7,27 +7,27 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/yule/20210802/1598455.md">吴亦凡事件又牵扯出毒品？供出多位明星</a></li>
 <li><a href="/bannedvideo/20210802/1598478.md">【中共出大事】军委副主席发文呼应习近平；河南现恐怖天象天怒人怨；1个村就23死失踪；天下粮仓一线救援泪诉：连水都要喝不上，臭气熏天；甘肃逼僧还俗，文革重演哀声一片 CR</a></li>
-<li><a href="/yule/20210802/1598658.md">网传吴亦凡遭捕过程极狼狈 发抖大哭求饶</a></li>
 <li><a href="/bannedvideo/20210802/1598443.md">改开时代结束，享年50岁。闭锁时代来临。即没选票也没第二修正案，而对面手握你的生杀大权，所以？结束了，一切都结束了。享受闭关锁国带来的别样人生吧，你已失去全世界。根本不会打台湾，那是忽悠。</a></li>
+<li><a href="/yule/20210802/1598658.md">网传吴亦凡遭捕过程极狼狈 发抖大哭求饶</a></li>
 <li><a href="/yule/20210802/1598623.md">曝吴亦凡刑拘后供出同伙 这名男明星立即回应了</a></li>
 <li><a href="/cnnews/20210802/1598489.md">香港新首富诞生！身家超李嘉诚890亿</a></li>
 <li><a href="/bannedvideo/20210802/1598528.md">最近几天我夜观星象，怎么感觉回到了东汉末年？</a></li>
 <li><a href="/cnnews/20210802/1598516.md">中美金融脱钩是一个正在发生的事实</a></li>
 <li><a href="/cbnews/20210802/1598546.md">学霸爸豪气喊：你考上哪、我就在哪买房！一看成绩单沉默了</a></li>
-<li><a href="/cbnews/20210802/1598662.md">气氛诡异！习近平八一发文同时 各大军媒、党媒现罕见一幕 【阿波罗网报道】</a></li>
 <li><a href="/comments/20210802/1598806.md">应勇：六年前铁幕早已张开 析北京打击教培根本目的</a></li>
+<li><a href="/cbnews/20210802/1598662.md">气氛诡异！习近平八一发文同时 各大军媒、党媒现罕见一幕 【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20210802/1598539.md">因这张照片 中共连发三条贴文炮轰美台</a></li>
-<li><a href="/ssgc/20210802/1598542.md">〖兲朝浮世绘〗中共非得把这些历史事件 活生生地再演一遍</a></li>
-<li><a href="/cbnews/20210802/1598626.md">北戴河休假已开始？习近平等七常委全体隐身 【阿波罗网报道】</a></li>
 <li><a href="/ccpdope/20210802/1598791.md">几个中共政治局要员的真实故事</a></li>
+<li><a href="/ssgc/20210802/1598542.md">〖兲朝浮世绘〗中共非得把这些历史事件 活生生地再演一遍</a></li>
 <li><a href="/yule/20210802/1598651.md">都美竹旧照曝光颜值翻车 与精修美照判若两人</a></li>
+<li><a href="/cbnews/20210802/1598626.md">北戴河休假已开始？习近平等七常委全体隐身 【阿波罗网报道】</a></li>
 <li><a href="/worldnews/20210802/1598540.md">凶手招了！曝惊天内幕：她竟然参与杀害海地总统</a></li>
-<li><a href="/comments/20210801/1598418.md">7月30日 山西临汾 大量燕子快速疾飞 不知道预示这什么......【希望之声TV】</a></li>
-<li><a href="/comments/20210802/1598641.md">【微博精粹】没雄起 已烂尾 习近平接近完成了川普的使命</a></li>
 <li><a href="/baitai/20210802/1598831.md">断十六狼｜河南，很多人现在才开始哭</a></li>
-<li><a href="/cnnews/20210802/1598643.md">华尔街大佬付费大玩性虐游戏 豪宅设“性牢”</a></li>
 <li><a href="/bannedvideo/20210802/1598816.md">没了美国味的郎平，退化成了令人讨厌的那种中国教练；金牌血汗工厂，我希望中国不得奥运金牌（20210802 第651期）</a></li>
+<li><a href="/comments/20210802/1598641.md">【微博精粹】没雄起 已烂尾 习近平接近完成了川普的使命</a></li>
 <li><a href="/comments/20210802/1598851.md">河南官方称洪灾302人死 北京终来人 李克强躺平？</a></li>
+<li><a href="/cnnews/20210802/1598643.md">华尔街大佬付费大玩性虐游戏 豪宅设“性牢”</a></li>
+<li><a href="/bannedvideo/20210802/1598659.md">网传8月1日，无锡江阴中学一学生在体育馆打疫苗，留观的时候脸色发白出虚汗，抽筋。120赶来的时候说人已经不行了。但未有官方报道。</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210802/1599015.md" target="_blank">饭后血糖不升就OK？ 不是低GI就是「超级食物」</a></li>
 <li><a href="/comments/20210802/1599011.md" target="_blank">【任甄评论】斗垮教协 可否震慑教师？</a></li>
 <li><a href="/comments/20210802/1598999.md" target="_blank">郑州疫情如洪水般速度特别快！ 何时到的，从哪儿来的？官方：缅甸输入</a></li>
 <li><a href="/comments/20210802/1598997.md" target="_blank">【林忌评论】由声称自愿 到强迫接种疫苗</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210802/1598817.md" target="_blank">三分钟视频：医学博士的升华之路</a></li>
 <li><a href="/comments/20210802/1598814.md" target="_blank">利比亚非法移民偷渡地中海 救援组织2天救起700人</a></li>
 <li><a href="/comments/20210802/1598806.md" target="_blank">应勇：六年前铁幕早已张开 析北京打击教培根本目的</a></li>
-<li><a href="/comments/20210802/1598798.md" target="_blank">【东洲专栏】美文篇：诸世纪〈四〉</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
 <li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
 <li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
 <li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
 
 </ul>
 </div>
