@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/cbnews/20210802/1598662.md">气氛诡异！习近平八一发文同时 各大军媒、党媒现罕见一幕 【阿波罗网报道】</a></li>
 <li><a href="/comments/20210802/1598806.md">应勇：六年前铁幕早已张开 析北京打击教培根本目的</a></li>
 <li><a href="/ccpdope/20210802/1598791.md">几个中共政治局要员的真实故事</a></li>
 <li><a href="/comments/20210802/1598851.md">河南官方称洪灾302人死 北京终来人 李克强躺平？</a></li>
@@ -13,21 +12,22 @@
 <li><a href="/cbnews/20210802/1598840.md">中共国人口14亿？社区疫苗分配超额再次揭底中共人口数字【阿波罗网报道】</a></li>
 <li><a href="/baitai/20210802/1598831.md">断十六狼｜河南，很多人现在才开始哭</a></li>
 <li><a href="/comments/20210803/1599067.md">习近平家谱 习兄弟姐妹家族详情曝光 中南海不可告人的秘密_432</a></li>
+<li><a href="/yule/20210803/1599139.md">杨颖噩梦降临：黄晓明再曝丑闻 赵薇或成导火索</a></li>
 <li><a href="/comments/20210803/1599060.md">孙春兰突降江苏  扬州市长火速换人 武汉再现？非儿戏！美众院保守派推抗共更严厉法案；美议员爆“证据优势”凸显病毒源自武毒室【希望之声TV-每日头条-2021/8/2】</a></li>
 <li><a href="/cbnews/20210803/1599104.md">美前情报总监：几乎可以确定病毒是实验室泄漏</a></li>
-<li><a href="/yule/20210803/1599139.md">杨颖噩梦降临：黄晓明再曝丑闻 赵薇或成导火索</a></li>
 <li><a href="/bannedvideo/20210802/1598861.md">陈破空：习近平发出政变信号！武力威胁北戴河。借重一支偏军。各派争执接班人和政治局重组</a></li>
 <li><a href="/comments/20210802/1598935.md">北京拉俄抗美 谁知“老朋友”却当众发难；北戴河休假正式启动 军委副主席发文【希望之声-两岸要闻-2021/08/02】</a></li>
-<li><a href="/bannedvideo/20210802/1598659.md">网传8月1日，无锡江阴中学一学生在体育馆打疫苗，留观的时候脸色发白出虚汗，抽筋。120赶来的时候说人已经不行了。但未有官方报道。</a></li>
+<li><a href="/cbnews/20210803/1599143.md">文昭：锁国了，中国全面停办因私护照！没说的问题有多严重？扫荡校外补习，逼出「新倭寇」？</a></li>
+<li><a href="/bannedvideo/20210803/1599121.md">中共国务院调查成立调查组，搅乱河南庆功晚会，习近平2亲信要中枪？美国会最新报告称武汉实验室泄毒，赵立坚提前攻防难奏效【#秦鹏观察 8/2】</a></li>
 <li><a href="/topimagenews/20210803/1599092.md">中国Delta病毒扩散15省市 北京重启封城令</a></li>
 <li><a href="/comments/20210802/1598832.md">八岁男孩发生大车祸，三次停止呼吸，游历天堂，发现被隐瞒的真相！高龄产妇留下分娩阴影，回溯记忆，解开心结，丈夫为此放弃“无神论”，特殊经历震惊医生亲友！</a></li>
-<li><a href="/cbnews/20210803/1599143.md">文昭：锁国了，中国全面停办因私护照！没说的问题有多严重？扫荡校外补习，逼出「新倭寇」？</a></li>
-<li><a href="/headline/20210802/1598804.md">美众院共和党更新新冠溯源报告：“大量证据直指病毒来自武汉病毒所”</a></li>
 <li><a href="/bannedvideo/20210802/1598688.md">病毒回北京认亲，墙国变种病毒大爆发箭在弦上；大地震预兆，8月20日前还有大事？习近平天命平冤，倒行逆施结局凄惨。｜薇羽看世间 第344期 20210801</a></li>
+<li><a href="/headline/20210802/1598804.md">美众院共和党更新新冠溯源报告：“大量证据直指病毒来自武汉病毒所”</a></li>
 <li><a href="/comments/20210802/1598683.md">中共承认了！变异病毒攻入大陆14省 北京严防死守！放软话！美证管会暂停中企IPO 北京急了【希望之声-午夜新闻-2021/08/01】</a></li>
 <li><a href="/bannedvideo/20210803/1599064.md">习近平  超过文革</a></li>
-<li><a href="/bannedvideo/20210803/1599121.md">中共国务院调查成立调查组，搅乱河南庆功晚会，习近平2亲信要中枪？美国会最新报告称武汉实验室泄毒，赵立坚提前攻防难奏效【#秦鹏观察 8/2】</a></li>
+<li><a href="/bannedvideo/20210803/1599053.md">攻陷中国的德尔塔，来自俄国！        中国疫苗的真正作用，吓坏网友！</a></li>
 <li><a href="/comments/20210803/1599089.md">中国选手身挂毛泽东襟章上颁奖台 路透﹕或违奥运规定</a></li>
+<li><a href="/comments/20210802/1598980.md">习近平一句话抹去中国股票1.5兆美元市值</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210803/1599340.md" target="_blank">河南水灾遇难突增！大陆网民要真相；又来了！武汉疫情登大陆新浪热搜【希望之声-午夜新闻-2021/08/02】</a></li>
 <li><a href="/comments/20210803/1599296.md" target="_blank">习家军首当其冲？ 中共国务院成立调查组追责“7·20”郑州洪灾；陷叛逃疑云 辟谣失败后 崔天凯再“露面【希望之声-红朝禁闻-2021/08/02】</a></li>
 <li><a href="/cbnews/20210803/1599279.md" target="_blank">天亮时分：天降伟人习近平，一刀砍向房地产；崔天凯露面，医界大佬暗示国产疫苗不行；因私护照比赴美签证还难搞，习近平要锁国（政论天下第479集 20210802）</a></li>
 <li><a href="/cbnews/20210803/1599273.md" target="_blank">重磅：多地疫情升级，停止发放护照的消息，已经被官方证实了…</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210802/1598896.md" target="_blank">美众院共和党新冠溯源报告指 大量证据直指新冠来自武汉病毒所</a></li>
 <li><a href="/cbnews/20210802/1598841.md" target="_blank">常庄水库附近河中 至少15具尸体捞出 高度腐败【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20210802/1598840.md" target="_blank">中共国人口14亿？社区疫苗分配超额再次揭底中共人口数字【阿波罗网报道】</a></li>
-<li><a href="/comments/20210802/1598832.md" target="_blank">八岁男孩发生大车祸，三次停止呼吸，游历天堂，发现被隐瞒的真相！高龄产妇留下分娩阴影，回溯记忆，解开心结，丈夫为此放弃“无神论”，特殊经历震惊医生亲友！</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210803/1599343.md" target="_blank">完全接种疫苗后 美资深参议员格雷厄姆宣布染疫</a></li>
+<li><a href="/comments/20210803/1599340.md" target="_blank">河南水灾遇难突增！大陆网民要真相；又来了！武汉疫情登大陆新浪热搜【希望之声-午夜新闻-2021/08/02】</a></li>
 <li><a href="/comments/20210803/1599304.md" target="_blank">疫情延烧 扬州封城 上海浦东机场打过疫苗员工中招</a></li>
 <li><a href="/comments/20210803/1599303.md" target="_blank">美国队凯里夺女子自由体操金牌 女排女篮都闯入1/4决赛</a></li>
 <li><a href="/comments/20210803/1599296.md" target="_blank">习家军首当其冲？ 中共国务院成立调查组追责“7·20”郑州洪灾；陷叛逃疑云 辟谣失败后 崔天凯再“露面【希望之声-红朝禁闻-2021/08/02】</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210803/1599206.md" target="_blank">颜纯钩：歇斯底里糟塌香港 不择手段破罐破摔</a></li>
 <li><a href="/comments/20210803/1599189.md" target="_blank">李燕铭：北戴河会议敏感期 女太子党布小林卸职 内蒙古自治区行政一把手换人 习近平下令倒查20年 放话“继续抓下去” 内蒙古官场被掀了个底朝天</a></li>
 <li><a href="/comments/20210803/1599186.md" target="_blank">【东奥最前线】金牌榜更新 2项世界记录被打破</a></li>
-<li><a href="/comments/20210803/1599185.md" target="_blank">Delta变种毒株席卷中国，严防死守模式这次能奏效吗？疫苗恐无用？中共突宣布停办“非紧急”护照，中国人又出不了国门了？</a></li>
-<li><a href="/comments/20210803/1599171.md" target="_blank">Delta变种病毒快速传播到大陆15个省，28个市区，日本、韩国、菲律宾、美国、澳洲等多国每天确诊病例不断增加，美最新公布有力新冠病毒溯源报告【希望之声TV-每日头条-2021/8/2】</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
 <li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
-<li><a href="/comments/20210612/1565472.md" target="_blank">感悟神韵（之二）：感悟神韵的艺术风格</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
 
 </ul>
 </div>
