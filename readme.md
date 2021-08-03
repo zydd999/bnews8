@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/yule/20210802/1598658.md">网传吴亦凡遭捕过程极狼狈 发抖大哭求饶</a></li>
 <li><a href="/cbnews/20210802/1598662.md">气氛诡异！习近平八一发文同时 各大军媒、党媒现罕见一幕 【阿波罗网报道】</a></li>
 <li><a href="/comments/20210802/1598806.md">应勇：六年前铁幕早已张开 析北京打击教培根本目的</a></li>
 <li><a href="/ccpdope/20210802/1598791.md">几个中共政治局要员的真实故事</a></li>
@@ -16,18 +15,19 @@
 <li><a href="/comments/20210803/1599067.md">习近平家谱 习兄弟姐妹家族详情曝光 中南海不可告人的秘密_432</a></li>
 <li><a href="/comments/20210803/1599060.md">孙春兰突降江苏  扬州市长火速换人 武汉再现？非儿戏！美众院保守派推抗共更严厉法案；美议员爆“证据优势”凸显病毒源自武毒室【希望之声TV-每日头条-2021/8/2】</a></li>
 <li><a href="/cbnews/20210803/1599104.md">美前情报总监：几乎可以确定病毒是实验室泄漏</a></li>
+<li><a href="/yule/20210803/1599139.md">杨颖噩梦降临：黄晓明再曝丑闻 赵薇或成导火索</a></li>
 <li><a href="/bannedvideo/20210802/1598861.md">陈破空：习近平发出政变信号！武力威胁北戴河。借重一支偏军。各派争执接班人和政治局重组</a></li>
 <li><a href="/comments/20210802/1598935.md">北京拉俄抗美 谁知“老朋友”却当众发难；北戴河休假正式启动 军委副主席发文【希望之声-两岸要闻-2021/08/02】</a></li>
 <li><a href="/bannedvideo/20210802/1598659.md">网传8月1日，无锡江阴中学一学生在体育馆打疫苗，留观的时候脸色发白出虚汗，抽筋。120赶来的时候说人已经不行了。但未有官方报道。</a></li>
-<li><a href="/yule/20210803/1599139.md">杨颖噩梦降临：黄晓明再曝丑闻 赵薇或成导火索</a></li>
-<li><a href="/comments/20210802/1598832.md">八岁男孩发生大车祸，三次停止呼吸，游历天堂，发现被隐瞒的真相！高龄产妇留下分娩阴影，回溯记忆，解开心结，丈夫为此放弃“无神论”，特殊经历震惊医生亲友！</a></li>
-<li><a href="/comments/20210802/1598656.md">李燕铭：北戴河会期吴亦凡案被引爆 深度内幕（二） 吴亦凡被抓照片曝光 涉毒遭捕过程极狼狈 发抖大哭求饶 明星邻居看到吴亦凡被捕 知情人透露吴亦凡身边熟人提供关键证据 网曝吴亦凡九大罪状 或牵出更多明星</a></li>
 <li><a href="/topimagenews/20210803/1599092.md">中国Delta病毒扩散15省市 北京重启封城令</a></li>
-<li><a href="/headline/20210802/1598804.md">美众院共和党更新新冠溯源报告：“大量证据直指病毒来自武汉病毒所”</a></li>
-<li><a href="/comments/20210802/1598683.md">中共承认了！变异病毒攻入大陆14省 北京严防死守！放软话！美证管会暂停中企IPO 北京急了【希望之声-午夜新闻-2021/08/01】</a></li>
-<li><a href="/bannedvideo/20210802/1598688.md">病毒回北京认亲，墙国变种病毒大爆发箭在弦上；大地震预兆，8月20日前还有大事？习近平天命平冤，倒行逆施结局凄惨。｜薇羽看世间 第344期 20210801</a></li>
-<li><a href="/bannedvideo/20210803/1599064.md">习近平  超过文革</a></li>
+<li><a href="/comments/20210802/1598832.md">八岁男孩发生大车祸，三次停止呼吸，游历天堂，发现被隐瞒的真相！高龄产妇留下分娩阴影，回溯记忆，解开心结，丈夫为此放弃“无神论”，特殊经历震惊医生亲友！</a></li>
 <li><a href="/cbnews/20210803/1599143.md">文昭：锁国了，中国全面停办因私护照！没说的问题有多严重？扫荡校外补习，逼出「新倭寇」？</a></li>
+<li><a href="/headline/20210802/1598804.md">美众院共和党更新新冠溯源报告：“大量证据直指病毒来自武汉病毒所”</a></li>
+<li><a href="/bannedvideo/20210802/1598688.md">病毒回北京认亲，墙国变种病毒大爆发箭在弦上；大地震预兆，8月20日前还有大事？习近平天命平冤，倒行逆施结局凄惨。｜薇羽看世间 第344期 20210801</a></li>
+<li><a href="/comments/20210802/1598683.md">中共承认了！变异病毒攻入大陆14省 北京严防死守！放软话！美证管会暂停中企IPO 北京急了【希望之声-午夜新闻-2021/08/01】</a></li>
+<li><a href="/bannedvideo/20210803/1599064.md">习近平  超过文革</a></li>
+<li><a href="/bannedvideo/20210803/1599121.md">中共国务院调查成立调查组，搅乱河南庆功晚会，习近平2亲信要中枪？美国会最新报告称武汉实验室泄毒，赵立坚提前攻防难奏效【#秦鹏观察 8/2】</a></li>
+<li><a href="/comments/20210803/1599089.md">中国选手身挂毛泽东襟章上颁奖台 路透﹕或违奥运规定</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -67,6 +67,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20210803/1599339.md" target="_blank">中共官媒炮轰 游戏股全线暴跌！腾讯网易跌超10%…</a></li>
 <li><a href="/topimagenews/20210803/1599092.md" target="_blank">中国Delta病毒扩散15省市 北京重启封城令</a></li>
 <li><a href="/topimagenews/20210802/1598716.md" target="_blank">新疆和静县7月突降暴雪 必有冤情？</a></li>
 <li><a href="/topimagenews/20210802/1598715.md" target="_blank">报告曝光大秘密：美来台协训爱国者飞弹射击</a></li>
@@ -91,13 +92,14 @@
 <li><a href="/topimagenews/20210729/1596290.md" target="_blank">群起抵抗中共暴政！中国人在逐渐觉醒！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20210729/1596289.md" target="_blank">神秘人掀起滔天巨浪！惊天黑洞:凯乐科技23亿资金又没了？多家A股公司踩雷</a></li>
 <li><a href="/topimagenews/20210729/1596095.md" target="_blank">加国华裔游泳冠军 中共收取数万美金 真的只是中国弃婴？</a></li>
-<li><a href="/topimagenews/20210729/1596022.md" target="_blank">监管前景不确定 瑞银警告中国股市或进一步下挫</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210803/1599304.md" target="_blank">疫情延烧 扬州封城 上海浦东机场打过疫苗员工中招</a></li>
+<li><a href="/comments/20210803/1599303.md" target="_blank">美国队凯里夺女子自由体操金牌 女排女篮都闯入1/4决赛</a></li>
 <li><a href="/comments/20210803/1599296.md" target="_blank">习家军首当其冲？ 中共国务院成立调查组追责“7·20”郑州洪灾；陷叛逃疑云 辟谣失败后 崔天凯再“露面【希望之声-红朝禁闻-2021/08/02】</a></li>
 <li><a href="/comments/20210803/1599295.md" target="_blank">CDC无法延长租客驱逐禁令 拜登吁各州采取行动</a></li>
 <li><a href="/comments/20210803/1599294.md" target="_blank">遭遣返白罗斯选手向国际求援 获波兰「人道签证」</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210803/1599186.md" target="_blank">【东奥最前线】金牌榜更新 2项世界记录被打破</a></li>
 <li><a href="/comments/20210803/1599185.md" target="_blank">Delta变种毒株席卷中国，严防死守模式这次能奏效吗？疫苗恐无用？中共突宣布停办“非紧急”护照，中国人又出不了国门了？</a></li>
 <li><a href="/comments/20210803/1599171.md" target="_blank">Delta变种病毒快速传播到大陆15个省，28个市区，日本、韩国、菲律宾、美国、澳洲等多国每天确诊病例不断增加，美最新公布有力新冠病毒溯源报告【希望之声TV-每日头条-2021/8/2】</a></li>
-<li><a href="/comments/20210803/1599169.md" target="_blank">河南遇难人数突跃升 李克强宣布调查 习家军首当其冲？</a></li>
-<li><a href="/comments/20210803/1599150.md" target="_blank">战狼再甩锅 美重磅连发 病毒来自实验室？ 崔天凯辟谣照片被打假  留美意味着什么？【希望之声TV-新闻焦点解读-2021/08/02】主持:高洁  嘉宾：蓝述</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/comments/20210329/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
 <li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
+<li><a href="/comments/20210612/1565472.md" target="_blank">感悟神韵（之二）：感悟神韵的艺术风格</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
 
 </ul>
 </div>
