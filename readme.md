@@ -17,15 +17,15 @@
 <li><a href="/bannedvideo/20210803/1599525.md">吴亦凡粉丝团包围北京朝阳区看守所！</a></li>
 <li><a href="/bannedvideo/20210804/1599781.md">港媒独家：习近平要改变中美关系，认为杨洁篪太软弱；坚决不移民美国？！民营企业金家孙大午视频曝光，震惊网络；中国民众对美国态度面面观【#秦鹏观察 8/3】</a></li>
 <li><a href="/bannedvideo/20210803/1599473.md">惊人秘密!中共为何求美国撤销党员及家属签证限制 老百姓出国难（2021年8月3日）</a></li>
-<li><a href="/worldnews/20210804/1599775.md">15岁少女车上坏坏 突发异状终悲剧收场</a></li>
 <li><a href="/baitai/20210804/1599795.md">【网络民议】新发现中药连花清瘟对德尔塔病毒有效 网友：这就去买股票</a></li>
+<li><a href="/worldnews/20210804/1599775.md">15岁少女车上坏坏 突发异状终悲剧收场</a></li>
 <li><a href="/cbnews/20210804/1599840.md">故宫屋顶600年没鸟屎！专家：这设计绝了</a></li>
+<li><a href="/comments/20210804/1599938.md">【微博精粹】钟南山：防堵已失效 高福：禁止强打疫苗 要留后路了</a></li>
 <li><a href="/sports/20210804/1599776.md">被投诉！中国羽球“我曹”女双惨了…</a></li>
+<li><a href="/ssgc/20210804/1599808.md">〖兲朝浮世绘〗中共真够意思，将自己500强企业来一趟大抄家</a></li>
 <li><a href="/comments/20210804/1599778.md">县委书记泄漏习近平反美谈话内容 新加坡总理李显龙告诫习近平：“东升西降”的想法是错的！中南海不可告人的秘密_434</a></li>
 <li><a href="/bannedvideo/20210804/1599694.md">美国国会调查报告：大量证据 证实了新冠源头！</a></li>
-<li><a href="/ssgc/20210804/1599808.md">〖兲朝浮世绘〗中共真够意思，将自己500强企业来一趟大抄家</a></li>
 <li><a href="/cnnews/20210804/1599848.md">纽约布碌仑妓女地铁肆无忌惮揽客 华人震惊</a></li>
-<li><a href="/comments/20210804/1599938.md">【微博精粹】钟南山：防堵已失效 高福：禁止强打疫苗 要留后路了</a></li>
 <li><a href="/comments/20210803/1599521.md">美共和党报告 三大关键 北京急了；李克强心腹赴郑州 河南省委红头文件亮了！【希望之声-两岸要闻-2021/08/03】</a></li>
 <li><a href="/comments/20210803/1599441.md">中国两运动员身挂毛泽东襟章上台领奖 有违《奥林匹克宪章》国际奥委会调查</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210804/1600079.md" target="_blank">毛泽东不敢让毛远新参加抗美援越 因为害怕美国B-52远程战略轰炸机 毛泽东害怕毛远新步毛岸英被炸死的后尘 中南海不可告人的秘密_436</a></li>
+<li><a href="/comments/20210804/1600066.md" target="_blank">【一分钟料理】酸辣豆芽</a></li>
 <li><a href="/comments/20210804/1600060.md" target="_blank">李燕铭：北戴河会议攸关二十大高层人事 牵动世界大战！（三）北戴河会议敏感期 印度特遣舰队部署南海 印美澳日将联合军演 德国护卫舰启程 接棒英航母前进南海 英德接连向中共亮剑 近20年来首见</a></li>
 <li><a href="/comments/20210804/1600041.md" target="_blank">不平静！五角大楼全封锁，枪手被击毙；川普改诉状！增6万多人新证；悬疑？处理过国会骚乱的四名警察都是自杀身亡【希望之声TV-北美新闻-20210803】</a></li>
 <li><a href="/comments/20210804/1600018.md" target="_blank">不与烂人纠缠 纳入人生信条 学会受用千年</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210804/1599938.md" target="_blank">【微博精粹】钟南山：防堵已失效 高福：禁止强打疫苗 要留后路了</a></li>
 <li><a href="/comments/20210804/1599910.md" target="_blank">拜登政府延用川普令 继续驱逐非法越境者</a></li>
 <li><a href="/comments/20210804/1599909.md" target="_blank">美国与印尼展开战略对话 承诺扞卫南海航行自由</a></li>
-<li><a href="/comments/20210804/1599420.md" target="_blank">打疫苗记 — 曾节明</a></li>
-<li><a href="/comments/20210804/1599437.md" target="_blank">“邓计生”深远危害超越“毛文革”，必须尽快废除计生委 — 曾节明</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
 <li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20210329/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
 
 </ul>
 </div>
