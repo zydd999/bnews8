@@ -12,22 +12,22 @@
 <li><a href="/cnnews/20210803/1599242.md">“人类高质量男性”的真面目，就这？</a></li>
 <li><a href="/bannedvideo/20210803/1599447.md">河北雄安新区，数万亿投资成烂尾楼</a></li>
 <li><a href="/topimagenews/20210803/1599541.md">城市运动破灭习李撑腰也不行 不服不行北京向美证管会服软 习1句话中国股票跌1.5兆美元</a></li>
-<li><a href="/cbnews/20210803/1599273.md">重磅：多地疫情升级，停止发放护照的消息，已经被官方证实了…</a></li>
 <li><a href="/bannedvideo/20210803/1599492.md">文睿：又要清洗一个产业，习近平疯狂了，失业大军一眼望不到边</a></li>
+<li><a href="/cbnews/20210803/1599273.md">重磅：多地疫情升级，停止发放护照的消息，已经被官方证实了…</a></li>
 <li><a href="/cnnews/20210803/1599587.md">美要把中国踢出美元支付体系？这可是金融核战啊</a></li>
 <li><a href="/bannedvideo/20210803/1599485.md">为何疫苗无法阻断病毒传播？英国政府报告：几乎“可以肯定”会出现新变种，将让所有疫苗都失效！</a></li>
 <li><a href="/comments/20210803/1599296.md">习家军首当其冲？ 中共国务院成立调查组追责“7·20”郑州洪灾；陷叛逃疑云 辟谣失败后 崔天凯再“露面【希望之声-红朝禁闻-2021/08/02】</a></li>
+<li><a href="/yule/20210804/1599750.md">才刚打完疫苗！女星确诊武汉肺炎不幸离世 享年46岁</a></li>
 <li><a href="/comments/20210803/1599340.md">河南水灾遇难突增！大陆网民要真相；又来了！武汉疫情登大陆新浪热搜【希望之声-午夜新闻-2021/08/02】</a></li>
 <li><a href="/bannedvideo/20210803/1599473.md">惊人秘密!中共为何求美国撤销党员及家属签证限制 老百姓出国难（2021年8月3日）</a></li>
-<li><a href="/bannedvideo/20210803/1599360.md">李克强调查习家军</a></li>
 <li><a href="/bannedvideo/20210803/1599525.md">吴亦凡粉丝团包围北京朝阳区看守所！</a></li>
-<li><a href="/yule/20210804/1599750.md">才刚打完疫苗！女星确诊武汉肺炎不幸离世 享年46岁</a></li>
+<li><a href="/bannedvideo/20210803/1599360.md">李克强调查习家军</a></li>
 <li><a href="/yule/20210803/1599243.md">土耳其女排18号妹子，又美又飒又能打，网友全部沦陷了</a></li>
+<li><a href="/yule/20210804/1599761.md">吴亦凡传拘留于“朝阳看守所”内部画面曝光</a></li>
 <li><a href="/topimagenews/20210803/1599339.md">中共官媒炮轰 游戏股全线暴跌！腾讯网易跌超10%…</a></li>
 <li><a href="/lifebaike/20210803/1599376.md">饭局上，越是混得好的人，越会点这3种菜，希望你也会</a></li>
 <li><a href="/bannedvideo/20210804/1599694.md">美国国会调查报告：大量证据 证实了新冠源头！</a></li>
 <li><a href="/funmedia/20210803/1599274.md">嫁到迪拜的中国美女，虽生活特别富足，但直言迪拜有三点接受不来</a></li>
-<li><a href="/yule/20210804/1599761.md">吴亦凡传拘留于“朝阳看守所”内部画面曝光</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210804/1599875.md" target="_blank">横河观点：奥运中另类抗议 美溯源报告有新意</a></li>
+<li><a href="/comments/20210804/1599874.md" target="_blank">邱开冒：牵扯大哥 阴谋论家秒变情人 贱骨头</a></li>
+<li><a href="/comments/20210804/1599873.md" target="_blank">郑中原：习近平躺在北戴河0号别墅也难安枕</a></li>
+<li><a href="/comments/20210804/1599871.md" target="_blank">唐山水：张文宏是“当代汪精卫”？这帮蠢货还真敢胡咧咧</a></li>
 <li><a href="/comments/20210804/1599853.md" target="_blank">习近平时隔一年民望调查评分与排名提升 但仍低于李克强 朱熔基稳居榜首 温家宝胡锦涛其次 王岐山未上十人榜单 中南海不可告人的秘密_435</a></li>
 <li><a href="/comments/20210804/1599844.md" target="_blank">赵越：二手房指导价将成大城市标配？</a></li>
 <li><a href="/comments/20210804/1599843.md" target="_blank">这条路我也想走啊 一出生就赢了</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210804/1599744.md" target="_blank">【戈壁东专栏】时事篇：《法国正在发生民众抗议活动》</a></li>
 <li><a href="/comments/20210804/1599743.md" target="_blank">剑指中共！美国务卿布林肯将出席一连串东盟部长会议</a></li>
 <li><a href="/comments/20210804/1599740.md" target="_blank">立秋，要吃这8种“立秋果”，去除秋燥，顺利入秋天</a></li>
-<li><a href="/comments/20210804/1599733.md" target="_blank">韩国电视人：从轻生到走入全新人生</a></li>
-<li><a href="/comments/20210804/1599732.md" target="_blank">【古韵流芳】品读唐诗 之九：《励志！愈挫愈见豪气》</a></li>
-<li><a href="/comments/20210804/1599731.md" target="_blank">【戈壁东专栏】时事篇：极权专制</a></li>
-<li><a href="/comments/20210804/1599730.md" target="_blank">【戈壁东专栏】时事篇：《狗屁化的奥运》</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
+<li><a href="/comments/20210611/1564824.md" target="_blank">【曾铮专栏】感悟神韵（之一）神韵的主旨</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
 <li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
 
 </ul>
 </div>
