@@ -9,25 +9,25 @@
 <li><a href="/comments/20210803/1599484.md">官方下令“不惜代价”保北京 专家：习近平“大事”不妙</a></li>
 <li><a href="/cbnews/20210803/1599279.md">天亮时分：天降伟人习近平，一刀砍向房地产；崔天凯露面，医界大佬暗示国产疫苗不行；因私护照比赴美签证还难搞，习近平要锁国（政论天下第479集 20210802）</a></li>
 <li><a href="/cbnews/20210803/1599445.md">“北戴河时间”来临 中共正部级大员人事异动</a></li>
-<li><a href="/cnnews/20210803/1599242.md">“人类高质量男性”的真面目，就这？</a></li>
 <li><a href="/bannedvideo/20210803/1599447.md">河北雄安新区，数万亿投资成烂尾楼</a></li>
 <li><a href="/topimagenews/20210803/1599541.md">城市运动破灭习李撑腰也不行 不服不行北京向美证管会服软 习1句话中国股票跌1.5兆美元</a></li>
 <li><a href="/bannedvideo/20210803/1599492.md">文睿：又要清洗一个产业，习近平疯狂了，失业大军一眼望不到边</a></li>
 <li><a href="/cbnews/20210803/1599273.md">重磅：多地疫情升级，停止发放护照的消息，已经被官方证实了…</a></li>
 <li><a href="/cnnews/20210803/1599587.md">美要把中国踢出美元支付体系？这可是金融核战啊</a></li>
+<li><a href="/yule/20210804/1599750.md">才刚打完疫苗！女星确诊武汉肺炎不幸离世 享年46岁</a></li>
 <li><a href="/bannedvideo/20210803/1599485.md">为何疫苗无法阻断病毒传播？英国政府报告：几乎“可以肯定”会出现新变种，将让所有疫苗都失效！</a></li>
 <li><a href="/comments/20210803/1599296.md">习家军首当其冲？ 中共国务院成立调查组追责“7·20”郑州洪灾；陷叛逃疑云 辟谣失败后 崔天凯再“露面【希望之声-红朝禁闻-2021/08/02】</a></li>
-<li><a href="/yule/20210804/1599750.md">才刚打完疫苗！女星确诊武汉肺炎不幸离世 享年46岁</a></li>
 <li><a href="/comments/20210803/1599340.md">河南水灾遇难突增！大陆网民要真相；又来了！武汉疫情登大陆新浪热搜【希望之声-午夜新闻-2021/08/02】</a></li>
 <li><a href="/bannedvideo/20210803/1599473.md">惊人秘密!中共为何求美国撤销党员及家属签证限制 老百姓出国难（2021年8月3日）</a></li>
 <li><a href="/bannedvideo/20210803/1599525.md">吴亦凡粉丝团包围北京朝阳区看守所！</a></li>
-<li><a href="/bannedvideo/20210803/1599360.md">李克强调查习家军</a></li>
-<li><a href="/yule/20210803/1599243.md">土耳其女排18号妹子，又美又飒又能打，网友全部沦陷了</a></li>
 <li><a href="/yule/20210804/1599761.md">吴亦凡传拘留于“朝阳看守所”内部画面曝光</a></li>
+<li><a href="/bannedvideo/20210803/1599360.md">李克强调查习家军</a></li>
 <li><a href="/topimagenews/20210803/1599339.md">中共官媒炮轰 游戏股全线暴跌！腾讯网易跌超10%…</a></li>
 <li><a href="/lifebaike/20210803/1599376.md">饭局上，越是混得好的人，越会点这3种菜，希望你也会</a></li>
 <li><a href="/bannedvideo/20210804/1599694.md">美国国会调查报告：大量证据 证实了新冠源头！</a></li>
 <li><a href="/funmedia/20210803/1599274.md">嫁到迪拜的中国美女，虽生活特别富足，但直言迪拜有三点接受不来</a></li>
+<li><a href="/comments/20210803/1599441.md">中国两运动员身挂毛泽东襟章上台领奖 有违《奥林匹克宪章》国际奥委会调查</a></li>
+<li><a href="/comments/20210803/1599521.md">美共和党报告 三大关键 北京急了；李克强心腹赴郑州 河南省委红头文件亮了！【希望之声-两岸要闻-2021/08/03】</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,9 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210804/1599387.md" target="_blank">从“斗地主”所思</a></li>
+<li><a href="/cbnews/20210804/1599893.md" target="_blank">美航母重大举动 陆媒：围绕中国的美制5代机太多</a></li>
+<li><a href="/comments/20210804/1599892.md" target="_blank">剑指中国！美军今举行“2021大规模演习”多达36艘军舰投入军演，横跨17个时区，这是美方首次进行海军与两栖部队大规模军演【希望之声TV-每日头条-2021/8/3】</a></li>
 <li><a href="/cbnews/20210804/1599840.md" target="_blank">故宫屋顶600年没鸟屎！专家：这设计绝了</a></li>
 <li><a href="/comments/20210804/1599805.md" target="_blank">痛批“精神鸦片” 游戏股全线爆跌，铁拳下次轮到谁？ 病毒智慧超人 多国发出警讯  9月10月要小心？【希望之声TV-新闻焦点解读-2021/08/03】主持:高洁  嘉宾：林晓旭</a></li>
 <li><a href="/comments/20210804/1599801.md" target="_blank">躺着拿到1亿捐款，川普轻松备足战争经费！惨了，“卧槽”组合面临调查！戴毛像章领奖中国选手遭指控！不是党员的吴亦凡，惨遭资本抛弃！【新闻最嘲点 姜光宇】Mr.FunnyNews(2021.0803）‬</a></li>
@@ -58,9 +61,6 @@
 <li><a href="/comments/20210803/1599150.md" target="_blank">战狼再甩锅 美重磅连发 病毒来自实验室？ 崔天凯辟谣照片被打假  留美意味着什么？【希望之声TV-新闻焦点解读-2021/08/02】主持:高洁  嘉宾：蓝述</a></li>
 <li><a href="/cbnews/20210803/1599143.md" target="_blank">文昭：锁国了，中国全面停办因私护照！没说的问题有多严重？扫荡校外补习，逼出「新倭寇」？</a></li>
 <li><a href="/cbnews/20210803/1599132.md" target="_blank">中共狠打左翼学生组织 “中国联学会”被迫解散 多人被捕</a></li>
-<li><a href="/cbnews/20210803/1599104.md" target="_blank">美前情报总监：几乎可以确定病毒是实验室泄漏</a></li>
-<li><a href="/cbnews/20210803/1599093.md" target="_blank">澳智库统公布这项数据 释出中美新信号</a></li>
-<li><a href="/cbnews/20210803/1599086.md" target="_blank">德海军派护卫舰赴南海 近20年来首次</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210804/1599910.md" target="_blank">拜登政府延用川普令 继续驱逐非法越境者</a></li>
+<li><a href="/comments/20210804/1599909.md" target="_blank">美国与印尼展开战略对话 承诺扞卫南海航行自由</a></li>
+<li><a href="/comments/20210804/1599420.md" target="_blank">打疫苗记 — 曾节明</a></li>
+<li><a href="/comments/20210804/1599437.md" target="_blank">“邓计生”深远危害超越“毛文革”，必须尽快废除计生委 — 曾节明</a></li>
+<li><a href="/comments/20210804/1599892.md" target="_blank">剑指中国！美军今举行“2021大规模演习”多达36艘军舰投入军演，横跨17个时区，这是美方首次进行海军与两栖部队大规模军演【希望之声TV-每日头条-2021/8/3】</a></li>
 <li><a href="/comments/20210804/1599875.md" target="_blank">横河观点：奥运中另类抗议 美溯源报告有新意</a></li>
 <li><a href="/comments/20210804/1599874.md" target="_blank">邱开冒：牵扯大哥 阴谋论家秒变情人 贱骨头</a></li>
 <li><a href="/comments/20210804/1599873.md" target="_blank">郑中原：习近平躺在北戴河0号别墅也难安枕</a></li>
@@ -118,11 +123,6 @@
 <li><a href="/comments/20210804/1599778.md" target="_blank">县委书记泄漏习近平反美谈话内容 新加坡总理李显龙告诫习近平：“东升西降”的想法是错的！中南海不可告人的秘密_434</a></li>
 <li><a href="/comments/20210804/1599772.md" target="_blank">【世界美景】摄影：《爱出者反爱，福往者福来》</a></li>
 <li><a href="/comments/20210804/1599771.md" target="_blank">比尔‧盖兹与梅琳达正式离婚 女方保留盖兹姓</a></li>
-<li><a href="/comments/20210804/1599755.md" target="_blank">研究机构：中国近3年约1100家房企破产</a></li>
-<li><a href="/comments/20210804/1599746.md" target="_blank">“六四记忆．人权博物馆”今网上开放 即日脱离支联会独立运作</a></li>
-<li><a href="/comments/20210804/1599744.md" target="_blank">【戈壁东专栏】时事篇：《法国正在发生民众抗议活动》</a></li>
-<li><a href="/comments/20210804/1599743.md" target="_blank">剑指中共！美国务卿布林肯将出席一连串东盟部长会议</a></li>
-<li><a href="/comments/20210804/1599740.md" target="_blank">立秋，要吃这8种“立秋果”，去除秋燥，顺利入秋天</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
-<li><a href="/comments/20210611/1564824.md" target="_blank">【曾铮专栏】感悟神韵（之一）神韵的主旨</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
 <li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
 <li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
 
 </ul>
 </div>
