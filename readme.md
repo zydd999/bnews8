@@ -5,17 +5,13 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/bannedvideo/20210804/1599781.md">港媒独家：习近平要改变中美关系，认为杨洁篪太软弱；坚决不移民美国？！民营企业金家孙大午视频曝光，震惊网络；中国民众对美国态度面面观【#秦鹏观察 8/3】</a></li>
 <li><a href="/comments/20210804/1599938.md">【微博精粹】钟南山：防堵已失效 高福：禁止强打疫苗 要留后路了</a></li>
 <li><a href="/baitai/20210804/1599795.md">【网络民议】新发现中药连花清瘟对德尔塔病毒有效 网友：这就去买股票</a></li>
-<li><a href="/worldnews/20210804/1599775.md">15岁少女车上坏坏 突发异状终悲剧收场</a></li>
 <li><a href="/cbnews/20210804/1599840.md">故宫屋顶600年没鸟屎！专家：这设计绝了</a></li>
 <li><a href="/topimagenews/20210804/1599999.md">曾庆红手下联合放风：习近平对美政策或大改变【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20210804/1600142.md">江派周永康根本没把习近平放在眼里！没想到能有今天！【阿波罗网独家报道】</a></li>
-<li><a href="/sports/20210804/1599776.md">被投诉！中国羽球“我曹”女双惨了…</a></li>
 <li><a href="/cbnews/20210804/1600000.md">中印边境冲突新画面流出 曝火爆交手</a></li>
 <li><a href="/ssgc/20210804/1599808.md">〖兲朝浮世绘〗中共真够意思，将自己500强企业来一趟大抄家</a></li>
-<li><a href="/comments/20210804/1599778.md">县委书记泄漏习近平反美谈话内容 新加坡总理李显龙告诫习近平：“东升西降”的想法是错的！中南海不可告人的秘密_434</a></li>
 <li><a href="/cnnews/20210804/1599848.md">纽约布碌仑妓女地铁肆无忌惮揽客 华人震惊</a></li>
 <li><a href="/comments/20210804/1599984.md">涉二十大权斗？ 河南涝疫后  官场或大震；北京已成疫区？北京人出行遭歧视【希望之声-午夜新闻-2021/08/03】</a></li>
 <li><a href="/comments/20210804/1600094.md">孟晚舟案最关键时刻 拜登发声力挺加拿大；张家界封城 南京大量民众拉走隔离【希望之声-红朝禁闻-2021/08/03】</a></li>
@@ -28,6 +24,10 @@
 <li><a href="/cbnews/20210804/1599915.md">天亮时分：南京、北京半封城，习近平亲自指挥的神话破灭；吴亦凡饭圈劫狱？共和党报告直指病毒来自武毒所，习近平躲不过去了；（政论天下第480集 20210803）</a></li>
 <li><a href="/comments/20210804/1599801.md">躺着拿到1亿捐款，川普轻松备足战争经费！惨了，“卧槽”组合面临调查！戴毛像章领奖中国选手遭指控！不是党员的吴亦凡，惨遭资本抛弃！【新闻最嘲点 姜光宇】Mr.FunnyNews(2021.0803）‬</a></li>
 <li><a href="/cnnews/20210804/1599803.md">举报院系领导！著名大学女副教授群发遗书跳楼</a></li>
+<li><a href="/comments/20210804/1600123.md">李燕铭：北戴河会议习李斗激烈？习家军司法部长唐一军添头衔 李克强亲信袁曙宏被免职降级踢出司法部党组</a></li>
+<li><a href="/headline/20210804/1600085.md">胡锦涛后去北戴河只疗养不开会 炒作十来年？</a></li>
+<li><a href="/health/20210804/1600010.md">一个吹风机能顶10个老中医</a></li>
+<li><a href="/bannedvideo/20210804/1599839.md">【习近平紧急叫停？】党媒自删炮轰文；中共冠军戴毛像，奥委会调查；郑州被封小区大喊救命；秦刚诡秘赴美一幕曝光；美军预知AI可提前数天预测；印特遣舰队部署南海；中共羽球女双粗口！韩震怒投诉 CT</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -67,6 +67,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20210805/1600426.md" target="_blank">广西柳州遭遇狂风暴雨天气 飞沙走石 天发怒了</a></li>
 <li><a href="/topimagenews/20210805/1600408.md" target="_blank">疫情重燃！大行狠削中国经济预测 内需消费受挫碍复苏</a></li>
 <li><a href="/topimagenews/20210804/1600169.md" target="_blank">中国大陆各地核酸检测现场 人群密集 是割韭菜还是群聚感染？</a></li>
 <li><a href="/topimagenews/20210804/1600142.md" target="_blank">江派周永康根本没把习近平放在眼里！没想到能有今天！【阿波罗网独家报道】</a></li>
@@ -91,7 +92,6 @@
 <li><a href="/topimagenews/20210731/1597340.md" target="_blank">中共加强监管陆股大跌 谢金河示警：全球大资金重新评价中国投资的起点</a></li>
 <li><a href="/topimagenews/20210731/1597339.md" target="_blank">上海版“我爸是李刚！” 徐汇区检察长之子坑爹式自爆:&#8221;我家有15套房子！“</a></li>
 <li><a href="/topimagenews/20210731/1597279.md" target="_blank">不让美投资人被当韭菜！SEC冻结中企IPO申请 要求揭露风险</a></li>
-<li><a href="/topimagenews/20210730/1597024.md" target="_blank">军民雨水情演戏演砸了 救援部队离开灾区 民众送空纸壳箱表示感谢</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/comments/20210611/1564824.md" target="_blank">【曾铮专栏】感悟神韵（之一）神韵的主旨</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20210329/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
 
 </ul>
 </div>
