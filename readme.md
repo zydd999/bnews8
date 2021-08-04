@@ -5,16 +5,16 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
+<li><a href="/yule/20210804/1599761.md">吴亦凡传拘留于“朝阳看守所”内部画面曝光</a></li>
 <li><a href="/topimagenews/20210803/1599541.md">城市运动破灭习李撑腰也不行 不服不行北京向美证管会服软 习1句话中国股票跌1.5兆美元</a></li>
 <li><a href="/cnnews/20210803/1599587.md">美要把中国踢出美元支付体系？这可是金融核战啊</a></li>
-<li><a href="/yule/20210804/1599761.md">吴亦凡传拘留于“朝阳看守所”内部画面曝光</a></li>
 <li><a href="/yule/20210804/1599750.md">才刚打完疫苗！女星确诊武汉肺炎不幸离世 享年46岁</a></li>
 <li><a href="/bannedvideo/20210803/1599525.md">吴亦凡粉丝团包围北京朝阳区看守所！</a></li>
 <li><a href="/bannedvideo/20210804/1599781.md">港媒独家：习近平要改变中美关系，认为杨洁篪太软弱；坚决不移民美国？！民营企业金家孙大午视频曝光，震惊网络；中国民众对美国态度面面观【#秦鹏观察 8/3】</a></li>
 <li><a href="/comments/20210804/1599938.md">【微博精粹】钟南山：防堵已失效 高福：禁止强打疫苗 要留后路了</a></li>
 <li><a href="/baitai/20210804/1599795.md">【网络民议】新发现中药连花清瘟对德尔塔病毒有效 网友：这就去买股票</a></li>
-<li><a href="/cbnews/20210804/1599840.md">故宫屋顶600年没鸟屎！专家：这设计绝了</a></li>
 <li><a href="/worldnews/20210804/1599775.md">15岁少女车上坏坏 突发异状终悲剧收场</a></li>
+<li><a href="/cbnews/20210804/1599840.md">故宫屋顶600年没鸟屎！专家：这设计绝了</a></li>
 <li><a href="/sports/20210804/1599776.md">被投诉！中国羽球“我曹”女双惨了…</a></li>
 <li><a href="/ssgc/20210804/1599808.md">〖兲朝浮世绘〗中共真够意思，将自己500强企业来一趟大抄家</a></li>
 <li><a href="/comments/20210804/1599778.md">县委书记泄漏习近平反美谈话内容 新加坡总理李显龙告诫习近平：“东升西降”的想法是错的！中南海不可告人的秘密_434</a></li>
@@ -22,12 +22,12 @@
 <li><a href="/bannedvideo/20210804/1599694.md">美国国会调查报告：大量证据 证实了新冠源头！</a></li>
 <li><a href="/topimagenews/20210804/1599999.md">曾庆红手下联合放风：习近平对美政策或大改变【阿波罗网报道】</a></li>
 <li><a href="/comments/20210803/1599521.md">美共和党报告 三大关键 北京急了；李克强心腹赴郑州 河南省委红头文件亮了！【希望之声-两岸要闻-2021/08/03】</a></li>
+<li><a href="/cbnews/20210804/1600000.md">中印边境冲突新画面流出 曝火爆交手</a></li>
 <li><a href="/comments/20210804/1599729.md">重庆大学女副教授跳楼身亡 遗书举报院系领导“监控私生活” 系清华大学哲学博士 曾获清华大学“光华奖学金一等奖” 中南海不可告人的秘密_433</a></li>
 <li><a href="/weiquan/20210804/1599673.md">进入中南海2.0版&#65292;赵春红进入北戴河时被公安厅长紧急召回</a></li>
-<li><a href="/cbnews/20210804/1600000.md">中印边境冲突新画面流出 曝火爆交手</a></li>
 <li><a href="/bannedvideo/20210804/1599793.md">如何寻找中共贪官在美国的空置豪宅？      豪宅太大？可以几家人联合占领！</a></li>
 <li><a href="/worldnews/20210804/1599924.md">金正恩出卖北京？与美重启谈判竟提这个</a></li>
-<li><a href="/cnnews/20210804/1599679.md">郑州大洪灾之后又发疫情 被强制封锁的小区居民喊：“救命！”</a></li>
+<li><a href="/finance/20210804/1599923.md">股市逃生的机会越来越少了…</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -67,6 +67,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20210804/1600169.md" target="_blank">中国大陆各地核酸检测现场 人群密集 是割韭菜还是群聚感染？</a></li>
 <li><a href="/topimagenews/20210804/1600142.md" target="_blank">江派周永康根本没把习近平放在眼里！没想到能有今天！【阿波罗网独家报道】</a></li>
 <li><a href="/topimagenews/20210804/1599999.md" target="_blank">曾庆红手下联合放风：习近平对美政策或大改变【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20210804/1599725.md" target="_blank">疫情升温 郑州、南京、扬州等23城停售前往北京火车票</a></li>
@@ -91,7 +92,6 @@
 <li><a href="/topimagenews/20210731/1597279.md" target="_blank">不让美投资人被当韭菜！SEC冻结中企IPO申请 要求揭露风险</a></li>
 <li><a href="/topimagenews/20210730/1597024.md" target="_blank">军民雨水情演戏演砸了 救援部队离开灾区 民众送空纸壳箱表示感谢</a></li>
 <li><a href="/topimagenews/20210730/1596955.md" target="_blank">又把王沪宁卖了！江系对王沪宁和周强充满期待 反暴露其底细【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20210730/1596693.md" target="_blank">拜登倡“买美国货”修订政策 中美贸易战再添暗涌</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
 <li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20210329/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
 
 </ul>
 </div>
