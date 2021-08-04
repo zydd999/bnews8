@@ -11,23 +11,23 @@
 <li><a href="/topimagenews/20210803/1599541.md">城市运动破灭习李撑腰也不行 不服不行北京向美证管会服软 习1句话中国股票跌1.5兆美元</a></li>
 <li><a href="/bannedvideo/20210803/1599492.md">文睿：又要清洗一个产业，习近平疯狂了，失业大军一眼望不到边</a></li>
 <li><a href="/yule/20210804/1599750.md">才刚打完疫苗！女星确诊武汉肺炎不幸离世 享年46岁</a></li>
-<li><a href="/yule/20210804/1599761.md">吴亦凡传拘留于“朝阳看守所”内部画面曝光</a></li>
 <li><a href="/cnnews/20210803/1599587.md">美要把中国踢出美元支付体系？这可是金融核战啊</a></li>
+<li><a href="/yule/20210804/1599761.md">吴亦凡传拘留于“朝阳看守所”内部画面曝光</a></li>
 <li><a href="/bannedvideo/20210803/1599485.md">为何疫苗无法阻断病毒传播？英国政府报告：几乎“可以肯定”会出现新变种，将让所有疫苗都失效！</a></li>
-<li><a href="/bannedvideo/20210804/1599781.md">港媒独家：习近平要改变中美关系，认为杨洁篪太软弱；坚决不移民美国？！民营企业金家孙大午视频曝光，震惊网络；中国民众对美国态度面面观【#秦鹏观察 8/3】</a></li>
 <li><a href="/bannedvideo/20210803/1599525.md">吴亦凡粉丝团包围北京朝阳区看守所！</a></li>
-<li><a href="/bannedvideo/20210803/1599473.md">惊人秘密!中共为何求美国撤销党员及家属签证限制 老百姓出国难（2021年8月3日）</a></li>
+<li><a href="/bannedvideo/20210804/1599781.md">港媒独家：习近平要改变中美关系，认为杨洁篪太软弱；坚决不移民美国？！民营企业金家孙大午视频曝光，震惊网络；中国民众对美国态度面面观【#秦鹏观察 8/3】</a></li>
 <li><a href="/bannedvideo/20210803/1599360.md">李克强调查习家军</a></li>
+<li><a href="/bannedvideo/20210803/1599473.md">惊人秘密!中共为何求美国撤销党员及家属签证限制 老百姓出国难（2021年8月3日）</a></li>
 <li><a href="/worldnews/20210804/1599775.md">15岁少女车上坏坏 突发异状终悲剧收场</a></li>
-<li><a href="/bannedvideo/20210804/1599694.md">美国国会调查报告：大量证据 证实了新冠源头！</a></li>
+<li><a href="/baitai/20210804/1599795.md">【网络民议】新发现中药连花清瘟对德尔塔病毒有效 网友：这就去买股票</a></li>
 <li><a href="/sports/20210804/1599776.md">被投诉！中国羽球“我曹”女双惨了…</a></li>
 <li><a href="/lifebaike/20210803/1599376.md">饭局上，越是混得好的人，越会点这3种菜，希望你也会</a></li>
+<li><a href="/bannedvideo/20210804/1599694.md">美国国会调查报告：大量证据 证实了新冠源头！</a></li>
 <li><a href="/comments/20210804/1599778.md">县委书记泄漏习近平反美谈话内容 新加坡总理李显龙告诫习近平：“东升西降”的想法是错的！中南海不可告人的秘密_434</a></li>
-<li><a href="/baitai/20210804/1599795.md">【网络民议】新发现中药连花清瘟对德尔塔病毒有效 网友：这就去买股票</a></li>
-<li><a href="/comments/20210803/1599441.md">中国两运动员身挂毛泽东襟章上台领奖 有违《奥林匹克宪章》国际奥委会调查</a></li>
 <li><a href="/comments/20210803/1599521.md">美共和党报告 三大关键 北京急了；李克强心腹赴郑州 河南省委红头文件亮了！【希望之声-两岸要闻-2021/08/03】</a></li>
+<li><a href="/comments/20210803/1599441.md">中国两运动员身挂毛泽东襟章上台领奖 有违《奥林匹克宪章》国际奥委会调查</a></li>
+<li><a href="/ssgc/20210804/1599808.md">〖兲朝浮世绘〗中共真够意思，将自己500强企业来一趟大抄家</a></li>
 <li><a href="/weiquan/20210804/1599673.md">进入中南海2.0版&#65292;赵春红进入北戴河时被公安厅长紧急召回</a></li>
-<li><a href="/comments/20210804/1599729.md">重庆大学女副教授跳楼身亡 遗书举报院系领导“监控私生活” 系清华大学哲学博士 曾获清华大学“光华奖学金一等奖” 中南海不可告人的秘密_433</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210804/1599978.md" target="_blank">推特调查：中国官媒如何用自卷手法製造病毒源自美国的伪信息</a></li>
+<li><a href="/comments/20210804/1599940.md" target="_blank">曾节明：中国“计生”政策的基础极端荒谬</a></li>
 <li><a href="/comments/20210804/1599977.md" target="_blank">白宫疫情协调员称将强制接种疫苗 克鲁兹反对</a></li>
 <li><a href="/comments/20210804/1599976.md" target="_blank">金正恩后脑勺贴「绷带」 健康状况再引揣测</a></li>
 <li><a href="/comments/20210804/1599967.md" target="_blank">中国疫情升温 扬州成武汉翻版？网曝情况严重</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210804/1599805.md" target="_blank">痛批“精神鸦片” 游戏股全线爆跌，铁拳下次轮到谁？ 病毒智慧超人 多国发出警讯  9月10月要小心？【希望之声TV-新闻焦点解读-2021/08/03】主持:高洁  嘉宾：林晓旭</a></li>
 <li><a href="/comments/20210804/1599801.md" target="_blank">躺着拿到1亿捐款，川普轻松备足战争经费！惨了，“卧槽”组合面临调查！戴毛像章领奖中国选手遭指控！不是党员的吴亦凡，惨遭资本抛弃！【新闻最嘲点 姜光宇】Mr.FunnyNews(2021.0803）‬</a></li>
 <li><a href="/comments/20210804/1599800.md" target="_blank">习近平访西藏后 甘肃现“逼僧还俗” 藏人批文革重演</a></li>
-<li><a href="/comments/20210804/1599794.md" target="_blank">白俄活动家他乡“异”死 奥运选手“逼”走他乡</a></li>
-<li><a href="/comments/20210804/1599790.md" target="_blank">评论 | 陈光诚：中共想要美国接受“必须坚持共产党的领导”</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
 
 </ul>
 </div>
