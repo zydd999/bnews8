@@ -14,19 +14,19 @@
 <li><a href="/headline/20210804/1600180.md">中国运动员戴毛泽东像章噱头领金牌违规 传中国官方许诺不再允许发生</a></li>
 <li><a href="/comments/20210804/1600094.md">孟晚舟案最关键时刻 拜登发声力挺加拿大；张家界封城 南京大量民众拉走隔离【希望之声-红朝禁闻-2021/08/03】</a></li>
 <li><a href="/yule/20210805/1600429.md">吴亦凡事件席卷娱乐圈，何炅亲自去警局报案</a></li>
+<li><a href="/yule/20210805/1600451.md">网爆吴亦凡在看守所内现况：被关进单间，整个人大崩溃</a></li>
 <li><a href="/bannedvideo/20210805/1600417.md">北京如临大敌，防疫措施令人哭笑不得！</a></li>
 <li><a href="/cbnews/20210804/1600103.md">习近平亲信唐一军职务调整 司法部结束“双首长制”【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20210805/1600427.md">最新！美加完全接种疫苗者"突破感染死亡"率曝光</a></li>
-<li><a href="/yule/20210805/1600451.md">网爆吴亦凡在看守所内现况：被关进单间，整个人大崩溃</a></li>
 <li><a href="/topimagenews/20210804/1600169.md">中国大陆各地核酸检测现场 人群密集 是割韭菜还是群聚感染？</a></li>
 <li><a href="/headline/20210804/1600085.md">胡锦涛后去北戴河只疗养不开会 炒作十来年？</a></li>
 <li><a href="/comments/20210804/1600123.md">李燕铭：北戴河会议习李斗激烈？习家军司法部长唐一军添头衔 李克强亲信袁曙宏被免职降级踢出司法部党组</a></li>
 <li><a href="/comments/20210804/1600282.md">七常委集体消失 张又侠刊文为习护航；Delta肆虐 合肥南京等官场上演甩锅口水大战【希望之声-两岸要闻-2021/08/04】</a></li>
+<li><a href="/cnnews/20210805/1600435.md">南京中共病毒疫情替罪羊冯军的升官路线图</a></li>
 <li><a href="/ssgc/20210805/1600369.md">评论 | 余杰：希特勒的孩子在中国长大了</a></li>
 <li><a href="/headline/20210805/1600345.md">美国将提新冠源头调查揭底 中国疑已先反击</a></li>
 <li><a href="/comments/20210805/1600373.md">吴亦凡事件升级！5000万粉丝号召救援 网管急删4000个帐号</a></li>
 <li><a href="/health/20210804/1600010.md">一个吹风机能顶10个老中医</a></li>
-<li><a href="/cnnews/20210805/1600435.md">南京中共病毒疫情替罪羊冯军的升官路线图</a></li>
 <li><a href="/bannedvideo/20210804/1600192.md">陈破空：党报一个动作，暗示习近平身陷困境！下手人气女王，结怨太子党。美国航母抵近，携神秘利器</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210805/1600653.md" target="_blank">美参议员：反对强制接种疫苗、封锁和戴口罩</a></li>
 <li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
 <li><a href="/comments/20210805/1600646.md" target="_blank">【要闻精粹】疫苗挣到了钱 大国忽悠太丢人</a></li>
 <li><a href="/comments/20210805/1600636.md" target="_blank">丧事喜办，河南忙开庆功宴！遇Nan人数突升6倍，庆功宴被打断，河南官员开始爱民如子的表演。早干啥去了？│#熊猫侠</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210805/1600554.md" target="_blank">关于河南洪灾的11个疑问 国务院能查清吗？</a></li>
 <li><a href="/comments/20210805/1600503.md" target="_blank">李么傻:揭秘中国民营医院骗人的那些招式</a></li>
 <li><a href="/comments/20210805/1600502.md" target="_blank">漫天霾: 病毒不一定能害死我们 观念却能</a></li>
-<li><a href="/comments/20210805/1600501.md" target="_blank">秦鹏直播：中共停发护照 原因涉国家机密？</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20210611/1564824.md" target="_blank">【曾铮专栏】感悟神韵（之一）神韵的主旨</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
 <li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
 
 </ul>
 </div>
