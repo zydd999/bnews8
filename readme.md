@@ -15,19 +15,19 @@
 <li><a href="/headline/20210804/1600180.md">中国运动员戴毛泽东像章噱头领金牌违规 传中国官方许诺不再允许发生</a></li>
 <li><a href="/worldnews/20210804/1599924.md">金正恩出卖北京？与美重启谈判竟提这个</a></li>
 <li><a href="/finance/20210804/1599923.md">股市逃生的机会越来越少了…</a></li>
+<li><a href="/cnnews/20210805/1600434.md">性命危殆！这位"女星收割机" 终于不行了</a></li>
 <li><a href="/cbnews/20210804/1600103.md">习近平亲信唐一军职务调整 司法部结束“双首长制”【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20210804/1600169.md">中国大陆各地核酸检测现场 人群密集 是割韭菜还是群聚感染？</a></li>
-<li><a href="/cnnews/20210805/1600434.md">性命危殆！这位"女星收割机" 终于不行了</a></li>
 <li><a href="/cbnews/20210804/1599915.md">天亮时分：南京、北京半封城，习近平亲自指挥的神话破灭；吴亦凡饭圈劫狱？共和党报告直指病毒来自武毒所，习近平躲不过去了；（政论天下第480集 20210803）</a></li>
 <li><a href="/comments/20210804/1600282.md">七常委集体消失 张又侠刊文为习护航；Delta肆虐 合肥南京等官场上演甩锅口水大战【希望之声-两岸要闻-2021/08/04】</a></li>
-<li><a href="/headline/20210804/1600085.md">胡锦涛后去北戴河只疗养不开会 炒作十来年？</a></li>
 <li><a href="/comments/20210804/1600123.md">李燕铭：北戴河会议习李斗激烈？习家军司法部长唐一军添头衔 李克强亲信袁曙宏被免职降级踢出司法部党组</a></li>
-<li><a href="/headline/20210805/1600345.md">美国将提新冠源头调查揭底 中国疑已先反击</a></li>
-<li><a href="/comments/20210804/1600041.md">不平静！五角大楼全封锁，枪手被击毙；川普改诉状！增6万多人新证；悬疑？处理过国会骚乱的四名警察都是自杀身亡【希望之声TV-北美新闻-20210803】</a></li>
-<li><a href="/health/20210804/1600010.md">一个吹风机能顶10个老中医</a></li>
+<li><a href="/bannedvideo/20210805/1600417.md">北京如临大敌，防疫措施令人哭笑不得！</a></li>
+<li><a href="/headline/20210804/1600085.md">胡锦涛后去北戴河只疗养不开会 炒作十来年？</a></li>
+<li><a href="/comments/20210805/1600373.md">吴亦凡事件升级！5000万粉丝号召救援 网管急删4000个帐号</a></li>
 <li><a href="/ssgc/20210805/1600369.md">评论 | 余杰：希特勒的孩子在中国长大了</a></li>
-<li><a href="/cnnews/20210804/1599939.md">日本众多百岁老人的肠道里发现了…</a></li>
-<li><a href="/bannedvideo/20210804/1600192.md">陈破空：党报一个动作，暗示习近平身陷困境！下手人气女王，结怨太子党。美国航母抵近，携神秘利器</a></li>
+<li><a href="/headline/20210805/1600345.md">美国将提新冠源头调查揭底 中国疑已先反击</a></li>
+<li><a href="/health/20210804/1600010.md">一个吹风机能顶10个老中医</a></li>
+<li><a href="/comments/20210804/1600041.md">不平静！五角大楼全封锁，枪手被击毙；川普改诉状！增6万多人新证；悬疑？处理过国会骚乱的四名警察都是自杀身亡【希望之声TV-北美新闻-20210803】</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210805/1600523.md" target="_blank">拜登政府首对台军售：自走炮系统7.5亿美元</a></li>
+<li><a href="/cbnews/20210805/1600522.md" target="_blank">美国思想领袖：斯隆‧凯特琳癌症中心主任妮可·萨菲尔：武毒所黑幕为何成禁忌？疫情爆发前，研究室有何奇怪行动？闫丽梦博士逃出香港来美被噤声；阻止真相传播，现在就需追责！（预告片）| 大纪元</a></li>
 <li><a href="/comments/20210805/1600498.md" target="_blank">党媒一纸文章打掉4000亿市值！中共重击民企，摧毁投资环境，开启“任我行”模式？奥运选手戴毛像章，下一步会是习像章吗？</a></li>
 <li><a href="/comments/20210805/1600462.md" target="_blank">Delta已迅速传播大陆17省区，中共限制31省居民出行，144地区被列为中高风险，中共病毒发源地武汉封锁56小区，外媒：疫情再回中国【希望之声TV-每日头条-2021/8/4】</a></li>
 <li><a href="/comments/20210805/1600461.md" target="_blank">罕见：美情报委员会公开听证会 中共对美国的威胁为啥是“”世纪之战”？   10年庇护增长10倍！为啥逃离了“厉害国”？  中共的长手臂【希望之声TV-新闻焦点解读-2021/08/04】主持:高洁</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/cbnews/20210804/1599985.md" target="_blank">江峰：奥运佩戴毛主席像章，党媒先赞后删，真人版叶公好龙，造神的习近平不喜民众崇拜毛？南京德尔塔俄航班带入，怎么不甩锅了【江峰漫谈20210803第355期】</a></li>
 <li><a href="/comments/20210804/1599984.md" target="_blank">涉二十大权斗？ 河南涝疫后  官场或大震；北京已成疫区？北京人出行遭歧视【希望之声-午夜新闻-2021/08/03】</a></li>
 <li><a href="/cbnews/20210804/1599959.md" target="_blank">别傻等中共善意 美媒访前参谋总长：建构刺猬台湾</a></li>
-<li><a href="/cbnews/20210804/1599958.md" target="_blank">法媒示警中共用钱渗透学界 中使馆暴跳</a></li>
-<li><a href="/cbnews/20210804/1599946.md" target="_blank">前国务卿超挺台！蓬佩奥：台湾从不是中国的一部分</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
 <li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
+<li><a href="/comments/20210611/1564824.md" target="_blank">【曾铮专栏】感悟神韵（之一）神韵的主旨</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
 
 </ul>
 </div>
