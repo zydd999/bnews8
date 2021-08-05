@@ -15,19 +15,19 @@
 <li><a href="/bannedvideo/20210805/1600651.md">渣龙坑了吴亦凡？习近平东京奥运会震撼决定：武统作废，台湾跟中国两码事！美国：禁止中共地图带台湾</a></li>
 <li><a href="/cnnews/20210805/1600427.md">最新！美加完全接种疫苗者"突破感染死亡"率曝光</a></li>
 <li><a href="/finance/20210805/1600679.md">刚把腾讯吓半死 新华社又把千亿龙头轰的一字跌停</a></li>
+<li><a href="/comments/20210805/1600775.md">谭德塞喊“停”！美国拒绝；严重道德违规！旧金山市长遭重罚。【希望之声-北美新闻-20210804】</a></li>
 <li><a href="/headline/20210805/1600698.md">东亚会议上布林肯关切香港、新疆问题 王毅发飙：你们死了这条心吧</a></li>
 <li><a href="/cnnews/20210805/1600435.md">南京中共病毒疫情替罪羊冯军的升官路线图</a></li>
-<li><a href="/comments/20210805/1600775.md">谭德塞喊“停”！美国拒绝；严重道德违规！旧金山市长遭重罚。【希望之声-北美新闻-20210804】</a></li>
-<li><a href="/comments/20210805/1600626.md">中国疫情延烧 扬州食物短缺 北京冬奥还能开吗？蔡奇下令 称头等大事确保首都安全【希望之声-红朝禁闻-2021/08/04】</a></li>
-<li><a href="/ssgc/20210805/1600369.md">评论 | 余杰：希特勒的孩子在中国长大了</a></li>
 <li><a href="/bannedvideo/20210805/1600803.md">陈破空：北戴河交锋，习近平被迫让步，挡不住设立接班人！61万中国人逃离习时代。金正恩后脑勺泄密</a></li>
+<li><a href="/comments/20210805/1600626.md">中国疫情延烧 扬州食物短缺 北京冬奥还能开吗？蔡奇下令 称头等大事确保首都安全【希望之声-红朝禁闻-2021/08/04】</a></li>
 <li><a href="/baitai/20210805/1600761.md">【异闻观止】上海市教委重磅消息：《习近平新时代思想读本》成必修内容</a></li>
+<li><a href="/ssgc/20210805/1600369.md">评论 | 余杰：希特勒的孩子在中国长大了</a></li>
+<li><a href="/topimagenews/20210805/1600661.md">包括两大特殊军区 中共多省军区高层人事调整 【阿波罗网报道】</a></li>
 <li><a href="/comments/20210805/1600373.md">吴亦凡事件升级！5000万粉丝号召救援 网管急删4000个帐号</a></li>
 <li><a href="/cbnews/20210805/1600546.md">天亮时分：索赔还是宣战，疫情追责的大棋下一步怎么走？粉丝包围朝阳分局，吴亦凡完了！判决肯定从重从快（政论天下第481集 20210804）</a></li>
-<li><a href="/topimagenews/20210805/1600661.md">包括两大特殊军区 中共多省军区高层人事调整 【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20210805/1600492.md">〖兲朝浮世绘〗疫苗好不好使它们不管，反正挣到钱了</a></li>
-<li><a href="/headline/20210805/1600345.md">美国将提新冠源头调查揭底 中国疑已先反击</a></li>
 <li><a href="/health/20210805/1600681.md">停止吃4种食物，加速脑梗！顿顿都吃，再好的血管也扛不住</a></li>
+<li><a href="/lifebaike/20210805/1600602.md">太精彩！1988年宋美龄回邓颖超的公开信</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210806/1601005.md" target="_blank">昔日「聂小倩」54岁了﹗王祖贤素颜近照曝光</a></li>
+<li><a href="/comments/20210806/1601001.md" target="_blank">【封杀学生会】校委会鲜有直接惩处 前港大学生会长：过往社运惹官非 反获校方支援</a></li>
+<li><a href="/comments/20210806/1600997.md" target="_blank">【选民查册】《立场》揭三公司疑停运仍成功做选民 未被选举处 DQ</a></li>
+<li><a href="/comments/20210806/1600996.md" target="_blank">内蒙古高层人事变动 “蒙古王”孙女布小林突然卸任</a></li>
+<li><a href="/comments/20210806/1600995.md" target="_blank">美国提供港人”暂时避风港” 拜登：可延长居留18个月</a></li>
 <li><a href="/comments/20210805/1600965.md" target="_blank">字节跳动旗下教育品牌裁员 停运两款应用</a></li>
 <li><a href="/comments/20210805/1600954.md" target="_blank">对虚拟经济企业巨头削藩 唐靖远：中共经济危机了</a></li>
 <li><a href="/comments/20210805/1600952.md" target="_blank">加州大学：65岁以上的老人，微胖的身材会更加长寿</a></li>
@@ -118,11 +123,6 @@
 <li><a href="/comments/20210805/1600741.md" target="_blank">李燕铭：北戴河会议敏感期 五名正部级高官职位调整 习家军司法部长唐一军添头衔 李克强亲信袁曙宏卸任司法部党组书记 女太子党布小林提前卸职 中共教育部和科协党组书记双双换人 港媒放风多名中共高官因身体健康问题去职</a></li>
 <li><a href="/comments/20210805/1600740.md" target="_blank">美国将继续在南中国海开展行动 确保台湾海峡保持现状</a></li>
 <li><a href="/comments/20210805/1600739.md" target="_blank">心穷的人 撑不起人生</a></li>
-<li><a href="/comments/20210805/1600738.md" target="_blank">今年立秋是气盛运衰的天行之年 会出现异常天气</a></li>
-<li><a href="/comments/20210805/1600737.md" target="_blank">黑椒素牛柳 秒杀白饭</a></li>
-<li><a href="/comments/20210805/1600719.md" target="_blank">【封杀学生会】港大禁评议会成员入校园 孙晓岚：绕过纪委会违程序</a></li>
-<li><a href="/comments/20210805/1600701.md" target="_blank">前白宫顾问：中共打压大科企令美国投资者受损</a></li>
-<li><a href="/comments/20210805/1600700.md" target="_blank">美参院情委会领袖：中共对美渗透好似“恐怖剧”</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/comments/20210612/1565472.md" target="_blank">感悟神韵（之二）：感悟神韵的艺术风格</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/comments/20210329/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
 
 </ul>
 </div>
