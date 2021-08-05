@@ -15,18 +15,18 @@
 <li><a href="/comments/20210804/1600094.md">孟晚舟案最关键时刻 拜登发声力挺加拿大；张家界封城 南京大量民众拉走隔离【希望之声-红朝禁闻-2021/08/03】</a></li>
 <li><a href="/headline/20210804/1600180.md">中国运动员戴毛泽东像章噱头领金牌违规 传中国官方许诺不再允许发生</a></li>
 <li><a href="/worldnews/20210804/1599924.md">金正恩出卖北京？与美重启谈判竟提这个</a></li>
+<li><a href="/comments/20210805/1600405.md">中共“千年大计”烂尾 雄安新区被抛弃；民望调查  习近平还抵不上李克强【希望之声TV-环球看点-2021/8/4】</a></li>
 <li><a href="/finance/20210804/1599923.md">股市逃生的机会越来越少了…</a></li>
 <li><a href="/cbnews/20210804/1600103.md">习近平亲信唐一军职务调整 司法部结束“双首长制”【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20210804/1600169.md">中国大陆各地核酸检测现场 人群密集 是割韭菜还是群聚感染？</a></li>
-<li><a href="/comments/20210805/1600405.md">中共“千年大计”烂尾 雄安新区被抛弃；民望调查  习近平还抵不上李克强【希望之声TV-环球看点-2021/8/4】</a></li>
 <li><a href="/cbnews/20210804/1599915.md">天亮时分：南京、北京半封城，习近平亲自指挥的神话破灭；吴亦凡饭圈劫狱？共和党报告直指病毒来自武毒所，习近平躲不过去了；（政论天下第480集 20210803）</a></li>
 <li><a href="/headline/20210804/1600085.md">胡锦涛后去北戴河只疗养不开会 炒作十来年？</a></li>
 <li><a href="/comments/20210804/1600123.md">李燕铭：北戴河会议习李斗激烈？习家军司法部长唐一军添头衔 李克强亲信袁曙宏被免职降级踢出司法部党组</a></li>
 <li><a href="/comments/20210804/1600282.md">七常委集体消失 张又侠刊文为习护航；Delta肆虐 合肥南京等官场上演甩锅口水大战【希望之声-两岸要闻-2021/08/04】</a></li>
-<li><a href="/bannedvideo/20210804/1599839.md">【习近平紧急叫停？】党媒自删炮轰文；中共冠军戴毛像，奥委会调查；郑州被封小区大喊救命；秦刚诡秘赴美一幕曝光；美军预知AI可提前数天预测；印特遣舰队部署南海；中共羽球女双粗口！韩震怒投诉 CT</a></li>
 <li><a href="/comments/20210804/1600041.md">不平静！五角大楼全封锁，枪手被击毙；川普改诉状！增6万多人新证；悬疑？处理过国会骚乱的四名警察都是自杀身亡【希望之声TV-北美新闻-20210803】</a></li>
-<li><a href="/health/20210804/1600010.md">一个吹风机能顶10个老中医</a></li>
 <li><a href="/cnnews/20210804/1599939.md">日本众多百岁老人的肠道里发现了…</a></li>
+<li><a href="/health/20210804/1600010.md">一个吹风机能顶10个老中医</a></li>
+<li><a href="/cnnews/20210805/1600434.md">性命危殆！这位"女星收割机" 终于不行了</a></li>
 <li><a href="/lifebaike/20210804/1600144.md">"姐弟婚姻"比"兄妹婚姻"更长久 原因很现实</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210805/1600488.md" target="_blank">美作家：中共迫害法轮功符合联合国定义的“种族灭绝”</a></li>
+<li><a href="/comments/20210805/1600487.md" target="_blank">北戴河战与不战：不止涉及两大权斗议题；Delta肆虐 合肥南京等三市官宣互怼【希望之声-两岸要闻-2021/08/04】</a></li>
+<li><a href="/comments/20210805/1600486.md" target="_blank">暑期度假：推荐的八个美丽国度，值得收藏</a></li>
 <li><a href="/comments/20210805/1600466.md" target="_blank">眼看美毒源报告将出炉 中共被揭以“恶魔计划”反扑</a></li>
 <li><a href="/comments/20210805/1600465.md" target="_blank">耐人寻味！钱学森的经历与另一位死得最惨的科学家的不幸</a></li>
 <li><a href="/comments/20210805/1600462.md" target="_blank">Delta已迅速传播大陆17省区，中共限制31省居民出行，144地区被列为中高风险，中共病毒发源地武汉封锁56小区，外媒：疫情再回中国【希望之声TV-每日头条-2021/8/4】</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210805/1600375.md" target="_blank">【选民查册】3 旅行社疑去年已停运 今年仍成功登记做选民 选举处：如不符资格投票会违法</a></li>
 <li><a href="/comments/20210805/1600374.md" target="_blank">【封杀学生会】港大校委会直接下令禁入校园 前评议员：无聆讯、无辩解机会、违无罪推定</a></li>
 <li><a href="/comments/20210805/1600373.md" target="_blank">吴亦凡事件升级！5000万粉丝号召救援 网管急删4000个帐号</a></li>
-<li><a href="/comments/20210805/1600372.md" target="_blank">针锋相对！英美澳多国大型军演之际 中国宣布展开大范围“南海军演”</a></li>
-<li><a href="/comments/20210805/1600361.md" target="_blank">焦虑症和抑郁症有什么不同？</a></li>
-<li><a href="/comments/20210805/1600351.md" target="_blank">美军准司令：警惕中共对西半球美国以南地区的影响力</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
 <li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20210612/1565472.md" target="_blank">感悟神韵（之二）：感悟神韵的艺术风格</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
 
 </ul>
 </div>
