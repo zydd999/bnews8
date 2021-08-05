@@ -11,8 +11,8 @@
 <li><a href="/topimagenews/20210805/1600614.md">中共喉舌集体被打脸！新冠病毒来自美国德堡实验室？真相原来是...</a></li>
 <li><a href="/yule/20210805/1600566.md">吴亦凡被曝狱中遭爆捅菊花、闻排泄物入睡</a></li>
 <li><a href="/yule/20210805/1600429.md">吴亦凡事件席卷娱乐圈，何炅亲自去警局报案</a></li>
-<li><a href="/bannedvideo/20210805/1600417.md">北京如临大敌，防疫措施令人哭笑不得！</a></li>
 <li><a href="/bannedvideo/20210805/1600651.md">渣龙坑了吴亦凡？习近平东京奥运会震撼决定：武统作废，台湾跟中国两码事！美国：禁止中共地图带台湾</a></li>
+<li><a href="/bannedvideo/20210805/1600417.md">北京如临大敌，防疫措施令人哭笑不得！</a></li>
 <li><a href="/cnnews/20210805/1600427.md">最新！美加完全接种疫苗者"突破感染死亡"率曝光</a></li>
 <li><a href="/comments/20210805/1600775.md">谭德塞喊“停”！美国拒绝；严重道德违规！旧金山市长遭重罚。【希望之声-北美新闻-20210804】</a></li>
 <li><a href="/bannedvideo/20210805/1600803.md">陈破空：北戴河交锋，习近平被迫让步，挡不住设立接班人！61万中国人逃离习时代。金正恩后脑勺泄密</a></li>
@@ -21,13 +21,13 @@
 <li><a href="/cnnews/20210805/1600435.md">南京中共病毒疫情替罪羊冯军的升官路线图</a></li>
 <li><a href="/baitai/20210805/1600761.md">【异闻观止】上海市教委重磅消息：《习近平新时代思想读本》成必修内容</a></li>
 <li><a href="/comments/20210805/1600626.md">中国疫情延烧 扬州食物短缺 北京冬奥还能开吗？蔡奇下令 称头等大事确保首都安全【希望之声-红朝禁闻-2021/08/04】</a></li>
-<li><a href="/topimagenews/20210805/1600661.md">包括两大特殊军区 中共多省军区高层人事调整 【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20210805/1600923.md">印度神童6度预言成真！环球股灾好快杀到？</a></li>
+<li><a href="/topimagenews/20210805/1600661.md">包括两大特殊军区 中共多省军区高层人事调整 【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20210805/1600546.md">天亮时分：索赔还是宣战，疫情追责的大棋下一步怎么走？粉丝包围朝阳分局，吴亦凡完了！判决肯定从重从快（政论天下第481集 20210804）</a></li>
 <li><a href="/ssgc/20210805/1600492.md">〖兲朝浮世绘〗疫苗好不好使它们不管，反正挣到钱了</a></li>
+<li><a href="/bannedvideo/20210805/1600810.md">民间高人透露玄机 有些人是跑不掉的2021年8月5日）</a></li>
 <li><a href="/health/20210805/1600681.md">停止吃4种食物，加速脑梗！顿顿都吃，再好的血管也扛不住</a></li>
 <li><a href="/lifebaike/20210805/1600602.md">太精彩！1988年宋美龄回邓颖超的公开信</a></li>
-<li><a href="/bannedvideo/20210805/1600810.md">民间高人透露玄机 有些人是跑不掉的2021年8月5日）</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
 <li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/comments/20210329/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
 
 </ul>
 </div>
