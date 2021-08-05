@@ -5,22 +5,20 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/topimagenews/20210804/1599999.md">曾庆红手下联合放风：习近平对美政策或大改变【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20210804/1600000.md">中印边境冲突新画面流出 曝火爆交手</a></li>
 <li><a href="/topimagenews/20210804/1600142.md">江派周永康根本没把习近平放在眼里！没想到能有今天！【阿波罗网独家报道】</a></li>
 <li><a href="/comments/20210805/1600405.md">中共“千年大计”烂尾 雄安新区被抛弃；民望调查  习近平还抵不上李克强【希望之声TV-环球看点-2021/8/4】</a></li>
 <li><a href="/cnnews/20210805/1600434.md">性命危殆！这位"女星收割机" 终于不行了</a></li>
 <li><a href="/headline/20210804/1600180.md">中国运动员戴毛泽东像章噱头领金牌违规 传中国官方许诺不再允许发生</a></li>
-<li><a href="/comments/20210804/1600094.md">孟晚舟案最关键时刻 拜登发声力挺加拿大；张家界封城 南京大量民众拉走隔离【希望之声-红朝禁闻-2021/08/03】</a></li>
 <li><a href="/yule/20210805/1600451.md">网爆吴亦凡在看守所内现况：被关进单间，整个人大崩溃</a></li>
+<li><a href="/comments/20210804/1600094.md">孟晚舟案最关键时刻 拜登发声力挺加拿大；张家界封城 南京大量民众拉走隔离【希望之声-红朝禁闻-2021/08/03】</a></li>
 <li><a href="/yule/20210805/1600429.md">吴亦凡事件席卷娱乐圈，何炅亲自去警局报案</a></li>
 <li><a href="/bannedvideo/20210805/1600417.md">北京如临大敌，防疫措施令人哭笑不得！</a></li>
 <li><a href="/cbnews/20210804/1600103.md">习近平亲信唐一军职务调整 司法部结束“双首长制”【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20210805/1600427.md">最新！美加完全接种疫苗者"突破感染死亡"率曝光</a></li>
 <li><a href="/topimagenews/20210804/1600169.md">中国大陆各地核酸检测现场 人群密集 是割韭菜还是群聚感染？</a></li>
+<li><a href="/topimagenews/20210805/1600614.md">中共喉舌集体被打脸！新冠病毒来自美国德堡实验室？真相原来是...</a></li>
 <li><a href="/headline/20210804/1600085.md">胡锦涛后去北戴河只疗养不开会 炒作十来年？</a></li>
 <li><a href="/comments/20210804/1600123.md">李燕铭：北戴河会议习李斗激烈？习家军司法部长唐一军添头衔 李克强亲信袁曙宏被免职降级踢出司法部党组</a></li>
-<li><a href="/topimagenews/20210805/1600614.md">中共喉舌集体被打脸！新冠病毒来自美国德堡实验室？真相原来是...</a></li>
 <li><a href="/comments/20210804/1600282.md">七常委集体消失 张又侠刊文为习护航；Delta肆虐 合肥南京等官场上演甩锅口水大战【希望之声-两岸要闻-2021/08/04】</a></li>
 <li><a href="/cnnews/20210805/1600435.md">南京中共病毒疫情替罪羊冯军的升官路线图</a></li>
 <li><a href="/ssgc/20210805/1600369.md">评论 | 余杰：希特勒的孩子在中国长大了</a></li>
@@ -28,6 +26,8 @@
 <li><a href="/headline/20210805/1600345.md">美国将提新冠源头调查揭底 中国疑已先反击</a></li>
 <li><a href="/bannedvideo/20210804/1600192.md">陈破空：党报一个动作，暗示习近平身陷困境！下手人气女王，结怨太子党。美国航母抵近，携神秘利器</a></li>
 <li><a href="/health/20210804/1600010.md">一个吹风机能顶10个老中医</a></li>
+<li><a href="/yule/20210805/1600566.md">吴亦凡被曝狱中遭爆捅菊花、闻排泄物入睡</a></li>
+<li><a href="/lifebaike/20210804/1600144.md">"姐弟婚姻"比"兄妹婚姻"更长久 原因很现实</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210805/1600663.md" target="_blank">【封杀学生会】港大评议会学生遭禁入校 张达明辞任校委 质疑校方不跟程序处分</a></li>
+<li><a href="/comments/20210805/1600662.md" target="_blank">轻度台风“卢碧”擦边过 深圳罗湖暴雨积水成河</a></li>
 <li><a href="/comments/20210805/1600657.md" target="_blank">加国豪车走私中国案频发 嫌犯多为留学生和游客</a></li>
 <li><a href="/comments/20210805/1600653.md" target="_blank">美参议员：反对强制接种疫苗、封锁和戴口罩</a></li>
 <li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210805/1600578.md" target="_blank">拜登政府首次对台军售 M109A6自走炮遏制中共陆地入侵</a></li>
 <li><a href="/comments/20210805/1600559.md" target="_blank">金言：破解“蛊毒”与武汉肺炎“病毒”</a></li>
 <li><a href="/comments/20210805/1600555.md" target="_blank">男人女人孕妇成为大学校园禁词 说了就被处罚</a></li>
-<li><a href="/comments/20210805/1600554.md" target="_blank">关于河南洪灾的11个疑问 国务院能查清吗？</a></li>
-<li><a href="/comments/20210805/1600503.md" target="_blank">李么傻:揭秘中国民营医院骗人的那些招式</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
 <li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
 <li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20210611/1564824.md" target="_blank">【曾铮专栏】感悟神韵（之一）神韵的主旨</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
 
 </ul>
 </div>
