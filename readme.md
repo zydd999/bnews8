@@ -14,8 +14,8 @@
 <li><a href="/cbnews/20210806/1601123.md">打击补习班抓捕教师现场 网友惊：还以为抓嫖</a></li>
 <li><a href="/cnnews/20210806/1601470.md">同一天，杭州、成都相继出手！楼市真变了？</a></li>
 <li><a href="/cbnews/20210806/1601221.md">天亮时分：新华社长文如同宣战书，习近平昏头多线作战；美国情报部门获得海量病毒数据；（政论天下第482集 20210805）</a></li>
-<li><a href="/topimagenews/20210806/1601268.md">新华社发神经？再度发文精确打击这个行业 这次是... 【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20210806/1601588.md">上海男亲历美国海关遣返 具有党、军、商背景 回不去美国了</a></li>
+<li><a href="/topimagenews/20210806/1601268.md">新华社发神经？再度发文精确打击这个行业 这次是... 【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20210806/1601439.md">中共洗脑术图解 有多少中国人的脑袋被洗残了？</a></li>
 <li><a href="/bannedvideo/20210806/1601465.md">中共运动了!无人幸免 所有行业历史重演(2021年8月6日）</a></li>
 <li><a href="/bannedvideo/20210806/1601288.md">叶檀力挺勇敢女人孟晚舟触怒习近平？武汉南京郑州北京扬州喊封，段子成熬日子新招？</a></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210807/1601741.md" target="_blank">重大副教授自杀 遗书举报院系领导 调查称….</a></li>
 <li><a href="/cbnews/20210807/1601707.md" target="_blank">蓝宝坚尼上海路上自燃起火 车主“淡定”安慰女友冲热搜</a></li>
 <li><a href="/cbnews/20210807/1601695.md" target="_blank">北京发布突发事件应急预案 民众质疑</a></li>
 <li><a href="/comments/20210807/1601666.md" target="_blank">中共军演 美军全程监察；美参议员出手 截断中共贷款源；奇葩!孟晚舟受审 这人竟说是替所有人担罪？白宫电动车峰会 特斯拉竟没份？【希望之声TV-环球看点-2021/8/6】</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/comments/20210806/1601141.md" target="_blank">新华社突抛长文 战狼嚎叫？宣战檄文？ 美国及同盟国的7宗罪？谁是谁非？【希望之声TV-新闻焦点解读-2021/08/05】主持:高洁  嘉宾：谢田</a></li>
 <li><a href="/cbnews/20210806/1601135.md" target="_blank">江苏女子遭前男友强闯住所 摔死家中7小猫</a></li>
 <li><a href="/cbnews/20210806/1601123.md" target="_blank">打击补习班抓捕教师现场 网友惊：还以为抓嫖</a></li>
-<li><a href="/comments/20210806/1601059.md" target="_blank">美两党罕见公开情报听证会 呼吁全美民众当心中共长臂【希望之声TV-环球看点-2021/8/5】</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210807/1601739.md" target="_blank">20年前摘下2金！中国前体操国手“潦倒乞讨”惨况曝光</a></li>
 <li><a href="/comments/20210807/1601720.md" target="_blank">诗一首：《咏画~万树千姿》</a></li>
 <li><a href="/comments/20210807/1601719.md" target="_blank">【曾铮专栏】生活篇：《关于婚姻的思考》</a></li>
 <li><a href="/comments/20210807/1601718.md" target="_blank">【戈壁东专栏】时事篇：剑拔弩张 狭路相逢 中美战争也许今日爆发</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210806/1601579.md" target="_blank">教协网教材全线下架 包括介绍本港政制发展、八九民运、刘晓波资料</a></li>
 <li><a href="/comments/20210806/1601578.md" target="_blank">【起底刑事化】私隐专员无手令仍可搜查电子器材 钟丽玲：只会望一望</a></li>
 <li><a href="/comments/20210806/1601577.md" target="_blank">港府回应美国港人避风港措施 “任何客观的人都看到国安法保障基本权利和自由”</a></li>
-<li><a href="/comments/20210806/1601564.md" target="_blank">继阿里巴巴后 美团或被罚款约10亿美元</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20210611/1564824.md" target="_blank">【曾铮专栏】感悟神韵（之一）神韵的主旨</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
 <li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
 
 </ul>
 </div>
