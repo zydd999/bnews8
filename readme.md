@@ -15,9 +15,9 @@
 <li><a href="/cnnews/20210806/1601470.md">同一天，杭州、成都相继出手！楼市真变了？</a></li>
 <li><a href="/cbnews/20210806/1601221.md">天亮时分：新华社长文如同宣战书，习近平昏头多线作战；美国情报部门获得海量病毒数据；（政论天下第482集 20210805）</a></li>
 <li><a href="/topimagenews/20210806/1601268.md">新华社发神经？再度发文精确打击这个行业 这次是... 【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20210806/1601588.md">上海男亲历美国海关遣返 具有党、军、商背景 回不去美国了</a></li>
 <li><a href="/cnnews/20210806/1601439.md">中共洗脑术图解 有多少中国人的脑袋被洗残了？</a></li>
 <li><a href="/bannedvideo/20210806/1601465.md">中共运动了!无人幸免 所有行业历史重演(2021年8月6日）</a></li>
-<li><a href="/topimagenews/20210806/1601588.md">上海男亲历美国海关遣返 具有党、军、商背景 回不去美国了</a></li>
 <li><a href="/bannedvideo/20210806/1601288.md">叶檀力挺勇敢女人孟晚舟触怒习近平？武汉南京郑州北京扬州喊封，段子成熬日子新招？</a></li>
 <li><a href="/cnnews/20210806/1601238.md">刘晓庆在邓家挤兑江泽民 被关秦城监狱422天内幕</a></li>
 <li><a href="/cbnews/20210806/1601364.md">美国情报部门获取武汉病毒实验室大量原始基因数据</a></li>
@@ -98,6 +98,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210807/1601720.md" target="_blank">诗一首：《咏画~万树千姿》</a></li>
+<li><a href="/comments/20210807/1601719.md" target="_blank">【曾铮专栏】生活篇：《关于婚姻的思考》</a></li>
+<li><a href="/comments/20210807/1601718.md" target="_blank">【戈壁东专栏】时事篇：剑拔弩张 狭路相逢 中美战争也许今日爆发</a></li>
+<li><a href="/comments/20210807/1601717.md" target="_blank">【文昭思绪飞扬】：《诸世纪》预言的地震来了……</a></li>
+<li><a href="/comments/20210807/1601716.md" target="_blank">诗一首：《咏画~云海依峰》</a></li>
 <li><a href="/comments/20210807/1601713.md" target="_blank">美国制裁效力显现 华为二季度收入暴跌38%</a></li>
 <li><a href="/comments/20210807/1601710.md" target="_blank">【杜耀明评论】舆论战开打，教协是否有险可守？</a></li>
 <li><a href="/comments/20210807/1601705.md" target="_blank">中共打击行动或令科技巨头增加10亿计美元税负</a></li>
@@ -118,11 +123,6 @@
 <li><a href="/comments/20210806/1601578.md" target="_blank">【起底刑事化】私隐专员无手令仍可搜查电子器材 钟丽玲：只会望一望</a></li>
 <li><a href="/comments/20210806/1601577.md" target="_blank">港府回应美国港人避风港措施 “任何客观的人都看到国安法保障基本权利和自由”</a></li>
 <li><a href="/comments/20210806/1601564.md" target="_blank">继阿里巴巴后 美团或被罚款约10亿美元</a></li>
-<li><a href="/comments/20210806/1601563.md" target="_blank">福原爱示好中国「加倍奉还」 惹怒日本网友</a></li>
-<li><a href="/comments/20210806/1601557.md" target="_blank">孟晚舟在替所有人担罪？跪权力舔资本哄愚民</a></li>
-<li><a href="/comments/20210806/1601517.md" target="_blank">缅甸军民爆激烈冲突 丛林现40具弃尸疑遭酷刑</a></li>
-<li><a href="/comments/20210806/1601440.md" target="_blank">打疫苗记（完整版） — 曾节明</a></li>
-<li><a href="/comments/20210806/1601480.md" target="_blank">上海电气总裁出事；习近平赴藏果然另有目的？；重磅！美情报机构破获武汉基因库【希望之声-两岸要闻-2021/08/06】</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
 <li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
 
 </ul>
 </div>
