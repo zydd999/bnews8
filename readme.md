@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/yule/20210806/1601241.md">落跑前被逮？吴亦凡爆扯出7大咖共犯 网疯传400G影片</a></li>
-<li><a href="/cbnews/20210806/1601193.md">重磅！CNN：美国获取大量武汉实验室新冠病毒基因数据</a></li>
 <li><a href="/comments/20210806/1601480.md">上海电气总裁出事；习近平赴藏果然另有目的？；重磅！美情报机构破获武汉基因库【希望之声-两岸要闻-2021/08/06】</a></li>
 <li><a href="/cnnews/20210806/1601470.md">同一天，杭州、成都相继出手！楼市真变了？</a></li>
 <li><a href="/cbnews/20210806/1601221.md">天亮时分：新华社长文如同宣战书，习近平昏头多线作战；美国情报部门获得海量病毒数据；（政论天下第482集 20210805）</a></li>
@@ -16,18 +15,19 @@
 <li><a href="/cnnews/20210806/1601439.md">中共洗脑术图解 有多少中国人的脑袋被洗残了？</a></li>
 <li><a href="/bannedvideo/20210806/1601288.md">叶檀力挺勇敢女人孟晚舟触怒习近平？武汉南京郑州北京扬州喊封，段子成熬日子新招？</a></li>
 <li><a href="/cnnews/20210806/1601238.md">刘晓庆在邓家挤兑江泽民 被关秦城监狱422天内幕</a></li>
+<li><a href="/ssgc/20210806/1601565.md">如何美化全红婵的发言，是一个难题</a></li>
+<li><a href="/cnnews/20210807/1601700.md">中共突然关闭国门 北京卫戍换高层 专家 : 习近平政治、经济都出现重大警讯</a></li>
 <li><a href="/cbnews/20210806/1601364.md">美国情报部门获取武汉病毒实验室大量原始基因数据</a></li>
 <li><a href="/yule/20210806/1601272.md">以为吴亦凡和他妈长得像 他爸一出现：完美复制</a></li>
-<li><a href="/cnnews/20210806/1601363.md">中美海军差距有多大？看看这个人就知道</a></li>
 <li><a href="/cbnews/20210806/1601644.md">各位，教育刚刚又放了两个大招…</a></li>
+<li><a href="/cnnews/20210806/1601363.md">中美海军差距有多大？看看这个人就知道</a></li>
 <li><a href="/bannedvideo/20210806/1601273.md">【闭关锁国的重大步骤】上海宣布：中小学期末考试 取消英语！        韭菜语言与人类正常语言差距巨大！</a></li>
-<li><a href="/cnnews/20210807/1601700.md">中共突然关闭国门 北京卫戍换高层 专家 : 习近平政治、经济都出现重大警讯</a></li>
 <li><a href="/baitai/20210806/1601287.md">中共关城门了</a></li>
 <li><a href="/cbnews/20210806/1601303.md">中共南海军演 美国海军“胜利号”进入禁航区</a></li>
+<li><a href="/cbnews/20210807/1601695.md">北京发布突发事件应急预案 民众质疑</a></li>
 <li><a href="/bannedvideo/20210806/1601348.md">八月惊魂大戏第二幕，美国攻破武汉实验室数据库；情况危急，习近平连夜花钱平事（20210806 第654期）</a></li>
-<li><a href="/lifebaike/20210806/1601423.md">清华前校长：这类孩子看似聪明，长大多半不是学习的料，别瞎高兴</a></li>
 <li><a href="/comments/20210806/1601461.md">画出上帝耶稣真实面貌的天才神童画家，阿琪雅娜4岁开始，在天堂学艺，5岁失踪，用技法传递神的信息：至高的圣地，出现在新的地球，却空无一人？神启示了她，下一个文明，开启的关键是什么？</a></li>
-<li><a href="/ssgc/20210806/1601565.md">如何美化全红婵的发言，是一个难题</a></li>
+<li><a href="/lifebaike/20210806/1601423.md">清华前校长：这类孩子看似聪明，长大多半不是学习的料，别瞎高兴</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210807/1601831.md" target="_blank">新冠疫情恶化 郑州开始实行闭环管理</a></li>
 <li><a href="/comments/20210807/1601810.md" target="_blank">台海作战中的制空权和制海权</a></li>
 <li><a href="/comments/20210807/1601809.md" target="_blank">迎娶白富美，走向人生巅峰的官员，变成了一盘炸鱼？</a></li>
 <li><a href="/cbnews/20210807/1601780.md" target="_blank">文昭：总攻来了！武汉实验室病毒数据被美国一锅端！中共为大孤立到来做准备；「加速倒车」疑问解开了</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210806/1601293.md" target="_blank">疫情死者家属寻求在联合国控告武汉政府</a></li>
 <li><a href="/comments/20210806/1601234.md" target="_blank">美国批准48亿对台军售 北京怒回应；河南水库泄洪未停  灾民境况让人泪奔 ；孟晚舟案进入尾声 三国博弈持续；北京推奖励生三孩政策；【希望之声-红朝禁闻-2021/08/05】</a></li>
 <li><a href="/comments/20210806/1601233.md" target="_blank">非法移民惹的祸! 德州发生恶性交通事故；明知不行 为何尝试？CDC单方面延长暂停驱逐令…</a></li>
-<li><a href="/cbnews/20210806/1601221.md" target="_blank">天亮时分：新华社长文如同宣战书，习近平昏头多线作战；美国情报部门获得海量病毒数据；（政论天下第482集 20210805）</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210807/1601844.md" target="_blank">卢新：不要再说“郑州挺住”</a></li>
+<li><a href="/comments/20210807/1601843.md" target="_blank">笔耕: 在天灾人祸中看中国</a></li>
+<li><a href="/comments/20210807/1601828.md" target="_blank">佛州前总检察长：川普诉大科技公司案将打到高院</a></li>
+<li><a href="/comments/20210807/1601826.md" target="_blank">曝金正恩骤降20公斤“极有危机感” 金正男好友：10年内恐下台</a></li>
+<li><a href="/comments/20210807/1601825.md" target="_blank">央媒接连发文重挫股市 深圳党媒批“别说三道四”</a></li>
 <li><a href="/comments/20210807/1601810.md" target="_blank">台海作战中的制空权和制海权</a></li>
 <li><a href="/comments/20210807/1601809.md" target="_blank">迎娶白富美，走向人生巅峰的官员，变成了一盘炸鱼？</a></li>
 <li><a href="/comments/20210807/1601791.md" target="_blank">中共要求“改变”才对话 澳洲︰不接受</a></li>
@@ -118,11 +123,6 @@
 <li><a href="/comments/20210807/1601717.md" target="_blank">【文昭思绪飞扬】：《诸世纪》预言的地震来了……</a></li>
 <li><a href="/comments/20210807/1601716.md" target="_blank">诗一首：《咏画~云海依峰》</a></li>
 <li><a href="/comments/20210807/1601713.md" target="_blank">美国制裁效力显现 华为二季度收入暴跌38%</a></li>
-<li><a href="/comments/20210807/1601710.md" target="_blank">【杜耀明评论】舆论战开打，教协是否有险可守？</a></li>
-<li><a href="/comments/20210807/1601705.md" target="_blank">中共打击行动或令科技巨头增加10亿计美元税负</a></li>
-<li><a href="/comments/20210807/1601704.md" target="_blank">吃蔬果减肥没瘦反而变胖了？营养师点名夏天「越吃越肥」的5种水果是&#8230;</a></li>
-<li><a href="/comments/20210807/1601693.md" target="_blank">特首选委提名期展开 选举事务处收 251 份提名 选民基础大减近 97%</a></li>
-<li><a href="/comments/20210807/1601683.md" target="_blank">殡仪馆员工惊爆：郑州二十七区殡仪馆堆放19577具水浸致死的尸体！中南海谣言预言_497</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
 <li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
+<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
 <li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
 
 </ul>
 </div>
