@@ -9,8 +9,8 @@
 <li><a href="/cbnews/20210806/1601644.md">各位，教育刚刚又放了两个大招…</a></li>
 <li><a href="/bannedvideo/20210807/1601754.md">重磅！美国获取武汉实验室的基因子据库，中共恐慌，胡锡进提前给中国民众打预防针；赵立坚要求调查的美军德特里克堡，到底藏着哪些秘密？【#秦鹏观察 8/6】</a></li>
 <li><a href="/bannedvideo/20210807/1601735.md">中共最新繁殖韭菜口号：“不交配，就交税”！</a></li>
-<li><a href="/topimagenews/20210807/1601785.md">他们来了！威慑中共，美国使出罕见一招</a></li>
 <li><a href="/cnnews/20210807/1601700.md">中共突然关闭国门 北京卫戍换高层 专家 : 习近平政治、经济都出现重大警讯</a></li>
+<li><a href="/topimagenews/20210807/1601785.md">他们来了！威慑中共，美国使出罕见一招</a></li>
 <li><a href="/ssgc/20210807/1601743.md">全红婵要给妈妈治病 揭开新农合惊人内幕</a></li>
 <li><a href="/cnnews/20210807/1601907.md">重磅–德国权威病理学家公布多个尸检结果证实疫苗致死机制</a></li>
 <li><a href="/cbnews/20210807/1601780.md">文昭：总攻来了！武汉实验室病毒数据被美国一锅端！中共为大孤立到来做准备；「加速倒车」疑问解开了</a></li>
@@ -21,11 +21,11 @@
 <li><a href="/topimagenews/20210807/1601784.md">高级黑！如果当年日本人占领中国 后果就是…</a></li>
 <li><a href="/comments/20210807/1601739.md">20年前摘下2金！中国前体操国手“潦倒乞讨”惨况曝光</a></li>
 <li><a href="/finance/20210807/1601765.md">潘石屹跑不了了！黑石收购案被正式立案审查</a></li>
-<li><a href="/topimagenews/20210807/1601706.md">供应链断、美中贸战 愈来愈多厂商考虑撤出中国</a></li>
 <li><a href="/yule/20210807/1601824.md">吴亦凡的妈妈也是个有故事的美人</a></li>
+<li><a href="/topimagenews/20210807/1601706.md">供应链断、美中贸战 愈来愈多厂商考虑撤出中国</a></li>
 <li><a href="/cnnews/20210807/1601999.md">对媒体整肃开始！中共10大部门联合行动 称要“下重手、出重拳” 【阿波罗网报道】</a></li>
-<li><a href="/bannedvideo/20210807/1601866.md">禽兽！澳大利亚又辱华了，这次连14岁的小姑娘都不放过！这次我挺环球时报！看到底（坐澳观天第404期 20210806）</a></li>
 <li><a href="/topimagenews/20210807/1601991.md">河南新乡洪水漫灌地库 造成300多辆车被淹 居民奋起维权索赔</a></li>
+<li><a href="/bannedvideo/20210807/1601866.md">禽兽！澳大利亚又辱华了，这次连14岁的小姑娘都不放过！这次我挺环球时报！看到底（坐澳观天第404期 20210806）</a></li>
 <li><a href="/comments/20210807/1601873.md">张杰：北戴河风急浪高 各派势力忍无可忍</a></li>
 <li><a href="/bannedvideo/20210807/1601703.md">【内讧】和新华社干起来了！深圳党媒呛声；印度神童中国预言成真，下一个是股灾快杀到；中共抓补习如抓嫖视频曝光；狱警让吴亦凡彻底崩溃；总裁跳楼牵惊天骗局神秘人物失联；毛老家健康码失灵 CL</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210807/1602209.md" target="_blank">逼八十岁老太喝尿 甘肃女子监狱非人待遇</a></li>
 <li><a href="/comments/20210807/1602117.md" target="_blank">突发应急预案 北戴河反习势力疑高涨；30天后见真章！北京深夜下重手 马化腾或惨过马云【希望之声-两岸要闻-2021/08/07】</a></li>
 <li><a href="/comments/20210807/1602078.md" target="_blank">来自马化腾的反击？地方媒体怒怼新华社；北京打压香港民主  美出声力挺   气坏中共【希望之声-红朝禁闻】</a></li>
 <li><a href="/cbnews/20210807/1602051.md" target="_blank">云南富豪踩环保红线 违建豪宅被拆</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210806/1601644.md" target="_blank">各位，教育刚刚又放了两个大招…</a></li>
 <li><a href="/cbnews/20210806/1601576.md" target="_blank">政策下的补课老师：跳槽房产中介、回家考公考研…</a></li>
 <li><a href="/cbnews/20210806/1601556.md" target="_blank">郑州老人&#8221;就医之路&#8221;：每周一三五核检 二四六做透析</a></li>
-<li><a href="/comments/20210806/1601480.md" target="_blank">上海电气总裁出事；习近平赴藏果然另有目的？；重磅！美情报机构破获武汉基因库【希望之声-两岸要闻-2021/08/06】</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210807/1602201.md" target="_blank">布林肯吁北京遵守国际法义务 王毅：不需要“教师爷”</a></li>
+<li><a href="/comments/20210807/1602196.md" target="_blank">北京对拜登政府“幻想破灭”，美中僵局或持续到2023年</a></li>
 <li><a href="/comments/20210807/1602147.md" target="_blank">河南给提取住房公积金设限 谢田：钱不够 管理问题多</a></li>
 <li><a href="/comments/20210807/1602146.md" target="_blank">萧泽頣：蔡展鹏案不涉刑事 8 月接任人事及训练处处长</a></li>
 <li><a href="/comments/20210807/1602145.md" target="_blank">英格兰公共卫生署： 疫苗可能无助防止Delta变异株传播</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210807/1601996.md" target="_blank">权力拜物教主谢几何：盛世鼓噪，可以休矣</a></li>
 <li><a href="/comments/20210807/1601988.md" target="_blank">萧泽颐：“不排除、一定会”调查教协 港大评议会事件不排除拘捕行动</a></li>
 <li><a href="/comments/20210807/1601981.md" target="_blank">疑为中共收集800万孕妇基因数据 英国要求“华大”注册</a></li>
-<li><a href="/comments/20210807/1601979.md" target="_blank">中共“国际形势发展预判” （习近平的“当前重点问题应变策略”揭密   第二讲）【袁红冰纵论天下】特别专题 08072021</a></li>
-<li><a href="/comments/20210807/1601974.md" target="_blank">李燕铭：北戴河会议大战 习近平强化军权严防江曾政变（二） 军队高层密集调整 习为重大清洗埋下伏笔 中央军委、战区、北京卫戍区将领变动 北京卫戍区副政委鲍泽敏坐镇曾庆红老家 中部战区空军少将薛宏伟履新上海警备区政委 多个敏感省份军区司令员与戎装常委换人</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/comments/20210612/1565472.md" target="_blank">感悟神韵（之二）：感悟神韵的艺术风格</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
 <li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
 
 </ul>
 </div>
