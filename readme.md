@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/baitai/20210807/1601663.md">时间凝固的一刻——惊闻余英时兄仙逝</a></li>
-<li><a href="/topimagenews/20210806/1601588.md">上海男亲历美国海关遣返 具有党、军、商背景 回不去美国了</a></li>
 <li><a href="/cbnews/20210806/1601644.md">各位，教育刚刚又放了两个大招…</a></li>
 <li><a href="/bannedvideo/20210807/1601754.md">重磅！美国获取武汉实验室的基因子据库，中共恐慌，胡锡进提前给中国民众打预防针；赵立坚要求调查的美军德特里克堡，到底藏着哪些秘密？【#秦鹏观察 8/6】</a></li>
 <li><a href="/bannedvideo/20210807/1601735.md">中共最新繁殖韭菜口号：“不交配，就交税”！</a></li>
@@ -16,8 +15,8 @@
 <li><a href="/cnnews/20210807/1601907.md">重磅–德国权威病理学家公布多个尸检结果证实疫苗致死机制</a></li>
 <li><a href="/cbnews/20210807/1601780.md">文昭：总攻来了！武汉实验室病毒数据被美国一锅端！中共为大孤立到来做准备；「加速倒车」疑问解开了</a></li>
 <li><a href="/bannedvideo/20210807/1601984.md">文睿：习近平终于亮出了底牌，最糟糕的事情正在变成现实</a></li>
-<li><a href="/topimagenews/20210807/1601959.md">市值蒸发万亿港元后 快手干了件谁也没想到的事</a></li>
 <li><a href="/cbnews/20210807/1601695.md">北京发布突发事件应急预案 民众质疑</a></li>
+<li><a href="/topimagenews/20210807/1601959.md">市值蒸发万亿港元后 快手干了件谁也没想到的事</a></li>
 <li><a href="/comments/20210807/1601746.md">联军压境，中共挣扎</a></li>
 <li><a href="/topimagenews/20210807/1601784.md">高级黑！如果当年日本人占领中国 后果就是…</a></li>
 <li><a href="/comments/20210807/1601739.md">20年前摘下2金！中国前体操国手“潦倒乞讨”惨况曝光</a></li>
@@ -25,9 +24,10 @@
 <li><a href="/topimagenews/20210807/1601706.md">供应链断、美中贸战 愈来愈多厂商考虑撤出中国</a></li>
 <li><a href="/yule/20210807/1601824.md">吴亦凡的妈妈也是个有故事的美人</a></li>
 <li><a href="/bannedvideo/20210807/1601866.md">禽兽！澳大利亚又辱华了，这次连14岁的小姑娘都不放过！这次我挺环球时报！看到底（坐澳观天第404期 20210806）</a></li>
+<li><a href="/comments/20210807/1601873.md">张杰：北戴河风急浪高 各派势力忍无可忍</a></li>
 <li><a href="/bannedvideo/20210807/1601703.md">【内讧】和新华社干起来了！深圳党媒呛声；印度神童中国预言成真，下一个是股灾快杀到；中共抓补习如抓嫖视频曝光；狱警让吴亦凡彻底崩溃；总裁跳楼牵惊天骗局神秘人物失联；毛老家健康码失灵 CL</a></li>
 <li><a href="/topimagenews/20210807/1601991.md">河南新乡洪水漫灌地库 造成300多辆车被淹 居民奋起维权索赔</a></li>
-<li><a href="/comments/20210807/1601873.md">张杰：北戴河风急浪高 各派势力忍无可忍</a></li>
+<li><a href="/cnnews/20210807/1601999.md">对媒体整肃开始！中共10大部门联合行动 称要“下重手、出重拳” 【阿波罗网报道】</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210807/1602147.md" target="_blank">河南给提取住房公积金设限 谢田：钱不够 管理问题多</a></li>
+<li><a href="/comments/20210807/1602146.md" target="_blank">萧泽頣：蔡展鹏案不涉刑事 8 月接任人事及训练处处长</a></li>
+<li><a href="/comments/20210807/1602145.md" target="_blank">英格兰公共卫生署： 疫苗可能无助防止Delta变异株传播</a></li>
 <li><a href="/comments/20210807/1602136.md" target="_blank">再谈中国天灾人祸的反思</a></li>
 <li><a href="/comments/20210807/1602123.md" target="_blank">没救了？美中关系现在比阿拉斯加还冷</a></li>
 <li><a href="/comments/20210807/1602117.md" target="_blank">突发应急预案 北戴河反习势力疑高涨；30天后见真章！北京深夜下重手 马化腾或惨过马云【希望之声-两岸要闻-2021/08/07】</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210807/1601981.md" target="_blank">疑为中共收集800万孕妇基因数据 英国要求“华大”注册</a></li>
 <li><a href="/comments/20210807/1601979.md" target="_blank">中共“国际形势发展预判” （习近平的“当前重点问题应变策略”揭密   第二讲）【袁红冰纵论天下】特别专题 08072021</a></li>
 <li><a href="/comments/20210807/1601974.md" target="_blank">李燕铭：北戴河会议大战 习近平强化军权严防江曾政变（二） 军队高层密集调整 习为重大清洗埋下伏笔 中央军委、战区、北京卫戍区将领变动 北京卫戍区副政委鲍泽敏坐镇曾庆红老家 中部战区空军少将薛宏伟履新上海警备区政委 多个敏感省份军区司令员与戎装常委换人</a></li>
-<li><a href="/comments/20210807/1601973.md" target="_blank">篮球明星林书豪自爆确诊 美国打完疫苗抵上海发现染疫</a></li>
-<li><a href="/comments/20210807/1601972.md" target="_blank">中国农村医疗无助 14岁跳水金牌要给妈妈治病</a></li>
-<li><a href="/comments/20210807/1601969.md" target="_blank">罕见！英法加入印太军演 遏制中共南海扩张；一庭审视频被广传 律师因此被抓【希望之声-午夜新闻-2021/08/06】</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
 <li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
 
 </ul>
 </div>
