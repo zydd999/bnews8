@@ -14,20 +14,20 @@
 <li><a href="/topimagenews/20210807/1602111.md">习近平闭关锁国前奏 上海试点小学弃英语考试；威慑中共，美罕见出大招</a></li>
 <li><a href="/comments/20210807/1602078.md">来自马化腾的反击？地方媒体怒怼新华社；北京打压香港民主  美出声力挺   气坏中共【希望之声-红朝禁闻】</a></li>
 <li><a href="/cnnews/20210807/1601999.md">对媒体整肃开始！中共10大部门联合行动 称要“下重手、出重拳” 【阿波罗网报道】</a></li>
-<li><a href="/baitai/20210808/1602242.md">神奇新冠新药：5天治愈90%重症，无一例死亡</a></li>
-<li><a href="/bannedvideo/20210807/1601866.md">禽兽！澳大利亚又辱华了，这次连14岁的小姑娘都不放过！这次我挺环球时报！看到底（坐澳观天第404期 20210806）</a></li>
-<li><a href="/health/20210807/1602052.md">慢性咽炎最怕“一种水”，不是枇杷露，你若爱喝，喉咙会感激不尽</a></li>
 <li><a href="/baitai/20210808/1602261.md">一切收入都归中央，中国经济发展模式已迎来巨变</a></li>
+<li><a href="/bannedvideo/20210807/1601866.md">禽兽！澳大利亚又辱华了，这次连14岁的小姑娘都不放过！这次我挺环球时报！看到底（坐澳观天第404期 20210806）</a></li>
+<li><a href="/baitai/20210808/1602242.md">神奇新冠新药：5天治愈90%重症，无一例死亡</a></li>
+<li><a href="/health/20210807/1602052.md">慢性咽炎最怕“一种水”，不是枇杷露，你若爱喝，喉咙会感激不尽</a></li>
 <li><a href="/topimagenews/20210807/1601991.md">河南新乡洪水漫灌地库 造成300多辆车被淹 居民奋起维权索赔</a></li>
 <li><a href="/comments/20210807/1601873.md">张杰：北戴河风急浪高 各派势力忍无可忍</a></li>
 <li><a href="/cnnews/20210807/1601874.md">余英时眼中的毛泽东</a></li>
-<li><a href="/lifebaike/20210807/1602057.md">饮茶时，茶叶的第一泡水脏吗，有必要倒掉吗？看完这个你就知道了</a></li>
+<li><a href="/cbnews/20210807/1602229.md">扬州300名留学生被困城内 发公开信要特批出城 飞赴境外留学【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20210807/1601970.md">江峰：习近平“豪捐”一亿美元，不是大国责任而是加盟COVAX新冠疫苗计划份子钱，为让中共高干获得进口疫苗配额。会员网站深度评论：失效的疫苗为什么反而要全民强种？【江峰漫谈20210806第358期】</a></li>
+<li><a href="/lifebaike/20210807/1602057.md">饮茶时，茶叶的第一泡水脏吗，有必要倒掉吗？看完这个你就知道了</a></li>
 <li><a href="/bannedvideo/20210807/1602061.md">中共公布了去年中国军队与印度士兵发生冲突的视频, 视频火了， 却事与愿违</a></li>
 <li><a href="/baitai/20210807/1602017.md">颜纯鈎 | 主动脱鈎：中国将变成放大的朝鲜</a></li>
-<li><a href="/cbnews/20210807/1602229.md">扬州300名留学生被困城内 发公开信要特批出城 飞赴境外留学【阿波罗网报道】</a></li>
+<li><a href="/comments/20210808/1602295.md">中共尴尬了！14岁女孩奥运夺金后 领导立马拜访 家里穷到…</a></li>
 <li><a href="/ssgc/20210807/1601923.md">〖兲朝浮世绘〗看看是东方教主压得住众堂主，还是众堂主摁得住东方教主？</a></li>
-<li><a href="/cnnews/20210807/1601977.md">A股最大“黑天鹅” 神秘男主角相貌曝光 背景很特殊</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210808/1602389.md" target="_blank">珠海妇养柴犬当街遭抢 狗肉档现残躯</a></li>
 <li><a href="/cbnews/20210808/1602369.md" target="_blank">江苏检测场所混乱拥挤 恐成新冠防疫缺口</a></li>
 <li><a href="/cbnews/20210808/1602368.md" target="_blank">面对孩子的教育，现在公务员们也着急了</a></li>
 <li><a href="/cbnews/20210808/1602351.md" target="_blank">中共强力“大劝返” 回国还要找“黄牛”</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210807/1601985.md" target="_blank">美媒：包围台湾 中共航母编队得先过日本“弹雨”这关</a></li>
 <li><a href="/comments/20210807/1601979.md" target="_blank">中共“国际形势发展预判” （习近平的“当前重点问题应变策略”揭密   第二讲）【袁红冰纵论天下】特别专题 08072021</a></li>
 <li><a href="/cbnews/20210807/1601970.md" target="_blank">江峰：习近平“豪捐”一亿美元，不是大国责任而是加盟COVAX新冠疫苗计划份子钱，为让中共高干获得进口疫苗配额。会员网站深度评论：失效的疫苗为什么反而要全民强种？【江峰漫谈20210806第358期】</a></li>
-<li><a href="/comments/20210807/1601969.md" target="_blank">罕见！英法加入印太军演 遏制中共南海扩张；一庭审视频被广传 律师因此被抓【希望之声-午夜新闻-2021/08/06】</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
 <li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
 <li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
 
 </ul>
 </div>
