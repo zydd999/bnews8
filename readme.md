@@ -8,26 +8,26 @@
 <li><a href="/bannedvideo/20210808/1602249.md">吴亦凡咬出成龙！   成龙变成虫！</a></li>
 <li><a href="/cnnews/20210807/1602197.md">"是，他在实验室被感染！" 新电邮确认中国实验室主任感染源【阿波罗网编译】z3</a></li>
 <li><a href="/comments/20210808/1602295.md">中共尴尬了！14岁女孩奥运夺金后 领导立马拜访 家里穷到…</a></li>
-<li><a href="/baitai/20210808/1602261.md">一切收入都归中央，中国经济发展模式已迎来巨变</a></li>
 <li><a href="/baitai/20210808/1602242.md">神奇新冠新药：5天治愈90%重症，无一例死亡</a></li>
+<li><a href="/baitai/20210808/1602261.md">一切收入都归中央，中国经济发展模式已迎来巨变</a></li>
 <li><a href="/cnnews/20210808/1602471.md">中共北戴河会议分析贴： “接下来的江湖，血雨腥风，不死为幸”</a></li>
-<li><a href="/topimagenews/20210808/1602348.md">最大规模! 中共10万平方公里南海军演 美军踢馆</a></li>
 <li><a href="/cbnews/20210808/1602303.md">俯瞰郑州洪灾泡水车坟场 4000辆密密麻麻 郑州到底死了多少人？</a></li>
+<li><a href="/topimagenews/20210808/1602348.md">最大规模! 中共10万平方公里南海军演 美军踢馆</a></li>
 <li><a href="/cbnews/20210808/1602331.md">全红婵夺冠后家人遭骚扰！众人围堵家门骂骂咧咧</a></li>
 <li><a href="/yule/20210808/1602274.md">范冰冰衰卷吴亦凡风波火大报警 惨遭偷拍身材成大妈</a></li>
 <li><a href="/topimagenews/20210808/1602555.md">脸被打肿了？中共党媒：这不是衡量成功的唯一因素【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20210808/1602368.md">面对孩子的教育，现在公务员们也着急了</a></li>
 <li><a href="/cbnews/20210807/1602229.md">扬州300名留学生被困城内 发公开信要特批出城 飞赴境外留学【阿波罗网报道】</a></li>
-<li><a href="/cnnews/20210808/1602289.md">富人哪里厉害？日本经营之圣：穷人想要翻身就去做这3件事</a></li>
 <li><a href="/cbnews/20210808/1602286.md">市场买完西瓜放后车箱“惨被罚8百元”警曝原因…网却骂翻</a></li>
+<li><a href="/cnnews/20210808/1602289.md">富人哪里厉害？日本经营之圣：穷人想要翻身就去做这3件事</a></li>
 <li><a href="/cbnews/20210808/1602349.md">阿里巴巴爆性侵案：女职员控诉被迫陪酒 遭客猥亵及上司强奸</a></li>
 <li><a href="/cbnews/20210807/1602225.md">东奥之时 前中国体操冠军乞讨照网上热传</a></li>
 <li><a href="/cnnews/hknews/20210808/1602480.md">前空姐亲揭工作SOP 商务舱超累却最开心</a></li>
+<li><a href="/bannedvideo/20210808/1602576.md">美联合军演求战，习近平求和不得，倒习势力一黑到底，全中国只剩两个字：内斗。｜薇羽看世间 第349期 20210807</a></li>
 <li><a href="/health/20210808/1602299.md">肝病的“解毒王”被找到了，开水撒一把，大小肝病全跑</a></li>
 <li><a href="/bannedvideo/20210808/1602367.md">现在的美国，白送的绿卡我都不要！油管这两年，我改变了某些观点！</a></li>
-<li><a href="/baitai/20210808/1602253.md">沉雁：叶檀的跪舔姿势真令人恶心呕吐</a></li>
 <li><a href="/worldnews/20210808/1602312.md">15岁弟戴蓝牙耳机突爆炸 双耳全烂惨死</a></li>
-<li><a href="/bannedvideo/20210808/1602576.md">美联合军演求战，习近平求和不得，倒习势力一黑到底，全中国只剩两个字：内斗。｜薇羽看世间 第349期 20210807</a></li>
+<li><a href="/baitai/20210808/1602253.md">沉雁：叶檀的跪舔姿势真令人恶心呕吐</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210808/1602684.md" target="_blank">你朋友圈里阴气森森的东京奥运是真的吗？</a></li>
+<li><a href="/comments/20210808/1602677.md" target="_blank">东京奥运会比赛结束，最终盘点；中国行业整改轮到牛奶了，乳品业股价狂跌安徽查违规补习如扫黄打黑 踹门掐老师视频流出舆论哗然【希望之声TV-两岸要闻-2021/08/08】</a></li>
 <li><a href="/comments/20210808/1602587.md" target="_blank">唯美之灵——生命意义的皇冠（东方哲人解析当代人类困惑  第四十五讲）【袁红冰杏坛】 08082021</a></li>
 <li><a href="/comments/20210808/1602520.md" target="_blank">突袭以色列邮轮的主谋被找到，美军释出证据，G7外长控告幕后黑手；补习涉黄！中共叫停境外外教课程【希望之声TV-每日头条-2021/8/7】</a></li>
 <li><a href="/comments/20210808/1602509.md" target="_blank">习近平半年拿下90多名政法官员   第二轮清洗开场；习近平清洗内蒙遇挑战？布小林失位打破惯例；江峰：冷战时期一军事联盟已经成型【希望之声-红朝禁闻-2021/08/07】</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/cbnews/20210808/1602264.md" target="_blank">江苏2民警收企业钱帮忙跨省讨债抓人 债务还从300多万变3,000万</a></li>
 <li><a href="/cbnews/20210808/1602258.md" target="_blank">安徽查违规补习 踹门掐老师…网友哗然：抓反革命？</a></li>
 <li><a href="/cbnews/20210808/1602240.md" target="_blank">博明：中共窃取大量数据编制美国人的档案</a></li>
-<li><a href="/cbnews/20210807/1602229.md" target="_blank">扬州300名留学生被困城内 发公开信要特批出城 飞赴境外留学【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20210807/1602225.md" target="_blank">东奥之时 前中国体操冠军乞讨照网上热传</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210808/1602684.md" target="_blank">你朋友圈里阴气森森的东京奥运是真的吗？</a></li>
+<li><a href="/comments/20210808/1602677.md" target="_blank">东京奥运会比赛结束，最终盘点；中国行业整改轮到牛奶了，乳品业股价狂跌安徽查违规补习如扫黄打黑 踹门掐老师视频流出舆论哗然【希望之声TV-两岸要闻-2021/08/08】</a></li>
+<li><a href="/comments/20210808/1602676.md" target="_blank">加籍非常任法官麦嘉琳为延任解话 称为守香港民主最后堡垒 信可审国安案件</a></li>
 <li><a href="/comments/20210808/1602657.md" target="_blank">刘锐绍分析台海若开战 中美各有三个影响胜败因素</a></li>
 <li><a href="/comments/20210808/1602656.md" target="_blank">全民看奥运！可借机培养孩子运动习惯</a></li>
 <li><a href="/comments/20210808/1602655.md" target="_blank">药一停，尿酸就反弹，痛风到底能否被治愈？</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210808/1602562.md" target="_blank">【钟宏专栏】诗歌篇：《七绝 立秋云凤》</a></li>
 <li><a href="/comments/20210808/1602558.md" target="_blank">李燕铭：北戴河会期吴亦凡案被引爆 深度内幕（七） 吴亦凡背后的百亿富豪綦建虹 搭上成龙闯影视圈 如今沦为“老赖” 綦建虹牵头建立的“耀莱尊荣会”包括3000多名千万亿万级别的富豪 綦建虹儿子綦振慷微博认证为“成龙中国策划总监助理” 女儿綦美合10岁时被成龙带上了央视舞台</a></li>
 <li><a href="/comments/20210808/1602542.md" target="_blank">少子化的根本原因，以及中国人口危机的出路 — 曾节明</a></li>
-<li><a href="/comments/20210808/1602534.md" target="_blank">阿里巴巴女职员遭性侵投诉无果曝光网络 高管定调“猥亵” 网友：“强奸“</a></li>
-<li><a href="/comments/20210808/1602529.md" target="_blank">李燕铭：北戴河会期吴亦凡案被引爆 深度内幕（六） 吴亦凡被刑拘 腾讯系最受伤 马化腾祸不单行 吴亦凡的顶流之路 深度绑定爱奇艺腾讯视频等视频平台</a></li>
-<li><a href="/comments/20210808/1602527.md" target="_blank">全红婵夺金老家沦闹市 妈妈哭叹“现在才知道有这么多亲戚”</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
 <li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
 
 </ul>
 </div>
