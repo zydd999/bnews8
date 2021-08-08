@@ -6,10 +6,9 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/bannedvideo/20210808/1602249.md">吴亦凡咬出成龙！   成龙变成虫！</a></li>
-<li><a href="/cnnews/20210807/1602197.md">"是，他在实验室被感染！" 新电邮确认中国实验室主任感染源【阿波罗网编译】z3</a></li>
 <li><a href="/comments/20210808/1602295.md">中共尴尬了！14岁女孩奥运夺金后 领导立马拜访 家里穷到…</a></li>
-<li><a href="/baitai/20210808/1602242.md">神奇新冠新药：5天治愈90%重症，无一例死亡</a></li>
 <li><a href="/baitai/20210808/1602261.md">一切收入都归中央，中国经济发展模式已迎来巨变</a></li>
+<li><a href="/baitai/20210808/1602242.md">神奇新冠新药：5天治愈90%重症，无一例死亡</a></li>
 <li><a href="/cnnews/20210808/1602471.md">中共北戴河会议分析贴： “接下来的江湖，血雨腥风，不死为幸”</a></li>
 <li><a href="/cbnews/20210808/1602303.md">俯瞰郑州洪灾泡水车坟场 4000辆密密麻麻 郑州到底死了多少人？</a></li>
 <li><a href="/topimagenews/20210808/1602348.md">最大规模! 中共10万平方公里南海军演 美军踢馆</a></li>
@@ -19,8 +18,8 @@
 <li><a href="/cbnews/20210808/1602368.md">面对孩子的教育，现在公务员们也着急了</a></li>
 <li><a href="/cbnews/20210807/1602229.md">扬州300名留学生被困城内 发公开信要特批出城 飞赴境外留学【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20210808/1602289.md">富人哪里厉害？日本经营之圣：穷人想要翻身就去做这3件事</a></li>
-<li><a href="/cbnews/20210808/1602286.md">市场买完西瓜放后车箱“惨被罚8百元”警曝原因…网却骂翻</a></li>
 <li><a href="/bannedvideo/20210808/1602576.md">美联合军演求战，习近平求和不得，倒习势力一黑到底，全中国只剩两个字：内斗。｜薇羽看世间 第349期 20210807</a></li>
+<li><a href="/cbnews/20210808/1602286.md">市场买完西瓜放后车箱“惨被罚8百元”警曝原因…网却骂翻</a></li>
 <li><a href="/cbnews/20210808/1602349.md">阿里巴巴爆性侵案：女职员控诉被迫陪酒 遭客猥亵及上司强奸</a></li>
 <li><a href="/cnnews/hknews/20210808/1602480.md">前空姐亲揭工作SOP 商务舱超累却最开心</a></li>
 <li><a href="/cbnews/20210807/1602225.md">东奥之时 前中国体操冠军乞讨照网上热传</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/bannedvideo/20210808/1602367.md">现在的美国，白送的绿卡我都不要！油管这两年，我改变了某些观点！</a></li>
 <li><a href="/worldnews/20210808/1602312.md">15岁弟戴蓝牙耳机突爆炸 双耳全烂惨死</a></li>
 <li><a href="/baitai/20210808/1602253.md">沉雁：叶檀的跪舔姿势真令人恶心呕吐</a></li>
+<li><a href="/comments/20210808/1602399.md">【微博精粹】钟南山卖疫苗 一句话吓尿全中国</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210808/1602690.md" target="_blank">【明德新闻一览】 14岁女孩拿金牌要给妈妈治病…美国撤军 塔利班发动…</a></li>
 <li><a href="/comments/20210808/1602684.md" target="_blank">你朋友圈里阴气森森的东京奥运是真的吗？</a></li>
 <li><a href="/comments/20210808/1602677.md" target="_blank">东京奥运会比赛结束，最终盘点；中国行业整改轮到牛奶了，乳品业股价狂跌安徽查违规补习如扫黄打黑 踹门掐老师视频流出舆论哗然【希望之声TV-两岸要闻-2021/08/08】</a></li>
 <li><a href="/comments/20210808/1602676.md" target="_blank">加籍非常任法官麦嘉琳为延任解话 称为守香港民主最后堡垒 信可审国安案件</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210808/1602563.md" target="_blank">【养生专家】玉米——谷物中的黄金</a></li>
 <li><a href="/comments/20210808/1602562.md" target="_blank">【钟宏专栏】诗歌篇：《七绝 立秋云凤》</a></li>
 <li><a href="/comments/20210808/1602558.md" target="_blank">李燕铭：北戴河会期吴亦凡案被引爆 深度内幕（七） 吴亦凡背后的百亿富豪綦建虹 搭上成龙闯影视圈 如今沦为“老赖” 綦建虹牵头建立的“耀莱尊荣会”包括3000多名千万亿万级别的富豪 綦建虹儿子綦振慷微博认证为“成龙中国策划总监助理” 女儿綦美合10岁时被成龙带上了央视舞台</a></li>
-<li><a href="/comments/20210808/1602542.md" target="_blank">少子化的根本原因，以及中国人口危机的出路 — 曾节明</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/ganwu/20170705/787156.md" target="_blank">感悟神韵（之四）：感悟神韵音乐</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
 <li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
 
 </ul>
 </div>
