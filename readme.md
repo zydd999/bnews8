@@ -6,27 +6,27 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/comments/20210807/1602117.md">突发应急预案 北戴河反习势力疑高涨；30天后见真章！北京深夜下重手 马化腾或惨过马云【希望之声-两岸要闻-2021/08/07】</a></li>
-<li><a href="/cnnews/20210807/1602197.md">"是，他在实验室被感染！" 新电邮确认中国实验室主任感染源【阿波罗网编译】z3</a></li>
 <li><a href="/bannedvideo/20210808/1602249.md">吴亦凡咬出成龙！   成龙变成虫！</a></li>
+<li><a href="/cnnews/20210807/1602197.md">"是，他在实验室被感染！" 新电邮确认中国实验室主任感染源【阿波罗网编译】z3</a></li>
 <li><a href="/topimagenews/20210807/1602111.md">习近平闭关锁国前奏 上海试点小学弃英语考试；威慑中共，美罕见出大招</a></li>
 <li><a href="/comments/20210807/1602078.md">来自马化腾的反击？地方媒体怒怼新华社；北京打压香港民主  美出声力挺   气坏中共【希望之声-红朝禁闻】</a></li>
 <li><a href="/comments/20210808/1602295.md">中共尴尬了！14岁女孩奥运夺金后 领导立马拜访 家里穷到…</a></li>
-<li><a href="/cnnews/20210807/1601999.md">对媒体整肃开始！中共10大部门联合行动 称要“下重手、出重拳” 【阿波罗网报道】</a></li>
 <li><a href="/baitai/20210808/1602261.md">一切收入都归中央，中国经济发展模式已迎来巨变</a></li>
 <li><a href="/health/20210807/1602052.md">慢性咽炎最怕“一种水”，不是枇杷露，你若爱喝，喉咙会感激不尽</a></li>
 <li><a href="/baitai/20210808/1602242.md">神奇新冠新药：5天治愈90%重症，无一例死亡</a></li>
 <li><a href="/cbnews/20210808/1602331.md">全红婵夺冠后家人遭骚扰！众人围堵家门骂骂咧咧</a></li>
 <li><a href="/yule/20210808/1602274.md">范冰冰衰卷吴亦凡风波火大报警 惨遭偷拍身材成大妈</a></li>
-<li><a href="/cbnews/20210808/1602303.md">俯瞰郑州洪灾泡水车坟场 4000辆密密麻麻 郑州到底死了多少人？</a></li>
 <li><a href="/topimagenews/20210808/1602348.md">最大规模! 中共10万平方公里南海军演 美军踢馆</a></li>
+<li><a href="/cbnews/20210808/1602303.md">俯瞰郑州洪灾泡水车坟场 4000辆密密麻麻 郑州到底死了多少人？</a></li>
 <li><a href="/cbnews/20210807/1602229.md">扬州300名留学生被困城内 发公开信要特批出城 飞赴境外留学【阿波罗网报道】</a></li>
+<li><a href="/cnnews/20210808/1602471.md">中共北戴河会议分析贴： “接下来的江湖，血雨腥风，不死为幸”</a></li>
 <li><a href="/cnnews/20210808/1602289.md">富人哪里厉害？日本经营之圣：穷人想要翻身就去做这3件事</a></li>
 <li><a href="/lifebaike/20210807/1602057.md">饮茶时，茶叶的第一泡水脏吗，有必要倒掉吗？看完这个你就知道了</a></li>
 <li><a href="/cbnews/20210808/1602286.md">市场买完西瓜放后车箱“惨被罚8百元”警曝原因…网却骂翻</a></li>
 <li><a href="/bannedvideo/20210807/1602061.md">中共公布了去年中国军队与印度士兵发生冲突的视频, 视频火了， 却事与愿违</a></li>
 <li><a href="/baitai/20210807/1602017.md">颜纯鈎 | 主动脱鈎：中国将变成放大的朝鲜</a></li>
-<li><a href="/cnnews/20210808/1602471.md">中共北戴河会议分析贴： “接下来的江湖，血雨腥风，不死为幸”</a></li>
 <li><a href="/cbnews/20210807/1602225.md">东奥之时 前中国体操冠军乞讨照网上热传</a></li>
+<li><a href="/cbnews/20210808/1602349.md">阿里巴巴爆性侵案：女职员控诉被迫陪酒 遭客猥亵及上司强奸</a></li>
 <li><a href="/baitai/20210808/1602253.md">沉雁：叶檀的跪舔姿势真令人恶心呕吐</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210808/1602534.md" target="_blank">阿里巴巴女职员遭性侵投诉无果曝光网络 高管定调“猥亵” 网友：“强奸“</a></li>
 <li><a href="/comments/20210808/1602529.md" target="_blank">李燕铭：北戴河会期吴亦凡案被引爆 深度内幕（六） 吴亦凡被刑拘 腾讯系最受伤 马化腾祸不单行 吴亦凡的顶流之路 深度绑定爱奇艺腾讯视频等视频平台</a></li>
 <li><a href="/comments/20210808/1602527.md" target="_blank">全红婵夺金老家沦闹市 妈妈哭叹“现在才知道有这么多亲戚”</a></li>
 <li><a href="/comments/20210808/1602520.md" target="_blank">突袭以色列邮轮的主谋被找到，美军释出证据，G7外长控告幕后黑手；补习涉黄！中共叫停境外外教课程【希望之声TV-每日头条-2021/8/7】</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210808/1602461.md" target="_blank">【杰森视角】三个因素影响全球经济！中共党媒小编就能操纵国际股市！党媒一天团灭一产业，是为提高韭菜的数量和质量？中共新近培养出一股惊心的傲气！</a></li>
 <li><a href="/comments/20210808/1602460.md" target="_blank">李燕铭：北戴河会议大战 习近平强化军权严防江曾政变（三） 武警部队高层密集调整 四名军委机关与野战军将领出任武警部队要职 武警司令员王春宁兼任中央政法委委员 北京武警司令李维杰撰文挺习 “各级要深刻领会统帅决心意图” 放话对反习者“下手要狠”</a></li>
 <li><a href="/comments/20210808/1602419.md" target="_blank">从街霸“家暴男”到慈眉善目 令人感慨的蜕变故事</a></li>
-<li><a href="/comments/20210808/1602418.md" target="_blank">飞机上使用Wi-Fi，当心被黑客攻击？5个防护小提示</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/comments/20210612/1565472.md" target="_blank">感悟神韵（之二）：感悟神韵的艺术风格</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
 
 </ul>
 </div>
