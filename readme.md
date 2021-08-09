@@ -19,15 +19,15 @@
 <li><a href="/headline/20210809/1602740.md">法媒：武汉，实验室传奇 中国当局一年半的掩盖</a></li>
 <li><a href="/headline/20210808/1602611.md">北京野生动物园男女游客混战厮打 动物纷纷效仿一度失控</a></li>
 <li><a href="/yule/20210809/1602836.md">吴亦凡事件后圈 内大佬们的饭局被一一曝光？</a></li>
-<li><a href="/lifebaike/20210808/1602538.md">心里再苦，这些事也要守口如瓶，不能告诉外人</a></li>
 <li><a href="/bannedvideo/20210808/1602594.md">网友：一女子带两个孩子去做核酸检测，排队距离近了一点，派出所警察就骂骂咧咧，女人还嘴被就地撂倒。</a></li>
 <li><a href="/baitai/20210808/1602668.md">东奥金牌冠军拱手还给美国中国上下一片叹息</a></li>
 <li><a href="/cbnews/20210809/1602717.md">中国停发新护照 评论家：限制行动自由 防控西方思想</a></li>
 <li><a href="/lifebaike/20210808/1602592.md">大清气数已尽：李鸿章首见机枪先问这句</a></li>
-<li><a href="/finance/20210809/1602723.md">中国全面暂停欧美线货机过夜 运价将一飞冲天</a></li>
-<li><a href="/cbnews/20210809/1602728.md">分析：中共间谍头子背后复杂的权力交错</a></li>
 <li><a href="/headline/20210809/1602817.md">中国原卫生部长撰文称与病毒共存绝不可行引关注</a></li>
+<li><a href="/cbnews/20210809/1602728.md">分析：中共间谍头子背后复杂的权力交错</a></li>
+<li><a href="/finance/20210809/1602723.md">中国全面暂停欧美线货机过夜 运价将一飞冲天</a></li>
 <li><a href="/lifebaike/20210809/1602768.md">10岁童玩滑水道喷飞 从17层楼高坠下尸首分离</a></li>
+<li><a href="/comments/20210808/1602558.md">李燕铭：北戴河会期吴亦凡案被引爆 深度内幕（七） 吴亦凡背后的百亿富豪綦建虹 搭上成龙闯影视圈 如今沦为“老赖” 綦建虹牵头建立的“耀莱尊荣会”包括3000多名千万亿万级别的富豪 綦建虹儿子綦振慷微博认证为“成龙中国策划总监助理” 女儿綦美合10岁时被成龙带上了央视舞台</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210809/1602988.md" target="_blank">视频：公交车上悄悄陪伴失明女儿 母亲用心良苦 引人泪目</a></li>
 <li><a href="/cbnews/20210809/1602970.md" target="_blank">世界上最悲伤作文！大凉山小学四年级彝族小姑娘自述凄凉的生活</a></li>
 <li><a href="/comments/20210809/1602928.md" target="_blank">疫情蔓延 习在北戴河“遥控”？金牌数被美一日反超《央视》惨遭反噬；跳水女孩夺金 母亲叹：才知道有这么多亲戚【希望之声TV-每日头条-2021/8/8】</a></li>
 <li><a href="/cbnews/20210809/1602908.md" target="_blank">大陆官媒再刊文！医疗美容存安全隐患 相关部门应加强监管</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210808/1602411.md" target="_blank">天亮时分：重罚美团10亿美元，起诉腾讯，习近平下一步要干嘛？（政论天下第483集 20210807）</a></li>
 <li><a href="/cbnews/20210808/1602389.md" target="_blank">珠海妇养柴犬当街遭抢 狗肉档现残躯</a></li>
 <li><a href="/cbnews/20210808/1602369.md" target="_blank">江苏检测场所混乱拥挤 恐成新冠防疫缺口</a></li>
-<li><a href="/cbnews/20210808/1602368.md" target="_blank">面对孩子的教育，现在公务员们也着急了</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210809/1602989.md" target="_blank">奥运夺牌 不同国家都奖励些啥？…升职、送车、送房、送牛还送米</a></li>
 <li><a href="/comments/20210809/1602985.md" target="_blank">李燕铭：北戴河会议大战 习近平强化军权严防江曾政变（四） 北戴河会六重安保 习近平大军压阵 为二十大高层人事保驾护航 习调亲信野战部队负责北戴河安保 坦克部队与砲兵部队环卫北戴河 两名野战军将领接掌中央警卫局 公安部常务副部长兼特勤局长王小洪罕间陪同习近平接见政法官员</a></li>
 <li><a href="/comments/20210809/1602983.md" target="_blank">美经济学家：共产主义荼毒美国数十年</a></li>
 <li><a href="/comments/20210809/1602982.md" target="_blank">看中共对瑞士大学影响程度：一条推文让他失去博士学位</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210809/1602921.md" target="_blank">“二十大”之前：微信难逃被削弱、分拆命运</a></li>
 <li><a href="/comments/20210809/1602915.md" target="_blank">访民自曝地方政府对自己的天价“维稳”经费文件：花费208万还造假</a></li>
 <li><a href="/comments/20210809/1602914.md" target="_blank">那些“衡水中学”的毕业生 后来都怎么样了？</a></li>
-<li><a href="/comments/20210809/1602906.md" target="_blank">美教授：习近平或6年内打台湾 美国100%将介入</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
 <li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20210329/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
 
 </ul>
 </div>
