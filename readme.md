@@ -17,17 +17,17 @@
 <li><a href="/comments/20210808/1602684.md">你朋友圈里阴气森森的东京奥运是真的吗？</a></li>
 <li><a href="/headline/20210809/1602740.md">法媒：武汉，实验室传奇 中国当局一年半的掩盖</a></li>
 <li><a href="/headline/20210808/1602611.md">北京野生动物园男女游客混战厮打 动物纷纷效仿一度失控</a></li>
-<li><a href="/cnnews/20210808/1602522.md">江泽民在苏联沾花惹草 王冶坪竟然也红杏出墙</a></li>
 <li><a href="/bannedvideo/20210809/1602774.md">女观众爆料：跟打了喵的老公同房之后中招，你们有脑子你们自己想！</a></li>
 <li><a href="/lifebaike/20210808/1602538.md">心里再苦，这些事也要守口如瓶，不能告诉外人</a></li>
 <li><a href="/bannedvideo/20210808/1602594.md">网友：一女子带两个孩子去做核酸检测，排队距离近了一点，派出所警察就骂骂咧咧，女人还嘴被就地撂倒。</a></li>
 <li><a href="/baitai/20210808/1602668.md">东奥金牌冠军拱手还给美国中国上下一片叹息</a></li>
 <li><a href="/lifebaike/20210808/1602592.md">大清气数已尽：李鸿章首见机枪先问这句</a></li>
 <li><a href="/cbnews/20210809/1602717.md">中国停发新护照 评论家：限制行动自由 防控西方思想</a></li>
-<li><a href="/comments/20210808/1602520.md">突袭以色列邮轮的主谋被找到，美军释出证据，G7外长控告幕后黑手；补习涉黄！中共叫停境外外教课程【希望之声TV-每日头条-2021/8/7】</a></li>
 <li><a href="/cbnews/20210809/1602728.md">分析：中共间谍头子背后复杂的权力交错</a></li>
-<li><a href="/lifebaike/20210808/1602521.md">啤酒竟然可以这样开：盖子上原来有个小机关，小孩也能轻松打开</a></li>
 <li><a href="/finance/20210809/1602723.md">中国全面暂停欧美线货机过夜 运价将一飞冲天</a></li>
+<li><a href="/comments/20210808/1602558.md">李燕铭：北戴河会期吴亦凡案被引爆 深度内幕（七） 吴亦凡背后的百亿富豪綦建虹 搭上成龙闯影视圈 如今沦为“老赖” 綦建虹牵头建立的“耀莱尊荣会”包括3000多名千万亿万级别的富豪 綦建虹儿子綦振慷微博认证为“成龙中国策划总监助理” 女儿綦美合10岁时被成龙带上了央视舞台</a></li>
+<li><a href="/comments/20210808/1602583.md">中共的疫苗施打17亿剂仍爆疫情 专家：灭活疫苗挡不住Delta</a></li>
+<li><a href="/bannedvideo/20210808/1602536.md">8月7日，江苏扬州确诊病例中，11个病例去过同一个核酸检测点。现在又要求做全民核酸检测时保持距离了。</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210809/1602954.md" target="_blank">李燕铭：北戴河会议江泽民曾庆红另类政变 安全事故凶杀惨案密集爆发数十人死伤 北京紧急发布突发事件应急预案 上海豪华游艇起火 河北保定与浙江嘉兴发生爆炸案 沈阳接连发生爆炸与火灾 哈尔滨楼塌 广东东莞湖北宜都发生血案</a></li>
+<li><a href="/comments/20210809/1602953.md" target="_blank">【补档】丧事喜办，河南忙开庆功宴！遇难人数突升6倍，庆功宴被打断，河南官员开始爱民如子的表演。早干啥去了？│#熊猫侠</a></li>
+<li><a href="/comments/20210809/1602951.md" target="_blank">全红蝉带来“流行语”：穷人看得起病 先成奥运冠军</a></li>
 <li><a href="/comments/20210809/1602943.md" target="_blank">年初遇袭、被大公文汇狙击 天水围社区关注组 11 岁主席王继祖辞职</a></li>
 <li><a href="/comments/20210809/1602942.md" target="_blank">四川达州洪灾淹没街道 淹没房屋</a></li>
 <li><a href="/comments/20210809/1602941.md" target="_blank">不到一个月，四川达州再遇洪灾 网民：当地很多留守老人，需要救援</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210809/1602857.md" target="_blank">安徽执法人员的临门“国脚”火了</a></li>
 <li><a href="/comments/20210809/1602831.md" target="_blank">全红婵：一个只谈钱的奥运冠军</a></li>
 <li><a href="/comments/20210809/1602830.md" target="_blank">日韩有先例 打击补课有最后都失败了</a></li>
-<li><a href="/comments/20210809/1602826.md" target="_blank">歌曲“无名之辈 无所适从”献给郑州大水受难的民众</a></li>
-<li><a href="/comments/20210809/1602819.md" target="_blank">中西方军事对抗现状和发展趋势</a></li>
-<li><a href="/comments/20210809/1602813.md" target="_blank">北京野生动物园男女游客混战厮打 动物纷纷效仿一度失控 饲养员耐心教育才让动物们知道“打架不好，特别不好”</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
 <li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
 
 </ul>
 </div>
