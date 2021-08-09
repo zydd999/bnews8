@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/topimagenews/20210809/1602741.md">习近平经改推翻大山！资本市场血流成河 老谢：后座力来了</a></li>
 <li><a href="/yule/20210809/1602836.md">吴亦凡事件后圈 内大佬们的饭局被一一曝光？</a></li>
-<li><a href="/headline/20210809/1602740.md">法媒：武汉，实验室传奇 中国当局一年半的掩盖</a></li>
 <li><a href="/ssgc/20210809/1602760.md">〖兲朝浮世绘〗政府军打民兵还输掉了 奥运奖牌榜中共国被美国反超</a></li>
 <li><a href="/bannedvideo/20210809/1602774.md">女观众爆料：跟打了喵的老公同房之后中招，你们有脑子你们自己想！</a></li>
 <li><a href="/comments/20210809/1603023.md">中共为什么要重新闭关锁国？ — 曾节明</a></li>
 <li><a href="/cnnews/20210809/1602927.md">“上海这个地方太坏...少去些不正经的地方”</a></li>
 <li><a href="/comments/20210809/1603117.md">赵本山小姨子“谢大脚”突发车祸身亡 赵本山捧她12年 婚后20年至今未孕 当一辈子扶弟魔 曾演《西游记前传》里玉兔精一角</a></li>
-<li><a href="/cbnews/20210809/1603103.md">说实话了！中共严厉警告阿里巴巴：不要妄想操控一切【阿波罗网报道】</a></li>
 <li><a href="/headline/20210809/1602817.md">中国原卫生部长撰文称与病毒共存绝不可行引关注</a></li>
+<li><a href="/cbnews/20210809/1603103.md">说实话了！中共严厉警告阿里巴巴：不要妄想操控一切【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20210809/1603159.md">习近平令资本市场血流成河 传英特尔断供芯片，华为拟出售服务器业务</a></li>
 <li><a href="/comments/20210809/1602831.md">全红婵：一个只谈钱的奥运冠军</a></li>
 <li><a href="/comments/20210809/1602928.md">疫情蔓延 习在北戴河“遥控”？金牌数被美一日反超《央视》惨遭反噬；跳水女孩夺金 母亲叹：才知道有这么多亲戚【希望之声TV-每日头条-2021/8/8】</a></li>
 <li><a href="/topimagenews/20210809/1602818.md">中国猛K民间教育业 青年失业潮恐更惨</a></li>
+<li><a href="/comments/20210809/1603146.md">真的假的?天兵天将再现 难道人间将有大事发生 ？</a></li>
+<li><a href="/topimagenews/20210809/1603160.md">英国研究：便宜的胆固醇药物可使中共病毒感染率降低70%【阿波罗网编译】</a></li>
 <li><a href="/lifebaike/20210809/1602768.md">10岁童玩滑水道喷飞 从17层楼高坠下尸首分离</a></li>
 <li><a href="/bannedvideo/20210809/1602940.md">尚未感谢党的“零水花”女孩全红蝉，鲜花过后，她的未来让人担心。她的一句真心告白，让主旋律分外尴尬，也让这个体制的罪恶曝光天下。全红蝉何时可以像为乐趣而比赛？</a></li>
-<li><a href="/comments/20210809/1603146.md">真的假的?天兵天将再现 难道人间将有大事发生 ？</a></li>
 <li><a href="/finance/20210809/1602961.md">挨个来？人民日报再开炮！今天瞄准的是这个行业 【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20210809/1603160.md">英国研究：便宜的胆固醇药物可使中共病毒感染率降低70%【阿波罗网编译】</a></li>
 <li><a href="/comments/20210809/1602765.md">美众院领袖：优势证据直指武毒所 美中关系将非常紧张</a></li>
 <li><a href="/cnnews/20210809/1602947.md">毛为了同朱德一争高下 在几年当中把林彪从连长提升到军长</a></li>
+<li><a href="/cbnews/20210809/1603191.md">一根被封杀的韭菜 南京医院员工的控诉：我们每天只是为了活着而活着</a></li>
 <li><a href="/topimagenews/20210809/1602751.md">重庆发生惨烈车祸 一辆汽车急速冲上人行道 撞飞三人</a></li>
 <li><a href="/cbnews/20210809/1602844.md">被巴西金牌男足坑了 中国赞助商火大这样说</a></li>
+<li><a href="/bannedvideo/20210809/1603105.md">文睿：人民日报出重手，阿里大难临头，很多人睡不着觉了</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210810/1603361.md" target="_blank">“主张保卫台湾”古巴裔戴杜罗 美参院通过任海军部长</a></li>
 <li><a href="/cbnews/20210810/1603333.md" target="_blank">中国坚持病例“清零” 外媒：恐沦为与世隔绝孤岛</a></li>
 <li><a href="/cbnews/20210809/1603295.md" target="_blank">活在地狱吗？湖北荆州发生当街行凶案 一男子随意锤击路人</a></li>
 <li><a href="/comments/20210809/1603234.md" target="_blank">北戴河闭门谈二十大 两大路线之争浮现；潘石屹跑路遇阻?一关键问题无解【希望之声-两岸要闻-2021/08/09】</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/comments/20210809/1602826.md" target="_blank">歌曲“无名之辈 无所适从”献给郑州大水受难的民众</a></li>
 <li><a href="/cbnews/20210809/1602825.md" target="_blank">美国思想领袖：黎智英前《苹果日报》高管马克·西蒙：苹果日报关闭，香港新闻自由终结！香港曾是中国最有法治最安全的地方，从何时起一切都变了？梁振英是统战系统的成员吗？（预告片）| 大纪元</a></li>
 <li><a href="/comments/20210809/1602819.md" target="_blank">中西方军事对抗现状和发展趋势</a></li>
-<li><a href="/cbnews/20210809/1602728.md" target="_blank">分析：中共间谍头子背后复杂的权力交错</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
 <li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/ganwu/20170705/787156.md" target="_blank">感悟神韵（之四）：感悟神韵音乐</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
 
 </ul>
 </div>
