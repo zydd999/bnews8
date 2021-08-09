@@ -19,15 +19,15 @@
 <li><a href="/topimagenews/20210809/1602818.md">中国猛K民间教育业 青年失业潮恐更惨</a></li>
 <li><a href="/topimagenews/20210809/1603160.md">英国研究：便宜的胆固醇药物可使中共病毒感染率降低70%【阿波罗网编译】</a></li>
 <li><a href="/lifebaike/20210809/1602768.md">10岁童玩滑水道喷飞 从17层楼高坠下尸首分离</a></li>
-<li><a href="/comments/20210809/1603146.md">真的假的?天兵天将再现 难道人间将有大事发生 ？</a></li>
 <li><a href="/cbnews/20210809/1603191.md">一根被封杀的韭菜 南京医院员工的控诉：我们每天只是为了活着而活着</a></li>
+<li><a href="/comments/20210809/1603146.md">真的假的?天兵天将再现 难道人间将有大事发生 ？</a></li>
 <li><a href="/bannedvideo/20210809/1602940.md">尚未感谢党的“零水花”女孩全红蝉，鲜花过后，她的未来让人担心。她的一句真心告白，让主旋律分外尴尬，也让这个体制的罪恶曝光天下。全红蝉何时可以像为乐趣而比赛？</a></li>
 <li><a href="/finance/20210809/1602961.md">挨个来？人民日报再开炮！今天瞄准的是这个行业 【阿波罗网报道】</a></li>
 <li><a href="/comments/20210809/1602765.md">美众院领袖：优势证据直指武毒所 美中关系将非常紧张</a></li>
 <li><a href="/cnnews/20210809/1602947.md">毛为了同朱德一争高下 在几年当中把林彪从连长提升到军长</a></li>
 <li><a href="/cbnews/20210809/1602844.md">被巴西金牌男足坑了 中国赞助商火大这样说</a></li>
+<li><a href="/comments/20210809/1603234.md">北戴河闭门谈二十大 两大路线之争浮现；潘石屹跑路遇阻?一关键问题无解【希望之声-两岸要闻-2021/08/09】</a></li>
 <li><a href="/bannedvideo/20210809/1603105.md">文睿：人民日报出重手，阿里大难临头，很多人睡不着觉了</a></li>
-<li><a href="/cbnews/20210809/1602970.md">世界上最悲伤作文！大凉山小学四年级彝族小姑娘自述凄凉的生活</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210810/1603384.md" target="_blank">彭博：疫情或让中共落入“孤岛之上”</a></li>
 <li><a href="/comments/20210810/1603372.md" target="_blank">中共央行：中国经济成长动能面临挑战</a></li>
 <li><a href="/comments/20210810/1603369.md" target="_blank">中共监管风险上升 私募机构调整投资策略</a></li>
 <li><a href="/comments/20210810/1603368.md" target="_blank">中共网信办约谈14家视频监控APP厂商</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210809/1603178.md" target="_blank">怵目惊心！郑州4000辆泡水车“坟场”空拍照曝光</a></li>
 <li><a href="/comments/20210809/1603176.md" target="_blank">“印太”战略日渐清晰 法印澳将举行首脑级会谈</a></li>
 <li><a href="/comments/20210809/1603162.md" target="_blank">【林忌评论】奖牌榜的精神胜利法</a></li>
-<li><a href="/comments/20210809/1603158.md" target="_blank">著名中医师、英国剑桥荣大夫：夏末秋初疫情加剧如何应对</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
 <li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
 
 </ul>
 </div>
