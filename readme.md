@@ -11,23 +11,23 @@
 <li><a href="/ssgc/20210808/1602614.md">政局波诘云诡，习近平会不会让权？</a></li>
 <li><a href="/bannedvideo/20210808/1602602.md">阿里巴巴丑闻刷爆全网“灭绝师太”出马！包子闯下什么大祸？为何要如此折腾？网友奇文给答案</a></li>
 <li><a href="/topimagenews/20210809/1602711.md">阿里女员工8千血泪文曝高层性侵细节“4次带套进我房间”</a></li>
-<li><a href="/cnnews/hknews/20210808/1602480.md">前空姐亲揭工作SOP 商务舱超累却最开心</a></li>
 <li><a href="/topimagenews/20210809/1602741.md">习近平经改推翻大山！资本市场血流成河 老谢：后座力来了</a></li>
 <li><a href="/bannedvideo/20210808/1602601.md">美国情报机构截获武毒所庞大基因子据，习感到很紧张。中共建7亿男性基因库。阿里巴巴性侵案，领导玩文字游戏。中共军队改装民用渡轮，拟提高犯台两栖攻击能力。</a></li>
-<li><a href="/headline/20210809/1602740.md">法媒：武汉，实验室传奇 中国当局一年半的掩盖</a></li>
 <li><a href="/comments/20210808/1602509.md">习近平半年拿下90多名政法官员   第二轮清洗开场；习近平清洗内蒙遇挑战？布小林失位打破惯例；江峰：冷战时期一军事联盟已经成型【希望之声-红朝禁闻-2021/08/07】</a></li>
+<li><a href="/headline/20210809/1602740.md">法媒：武汉，实验室传奇 中国当局一年半的掩盖</a></li>
 <li><a href="/comments/20210808/1602684.md">你朋友圈里阴气森森的东京奥运是真的吗？</a></li>
 <li><a href="/headline/20210808/1602611.md">北京野生动物园男女游客混战厮打 动物纷纷效仿一度失控</a></li>
-<li><a href="/cnnews/20210808/1602522.md">江泽民在苏联沾花惹草 王冶坪竟然也红杏出墙</a></li>
-<li><a href="/yule/20210808/1602482.md">“潘金莲”真与“武松”结婚 47岁生活坎坷</a></li>
-<li><a href="/lifebaike/20210808/1602538.md">心里再苦，这些事也要守口如瓶，不能告诉外人</a></li>
 <li><a href="/ssgc/20210809/1602760.md">〖兲朝浮世绘〗政府军打民兵还输掉了 奥运奖牌榜中共国被美国反超</a></li>
+<li><a href="/cnnews/20210808/1602522.md">江泽民在苏联沾花惹草 王冶坪竟然也红杏出墙</a></li>
+<li><a href="/lifebaike/20210808/1602538.md">心里再苦，这些事也要守口如瓶，不能告诉外人</a></li>
 <li><a href="/bannedvideo/20210808/1602594.md">网友：一女子带两个孩子去做核酸检测，排队距离近了一点，派出所警察就骂骂咧咧，女人还嘴被就地撂倒。</a></li>
 <li><a href="/baitai/20210808/1602668.md">东奥金牌冠军拱手还给美国中国上下一片叹息</a></li>
 <li><a href="/lifebaike/20210808/1602592.md">大清气数已尽：李鸿章首见机枪先问这句</a></li>
-<li><a href="/cbnews/20210809/1602717.md">中国停发新护照 评论家：限制行动自由 防控西方思想</a></li>
 <li><a href="/comments/20210808/1602489.md">新疆不稳？军头换人汪海江中将接过烫手山芋美情报获大量武汉基因子据急需解密【希望之声-每日头条-2021/8/7】</a></li>
+<li><a href="/cbnews/20210809/1602717.md">中国停发新护照 评论家：限制行动自由 防控西方思想</a></li>
 <li><a href="/comments/20210808/1602520.md">突袭以色列邮轮的主谋被找到，美军释出证据，G7外长控告幕后黑手；补习涉黄！中共叫停境外外教课程【希望之声TV-每日头条-2021/8/7】</a></li>
+<li><a href="/lifebaike/20210808/1602521.md">啤酒竟然可以这样开：盖子上原来有个小机关，小孩也能轻松打开</a></li>
+<li><a href="/comments/20210808/1602558.md">李燕铭：北戴河会期吴亦凡案被引爆 深度内幕（七） 吴亦凡背后的百亿富豪綦建虹 搭上成龙闯影视圈 如今沦为“老赖” 綦建虹牵头建立的“耀莱尊荣会”包括3000多名千万亿万级别的富豪 綦建虹儿子綦振慷微博认证为“成龙中国策划总监助理” 女儿綦美合10岁时被成龙带上了央视舞台</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210809/1602926.md" target="_blank">【微博精粹】奥运落幕 美帝登顶 大国罪人榜出炉</a></li>
+<li><a href="/comments/20210809/1602925.md" target="_blank">今天 最无底线的残忍酷刑和虐杀</a></li>
 <li><a href="/comments/20210809/1602922.md" target="_blank">曼谷逾千反政府示威者与警察发生冲突</a></li>
 <li><a href="/comments/20210809/1602921.md" target="_blank">“二十大”之前：微信难逃被削弱、分拆命运</a></li>
 <li><a href="/comments/20210809/1602915.md" target="_blank">访民自曝地方政府对自己的天价“维稳”经费文件：花费208万还造假</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210809/1602808.md" target="_blank">新世纪影视基地电影：《为你而来》根据一个影响了一亿人的真实故事改编</a></li>
 <li><a href="/comments/20210809/1602807.md" target="_blank">【生活美学】《十二节气：立秋》</a></li>
 <li><a href="/comments/20210809/1602806.md" target="_blank">【民间故事】: 无声</a></li>
-<li><a href="/comments/20210809/1602805.md" target="_blank">《秋 思》——作者：柯树</a></li>
-<li><a href="/comments/20210809/1602803.md" target="_blank">李么傻: 中国的学校教育就是傻子教育</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
 <li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
-<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
-<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
 
 </ul>
 </div>
