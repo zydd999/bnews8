@@ -16,8 +16,8 @@
 <li><a href="/cnnews/20210810/1603392.md">河北17岁少年跳海救3女不幸溺毙 她们事后反讥：求他救了？</a></li>
 <li><a href="/topimagenews/20210810/1603766.md">江苏扬州封城 居民集体喊楼 声音如鬼 凄厉尖叫</a></li>
 <li><a href="/cbnews/20210810/1603414.md">文昭：张文宏「与病毒共存」被批判！路线斗争来了，人祸还远吗？「砸」与「割」：工具决定思维</a></li>
-<li><a href="/baitai/20210810/1603787.md">闭幕了才发现几亿人追了一场假奥运</a></li>
 <li><a href="/topimagenews/20210810/1603756.md">为了钱 造反了！江泽民派系媒体大战习近平手下喉舌 【阿波罗网报道】</a></li>
+<li><a href="/baitai/20210810/1603787.md">闭幕了才发现几亿人追了一场假奥运</a></li>
 <li><a href="/bannedvideo/20210810/1603843.md">内乱！包子老底被揭，军方拒开战！外交部继续点火，支持塔利班反对韩美军演……</a></li>
 <li><a href="/bannedvideo/20210810/1603676.md">90天不到，三枚重磅弹扔出！美国拿到中共病毒基因库，来自投诚高官？共和党病毒溯源报告，关键人物包含美国专家。｜薇羽看世间 第350期 20210809</a></li>
 <li><a href="/topimagenews/20210810/1603757.md">江苏苏州封城 一位母亲哭诉：“没有菜吃 孩子快饿死了！”</a></li>
@@ -26,8 +26,8 @@
 <li><a href="/lifebaike/20210810/1603726.md">越穷的人，越喜欢在朋友圈发这3种动态，希望你没有</a></li>
 <li><a href="/baitai/20210810/1603387.md">以苍生之名的胡搞——习近平对大型民营企业的连番整肃</a></li>
 <li><a href="/yule/20210810/1603522.md">剧组求偿7760万 吴亦凡被关9天疑秘密脱产</a></li>
-<li><a href="/comments/20210810/1603492.md">闭关锁国前奏？习近平思想取代英文；央媒轮番敲打各行业，地方官媒罕见怒批；奥运金牌榜折射出什么样的政治环境？</a></li>
 <li><a href="/comments/20210810/1603845.md">中共三家智库发文谩骂美国八个“第一”！北戴河密会近尾声；习明泽个资案 政法系内部文件曝光【希望之声-两岸要闻-2021/08/10】</a></li>
+<li><a href="/comments/20210810/1603492.md">闭关锁国前奏？习近平思想取代英文；央媒轮番敲打各行业，地方官媒罕见怒批；奥运金牌榜折射出什么样的政治环境？</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210811/1604043.md" target="_blank">深圳二手房四连跌 有中介5个月没开单</a></li>
+<li><a href="/comments/20210811/1604042.md" target="_blank">中共洗脑大师赴美演讲遭遇史学名家提问 如何收场？</a></li>
 <li><a href="/comments/20210811/1604032.md" target="_blank">赴台设办事处 中共威胁撤大使 立陶宛淡定回应；美韩军演登场 中共糟心 金正恩不爽；寒心！17岁少年舍身救3女子 竟然…；吓唬谁？藏区活动搬出五党魁被喷【希望之声TV-环球看点-2021/8/10】</a></li>
 <li><a href="/comments/20210811/1604013.md" target="_blank">【教协解散】中学校长：教协勇于表达政策意见 促进多角度思考 对解散感可惜</a></li>
 <li><a href="/comments/20210811/1604012.md" target="_blank">【教协解散】曾靠教协、《苹果》支付药费 获“司徒华奖”红斑狼疮症少女：讲真相的机构都消失</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210810/1603877.md" target="_blank">评论 | 王丹：关于郑州水灾的十个问题（下）</a></li>
 <li><a href="/comments/20210810/1603875.md" target="_blank">【教协解散】会所超市排长龙 退休大学讲师：咁中肯都要死，香港冇㗎喇</a></li>
 <li><a href="/comments/20210810/1603873.md" target="_blank">【教协解散】5 月杨润雄态度仍温和 上月底官媒轰“必须铲除” 仅 11 天后教协宣布解散</a></li>
-<li><a href="/comments/20210810/1603859.md" target="_blank">无惧中共召回大使 立陶宛：与台湾发展互利关系</a></li>
-<li><a href="/comments/20210810/1603848.md" target="_blank">日男星染疫病情恶化 妻惊「肺部发白」</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
 <li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
 <li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
 
 </ul>
 </div>
