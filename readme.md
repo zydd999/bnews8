@@ -19,15 +19,15 @@
 <li><a href="/cbnews/20210810/1603414.md">文昭：张文宏「与病毒共存」被批判！路线斗争来了，人祸还远吗？「砸」与「割」：工具决定思维</a></li>
 <li><a href="/baitai/20210810/1603532.md">习蠢货把中国人民推向了敌对面</a></li>
 <li><a href="/baitai/20210810/1603387.md">以苍生之名的胡搞——习近平对大型民营企业的连番整肃</a></li>
-<li><a href="/cnnews/20210810/1603442.md">追认全红婵为26氏孙！只有光宗耀祖才是一家人？</a></li>
 <li><a href="/comments/20210810/1603492.md">闭关锁国前奏？习近平思想取代英文；央媒轮番敲打各行业，地方官媒罕见怒批；奥运金牌榜折射出什么样的政治环境？</a></li>
+<li><a href="/cbnews/20210810/1603663.md">重磅！曾庆红泄露习近平绝密军事情报【阿波罗网报道】</a></li>
+<li><a href="/cnnews/20210810/1603442.md">追认全红婵为26氏孙！只有光宗耀祖才是一家人？</a></li>
 <li><a href="/comments/20210810/1603504.md">洪博学：中国铁幕已经落下 最大危机已到来</a></li>
 <li><a href="/cbnews/20210810/1603333.md">中国坚持病例“清零” 外媒：恐沦为与世隔绝孤岛</a></li>
 <li><a href="/yule/20210810/1603522.md">剧组求偿7760万 吴亦凡被关9天疑秘密脱产</a></li>
 <li><a href="/cbnews/20210810/1603391.md">关注！四川暴雨场景有如郑州水灾重演</a></li>
 <li><a href="/bannedvideo/20210810/1603380.md">澳大利亚：民主世界正在摒弃中国！</a></li>
-<li><a href="/cnnews/20210810/1603464.md">一个美籍华人的自述：从美国回中国有多难</a></li>
-<li><a href="/finance/20210810/1603400.md">潘石屹遭遇晴天霹雳 卖房遭审查有3个想不到</a></li>
+<li><a href="/comments/20210810/1603655.md">拜登出钱，中共高层有人要暗杀习近平 — 曾节明</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210810/1603802.md" target="_blank">李燕铭：习近平出手清洗李长春刘云山王沪宁文宣系统（一） 北戴河会议敏感期 习近平剑指前常委李长春 文化央企华录集团总经理张黎明与女董秘翟智群同时被查 华录集团与江泽民李长春薄熙来深度关联内幕揭秘 华录集团官网大事记重大异常暗藏政治猫腻</a></li>
+<li><a href="/comments/20210810/1603794.md" target="_blank">拜登贺日本成功举办东奥 重申同抗中共对印太区域威胁</a></li>
+<li><a href="/comments/20210810/1603793.md" target="_blank">法国健康通行证扩大实施至11月 不承认中俄疫苗</a></li>
 <li><a href="/comments/20210810/1603790.md" target="_blank">小粉红失控 中共官方也受不了了</a></li>
 <li><a href="/comments/20210810/1603777.md" target="_blank">【小说连载】七海归途之雪伦公主（61）</a></li>
 <li><a href="/comments/20210810/1603776.md" target="_blank">《环时》：美驻港总领事馆以营商风险增加为由 促美企撤出香港</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
 <li><a href="/comments/20210810/1603674.md" target="_blank">忧南部边境危机 美20议员批评左翼开放边境政策</a></li>
 <li><a href="/comments/20210810/1603673.md" target="_blank">Delta变种攻击「年轻人心脏」，恐引严重并发症</a></li>
-<li><a href="/comments/20210810/1603655.md" target="_blank">拜登出钱，中共高层有人要暗杀习近平 — 曾节明</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/comments/20210810/1603665.md" target="_blank">德国政要吁联合美国 抗衡中共影响力</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
+<li><a href="/comments/20210329/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
 <li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
 <li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
 
 </ul>
 </div>
