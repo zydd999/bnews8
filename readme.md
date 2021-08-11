@@ -7,20 +7,19 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cbnews/20210810/1603663.md">重磅！曾庆红泄露习近平绝密军事情报【阿波罗网报道】</a></li>
 <li><a href="/comments/20210810/1603655.md">拜登出钱，中共高层有人要暗杀习近平 — 曾节明</a></li>
-<li><a href="/baitai/20210810/1603532.md">习蠢货把中国人民推向了敌对面</a></li>
 <li><a href="/topimagenews/20210810/1603766.md">江苏扬州封城 居民集体喊楼 声音如鬼 凄厉尖叫</a></li>
 <li><a href="/baitai/20210810/1603787.md">闭幕了才发现几亿人追了一场假奥运</a></li>
 <li><a href="/topimagenews/20210810/1603756.md">为了钱 造反了！江泽民派系媒体大战习近平手下喉舌 【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20210810/1603843.md">内乱！包子老底被揭，军方拒开战！外交部继续点火，支持塔利班反对韩美军演……</a></li>
-<li><a href="/bannedvideo/20210810/1603891.md">中共自乱阵脚，党媒突然批判张文宏，并向钟南山开火！</a></li>
 <li><a href="/bannedvideo/20210810/1603676.md">90天不到，三枚重磅弹扔出！美国拿到中共病毒基因库，来自投诚高官？共和党病毒溯源报告，关键人物包含美国专家。｜薇羽看世间 第350期 20210809</a></li>
+<li><a href="/bannedvideo/20210810/1603891.md">中共自乱阵脚，党媒突然批判张文宏，并向钟南山开火！</a></li>
 <li><a href="/topimagenews/20210810/1603757.md">江苏苏州封城 一位母亲哭诉：“没有菜吃 孩子快饿死了！”</a></li>
 <li><a href="/comments/20210810/1603790.md">小粉红失控 中共官方也受不了了</a></li>
 <li><a href="/lifebaike/20210810/1603726.md">越穷的人，越喜欢在朋友圈发这3种动态，希望你没有</a></li>
 <li><a href="/comments/20210810/1603845.md">中共三家智库发文谩骂美国八个“第一”！北戴河密会近尾声；习明泽个资案 政法系内部文件曝光【希望之声-两岸要闻-2021/08/10】</a></li>
 <li><a href="/cbnews/20210811/1604033.md">大爷虎园淡定玩手机 老虎凑近看 赏一巴掌推开</a></li>
-<li><a href="/bannedvideo/20210810/1603869.md">全红蝉跳水夺冠，是中共的大凶之兆！</a></li>
 <li><a href="/bannedvideo/20210811/1604087.md">薄熙来与周永康、令计划、孙政才狱中服刑细节最近被曝光： 周永康狱中拥专属菜园；薄熙来不停翻案；令计划疯了； 孙政才玩游戏《王着荣耀》手机被没收后痛哭</a></li>
+<li><a href="/bannedvideo/20210810/1603869.md">全红蝉跳水夺冠，是中共的大凶之兆！</a></li>
 <li><a href="/bannedvideo/20210811/1604020.md">《南华早报》爆料：中共国防部拒绝打仗 告诉习近平他们不会为外交部四处树敌的“战狼”言论负责</a></li>
 <li><a href="/baitai/20210810/1603761.md">叶檀，你好大的口气</a></li>
 <li><a href="/comments/20210810/1603563.md">【微博精粹】比病毒更恐怖的来了</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/bannedvideo/20210810/1603640.md">突然洗白！超生游击队员全红婵夺冠救母，党全眼红眼馋紧急宣布：超生救国救全社会</a></li>
 <li><a href="/lifebaike/20210810/1603810.md">500多人被美拒签，却有3万多人拿到签证</a></li>
 <li><a href="/headline/20210810/1603686.md">加拿大：中国维持对加公民“残忍”死刑判决与孟晚舟案正式开审并非巧合</a></li>
+<li><a href="/cnnews/20210810/1603856.md">最新研究：抗Delta有效性 莫德纳和辉瑞大不同</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,13 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210811/1604251.md" target="_blank">大陆明星号召同绣一面党旗，刚绣完就去见马克思了。可悲可叹。│#熊猫侠</a></li>
+<li><a href="/comments/20210811/1604235.md" target="_blank">环境高级研究员：美国西部野火的罪魁祸首</a></li>
+<li><a href="/comments/20210811/1604234.md" target="_blank">两大党媒发声：张文宏怎么就成了投降派</a></li>
+<li><a href="/comments/20210811/1604233.md" target="_blank">日本选手伊藤美诚受”阴间教育”长大？看观察者网怎么说</a></li>
+<li><a href="/comments/20210811/1604231.md" target="_blank">诗歌篇：《七绝 法缘救母》《七绝 冠军医母》——钟宏</a></li>
+<li><a href="/comments/20210811/1604228.md" target="_blank">【戈壁东专栏】时事篇：国防部怼战狼部，联军兵临城下，中共军队吓坏了</a></li>
+<li><a href="/comments/20210811/1604227.md" target="_blank">深陷性骚扰丑闻 纽约州长库默宣布辞职</a></li>
 <li><a href="/comments/20210811/1604217.md" target="_blank">美作家：各国要因瘟疫惩罚中共 抵制冬奥不解决问题</a></li>
 <li><a href="/comments/20210811/1604201.md" target="_blank">孙立平：是否投降：这也许是个技术性问题</a></li>
 <li><a href="/comments/20210811/1604165.md" target="_blank">【戈壁东专栏】时事篇：病毒调查报告出炉 中共反人类罪浮出水面</a></li>
@@ -116,13 +123,6 @@
 <li><a href="/comments/20210811/1604090.md" target="_blank">容易发胖的习惯，你占了几个？</a></li>
 <li><a href="/comments/20210811/1604075.md" target="_blank">中国至美国东海岸运费暴涨500%</a></li>
 <li><a href="/comments/20210811/1604070.md" target="_blank">十字路口：东京奥运落幕 谁是最大输家？</a></li>
-<li><a href="/comments/20210811/1604065.md" target="_blank">白色恐怖笼罩香江！香港教师工会宣布解散：承受巨大压力</a></li>
-<li><a href="/comments/20210811/1604063.md" target="_blank">西班牙9月开学的Covid计划 学生全面重返校园</a></li>
-<li><a href="/comments/20210811/1604061.md" target="_blank">推行国内疫苗护照？加拿大各省众说纷纭</a></li>
-<li><a href="/comments/20210811/1604054.md" target="_blank">华尔街大型银行大幅加薪 招揽年轻人才</a></li>
-<li><a href="/comments/20210811/1604052.md" target="_blank">中共法院维持对加拿大人死刑判决 欧盟呼吁赦免</a></li>
-<li><a href="/comments/20210811/1604043.md" target="_blank">深圳二手房四连跌 有中介5个月没开单</a></li>
-<li><a href="/comments/20210811/1604042.md" target="_blank">中共洗脑大师赴美演讲遭遇史学名家提问 如何收场？</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
 <li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
 
 </ul>
 </div>
