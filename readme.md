@@ -14,10 +14,10 @@
 <li><a href="/topimagenews/20210812/1604730.md">收不到房租！抓狂老房东枪杀2女租客 9枪把男租客轰到命危</a></li>
 <li><a href="/baitai/20210812/1604876.md">张文宏医生危唉</a></li>
 <li><a href="/comments/20210812/1605050.md">李燕铭：北戴河会期习近平遭遇高级黑逼宫“劝退”让权李克强：X总不要碰实战，应聚焦与L的沟通交流…… 信息量超大 原文被速删</a></li>
-<li><a href="/headline/20210812/1605078.md">北戴河会议结束后发首份文件 学者研判习近平将续任五年</a></li>
 <li><a href="/cnnews/20210812/1604784.md">神秘的赊刀人又出现了：“明年活着就给钱，没了就没了”</a></li>
-<li><a href="/cbnews/20210812/1604935.md">泄密了！央视介绍“歼10”清洁“不能拿水直接冲” 网民：下雨天不能飞？</a></li>
+<li><a href="/headline/20210812/1605078.md">北戴河会议结束后发首份文件 学者研判习近平将续任五年</a></li>
 <li><a href="/cbnews/20210812/1604960.md">武统台湾没可能？专家：习近平因这“2因素”不敢出兵…</a></li>
+<li><a href="/cbnews/20210812/1604935.md">泄密了！央视介绍“歼10”清洁“不能拿水直接冲” 网民：下雨天不能飞？</a></li>
 <li><a href="/cbnews/20210812/1604934.md">孟晚舟被指骗汇丰“就是诈欺”加拿大：符合引渡</a></li>
 <li><a href="/bannedvideo/20210812/1604815.md">内斗激烈，北戴河暗战正酣？震撼画面曝光！美洲际导弹远程击中目标；甩锅毒源，中共虚构专家遭踢爆；管得宽！北京将建卡拉OK黑名单；Android新木马藏身免费App【 #晚间新闻 】</a></li>
 <li><a href="/cnnews/20210812/1604718.md">八十年代家喻户晓的三个中国天才神童 现状如何？</a></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210813/1605360.md" target="_blank">抗衡中共，日本呼吁让这个国家来做堂主</a></li>
 <li><a href="/cbnews/20210813/1605350.md" target="_blank">6个月儿“从不用换尿布”她突袭保母家 一看“机关”傻了</a></li>
 <li><a href="/cbnews/20210813/1605349.md" target="_blank">贵州国台酒业前女职员遭男同事性侵 公司曾劝撤案</a></li>
 <li><a href="/comments/20210813/1605287.md" target="_blank">中南海酣斗下 新大使要见美副国务卿 扮演战狼还是熊猫？机关算尽？孟晚舟被指欺诈  加检方：符合引渡标准；中共撤大使？议员:半年后就悄悄回来【希望之声TV-环球看点-2021/8/12】</a></li>
@@ -60,13 +61,13 @@
 <li><a href="/comments/20210812/1604767.md" target="_blank">连续重判加国公民得到了啥？一日一锤 换行业砸 中共到底要干啥？【希望之声TV-新闻焦点解读-2021/08/11】主持:高洁  嘉宾：秦鹏</a></li>
 <li><a href="/comments/20210812/1604766.md" target="_blank">刚通过1万亿基建法案后，美国参议院两党经过约14小时激烈争论，以50:49的微弱优势又通过3.5万亿预算开支计划【希望之声TV-每日头条-2021/8/11】</a></li>
 <li><a href="/comments/20210812/1604748.md" target="_blank">丢车保帅，库默倒台背后民主党的算计！打脸，中共假冒瑞士专家，转眼被瑞士打假！回来就抓，德州民主党起义军回不了家了！命是自己的，于月仙之死的警示！结尾有惊喜！【新闻最嘲点姜光宇】(2021.0811）‬</a></li>
-<li><a href="/cbnews/20210812/1604746.md" target="_blank">北京高中生参加沙漠探险身亡 随队无医护或卫星电话</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20210813/1605359.md" target="_blank">湖北柳林发生严重水灾 妻子留诀别短信 网友泪奔</a></li>
 <li><a href="/topimagenews/20210813/1605333.md" target="_blank">金融中心有隐忧！上海正受Delta变种病毒挑战</a></li>
 <li><a href="/topimagenews/20210813/1605289.md" target="_blank">顶辆“超跑”在头上！F-35头盔要价40万美金 发福变胖更换发型都不行</a></li>
 <li><a href="/topimagenews/20210812/1605020.md" target="_blank">中国人为抢生意互害 一黑车司机刀捅另一黑车司机 残忍的内卷</a></li>
@@ -91,13 +92,13 @@
 <li><a href="/topimagenews/20210809/1602818.md" target="_blank">中国猛K民间教育业 青年失业潮恐更惨</a></li>
 <li><a href="/topimagenews/20210809/1602751.md" target="_blank">重庆发生惨烈车祸 一辆汽车急速冲上人行道 撞飞三人</a></li>
 <li><a href="/topimagenews/20210809/1602741.md" target="_blank">习近平经改推翻大山！资本市场血流成河 老谢：后座力来了</a></li>
-<li><a href="/topimagenews/20210809/1602711.md" target="_blank">阿里女员工8千血泪文曝高层性侵细节“4次带套进我房间”</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210813/1605355.md" target="_blank">美学者：应像制裁华为那样封杀中企涂鸦智能</a></li>
 <li><a href="/comments/20210813/1605348.md" target="_blank">奇石告诉人们的故事</a></li>
 <li><a href="/comments/20210813/1605347.md" target="_blank">健康养生：三大基本点</a></li>
 <li><a href="/comments/20210813/1605341.md" target="_blank">习近平布局二十大政治局人选 习闽江新军魏小东接掌北京政协 正部级团派高官被贬 传北京市长陈吉宁南下任省委书记 广东省长马兴瑞进京任市长 中南海谣言预言_498</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210812/1605207.md" target="_blank">外星文明环境遐想篇</a></li>
 <li><a href="/comments/20210812/1605206.md" target="_blank">韩天团男偶像背9宗罪 临退役前被判入狱</a></li>
 <li><a href="/comments/20210812/1605205.md" target="_blank">国界线穿房而过 世界上最美、最独特的边界在哪里？</a></li>
-<li><a href="/comments/20210812/1605204.md" target="_blank">时事大家谈：连判两加拿大人，北京“人质外交”换得回孟晚舟吗？</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
 <li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/comments/20210612/1565472.md" target="_blank">感悟神韵（之二）：感悟神韵的艺术风格</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
 
 </ul>
 </div>
