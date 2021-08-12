@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/cbnews/20210811/1604383.md">中国打过疫苗的人 得白血病的知多少？</a></li>
 <li><a href="/topimagenews/20210811/1604455.md">打脸中共政府！郑州死亡隧道报废车数量被泄露！【阿波罗网报道】</a></li>
 <li><a href="/yule/20210811/1604442.md">吴亦凡翻车 受害最深居然是著名演员盖丽丽</a></li>
 <li><a href="/cnnews/20210811/1604559.md">习近平手握底牌 时局不利被迫主动出击</a></li>
 <li><a href="/headline/20210811/1604430.md">传中共军方“拒绝打仗” 告诉习近平：不愿为战狼树敌负责</a></li>
 <li><a href="/cnnews/20210811/1604403.md">聚焦20大：分析看好胡春华丁薛祥入常</a></li>
 <li><a href="/yule/20210812/1604722.md">吴亦凡海外酒局细节曝光 圈内人发声：他是倒霉</a></li>
-<li><a href="/cnnews/20210812/1604786.md">这个行业被禁令毁了：从年薪60万到"毕业即失业"</a></li>
 <li><a href="/topimagenews/20210812/1604636.md">成都市新津县一学生遭不良少年霸凌 愤怒的人们包围派出所</a></li>
+<li><a href="/cnnews/20210812/1604786.md">这个行业被禁令毁了：从年薪60万到"毕业即失业"</a></li>
 <li><a href="/baitai/20210812/1604681.md">小晖执笔｜刚刚，关于昨晚的瑞士那事，正在爆出更多内幕</a></li>
 <li><a href="/topimagenews/20210812/1604730.md">收不到房租！抓狂老房东枪杀2女租客 9枪把男租客轰到命危</a></li>
 <li><a href="/bannedvideo/20210811/1604406.md">文睿：我不信中共还能挺过去，到处都是临爆状态，这次真的不一样了</a></li>
 <li><a href="/cnnews/20210812/1604719.md">11年前执意嫁给黑人拳王的香港女孩 后来怎样了？</a></li>
 <li><a href="/comments/20210811/1604588.md">北京频频自残 中国大门真的要关了</a></li>
+<li><a href="/cnnews/20210812/1604949.md">福建女友把登山照分享给男友，放大仔细看后，吓得冷汗直流</a></li>
 <li><a href="/comments/20210811/1604443.md">“51区”资深科学家爆料！外星人入籍美国与军方合作；490岁的金星人为美国政府工作，曾与艾森豪和尼克森总统见面； 多名美国科学家透露的外星人秘密，颠覆你的认知！</a></li>
 <li><a href="/comments/20210811/1604419.md">“清零”代价高 习近平如何选择？华尔街清醒了？【希望之声-午夜新闻-2021/08/10】</a></li>
 <li><a href="/lifebaike/20210811/1604400.md">人生，越是高明的人，越懂得这两条天机，福气自来</a></li>
-<li><a href="/cnnews/20210812/1604949.md">福建女友把登山照分享给男友，放大仔细看后，吓得冷汗直流</a></li>
-<li><a href="/cnnews/20210812/1604784.md">神秘的赊刀人又出现了：“明年活着就给钱，没了就没了”</a></li>
 <li><a href="/bannedvideo/20210812/1604815.md">内斗激烈，北戴河暗战正酣？震撼画面曝光！美洲际导弹远程击中目标；甩锅毒源，中共虚构专家遭踢爆；管得宽！北京将建卡拉OK黑名单；Android新木马藏身免费App【 #晚间新闻 】</a></li>
 <li><a href="/aomi/supernatural/20210811/1604393.md">为什么这些“密接者”不染疫？</a></li>
+<li><a href="/cnnews/20210812/1604784.md">神秘的赊刀人又出现了：“明年活着就给钱，没了就没了”</a></li>
 <li><a href="/bannedvideo/20210811/1604431.md">上海宝山区绿叶菜巿场，二村里有确诊病历的人进入买菜，菜市场被封，所有人不能离开菜市场</a></li>
 <li><a href="/cnnews/20210812/1604718.md">八十年代家喻户晓的三个中国天才神童 现状如何？</a></li>
+<li><a href="/baitai/20210812/1604876.md">张文宏医生危唉</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210812/1605023.md" target="_blank">社民连支联会游行至中联办 声援被打压内地维权人士</a></li>
 <li><a href="/comments/20210812/1604995.md" target="_blank">习近平紧盯马云商业帝国 全球资管巨头贝莱德大幅抛售阿里巴巴 软银集团暂停投资中国 软银中国资本发声明对抗软银集团 但随即删除声明 日媒：分散中国风险已成为软银集团当务之急</a></li>
 <li><a href="/comments/20210812/1604989.md" target="_blank">“一带一路”遭679项人权指控 习近平一愿望泡汤；澳智库：台湾存亡攸关澳洲安危【希望之声-午夜新闻-2021/08/11】</a></li>
 <li><a href="/comments/20210812/1604964.md" target="_blank">加国反对党领袖：运动员去中国风险太高 应考虑抵制冬奥</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210812/1604885.md" target="_blank">小晖：瑞士那个不存在的专家那事 网友深挖爆出更多内幕</a></li>
 <li><a href="/comments/20210812/1604884.md" target="_blank">【网络民议】一位不存在的瑞士专家发帖怒斥美国“溯源恐怖主义”</a></li>
 <li><a href="/comments/20210812/1604821.md" target="_blank">张宇韶： 全红婵的故事 拆穿习近平建党百年的谎言</a></li>
-<li><a href="/comments/20210812/1604818.md" target="_blank">编造瑞士专家被打脸！中共对“病毒溯源”有多恐惧? 加拿大商人被判刑11年，谁还敢来北京奥运？</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
 <li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
 
 </ul>
 </div>
