@@ -7,27 +7,27 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/yule/20210812/1604722.md">吴亦凡海外酒局细节曝光 圈内人发声：他是倒霉</a></li>
 <li><a href="/baitai/20210812/1604681.md">小晖执笔｜刚刚，关于昨晚的瑞士那事，正在爆出更多内幕</a></li>
+<li><a href="/cnnews/20210812/1604786.md">这个行业被禁令毁了：从年薪60万到"毕业即失业"</a></li>
 <li><a href="/cnnews/20210812/1604949.md">福建女友把登山照分享给男友，放大仔细看后，吓得冷汗直流</a></li>
 <li><a href="/topimagenews/20210812/1604636.md">成都市新津县一学生遭不良少年霸凌 愤怒的人们包围派出所</a></li>
-<li><a href="/cnnews/20210812/1604786.md">这个行业被禁令毁了：从年薪60万到"毕业即失业"</a></li>
 <li><a href="/topimagenews/20210812/1604972.md">中共高铁电磁王杀人于无形 站台不能撑伞 工作人员爆料：徐州一次电死4人</a></li>
 <li><a href="/topimagenews/20210812/1604730.md">收不到房租！抓狂老房东枪杀2女租客 9枪把男租客轰到命危</a></li>
 <li><a href="/cnnews/20210812/1604719.md">11年前执意嫁给黑人拳王的香港女孩 后来怎样了？</a></li>
 <li><a href="/bannedvideo/20210812/1604952.md">8月9日傍晚，网传燕郊东贸国际大批人员急忙奔逃，有网民怀疑商场内有确诊病例。当局辟谣无确诊病例</a></li>
-<li><a href="/cnnews/20210812/1604784.md">神秘的赊刀人又出现了：“明年活着就给钱，没了就没了”</a></li>
-<li><a href="/baitai/20210812/1604876.md">张文宏医生危唉</a></li>
 <li><a href="/comments/20210812/1605050.md">李燕铭：北戴河会期习近平遭遇高级黑逼宫“劝退”让权李克强：X总不要碰实战，应聚焦与L的沟通交流…… 信息量超大 原文被速删</a></li>
-<li><a href="/cbnews/20210812/1604960.md">武统台湾没可能？专家：习近平因这“2因素”不敢出兵…</a></li>
+<li><a href="/baitai/20210812/1604876.md">张文宏医生危唉</a></li>
+<li><a href="/cnnews/20210812/1604784.md">神秘的赊刀人又出现了：“明年活着就给钱，没了就没了”</a></li>
 <li><a href="/cbnews/20210812/1604935.md">泄密了！央视介绍“歼10”清洁“不能拿水直接冲” 网民：下雨天不能飞？</a></li>
+<li><a href="/cbnews/20210812/1604960.md">武统台湾没可能？专家：习近平因这“2因素”不敢出兵…</a></li>
 <li><a href="/bannedvideo/20210812/1604815.md">内斗激烈，北戴河暗战正酣？震撼画面曝光！美洲际导弹远程击中目标；甩锅毒源，中共虚构专家遭踢爆；管得宽！北京将建卡拉OK黑名单；Android新木马藏身免费App【 #晚间新闻 】</a></li>
 <li><a href="/cbnews/20210812/1604934.md">孟晚舟被指骗汇丰“就是诈欺”加拿大：符合引渡</a></li>
 <li><a href="/cnnews/20210812/1604718.md">八十年代家喻户晓的三个中国天才神童 现状如何？</a></li>
-<li><a href="/worldnews/20210812/1604883.md">俄罗斯所有机场取消英文全使用中文?真相来了</a></li>
-<li><a href="/cbnews/20210812/1604965.md">习近平绝密军情为何神秘消失？“高层警告”后 大外宣大唱对台戏【阿波罗网报道】</a></li>
-<li><a href="/worldnews/20210811/1604610.md">Delta搅局 牛津疫苗学家：这事没戏了…</a></li>
 <li><a href="/finance/20210812/1605030.md">惊人贪腐！涉案30亿元 远超赖小民加赵正永！“拿数亿元行贿某一高官”【阿波罗网报道】</a></li>
 <li><a href="/headline/20210812/1605078.md">北戴河会议结束后发首份文件 学者研判习近平将续任五年</a></li>
+<li><a href="/cbnews/20210812/1604965.md">习近平绝密军情为何神秘消失？“高层警告”后 大外宣大唱对台戏【阿波罗网报道】</a></li>
+<li><a href="/worldnews/20210812/1604883.md">俄罗斯所有机场取消英文全使用中文?真相来了</a></li>
 <li><a href="/ssgc/20210812/1604794.md">〖兲朝浮世绘〗无论如何也得赖到美国头上去</a></li>
+<li><a href="/cnnews/20210812/1604687.md">“华尔街老将”警告：这是我职业生涯里见过的最大泡沫</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
 <li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20210611/1564824.md" target="_blank">【曾铮专栏】感悟神韵（之一）神韵的主旨</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
 <li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
 
 </ul>
 </div>
