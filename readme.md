@@ -8,26 +8,26 @@
 <li><a href="/topimagenews/20210811/1604455.md">打脸中共政府！郑州死亡隧道报废车数量被泄露！【阿波罗网报道】</a></li>
 <li><a href="/yule/20210811/1604442.md">吴亦凡翻车 受害最深居然是著名演员盖丽丽</a></li>
 <li><a href="/cnnews/20210811/1604559.md">习近平手握底牌 时局不利被迫主动出击</a></li>
-<li><a href="/headline/20210811/1604430.md">传中共军方“拒绝打仗” 告诉习近平：不愿为战狼树敌负责</a></li>
 <li><a href="/yule/20210812/1604722.md">吴亦凡海外酒局细节曝光 圈内人发声：他是倒霉</a></li>
+<li><a href="/cnnews/20210812/1604949.md">福建女友把登山照分享给男友，放大仔细看后，吓得冷汗直流</a></li>
 <li><a href="/topimagenews/20210812/1604636.md">成都市新津县一学生遭不良少年霸凌 愤怒的人们包围派出所</a></li>
 <li><a href="/cnnews/20210812/1604786.md">这个行业被禁令毁了：从年薪60万到"毕业即失业"</a></li>
-<li><a href="/cnnews/20210812/1604949.md">福建女友把登山照分享给男友，放大仔细看后，吓得冷汗直流</a></li>
 <li><a href="/baitai/20210812/1604681.md">小晖执笔｜刚刚，关于昨晚的瑞士那事，正在爆出更多内幕</a></li>
 <li><a href="/comments/20210811/1604588.md">北京频频自残 中国大门真的要关了</a></li>
 <li><a href="/topimagenews/20210812/1604730.md">收不到房租！抓狂老房东枪杀2女租客 9枪把男租客轰到命危</a></li>
 <li><a href="/cnnews/20210812/1604719.md">11年前执意嫁给黑人拳王的香港女孩 后来怎样了？</a></li>
 <li><a href="/comments/20210811/1604443.md">“51区”资深科学家爆料！外星人入籍美国与军方合作；490岁的金星人为美国政府工作，曾与艾森豪和尼克森总统见面； 多名美国科学家透露的外星人秘密，颠覆你的认知！</a></li>
-<li><a href="/bannedvideo/20210812/1604815.md">内斗激烈，北戴河暗战正酣？震撼画面曝光！美洲际导弹远程击中目标；甩锅毒源，中共虚构专家遭踢爆；管得宽！北京将建卡拉OK黑名单；Android新木马藏身免费App【 #晚间新闻 】</a></li>
-<li><a href="/cnnews/20210812/1604784.md">神秘的赊刀人又出现了：“明年活着就给钱，没了就没了”</a></li>
-<li><a href="/cbnews/20210812/1604935.md">泄密了！央视介绍“歼10”清洁“不能拿水直接冲” 网民：下雨天不能飞？</a></li>
-<li><a href="/baitai/20210812/1604876.md">张文宏医生危唉</a></li>
 <li><a href="/cbnews/20210812/1604934.md">孟晚舟被指骗汇丰“就是诈欺”加拿大：符合引渡</a></li>
-<li><a href="/cnnews/20210812/1604718.md">八十年代家喻户晓的三个中国天才神童 现状如何？</a></li>
-<li><a href="/bannedvideo/20210811/1604431.md">上海宝山区绿叶菜巿场，二村里有确诊病历的人进入买菜，菜市场被封，所有人不能离开菜市场</a></li>
+<li><a href="/cbnews/20210812/1604935.md">泄密了！央视介绍“歼10”清洁“不能拿水直接冲” 网民：下雨天不能飞？</a></li>
+<li><a href="/bannedvideo/20210812/1604815.md">内斗激烈，北戴河暗战正酣？震撼画面曝光！美洲际导弹远程击中目标；甩锅毒源，中共虚构专家遭踢爆；管得宽！北京将建卡拉OK黑名单；Android新木马藏身免费App【 #晚间新闻 】</a></li>
 <li><a href="/bannedvideo/20210812/1604952.md">8月9日傍晚，网传燕郊东贸国际大批人员急忙奔逃，有网民怀疑商场内有确诊病例。当局辟谣无确诊病例</a></li>
+<li><a href="/cnnews/20210812/1604784.md">神秘的赊刀人又出现了：“明年活着就给钱，没了就没了”</a></li>
+<li><a href="/baitai/20210812/1604876.md">张文宏医生危唉</a></li>
+<li><a href="/cnnews/20210812/1604718.md">八十年代家喻户晓的三个中国天才神童 现状如何？</a></li>
 <li><a href="/worldnews/20210811/1604610.md">Delta搅局 牛津疫苗学家：这事没戏了…</a></li>
 <li><a href="/cnnews/20210812/1604687.md">“华尔街老将”警告：这是我职业生涯里见过的最大泡沫</a></li>
+<li><a href="/worldnews/20210812/1604883.md">俄罗斯所有机场取消英文全使用中文?真相来了</a></li>
+<li><a href="/ssgc/20210812/1604794.md">〖兲朝浮世绘〗无论如何也得赖到美国头上去</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210812/1605062.md" target="_blank">关于广东茂名革命党人严惩交通恶警事件的公告（二零二一第十二号）</a></li>
+<li><a href="/comments/20210812/1605061.md" target="_blank">【小说连载】七海归途之雪伦公主（63）</a></li>
 <li><a href="/comments/20210812/1605050.md" target="_blank">李燕铭：北戴河会期习近平遭遇高级黑逼宫“劝退”让权李克强：X总不要碰实战，应聚焦与L的沟通交流…… 信息量超大 原文被速删</a></li>
 <li><a href="/comments/20210812/1605047.md" target="_blank">研究：辉瑞疫苗对Delta有效率7个月降至47%</a></li>
 <li><a href="/comments/20210812/1605046.md" target="_blank">世卫：2022年初全球中共病毒确诊人数将超过3亿</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210812/1604940.md" target="_blank">福克斯民调：超八成民众关注美国高通胀率</a></li>
 <li><a href="/comments/20210812/1604928.md" target="_blank">美国夏季最凉爽、最炎热的城市都在哪儿？</a></li>
 <li><a href="/comments/20210812/1604925.md" target="_blank">扬州防疫管控不力 孙春兰再度南下“扑火” 强调快、准、狠</a></li>
-<li><a href="/comments/20210812/1604912.md" target="_blank">微博流出假文件！蓬佩奥揭底；给地位！台湾有望出席拜登的民主峰会“希望之声TV/北美新闻/20210811”</a></li>
-<li><a href="/comments/20210812/1604910.md" target="_blank">印度发生山体滑坡 至少10人死亡14人受伤数十人被困</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
 <li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
 <li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
 
 </ul>
 </div>
