@@ -7,27 +7,27 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/comments/20210812/1605050.md">李燕铭：北戴河会期习近平遭遇高级黑逼宫“劝退”让权李克强：X总不要碰实战，应聚焦与L的沟通交流…… 信息量超大 原文被速删</a></li>
 <li><a href="/headline/20210812/1605078.md">北戴河会议结束后发首份文件 学者研判习近平将续任五年</a></li>
-<li><a href="/cnnews/20210813/1605362.md">“未来人”最新预言：他们最快今晚到</a></li>
-<li><a href="/yule/20210812/1605111.md">传北京警员曝吴亦凡刑拘现状 调侃"你忍一下"</a></li>
 <li><a href="/topimagenews/20210813/1605497.md">上海疾控：一帮刁民，我们把你们想得太好了</a></li>
+<li><a href="/yule/20210812/1605111.md">传北京警员曝吴亦凡刑拘现状 调侃"你忍一下"</a></li>
+<li><a href="/cnnews/20210813/1605362.md">“未来人”最新预言：他们最快今晚到</a></li>
 <li><a href="/bannedvideo/20210812/1605246.md">外交战狼和军方内斗曝光 台媒暴露北戴河发生激烈争吵</a></li>
 <li><a href="/ssgc/20210813/1605367.md">〖兲朝浮世绘〗这世界变化快，胡编锡进也遭批判了</a></li>
 <li><a href="/ssgc/20210813/1605377.md">中国再次炒作“美军投毒论” 美国防部回应</a></li>
-<li><a href="/headline/20210812/1605069.md">张文宏与病毒共存说遭围剿 中国民间群起声援</a></li>
 <li><a href="/comments/20210813/1605341.md">习近平布局二十大政治局人选 习闽江新军魏小东接掌北京政协 正部级团派高官被贬 传北京市长陈吉宁南下任省委书记 广东省长马兴瑞进京任市长 中南海谣言预言_498</a></li>
+<li><a href="/headline/20210812/1605069.md">张文宏与病毒共存说遭围剿 中国民间群起声援</a></li>
 <li><a href="/cbnews/20210813/1605387.md">中国大陆派出所警察一脚踹倒红衣女 人事不省 网曝原因：检举局长遭报复</a></li>
-<li><a href="/topimagenews/20210813/1605333.md">金融中心有隐忧！上海正受Delta变种病毒挑战</a></li>
 <li><a href="/bannedvideo/20210813/1605356.md">中国富豪惶惶不可终日，纷纷断臂求生！        习近平让吸血鬼吐血！</a></li>
+<li><a href="/topimagenews/20210813/1605333.md">金融中心有隐忧！上海正受Delta变种病毒挑战</a></li>
 <li><a href="/comments/20210812/1605116.md">港媒谈立陶宛 用词有玄机 反习势力暗搅局；异动重重 北戴河会议内斗延烧至场外【希望之声-两岸要闻-2021/08/12】</a></li>
 <li><a href="/topimagenews/20210813/1605359.md">湖北柳林发生严重水灾 妻子留诀别短信 网友泪奔</a></li>
 <li><a href="/cbnews/20210813/1605350.md">6个月儿“从不用换尿布”她突袭保母家 一看“机关”傻了</a></li>
 <li><a href="/yule/20210813/1605522.md">霍尊的渣男群和交换女友裸照的纽约芭蕾舞团群</a></li>
-<li><a href="/headline/20210813/1605283.md">巴基斯坦外长称导致9位中国工人丧生的大巴遇袭案是自杀式炸弹袭击所致</a></li>
-<li><a href="/comments/20210813/1605407.md">二十大常委争夺战 陈敏尔胡春华丁薛祥占先机 陈敏尔接班王岐山任国家副主席？胡春华接班李克强任总理？丁薛祥接班王沪宁？各派放风 变数多多 谁能笑到最后？中南海谣言预言_499</a></li>
 <li><a href="/lifebaike/20210813/1605484.md">女大学生自杀，千字遗书控诉父亲：我被父亲PUA了二十年</a></li>
+<li><a href="/comments/20210813/1605407.md">二十大常委争夺战 陈敏尔胡春华丁薛祥占先机 陈敏尔接班王岐山任国家副主席？胡春华接班李克强任总理？丁薛祥接班王沪宁？各派放风 变数多多 谁能笑到最后？中南海谣言预言_499</a></li>
+<li><a href="/headline/20210813/1605283.md">巴基斯坦外长称导致9位中国工人丧生的大巴遇袭案是自杀式炸弹袭击所致</a></li>
+<li><a href="/cbnews/20210813/1605462.md">萧铭：可怕的奥秘：为什么拜登政府病毒溯源要依靠”科学“，不依靠”情报“？中共在一个领域不敢甩锅，不敢搅浑水，是什么？为什么？</a></li>
 <li><a href="/bannedvideo/20210812/1605103.md">陈破空：北戴河之变：王沪宁悬了！或被一匹黑马取代。习近平死活不要接班人？两亲信不满</a></li>
 <li><a href="/bannedvideo/20210813/1605368.md">川普发声明</a></li>
-<li><a href="/cbnews/20210813/1605462.md">萧铭：可怕的奥秘：为什么拜登政府病毒溯源要依靠”科学“，不依靠”情报“？中共在一个领域不敢甩锅，不敢搅浑水，是什么？为什么？</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210813/1605677.md" target="_blank">笑喷！中共女官员不雅姿态被直播！背后八个字 真是莫大的讽刺 【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20210813/1605619.md" target="_blank">山东政法委原副书记被开除党籍和公职 移送司法</a></li>
 <li><a href="/cbnews/20210813/1605592.md" target="_blank">江峰：中央一级直接打击爱国不爱党的香港教协，公民社会是中共集权大敌； 唱歌也会危害国家统一？卡拉OK遭整肃【江峰漫谈20210812第361期】</a></li>
 <li><a href="/comments/20210813/1605588.md" target="_blank">关于广东茂名革命党人严惩交通恶警事件的公告（紧急插播）  08132021</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/comments/20210812/1604989.md" target="_blank">“一带一路”遭679项人权指控 习近平一愿望泡汤；澳智库：台湾存亡攸关澳洲安危【希望之声-午夜新闻-2021/08/11】</a></li>
 <li><a href="/cbnews/20210812/1604965.md" target="_blank">习近平绝密军情为何神秘消失？“高层警告”后 大外宣大唱对台戏【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20210812/1604960.md" target="_blank">武统台湾没可能？专家：习近平因这“2因素”不敢出兵…</a></li>
-<li><a href="/cbnews/20210812/1604955.md" target="_blank">中国防疫专家吁“与病毒共存” 中共官媒痛批抹黑国家 小粉红辱骂汉奸</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210813/1605682.md" target="_blank">88岁前缅甸独裁者染疫住院</a></li>
 <li><a href="/comments/20210813/1605648.md" target="_blank">美六成父母支持学校口罩令 但研究指口罩不利儿童发展</a></li>
 <li><a href="/comments/20210813/1605647.md" target="_blank">团体元朗设街站声援白衣人 街坊反驳：保护家园？唔好讲得咁好听啦</a></li>
 <li><a href="/comments/20210813/1605646.md" target="_blank">【721 袭击】团体设街站声援在囚白衣人 有元朗年长街坊自认“我有份打㗎”</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210813/1605546.md" target="_blank">日本政界与学者呼吁：全世界应站出来抵制北京冬奥</a></li>
 <li><a href="/comments/20210813/1605541.md" target="_blank">【微博精粹】从主席到死尸 这国静悄悄吓人</a></li>
 <li><a href="/comments/20210813/1605536.md" target="_blank">传中共北戴河会议落幕 “有迹象”习近平可能连任</a></li>
-<li><a href="/comments/20210813/1605535.md" target="_blank">外媒曝郑州23.8万辆车送汽车坟场 画面曝光</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
+<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
 <li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
 
 </ul>
 </div>
