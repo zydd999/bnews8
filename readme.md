@@ -14,16 +14,16 @@
 <li><a href="/cbnews/20210812/1604960.md">武统台湾没可能？专家：习近平因这“2因素”不敢出兵…</a></li>
 <li><a href="/cbnews/20210812/1604934.md">孟晚舟被指骗汇丰“就是诈欺”加拿大：符合引渡</a></li>
 <li><a href="/cbnews/20210812/1604965.md">习近平绝密军情为何神秘消失？“高层警告”后 大外宣大唱对台戏【阿波罗网报道】</a></li>
-<li><a href="/finance/20210812/1605030.md">惊人贪腐！涉案30亿元 远超赖小民加赵正永！“拿数亿元行贿某一高官”【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20210813/1605362.md">“未来人”最新预言：他们最快今晚到</a></li>
+<li><a href="/finance/20210812/1605030.md">惊人贪腐！涉案30亿元 远超赖小民加赵正永！“拿数亿元行贿某一高官”【阿波罗网报道】</a></li>
 <li><a href="/yule/20210812/1605111.md">传北京警员曝吴亦凡刑拘现状 调侃"你忍一下"</a></li>
 <li><a href="/bannedvideo/20210812/1605246.md">外交战狼和军方内斗曝光 台媒暴露北戴河发生激烈争吵</a></li>
-<li><a href="/headline/20210812/1605069.md">张文宏与病毒共存说遭围剿 中国民间群起声援</a></li>
 <li><a href="/ssgc/20210813/1605367.md">〖兲朝浮世绘〗这世界变化快，胡编锡进也遭批判了</a></li>
-<li><a href="/comments/20210812/1605116.md">港媒谈立陶宛 用词有玄机 反习势力暗搅局；异动重重 北戴河会议内斗延烧至场外【希望之声-两岸要闻-2021/08/12】</a></li>
+<li><a href="/headline/20210812/1605069.md">张文宏与病毒共存说遭围剿 中国民间群起声援</a></li>
 <li><a href="/comments/20210813/1605341.md">习近平布局二十大政治局人选 习闽江新军魏小东接掌北京政协 正部级团派高官被贬 传北京市长陈吉宁南下任省委书记 广东省长马兴瑞进京任市长 中南海谣言预言_498</a></li>
-<li><a href="/health/20210812/1604974.md">手上长了很多“小水泡”，痒痒得难受，医生：是“这里”出了问题</a></li>
+<li><a href="/comments/20210812/1605116.md">港媒谈立陶宛 用词有玄机 反习势力暗搅局；异动重重 北戴河会议内斗延烧至场外【希望之声-两岸要闻-2021/08/12】</a></li>
 <li><a href="/topimagenews/20210813/1605333.md">金融中心有隐忧！上海正受Delta变种病毒挑战</a></li>
+<li><a href="/health/20210812/1604974.md">手上长了很多“小水泡”，痒痒得难受，医生：是“这里”出了问题</a></li>
 <li><a href="/bannedvideo/20210812/1605011.md">💥孙正义叫停投资中国、华尔街悔恨！中共急推“党管一切”、大开“杀戒”，还要去西方化；喝酒、歌厅都挨整，中小学必修习思想；病毒中场休息，疫情会更糟！张文宏反击；扬州紧张到10月？｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/topimagenews/20210813/1605359.md">湖北柳林发生严重水灾 妻子留诀别短信 网友泪奔</a></li>
 <li><a href="/headline/20210813/1605283.md">巴基斯坦外长称导致9位中国工人丧生的大巴遇袭案是自杀式炸弹袭击所致</a></li>
@@ -98,6 +98,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210813/1605515.md" target="_blank">盘点世界上最知名的18个美丽大瀑布</a></li>
+<li><a href="/comments/20210813/1605505.md" target="_blank">厉害了我的胡主编！能叼住虚构的飞盘</a></li>
+<li><a href="/comments/20210813/1605503.md" target="_blank">美副国务卿会见秦刚 专家：大使影响力有限</a></li>
+<li><a href="/comments/20210813/1605502.md" target="_blank">《咏画~帆影》——作者：詹庭芳</a></li>
+<li><a href="/comments/20210813/1605500.md" target="_blank">《晨曦》——作者：詹庭芳</a></li>
 <li><a href="/comments/20210813/1605492.md" target="_blank">拜登提削减处方药价格方案 吁国会支持</a></li>
 <li><a href="/comments/20210813/1605445.md" target="_blank">《忍 怨》——作者：柯树</a></li>
 <li><a href="/comments/20210813/1605443.md" target="_blank">《一道彩虹》——作者：詹庭芳</a></li>
@@ -118,11 +123,6 @@
 <li><a href="/comments/20210813/1605323.md" target="_blank">【未解之谜】外星人就在你身边</a></li>
 <li><a href="/comments/20210813/1605354.md" target="_blank">计划生育必导致“计划死亡” — 曾节明</a></li>
 <li><a href="/comments/20210813/1605366.md" target="_blank">中共关闭舟山港或进一步推高海运价格</a></li>
-<li><a href="/comments/20210813/1605355.md" target="_blank">美学者：应像制裁华为那样封杀中企涂鸦智能</a></li>
-<li><a href="/comments/20210813/1605348.md" target="_blank">奇石告诉人们的故事</a></li>
-<li><a href="/comments/20210813/1605347.md" target="_blank">健康养生：三大基本点</a></li>
-<li><a href="/comments/20210813/1605341.md" target="_blank">习近平布局二十大政治局人选 习闽江新军魏小东接掌北京政协 正部级团派高官被贬 传北京市长陈吉宁南下任省委书记 广东省长马兴瑞进京任市长 中南海谣言预言_498</a></li>
-<li><a href="/comments/20210813/1605332.md" target="_blank">7月金融数据断崖式下滑 中共体制内学者呼吁降息</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
 <li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
-<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20210612/1565472.md" target="_blank">感悟神韵（之二）：感悟神韵的艺术风格</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
 <li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
 <li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
 
 </ul>
 </div>
