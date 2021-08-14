@@ -10,24 +10,24 @@
 <li><a href="/comments/20210814/1605904.md">慌了 世卫再次施压 北京抗拒再入境调查；轮到钟南山了？中共官媒点名批；美英派兵保护撤侨 塔利班逼进阿富汗首府【希望之声TV-环球看点-2021/8/13】</a></li>
 <li><a href="/yule/20210814/1605971.md">得罪大佬 女星衣不遮体被关男牢五日 下场凄惨</a></li>
 <li><a href="/ssgc/20210813/1605818.md">千里之堤溃于蚁穴：中共外交全线崩溃</a></li>
-<li><a href="/cnnews/20210814/1606018.md">掌管6000亿的大佬，谣传"被边控"，到底什么来头</a></li>
 <li><a href="/topimagenews/20210814/1606153.md">重磅！中共统战联络人名单外泄！陆续可能还有！【阿波罗网报道】</a></li>
+<li><a href="/cnnews/20210814/1606018.md">掌管6000亿的大佬，谣传"被边控"，到底什么来头</a></li>
 <li><a href="/cnnews/20210814/1605970.md">注意，感染德尔塔变异株后身体的特殊症状</a></li>
 <li><a href="/lifebaike/20210814/1606123.md">女高中生游泳意外怀孕，父母索赔30万，查明真相太丢人，脸都没了</a></li>
 <li><a href="/cnnews/20210814/1606040.md">肯德基骚操作！中国七夕节推出这种套餐</a></li>
 <li><a href="/cbnews/20210814/1605978.md">胡锡进放话： 蔡英文敢去, 大陆就敢"出动轰炸机"</a></li>
 <li><a href="/cnnews/20210814/1606093.md">好消息！全球首个新冠病毒治疗方法已出现</a></li>
-<li><a href="/headline/20210813/1605706.md">传培训机构新东方“转型培训父母” 创办人：绝不打算给家长进行“学科培训”</a></li>
 <li><a href="/yule/20210814/1605940.md">刘嘉玲为梁朝伟买便宜衣服，忽悠他价值5000，遭店员吐槽是骗子？</a></li>
 <li><a href="/cnnews/20210814/1606032.md">美女奥运选手突去世! 生前最后留言令人不寒而栗</a></li>
 <li><a href="/bannedvideo/20210814/1605999.md">重磅！世卫中国调查组负责人亲自指认，中共干扰实验室泄露调查“冒烟的枪”曝光，首次披露关键48小时内幕；零号病人“有可能”是武汉实验室员工，CDC有重大嫌疑 | 秦鹏观察 8/13 | 新唐人电视台</a></li>
 <li><a href="/cbnews/20210813/1605755.md">习行业整顿要达到什么即期目标？传耶伦访京美财政部否认；陆缺男劳力女填补重体力行业</a></li>
 <li><a href="/cnnews/20210813/1605758.md">研究：疫情期间出生婴幼儿智商较低 原因是…</a></li>
-<li><a href="/cbnews/20210813/1605843.md">疫情初期突搬家！世卫疫调负责人：应详查武汉疾病防控中心实验室</a></li>
 <li><a href="/comments/20210814/1606025.md">良心发现？世卫专家披露调查组赴中国调查COVID-19起源，遭中共官员施压，之后放弃调查配合中共，指零号病人是。。。【希望之声TV-每日头条-2021/8/13</a></li>
+<li><a href="/cbnews/20210813/1605843.md">疫情初期突搬家！世卫疫调负责人：应详查武汉疾病防控中心实验室</a></li>
 <li><a href="/worldnews/20210814/1605893.md">欧盟爆mRNA疫苗恐有3种新副作用 美国FDA回应了</a></li>
 <li><a href="/cnnews/20210814/1605982.md">姚文元回忆：毛泽东想让江青当主席</a></li>
 <li><a href="/bannedvideo/20210814/1606000.md">塔利班攻城略地，美英等紧急撤退；美战略司令点名中共，测试多款决战武器；英国枪击案，至少5人亡；中国舟山港爆疫情封港，将影响全球货物输送；最大流星雨，上百英仙座流星照亮夜空【#全球新闻】|#新唐人电视台</a></li>
+<li><a href="/cbnews/20210814/1606154.md">翻脸了?世卫病毒溯源二期调查 中共官媒骂谭德塞“美国的走狗”、“叛徒”</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210814/1606287.md" target="_blank">美国的自由女神像竟然是法国赠送的？</a></li>
 <li><a href="/comments/20210814/1606279.md" target="_blank">曾节明：恶性内卷的“衡水模式”，是邓计生的必然结果</a></li>
 <li><a href="/comments/20210814/1606276.md" target="_blank">李燕铭：上海帮金融大佬顾国明被判无期 疑供出大老虎保住性命 官方通报暗藏玄机 为清洗江泽民上海帮政商圈金融圈埋下伏笔 习近平利剑高悬隐现杀机 韩正处境如履薄冰 顾国明被秒杀四重背景揭秘 与韩正仕途交集长达15年 亲习阵营媒体暗示顾国明案牵连江家族与上海官场</a></li>
 <li><a href="/comments/20210814/1606273.md" target="_blank">泰国医护鼻孔出血倒地惨死 生前曾打2剂科兴1辉瑞</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210814/1606171.md" target="_blank">厦大教授吁不生孩要罚 和保障房养老金挂钩 网络炸锅</a></li>
 <li><a href="/comments/20210814/1606161.md" target="_blank">特斯拉在华销量夺冠有顾虑？“女股神” 暗示另有隐情</a></li>
 <li><a href="/comments/20210814/1606156.md" target="_blank">张杰：“清零封城”抗疫模式正在毁掉中国经济</a></li>
-<li><a href="/comments/20210814/1606152.md" target="_blank">镇压反共抗议 美国制裁古巴高级官员和特种部队</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
 <li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20210612/1565472.md" target="_blank">感悟神韵（之二）：感悟神韵的艺术风格</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
 
 </ul>
 </div>
