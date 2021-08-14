@@ -14,20 +14,20 @@
 <li><a href="/cnnews/20210814/1606284.md">台湾作家李敖之子李戡威胁北京：“敢封杀我的书，就揪出中共在台湾的地卧底”</a></li>
 <li><a href="/cnnews/20210814/1606093.md">好消息！全球首个新冠病毒治疗方法已出现</a></li>
 <li><a href="/bannedvideo/20210814/1606305.md">北戴河散会，习近平笃定连任？中共急修六堵高墙，北京冬奥后全面锁国？塔利班闪电进军阿富汗，中共渔翁得利？（2021.8.14）｜世界的十字路口 唐浩</a></li>
-<li><a href="/topimagenews/20210814/1606316.md">习近平还是输了，中俄军演内幕被揭个底掉；反制裁法扩大，在港国际银行慌了要撤离</a></li>
 <li><a href="/headline/20210814/1606286.md">索罗斯：习近平是开放社会最危险的敌人，全体中国人是其受害者</a></li>
-<li><a href="/comments/20210814/1606244.md">副总理孙春兰亲自督阵  扬州民众处境令人唏嘘；中共下令开启“三胎时代”   市值20亿“华尔街英语”宣布将破产；阿里、滴滴后 贵州国台也爆酒桌丑闻；【希望之声-红朝禁闻-2021/08/13】</a></li>
+<li><a href="/topimagenews/20210814/1606316.md">习近平还是输了，中俄军演内幕被揭个底掉；反制裁法扩大，在港国际银行慌了要撤离</a></li>
 <li><a href="/cnnews/hknews/20210814/1606375.md">马云又闯祸了…</a></li>
+<li><a href="/comments/20210814/1606244.md">副总理孙春兰亲自督阵  扬州民众处境令人唏嘘；中共下令开启“三胎时代”   市值20亿“华尔街英语”宣布将破产；阿里、滴滴后 贵州国台也爆酒桌丑闻；【希望之声-红朝禁闻-2021/08/13】</a></li>
 <li><a href="/yule/20210814/1606169.md">曾惊艳全球的“迪拜公主”长大了，20岁近照曝光，网友还敢娶吗？</a></li>
-<li><a href="/comments/20210814/1606025.md">良心发现？世卫专家披露调查组赴中国调查COVID-19起源，遭中共官员施压，之后放弃调查配合中共，指零号病人是。。。【希望之声TV-每日头条-2021/8/13</a></li>
 <li><a href="/bannedvideo/20210814/1606297.md">新冠死神来敲门！一家8口染疫“全家死光光”...早上中午各死4个</a></li>
 <li><a href="/bannedvideo/20210814/1606344.md">广东交警乱拦车把孕妇吓流产，结果被砍，以暴制暴的时代来了。</a></li>
+<li><a href="/comments/20210814/1606025.md">良心发现？世卫专家披露调查组赴中国调查COVID-19起源，遭中共官员施压，之后放弃调查配合中共，指零号病人是。。。【希望之声TV-每日头条-2021/8/13</a></li>
 <li><a href="/cbnews/20210814/1606154.md">翻脸了?世卫病毒溯源二期调查 中共官媒骂谭德塞“美国的走狗”、“叛徒”</a></li>
 <li><a href="/topimagenews/20210814/1606238.md">中共内斗：警告老家伙们有点数？党媒：退休不是“护身符”【阿波罗网报道】</a></li>
 <li><a href="/comments/20210814/1606174.md">英最大芯片厂被中企收购 突然终止与美企合作</a></li>
 <li><a href="/finance/20210814/1606045.md">有史以来最大的爆雷：半数央企国企或卷入…</a></li>
 <li><a href="/lifebaike/20210814/1606090.md">吃一次等于半斤油，27岁女子甲状腺癌离世，只因爱吃1种粗粮</a></li>
-<li><a href="/topimagenews/20210814/1606114.md">震耳发聩！“我们将在天安门城楼上，普天同庆没有中共没有共产邪灵的新世纪的诞生！”</a></li>
+<li><a href="/comments/20210814/1606313.md">中共内斗正酣 两件大事又迫在眉睫；世卫新调查组成立！前组长曝赴中国内幕；出兵台湾？习近平有两大顾虑【希望之声-两岸要闻-2021/08/14】</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210815/1606466.md" target="_blank">爆笑！史上最著名的穿越者！他曾红过达芬奇！大理石充满肉感，罗马是他盖的！他才是痴情的最高境界！玫瑰战争-权力游戏的真实版！三条裙子大战腓特烈！这样的艺术史你一定没听过！【大话西油第二季 爆笑集锦】</a></li>
 <li><a href="/cbnews/20210815/1606457.md" target="_blank">中国打击课外补习下一章 人大将二审家教草案禁止营利性补教培训</a></li>
 <li><a href="/cbnews/20210815/1606456.md" target="_blank">福建漳州惊传17人遭大浪卷落海 已10死1失踪</a></li>
 <li><a href="/cbnews/20210815/1606416.md" target="_blank">中国将修法实施“三孩政策” 微博网友揭5大问题反吐：韭菜不够用了</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210814/1605978.md" target="_blank">胡锡进放话： 蔡英文敢去, 大陆就敢&#8221;出动轰炸机&#8221;</a></li>
 <li><a href="/cbnews/20210814/1605967.md" target="_blank">孟晚舟案 加国法官与司法部打擂台</a></li>
 <li><a href="/comments/20210814/1605960.md" target="_blank">为什么日本人喜欢简约又奇怪的美？</a></li>
-<li><a href="/cbnews/20210814/1605951.md" target="_blank">台湾存亡攸关澳洲安危! 防范中共军事威胁 美澳签远程导弹开发协议</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210815/1606466.md" target="_blank">爆笑！史上最著名的穿越者！他曾红过达芬奇！大理石充满肉感，罗马是他盖的！他才是痴情的最高境界！玫瑰战争-权力游戏的真实版！三条裙子大战腓特烈！这样的艺术史你一定没听过！【大话西油第二季 爆笑集锦】</a></li>
 <li><a href="/comments/20210815/1606463.md" target="_blank">人不可能胜天，人也迫害不了神。│#熊猫侠</a></li>
 <li><a href="/comments/20210815/1606442.md" target="_blank">任期结束前 默克尔下周将访俄罗斯和乌克兰</a></li>
 <li><a href="/comments/20210815/1606441.md" target="_blank">应对中共 美军夏威夷周边大规模军演进行中</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210814/1606337.md" target="_blank">时事大家谈：毒株厮杀德尔塔获胜 疫情到顶了吗？</a></li>
 <li><a href="/comments/20210814/1606332.md" target="_blank">言行不一？ 秦刚战狼变熊猫</a></li>
 <li><a href="/comments/20210814/1606328.md" target="_blank">香港人口年减近9万 外媒分析：逃亡潮越演越烈</a></li>
-<li><a href="/comments/20210814/1606327.md" target="_blank">中国律师高智晟失踪4年 妻：活要见人死要见尸</a></li>
 
 </ul>
 </div>
@@ -131,30 +131,30 @@
 <h3>必看经典好文</h3>
 <ul>
 <li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
 <li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
 <li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20210611/1564824.md" target="_blank">【曾铮专栏】感悟神韵（之一）神韵的主旨</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
 
 </ul>
 </div>
