@@ -5,8 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/bannedvideo/20210813/1605764.md">8月10日，扬州全城戒严了，江苏省政府派武警部队接管。深夜，外地大巴都到扬州接人去隔离。</a></li>
-<li><a href="/comments/20210813/1605763.md">中南海重要文件 露习近平二十大走向？滴滴三人被查 重点弄清一个问题；世卫声明罕见披露中方来信【希望之声-两岸要闻-2021/08/13】</a></li>
 <li><a href="/comments/20210814/1605904.md">慌了 世卫再次施压 北京抗拒再入境调查；轮到钟南山了？中共官媒点名批；美英派兵保护撤侨 塔利班逼进阿富汗首府【希望之声TV-环球看点-2021/8/13】</a></li>
 <li><a href="/yule/20210814/1605971.md">得罪大佬 女星衣不遮体被关男牢五日 下场凄惨</a></li>
 <li><a href="/ssgc/20210813/1605818.md">千里之堤溃于蚁穴：中共外交全线崩溃</a></li>
@@ -14,20 +12,22 @@
 <li><a href="/cnnews/20210814/1606018.md">掌管6000亿的大佬，谣传"被边控"，到底什么来头</a></li>
 <li><a href="/cnnews/20210814/1605970.md">注意，感染德尔塔变异株后身体的特殊症状</a></li>
 <li><a href="/lifebaike/20210814/1606123.md">女高中生游泳意外怀孕，父母索赔30万，查明真相太丢人，脸都没了</a></li>
-<li><a href="/cbnews/20210814/1605978.md">胡锡进放话： 蔡英文敢去, 大陆就敢"出动轰炸机"</a></li>
 <li><a href="/cnnews/20210814/1606040.md">肯德基骚操作！中国七夕节推出这种套餐</a></li>
+<li><a href="/cbnews/20210814/1605978.md">胡锡进放话： 蔡英文敢去, 大陆就敢"出动轰炸机"</a></li>
 <li><a href="/yule/20210814/1605940.md">刘嘉玲为梁朝伟买便宜衣服，忽悠他价值5000，遭店员吐槽是骗子？</a></li>
 <li><a href="/cnnews/20210814/1606093.md">好消息！全球首个新冠病毒治疗方法已出现</a></li>
 <li><a href="/cnnews/20210814/1606032.md">美女奥运选手突去世! 生前最后留言令人不寒而栗</a></li>
+<li><a href="/topimagenews/20210814/1606285.md">热闹了！反习势力嘲笑李鸿忠“无疾而终”【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20210814/1605999.md">重磅！世卫中国调查组负责人亲自指认，中共干扰实验室泄露调查“冒烟的枪”曝光，首次披露关键48小时内幕；零号病人“有可能”是武汉实验室员工，CDC有重大嫌疑 | 秦鹏观察 8/13 | 新唐人电视台</a></li>
 <li><a href="/comments/20210814/1606025.md">良心发现？世卫专家披露调查组赴中国调查COVID-19起源，遭中共官员施压，之后放弃调查配合中共，指零号病人是。。。【希望之声TV-每日头条-2021/8/13</a></li>
-<li><a href="/topimagenews/20210814/1606285.md">热闹了！反习势力嘲笑李鸿忠“无疾而终”【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20210813/1605843.md">疫情初期突搬家！世卫疫调负责人：应详查武汉疾病防控中心实验室</a></li>
 <li><a href="/yule/20210814/1606169.md">曾惊艳全球的“迪拜公主”长大了，20岁近照曝光，网友还敢娶吗？</a></li>
+<li><a href="/cbnews/20210813/1605843.md">疫情初期突搬家！世卫疫调负责人：应详查武汉疾病防控中心实验室</a></li>
 <li><a href="/cbnews/20210814/1606154.md">翻脸了?世卫病毒溯源二期调查 中共官媒骂谭德塞“美国的走狗”、“叛徒”</a></li>
 <li><a href="/worldnews/20210814/1605893.md">欧盟爆mRNA疫苗恐有3种新副作用 美国FDA回应了</a></li>
 <li><a href="/cnnews/20210814/1605982.md">姚文元回忆：毛泽东想让江青当主席</a></li>
 <li><a href="/finance/20210814/1606045.md">有史以来最大的爆雷：半数央企国企或卷入…</a></li>
+<li><a href="/lifebaike/20210814/1606090.md">吃一次等于半斤油，27岁女子甲状腺癌离世，只因爱吃1种粗粮</a></li>
+<li><a href="/topimagenews/20210814/1606114.md">震耳发聩！“我们将在天安门城楼上，普天同庆没有中共没有共产邪灵的新世纪的诞生！”</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,30 +130,30 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
 <li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
 <li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
 <li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
 
 </ul>
