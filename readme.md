@@ -11,23 +11,23 @@
 <li><a href="/topimagenews/20210814/1606316.md">习近平还是输了，中俄军演内幕被揭个底掉；反制裁法扩大，在港国际银行慌了要撤离</a></li>
 <li><a href="/headline/20210814/1606286.md">索罗斯：习近平是开放社会最危险的敌人，全体中国人是其受害者</a></li>
 <li><a href="/cnnews/hknews/20210814/1606375.md">马云又闯祸了…</a></li>
-<li><a href="/comments/20210814/1606244.md">副总理孙春兰亲自督阵  扬州民众处境令人唏嘘；中共下令开启“三胎时代”   市值20亿“华尔街英语”宣布将破产；阿里、滴滴后 贵州国台也爆酒桌丑闻；【希望之声-红朝禁闻-2021/08/13】</a></li>
 <li><a href="/bannedvideo/20210814/1606344.md">广东交警乱拦车把孕妇吓流产，结果被砍，以暴制暴的时代来了。</a></li>
-<li><a href="/worldnews/20210815/1606449.md">一家8口全染疫！早中各4死 棺材一个个抬出来</a></li>
 <li><a href="/comments/20210815/1606502.md">解放军为何不听习近平指挥.联军先发制人外科手术打击的目标选定</a></li>
+<li><a href="/worldnews/20210815/1606449.md">一家8口全染疫！早中各4死 棺材一个个抬出来</a></li>
 <li><a href="/topimagenews/20210815/1606550.md">“谁都逃不掉”！房产调控，最密集的维权潮来了</a></li>
 <li><a href="/bannedvideo/20210814/1606297.md">新冠死神来敲门！一家8口染疫“全家死光光”...早上中午各死4个</a></li>
 <li><a href="/cbnews/20210815/1606416.md">中国将修法实施“三孩政策” 微博网友揭5大问题反吐：韭菜不够用了</a></li>
 <li><a href="/cnnews/20210815/1606500.md">iPhone13加入这功能 又甩开Android一大截</a></li>
 <li><a href="/yule/20210815/1606431.md">“一张照片”惹怒官煤 艺人代言全掰了</a></li>
-<li><a href="/comments/20210814/1606313.md">中共内斗正酣 两件大事又迫在眉睫；世卫新调查组成立！前组长曝赴中国内幕；出兵台湾？习近平有两大顾虑【希望之声-两岸要闻-2021/08/14】</a></li>
 <li><a href="/comments/20210815/1606511.md">北戴河会后习近平“现身” 给李克强接班人立规？</a></li>
+<li><a href="/comments/20210814/1606313.md">中共内斗正酣 两件大事又迫在眉睫；世卫新调查组成立！前组长曝赴中国内幕；出兵台湾？习近平有两大顾虑【希望之声-两岸要闻-2021/08/14】</a></li>
+<li><a href="/cnnews/20210815/1606499.md">加拿大发现一种廉价药或是新冠治疗最佳特效药</a></li>
 <li><a href="/worldnews/20210815/1606477.md">13岁高尔夫球天才少女夜间梦游 被打断后离世</a></li>
 <li><a href="/comments/20210815/1606484.md">黑化张文宏 周小平究竟想干什么？</a></li>
+<li><a href="/comments/20210815/1606478.md">十字路口：习可望连任？北京修六堵高墙锁国</a></li>
 <li><a href="/comments/20210814/1606272.md">5万中国卖家被亚马逊封店 预估损失超千亿 深圳遭“重创”</a></li>
 <li><a href="/headline/20210814/1606299.md">分析：随着塔利班的推进，中国开始为接受尴尬现实营造舆论</a></li>
-<li><a href="/cnnews/20210815/1606499.md">加拿大发现一种廉价药或是新冠治疗最佳特效药</a></li>
-<li><a href="/cnnews/20210814/1606333.md">中共脸要绿 ！赴华考察病毒溯源世卫专家反水</a></li>
+<li><a href="/bannedvideo/20210815/1606493.md">北戴河“宫斗”出结果？习近平可能连任</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210815/1606692.md" target="_blank">Delta病毒未成年人确诊增近10倍，12岁以下孩童要注意</a></li>
+<li><a href="/comments/20210815/1606691.md" target="_blank">「鸡蛋」放冰箱前、下锅前该不该洗？</a></li>
+<li><a href="/comments/20210815/1606686.md" target="_blank">北京之后 山西又传炭疽疫情 网友：2021活着就好</a></li>
 <li><a href="/comments/20210815/1606680.md" target="_blank">2021年第二季度风投市场创新高，平均每天新增1.5个独角兽公司【科技新创/市场调研】</a></li>
 <li><a href="/comments/20210815/1606670.md" target="_blank">民阵宣布解散 160 万资产捐合适团体 “香港人加油！人在希望在！”</a></li>
 <li><a href="/comments/20210815/1606669.md" target="_blank">陈茂波：反外国制裁法“以战止战” 料有人会借机炒作</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210815/1606590.md" target="_blank">海地7.2强震逾304死1800伤 民感叹：国家从未喘息过</a></li>
 <li><a href="/comments/20210815/1606581.md" target="_blank">【微博精粹】大裤衩正式宣战美国</a></li>
 <li><a href="/comments/20210815/1606573.md" target="_blank">李燕铭：张哲瀚靖国神社拍照 被官媒点名狠批 一夜失去所有27个代言 被曝要赔上积蓄 因《山河令》一夜爆红不足6个月坍塌只需4小时 张哲瀚签约赵薇旗下公司背靠马云阿里系 张哲瀚老板赵薇旧事被翻出 文宣系统掀清洗风暴 娱乐圈大震荡（五）</a></li>
-<li><a href="/comments/20210815/1606572.md" target="_blank">【杰森视角】中共以新政治理中国！习近平要把中国带到哪里？三个因素解码中共政策思路！讨厌中共外交部的不仅仅是中共国防部！ “病毒清零”的防疫策略是一个中共跳不出来的坑！历史是教材还是考验？</a></li>
-<li><a href="/comments/20210815/1606571.md" target="_blank">中国隐秘富商在美建风力发电场被拒 江派暗桩浮出水面</a></li>
-<li><a href="/comments/20210815/1606570.md" target="_blank">湖北洪水泛滥 774座水库超警 12市43县逾百万人受灾</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20210611/1564824.md" target="_blank">【曾铮专栏】感悟神韵（之一）神韵的主旨</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
 <li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
 <li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
 
 </ul>
 </div>
