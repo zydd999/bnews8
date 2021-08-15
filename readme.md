@@ -6,8 +6,8 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/topimagenews/20210814/1606285.md">热闹了！反习势力嘲笑李鸿忠“无疾而终”【阿波罗网报道】</a></li>
-<li><a href="/cnnews/20210814/1606284.md">台湾作家李敖之子李戡威胁北京：“敢封杀我的书，就揪出中共在台湾的地卧底”</a></li>
 <li><a href="/bannedvideo/20210814/1606305.md">北戴河散会，习近平笃定连任？中共急修六堵高墙，北京冬奥后全面锁国？塔利班闪电进军阿富汗，中共渔翁得利？（2021.8.14）｜世界的十字路口 唐浩</a></li>
+<li><a href="/cnnews/20210814/1606284.md">台湾作家李敖之子李戡威胁北京：“敢封杀我的书，就揪出中共在台湾的地卧底”</a></li>
 <li><a href="/headline/20210814/1606286.md">索罗斯：习近平是开放社会最危险的敌人，全体中国人是其受害者</a></li>
 <li><a href="/topimagenews/20210814/1606316.md">习近平还是输了，中俄军演内幕被揭个底掉；反制裁法扩大，在港国际银行慌了要撤离</a></li>
 <li><a href="/comments/20210814/1606244.md">副总理孙春兰亲自督阵  扬州民众处境令人唏嘘；中共下令开启“三胎时代”   市值20亿“华尔街英语”宣布将破产；阿里、滴滴后 贵州国台也爆酒桌丑闻；【希望之声-红朝禁闻-2021/08/13】</a></li>
@@ -27,7 +27,7 @@
 <li><a href="/yule/20210815/1606427.md">52岁许晴近照暴瘦，下巴尖锐脸蛋变样</a></li>
 <li><a href="/comments/20210814/1606290.md">世卫大反转？疫情溯源首席官：应详查武汉疾控中心实验室</a></li>
 <li><a href="/topimagenews/20210814/1606386.md">深圳楼只升不跌神话破灭！7月成交量泻80% 大量代理转行</a></li>
-<li><a href="/bannedvideo/20210814/1606318.md">陈破空：北戴河时间，突然没人表忠！习近平处境尴尬。郑州的事没完。段子：王沪宁解说习思想</a></li>
+<li><a href="/topimagenews/20210815/1606550.md">“谁都逃不掉”！房产调控，最密集的维权潮来了</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210815/1606646.md" target="_blank">叫板中共！美军正进行史上最大规模军演，全球各地的美国海军陆战队员和海军士兵参加，海岸防卫队4500吨海巡舰“穆洛号”已在西太平洋部署【希望之声-午夜新闻-2021/08/</a></li>
 <li><a href="/cbnews/20210815/1606640.md" target="_blank">孟晚舟引渡成定案？学者：中共犯战略错误</a></li>
 <li><a href="/cbnews/20210815/1606633.md" target="_blank">中国网红不戴呼吸器绑铅块下海拍片 结局…</a></li>
 <li><a href="/comments/20210815/1606626.md" target="_blank">亲北京媒体质疑习近平连任消息；会见秦刚第二天 美副国务卿再踩北京红线；河南商丘告急 居民：虞城县封城 店铺一律关门；【希望之声-红朝禁闻-2021/08/14】</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210814/1606154.md" target="_blank">翻脸了?世卫病毒溯源二期调查 中共官媒骂谭德塞“美国的走狗”、“叛徒”</a></li>
 <li><a href="/cbnews/20210814/1606065.md" target="_blank">中共硬掐大民企，所为何来？(戴忠仁/王剑/周孝正) |亚洲很想聊</a></li>
 <li><a href="/cbnews/20210814/1606066.md" target="_blank">天亮时分：拜登12月民主峰会，请蔡英文不请习近平，胡锡进要疯；耶伦访华，送出什么大礼包？（政论天下第487集 20210813）</a></li>
-<li><a href="/comments/20210814/1606025.md" target="_blank">良心发现？世卫专家披露调查组赴中国调查COVID-19起源，遭中共官员施压，之后放弃调查配合中共，指零号病人是。。。【希望之声TV-每日头条-2021/8/13</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210815/1606648.md" target="_blank">美七月消费者价格指数上升趋缓 美联储不再头疼？</a></li>
+<li><a href="/comments/20210815/1606646.md" target="_blank">叫板中共！美军正进行史上最大规模军演，全球各地的美国海军陆战队员和海军士兵参加，海岸防卫队4500吨海巡舰“穆洛号”已在西太平洋部署【希望之声-午夜新闻-2021/08/</a></li>
+<li><a href="/comments/20210815/1606643.md" target="_blank">英媒： 清零论VS共存说：政治VS科学的中国社会大交锋</a></li>
+<li><a href="/comments/20210815/1606642.md" target="_blank">中国式酒桌文化：他们为什么想把别人灌醉？</a></li>
 <li><a href="/comments/20210815/1606636.md" target="_blank">海地7.2浅层强震 屋垮楼塌至少304人 罹难1800伤</a></li>
 <li><a href="/comments/20210815/1606635.md" target="_blank">【要闻精粹】一不小心就会泄露国家掩盖的机密</a></li>
 <li><a href="/comments/20210815/1606626.md" target="_blank">亲北京媒体质疑习近平连任消息；会见秦刚第二天 美副国务卿再踩北京红线；河南商丘告急 居民：虞城县封城 店铺一律关门；【希望之声-红朝禁闻-2021/08/14】</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210815/1606544.md" target="_blank">最豪华设计的房车，价值270万美元、还带有空中露台</a></li>
 <li><a href="/comments/20210815/1606533.md" target="_blank">财商天下：雷军演讲 马云妻“走红”</a></li>
 <li><a href="/comments/20210815/1606511.md" target="_blank">北戴河会后习近平“现身” 给李克强接班人立规？</a></li>
-<li><a href="/comments/20210815/1606510.md" target="_blank">帮老人安装玻璃 优秀教研员被判刑六年半</a></li>
-<li><a href="/comments/20210815/1606507.md" target="_blank">中共力推数字人民币试点 背后目的曝光</a></li>
-<li><a href="/comments/20210815/1606506.md" target="_blank">中共“偷袭珍珠港” 还有金融核战蓄势待发*</a></li>
-<li><a href="/comments/20210815/1606505.md" target="_blank">颜纯钩：美中关系覆水难收 美国占尽主动权</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/ganwu/20170705/787156.md" target="_blank">感悟神韵（之四）：感悟神韵音乐</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
 <li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
 <li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
 
 </ul>
 </div>
