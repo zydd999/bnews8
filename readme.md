@@ -12,8 +12,8 @@
 <li><a href="/comments/20210815/1606484.md">黑化张文宏 周小平究竟想干什么？</a></li>
 <li><a href="/cnnews/20210815/1606500.md">iPhone13加入这功能 又甩开Android一大截</a></li>
 <li><a href="/topimagenews/20210815/1606732.md">释出强烈政治信号！习近平所谓重要文章 再度强调一件事【阿波罗网报道】</a></li>
-<li><a href="/comments/20210815/1606739.md">李燕铭：吴亦凡事件在圈内升级牵连14位大佬 习中央已下决心 整治娱乐圈刻不容缓！宋祖德呼吁严惩成龙冯小刚 官媒点名22位明星 20多家明星工作室被约谈 微博宣布下线“明星势力榜” 64名艺人与经纪人参加艺德培训班 文宣系统掀清洗风暴 娱乐圈大震荡（七）</a></li>
 <li><a href="/cbnews/20210815/1606640.md">孟晚舟引渡成定案？学者：中共犯战略错误</a></li>
+<li><a href="/comments/20210815/1606739.md">李燕铭：吴亦凡事件在圈内升级牵连14位大佬 习中央已下决心 整治娱乐圈刻不容缓！宋祖德呼吁严惩成龙冯小刚 官媒点名22位明星 20多家明星工作室被约谈 微博宣布下线“明星势力榜” 64名艺人与经纪人参加艺德培训班 文宣系统掀清洗风暴 娱乐圈大震荡（七）</a></li>
 <li><a href="/worldnews/20210815/1606477.md">13岁高尔夫球天才少女夜间梦游 被打断后离世</a></li>
 <li><a href="/cnnews/20210815/1606784.md">亲历浦东机场送行，赴美千米长队出国难</a></li>
 <li><a href="/cnnews/20210815/1606610.md">七夕 支付宝崩了</a></li>
@@ -22,8 +22,8 @@
 <li><a href="/bannedvideo/20210815/1606764.md">塔利班势如破竹 中国准备接受苦涩现实</a></li>
 <li><a href="/comments/20210815/1606581.md">【微博精粹】大裤衩正式宣战美国</a></li>
 <li><a href="/baitai/20210815/1606674.md">复旦大学回应张文宏博士学位论文问题：启动调查核实</a></li>
-<li><a href="/comments/20210815/1606478.md">十字路口：习可望连任？北京修六堵高墙锁国</a></li>
 <li><a href="/baitai/20210815/1606744.md">【中国哭墙】李医生，说疫情是美国开始的了，岂不是你又是造谣者（8月10-15日，2021年）</a></li>
+<li><a href="/comments/20210815/1606478.md">十字路口：习可望连任？北京修六堵高墙锁国</a></li>
 <li><a href="/comments/20210815/1606626.md">亲北京媒体质疑习近平连任消息；会见秦刚第二天 美副国务卿再踩北京红线；河南商丘告急 居民：虞城县封城 店铺一律关门；【希望之声-红朝禁闻-2021/08/14】</a></li>
 <li><a href="/cbnews/20210815/1606633.md">中国网红不戴呼吸器绑铅块下海拍片 结局…</a></li>
 <li><a href="/bannedvideo/20210815/1606848.md">习近平的脸绿了！    普京宣布：要对新冠溯源并索赔！</a></li>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
 <li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
 
 </ul>
 </div>
