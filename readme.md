@@ -22,12 +22,12 @@
 <li><a href="/health/20210815/1606721.md">体内有癌，腹部知！腹部若出现五个“特征”，八成已是“癌症”</a></li>
 <li><a href="/comments/20210815/1606763.md">苏明评论：习蠢货把中国人民推向了敌对面</a></li>
 <li><a href="/bannedvideo/20210815/1606737.md">中共文革洗脑式防疫宣传，“只要屋里有粒米，不往人多码头挤 ”。 湖南张家界慈利县，防疫督察组扛着红旗和喇叭，村里村外走街串巷，警告村民不要出门。有网友说像极了当年的红卫兵。</a></li>
+<li><a href="/yule/20210816/1606875.md">律师曝吴亦凡案情严重，涉嫌多次作案、结伙作案‘</a></li>
 <li><a href="/bannedvideo/20210815/1606753.md">8月13日，江苏扬州一辆疑运送隔离人员的防疫车发生车祸，撞向防护栏，车头严重损毁，车司机受轻伤，现场一片狼藉。</a></li>
 <li><a href="/bannedvideo/20210815/1606726.md">成都交警执法不带警官证，车主质疑和交警起争执。车主：有没有警官证？</a></li>
-<li><a href="/yule/20210816/1606875.md">律师曝吴亦凡案情严重，涉嫌多次作案、结伙作案‘</a></li>
 <li><a href="/baitai/20210815/1606789.md">当“与病毒共存”成敏感词 张文宏如“弃子”般一文不值</a></li>
 <li><a href="/lifebaike/20210815/1606735.md">木耳用清水洗就错了，等于吃虫卵，大厨教我做法，脏东西全跑光</a></li>
-<li><a href="/worldnews/20210815/1606839.md">5万大陆电商被亚马逊封停 深圳急开会应对</a></li>
+<li><a href="/cnnews/20210816/1606902.md">只是吃一块面包 大陆男童大小便失禁亡</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210816/1607078.md" target="_blank">美法官下令：恢复川普让难民“留在墨西哥”政策</a></li>
+<li><a href="/comments/20210816/1607075.md" target="_blank">中印军力对比 矛盾难解 胜负难分</a></li>
+<li><a href="/comments/20210816/1607074.md" target="_blank">塔利班即将进入阿富汗首都 国际回应一次看</a></li>
 <li><a href="/comments/20210816/1607037.md" target="_blank">习核心稳不稳？北戴河会后几波重磅信息扑面而来</a></li>
 <li><a href="/comments/20210816/1607036.md" target="_blank">美军官：马克思主义正在渗透美国军校</a></li>
 <li><a href="/comments/20210816/1607015.md" target="_blank">塔利班进喀布尔 阿富汗爆逃难潮 美欧使馆加速撤离</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210816/1606964.md" target="_blank">【音频】《医山夜话》系列十四：生命的节奏</a></li>
 <li><a href="/comments/20210816/1606963.md" target="_blank">【音频】《医山夜话》系列十三：春捂秋冻</a></li>
 <li><a href="/comments/20210816/1606957.md" target="_blank">纪永添：中国与日本的航母争霸已拉开序幕</a></li>
-<li><a href="/comments/20210816/1606956.md" target="_blank">茉莉：中共用灾难给自己加分的四种手段</a></li>
-<li><a href="/comments/20210816/1606955.md" target="_blank">洪博学：中国帽子满天飞</a></li>
-<li><a href="/comments/20210816/1606932.md" target="_blank">美国家卫生院长：德尔塔疫情高峰期或很快在美出现</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
+<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
 <li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
 <li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/comments/20210612/1565472.md" target="_blank">感悟神韵（之二）：感悟神韵的艺术风格</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
 
 </ul>
 </div>
