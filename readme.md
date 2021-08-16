@@ -10,22 +10,22 @@
 <li><a href="/cbnews/20210815/1606640.md">孟晚舟引渡成定案？学者：中共犯战略错误</a></li>
 <li><a href="/comments/20210816/1606877.md">网曝公安部内部数字：中国人口总数7.87亿 中国生育率暴跌最新数据曝光 俄媒：中国数据造假实际人口可能只有8亿甚至仅有5亿 人类历史上规模最大的人口崩塌不久要到来了！中南海谣言预言_500</a></li>
 <li><a href="/bannedvideo/20210815/1606848.md">习近平的脸绿了！    普京宣布：要对新冠溯源并索赔！</a></li>
-<li><a href="/cnnews/20210815/1606784.md">亲历浦东机场送行，赴美千米长队出国难</a></li>
 <li><a href="/bannedvideo/20210815/1606764.md">塔利班势如破竹 中国准备接受苦涩现实</a></li>
+<li><a href="/cnnews/20210815/1606784.md">亲历浦东机场送行，赴美千米长队出国难</a></li>
 <li><a href="/cnnews/20210815/1606610.md">七夕 支付宝崩了</a></li>
 <li><a href="/comments/20210815/1606626.md">亲北京媒体质疑习近平连任消息；会见秦刚第二天 美副国务卿再踩北京红线；河南商丘告急 居民：虞城县封城 店铺一律关门；【希望之声-红朝禁闻-2021/08/14】</a></li>
 <li><a href="/baitai/20210815/1606744.md">【中国哭墙】李医生，说疫情是美国开始的了，岂不是你又是造谣者（8月10-15日，2021年）</a></li>
 <li><a href="/baitai/20210815/1606674.md">复旦大学回应张文宏博士学位论文问题：启动调查核实</a></li>
-<li><a href="/cbnews/20210815/1606633.md">中国网红不戴呼吸器绑铅块下海拍片 结局…</a></li>
 <li><a href="/bannedvideo/20210816/1606887.md">【习近平】亲口提2人释放强烈信号；秦刚战狼变熊猫，习目的？阿富汗首都沦陷总统逃离；中共尴尬承认塔利班合法，中国人惊讶；塔利班强娶女孩引发恐慌；美情报误判，拜登受压;加人被囚 ,华人站出来CS</a></li>
+<li><a href="/cbnews/20210815/1606633.md">中国网红不戴呼吸器绑铅块下海拍片 结局…</a></li>
 <li><a href="/cbnews/20210815/1606685.md">人民日报再释左转信号！吹捧延安文艺座谈会为里程碑【阿波罗网报道】</a></li>
-<li><a href="/worldnews/20210815/1606760.md">美国媒体报道若塔利班攻占喀布尔 北京将率先承认神学士政权</a></li>
 <li><a href="/bannedvideo/20210815/1606772.md">陈破空：秦刚妻子遭限制赴美？大佬开口：习近平危害全体中国人！世卫重启调查</a></li>
+<li><a href="/worldnews/20210815/1606760.md">美国媒体报道若塔利班攻占喀布尔 北京将率先承认神学士政权</a></li>
 <li><a href="/health/20210815/1606721.md">体内有癌，腹部知！腹部若出现五个“特征”，八成已是“癌症”</a></li>
 <li><a href="/comments/20210815/1606763.md">苏明评论：习蠢货把中国人民推向了敌对面</a></li>
 <li><a href="/bannedvideo/20210815/1606737.md">中共文革洗脑式防疫宣传，“只要屋里有粒米，不往人多码头挤 ”。 湖南张家界慈利县，防疫督察组扛着红旗和喇叭，村里村外走街串巷，警告村民不要出门。有网友说像极了当年的红卫兵。</a></li>
-<li><a href="/cnnews/20210815/1606645.md">江泽民几件事逆转了六四结局 得到邓小平的赏识 成为中共的接班人</a></li>
 <li><a href="/bannedvideo/20210815/1606753.md">8月13日，江苏扬州一辆疑运送隔离人员的防疫车发生车祸，撞向防护栏，车头严重损毁，车司机受轻伤，现场一片狼藉。</a></li>
+<li><a href="/cnnews/20210815/1606645.md">江泽民几件事逆转了六四结局 得到邓小平的赏识 成为中共的接班人</a></li>
 <li><a href="/baitai/20210815/1606789.md">当“与病毒共存”成敏感词 张文宏如“弃子”般一文不值</a></li>
 <li><a href="/bannedvideo/20210815/1606726.md">成都交警执法不带警官证，车主质疑和交警起争执。车主：有没有警官证？</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210816/1607008.md" target="_blank">阿富汗沦陷 拜登政府推责 川普：拜登应为此下台</a></li>
+<li><a href="/comments/20210816/1607002.md" target="_blank">【微博精粹】广东老乡砍死警察事出有因：为被害死的孩子报仇</a></li>
 <li><a href="/comments/20210816/1606993.md" target="_blank">杨子立：论塔利班的成功</a></li>
 <li><a href="/comments/20210816/1606992.md" target="_blank">【贯明文苑】君子守节如竹</a></li>
 <li><a href="/comments/20210816/1606991.md" target="_blank">阿富汗总统流亡 承认“塔利班赢了”塔利班称建立“阿富汗伊斯兰酋长国”</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210816/1606877.md" target="_blank">网曝公安部内部数字：中国人口总数7.87亿 中国生育率暴跌最新数据曝光 俄媒：中国数据造假实际人口可能只有8亿甚至仅有5亿 人类历史上规模最大的人口崩塌不久要到来了！中南海谣言预言_500</a></li>
 <li><a href="/comments/20210816/1606876.md" target="_blank">世卫：西非科特迪瓦惊爆30年来首例伊波拉病患</a></li>
 <li><a href="/comments/20210816/1606873.md" target="_blank">欧洲最大的汽车禁区——布鲁塞尔无车日区域</a></li>
-<li><a href="/comments/20210816/1606864.md" target="_blank">武肺是美国制造的生化武器？蓬佩奥：文件是伪造的</a></li>
-<li><a href="/comments/20210816/1606863.md" target="_blank">中共与恐怖分子勾结？罗冠聪曝背后阴谋：恶魔交易</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20210329/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
 <li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20210612/1565472.md" target="_blank">感悟神韵（之二）：感悟神韵的艺术风格</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
 <li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
 
 </ul>
 </div>
