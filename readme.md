@@ -12,18 +12,18 @@
 <li><a href="/bannedvideo/20210816/1606922.md">美国把阿富汗卖给了中共，占领者承诺不拿群众一针一线！还记得1949年共产党的承诺吗？</a></li>
 <li><a href="/bannedvideo/20210815/1606772.md">陈破空：秦刚妻子遭限制赴美？大佬开口：习近平危害全体中国人！世卫重启调查</a></li>
 <li><a href="/bannedvideo/20210816/1606887.md">【习近平】亲口提2人释放强烈信号；秦刚战狼变熊猫，习目的？阿富汗首都沦陷总统逃离；中共尴尬承认塔利班合法，中国人惊讶；塔利班强娶女孩引发恐慌；美情报误判，拜登受压;加人被囚 ,华人站出来CS</a></li>
+<li><a href="/cnnews/20210816/1607021.md">塔利班接管阿富汗 财经网美曝这事：中共衰爆</a></li>
 <li><a href="/cnnews/20210816/1606907.md">放着灭绝全人类的课题不研究，跑来给张文宏医生挖坑</a></li>
 <li><a href="/worldnews/20210815/1606760.md">美国媒体报道若塔利班攻占喀布尔 北京将率先承认神学士政权</a></li>
 <li><a href="/ssgc/20210816/1606985.md">〖兲朝浮世绘〗说实话的代价：中共一定要把张文宏“批倒批臭”</a></li>
-<li><a href="/cnnews/20210816/1607021.md">塔利班接管阿富汗 财经网美曝这事：中共衰爆</a></li>
 <li><a href="/cnnews/20210816/1606942.md">塔利班重夺政权 阿富汗总统发声：离开是为了…</a></li>
 <li><a href="/comments/20210815/1606763.md">苏明评论：习蠢货把中国人民推向了敌对面</a></li>
 <li><a href="/topimagenews/20210816/1607164.md">国保总队长投案自首 现罕见一幕！竟然肩扛包袱 手推箱子【阿波罗网报道】</a></li>
 <li><a href="/baitai/20210816/1606944.md">拜登上台后，世界都变了</a></li>
 <li><a href="/yule/20210816/1606875.md">律师曝吴亦凡案情严重，涉嫌多次作案、结伙作案‘</a></li>
 <li><a href="/ssgc/20210816/1606893.md">世卫呼吁对武汉病毒所之外另一实验室进行审查</a></li>
-<li><a href="/baitai/20210815/1606789.md">当“与病毒共存”成敏感词 张文宏如“弃子”般一文不值</a></li>
 <li><a href="/cnnews/20210816/1606902.md">只是吃一块面包 大陆男童大小便失禁亡</a></li>
+<li><a href="/baitai/20210815/1606789.md">当“与病毒共存”成敏感词 张文宏如“弃子”般一文不值</a></li>
 <li><a href="/cbnews/20210816/1606927.md">还散发着香气！山西小山村唐朝古寺 竟有千年女肉身菩萨</a></li>
 <li><a href="/worldnews/20210816/1606948.md">被迫交出未成年女儿 阿富汗女性暗黑时代将来临</a></li>
 <li><a href="/health/20210816/1606989.md">一个广东女人的早餐，走红朋友圈，网友:难怪40岁了，气色这么好</a></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210816/1607285.md" target="_blank">慎入：女童用玻璃门夹小猫 致其当场惨死</a></li>
 <li><a href="/comments/20210816/1607282.md" target="_blank">《安妮日记》作者安妮·弗兰克，转世成为瑞典神童作家；10岁重访躲避纳粹的密室，奇怪举动让父母承认，她真的是安妮；她是二战的见证，前世害死她的纳粹，今生想要再次加害于她⋯⋯｜ #未解之谜 扶摇</a></li>
 <li><a href="/cbnews/20210816/1607278.md" target="_blank">阿富汗政权垮台 恐削弱美国喊团结抗中共分量</a></li>
 <li><a href="/comments/20210816/1607194.md" target="_blank">阿富汗喀布尔沦落 阿富汗总统逃离 政府曾欲求助中共与虎谋皮；任期将结束 默克尔赶赴俄罗斯乌克兰访问【希望之声TV-每日头条-2021/8/15】</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210815/1606481.md" target="_blank">教培 CEO 卷钱跑路：拖欠超千万资金</a></li>
 <li><a href="/cbnews/20210815/1606480.md" target="_blank">四川男警任由爱犬咬死黑猫 公安局停止职务</a></li>
 <li><a href="/comments/20210815/1606466.md" target="_blank">爆笑！史上最著名的穿越者！他曾红过达芬奇！大理石充满肉感，罗马是他盖的！他才是痴情的最高境界！玫瑰战争-权力游戏的真实版！三条裙子大战腓特烈！这样的艺术史你一定没听过！【大话西油第二季 爆笑集锦】</a></li>
-<li><a href="/cbnews/20210815/1606457.md" target="_blank">中国打击课外补习下一章 人大将二审家教草案禁止营利性补教培训</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210329/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
 <li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/ganwu/20170705/787156.md" target="_blank">感悟神韵（之四）：感悟神韵音乐</a></li>
 
 </ul>
 </div>
