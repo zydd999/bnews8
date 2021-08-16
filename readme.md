@@ -11,23 +11,23 @@
 <li><a href="/bannedvideo/20210816/1606887.md">【习近平】亲口提2人释放强烈信号；秦刚战狼变熊猫，习目的？阿富汗首都沦陷总统逃离；中共尴尬承认塔利班合法，中国人惊讶；塔利班强娶女孩引发恐慌；美情报误判，拜登受压;加人被囚 ,华人站出来CS</a></li>
 <li><a href="/topimagenews/20210816/1607164.md">国保总队长投案自首 现罕见一幕！竟然肩扛包袱 手推箱子【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20210816/1606907.md">放着灭绝全人类的课题不研究，跑来给张文宏医生挖坑</a></li>
-<li><a href="/cnnews/20210816/1607021.md">塔利班接管阿富汗 财经网美曝这事：中共衰爆</a></li>
 <li><a href="/ssgc/20210816/1606985.md">〖兲朝浮世绘〗说实话的代价：中共一定要把张文宏“批倒批臭”</a></li>
+<li><a href="/cnnews/20210816/1607021.md">塔利班接管阿富汗 财经网美曝这事：中共衰爆</a></li>
 <li><a href="/cnnews/20210816/1606942.md">塔利班重夺政权 阿富汗总统发声：离开是为了…</a></li>
 <li><a href="/yule/20210816/1606875.md">律师曝吴亦凡案情严重，涉嫌多次作案、结伙作案‘</a></li>
 <li><a href="/ssgc/20210816/1606893.md">世卫呼吁对武汉病毒所之外另一实验室进行审查</a></li>
 <li><a href="/ccpdope/20210816/1607166.md">博文被删：一个人要多贱才会去舔他利班</a></li>
-<li><a href="/baitai/20210816/1606944.md">拜登上台后，世界都变了</a></li>
 <li><a href="/bannedvideo/20210816/1607199.md">网曝8月15日，在扬州封区、封户之际，一个扬州女公务员、曾作为所谓的“党课主讲人”，似乎再也无法忍受被封闭，在警察的眼皮下面闯关出行，遭警察抓捕被隔离。</a></li>
-<li><a href="/cnnews/20210816/1606902.md">只是吃一块面包 大陆男童大小便失禁亡</a></li>
-<li><a href="/health/20210816/1606989.md">一个广东女人的早餐，走红朋友圈，网友:难怪40岁了，气色这么好</a></li>
-<li><a href="/comments/20210816/1607175.md">李燕铭：张哲瀚遭全面封杀退圈 张哲瀚是谁的儿子？惊人家境背景曝光 张哲瀚老板赵薇《ELLE》九月刊或撤销 《ELLE》八月刊是吴亦凡 被网友质疑力撑张哲瀚 知名作家斩鞍与童瑶丈夫王冉微博账号被禁言 牵连到中共开国上将孙女柯蓝 文宣系统掀清洗风暴 娱乐圈大震荡（八）</a></li>
+<li><a href="/baitai/20210816/1606944.md">拜登上台后，世界都变了</a></li>
 <li><a href="/topimagenews/20210816/1607237.md">中纪委痛批省公安厅长结交“政治骗子” 移送法办仅仅是开始？【阿波罗网报道】</a></li>
+<li><a href="/cnnews/20210816/1606902.md">只是吃一块面包 大陆男童大小便失禁亡</a></li>
+<li><a href="/comments/20210816/1607175.md">李燕铭：张哲瀚遭全面封杀退圈 张哲瀚是谁的儿子？惊人家境背景曝光 张哲瀚老板赵薇《ELLE》九月刊或撤销 《ELLE》八月刊是吴亦凡 被网友质疑力撑张哲瀚 知名作家斩鞍与童瑶丈夫王冉微博账号被禁言 牵连到中共开国上将孙女柯蓝 文宣系统掀清洗风暴 娱乐圈大震荡（八）</a></li>
+<li><a href="/baitai/20210816/1607236.md">十年砍柴｜塔利班赢了，你高兴个啥？</a></li>
+<li><a href="/health/20210816/1606989.md">一个广东女人的早餐，走红朋友圈，网友:难怪40岁了，气色这么好</a></li>
+<li><a href="/health/20210816/1607254.md">吃一次相当于10杯牛奶，骨科主任：若你爱吃，骨骼会很高兴</a></li>
 <li><a href="/worldnews/20210816/1606948.md">被迫交出未成年女儿 阿富汗女性暗黑时代将来临</a></li>
-<li><a href="/health/20210816/1606987.md">97岁院士呼吁停止食用，比肥肉还伤血管，家人尽早撤下餐桌</a></li>
 <li><a href="/cbnews/20210816/1606927.md">还散发着香气！山西小山村唐朝古寺 竟有千年女肉身菩萨</a></li>
 <li><a href="/comments/20210816/1607037.md">习核心稳不稳？北戴河会后几波重磅信息扑面而来</a></li>
-<li><a href="/cnnews/20210816/1607035.md">美智库打脸胡锡进：美国愿为退出阿富汗付出高昂代价 目光认真转向太平洋的信号</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210816/1607400.md" target="_blank">脑力工作者，如何维护大脑健康？试试这4招</a></li>
+<li><a href="/comments/20210816/1607399.md" target="_blank">低血压，有哪些症状？如何预防和应对低血压？</a></li>
+<li><a href="/comments/20210816/1607398.md" target="_blank">时事大家谈：国际溯毒源压力日增，北京搅混水屡遭打脸？</a></li>
 <li><a href="/comments/20210816/1607389.md" target="_blank">当银河遇上仙女——夜空中的一支舞</a></li>
 <li><a href="/comments/20210816/1607387.md" target="_blank">秦晋：这个世界很危险——塔利班卷土重来的警示</a></li>
 <li><a href="/comments/20210816/1607354.md" target="_blank">神学士掌权更好？胡锡进为呛美离谱发言 中国网友也看不下去</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210816/1607242.md" target="_blank">面对武汉肺炎病毒，人体自有天然免疫力</a></li>
 <li><a href="/comments/20210816/1607241.md" target="_blank">合掌瓜超营养！能促进孩童智力发展</a></li>
 <li><a href="/comments/20210816/1607234.md" target="_blank">阿富汗失守 美参谋长联席会主席：恐袭威胁升级</a></li>
-<li><a href="/comments/20210816/1607230.md" target="_blank">用更智能的方式 减少家庭食物浪费的14种方法</a></li>
-<li><a href="/comments/20210816/1607194.md" target="_blank">阿富汗喀布尔沦落 阿富汗总统逃离 政府曾欲求助中共与虎谋皮；任期将结束 默克尔赶赴俄罗斯乌克兰访问【希望之声TV-每日头条-2021/8/15】</a></li>
-<li><a href="/comments/20210816/1607193.md" target="_blank">世卫建新小组查起源 专家有建议；美三艘最强大“海狼”核潜艇同现太平洋；不敌国安法 民阵解散【希望之声-午夜新闻-2021/08/15】</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
 <li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20210611/1564824.md" target="_blank">【曾铮专栏】感悟神韵（之一）神韵的主旨</a></li>
 <li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
 
 </ul>
 </div>
