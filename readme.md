@@ -11,14 +11,14 @@
 <li><a href="/topimagenews/20210816/1607164.md">国保总队长投案自首 现罕见一幕！竟然肩扛包袱 手推箱子【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20210816/1606907.md">放着灭绝全人类的课题不研究，跑来给张文宏医生挖坑</a></li>
 <li><a href="/ssgc/20210816/1606985.md">〖兲朝浮世绘〗说实话的代价：中共一定要把张文宏“批倒批臭”</a></li>
+<li><a href="/cnnews/20210816/1607021.md">塔利班接管阿富汗 财经网美曝这事：中共衰爆</a></li>
 <li><a href="/yule/20210816/1606875.md">律师曝吴亦凡案情严重，涉嫌多次作案、结伙作案‘</a></li>
 <li><a href="/cnnews/20210816/1606942.md">塔利班重夺政权 阿富汗总统发声：离开是为了…</a></li>
-<li><a href="/cnnews/20210816/1607021.md">塔利班接管阿富汗 财经网美曝这事：中共衰爆</a></li>
-<li><a href="/ssgc/20210816/1606893.md">世卫呼吁对武汉病毒所之外另一实验室进行审查</a></li>
 <li><a href="/health/20210816/1607254.md">吃一次相当于10杯牛奶，骨科主任：若你爱吃，骨骼会很高兴</a></li>
-<li><a href="/baitai/20210816/1607236.md">十年砍柴｜塔利班赢了，你高兴个啥？</a></li>
-<li><a href="/ccpdope/20210816/1607166.md">博文被删：一个人要多贱才会去舔他利班</a></li>
+<li><a href="/ssgc/20210816/1606893.md">世卫呼吁对武汉病毒所之外另一实验室进行审查</a></li>
 <li><a href="/bannedvideo/20210816/1607199.md">网曝8月15日，在扬州封区、封户之际，一个扬州女公务员、曾作为所谓的“党课主讲人”，似乎再也无法忍受被封闭，在警察的眼皮下面闯关出行，遭警察抓捕被隔离。</a></li>
+<li><a href="/ccpdope/20210816/1607166.md">博文被删：一个人要多贱才会去舔他利班</a></li>
+<li><a href="/baitai/20210816/1607236.md">十年砍柴｜塔利班赢了，你高兴个啥？</a></li>
 <li><a href="/topimagenews/20210816/1607237.md">中纪委痛批省公安厅长结交“政治骗子” 移送法办仅仅是开始？【阿波罗网报道】</a></li>
 <li><a href="/baitai/20210816/1606944.md">拜登上台后，世界都变了</a></li>
 <li><a href="/comments/20210816/1607175.md">李燕铭：张哲瀚遭全面封杀退圈 张哲瀚是谁的儿子？惊人家境背景曝光 张哲瀚老板赵薇《ELLE》九月刊或撤销 《ELLE》八月刊是吴亦凡 被网友质疑力撑张哲瀚 知名作家斩鞍与童瑶丈夫王冉微博账号被禁言 牵连到中共开国上将孙女柯蓝 文宣系统掀清洗风暴 娱乐圈大震荡（八）</a></li>
@@ -26,8 +26,8 @@
 <li><a href="/health/20210816/1606989.md">一个广东女人的早餐，走红朋友圈，网友:难怪40岁了，气色这么好</a></li>
 <li><a href="/comments/20210816/1607037.md">习核心稳不稳？北戴河会后几波重磅信息扑面而来</a></li>
 <li><a href="/worldnews/20210816/1606948.md">被迫交出未成年女儿 阿富汗女性暗黑时代将来临</a></li>
+<li><a href="/comments/20210816/1607299.md">李燕铭：习近平北戴河会后第一击！四名省部级高官同日被查处 官方通报现特别罪名暗示涉政变反习活动 习剑指江泽民曾庆红赵乐际孟建柱郭声琨 敲打李克强胡春华 习近平全面出击 二十大前高层厮杀大戏开场 中南海惊涛骇浪 好戏还在后头</a></li>
 <li><a href="/health/20210816/1606987.md">97岁院士呼吁停止食用，比肥肉还伤血管，家人尽早撤下餐桌</a></li>
-<li><a href="/cbnews/20210816/1606927.md">还散发着香气！山西小山村唐朝古寺 竟有千年女肉身菩萨</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210817/1607471.md" target="_blank">这种被人丢弃的食材是治疗肾病的无价之宝</a></li>
+<li><a href="/comments/20210817/1607463.md" target="_blank">中国强迫接种疫苗 网友“三十年前强制打胎，三十年后强制打针”</a></li>
 <li><a href="/comments/20210816/1607440.md" target="_blank">幻梦回魂：中国青年毛派的崛起</a></li>
 <li><a href="/comments/20210816/1607439.md" target="_blank">习拜会关山重重 美中对峙成定盘</a></li>
 <li><a href="/comments/20210816/1607407.md" target="_blank">沈阳副市长、公安局长杨建军落马 习近平进一步清除辽宁帮</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210816/1607276.md" target="_blank">原拟投诉白衣人案法官 “华记”：忧藐视法庭 与李璧而割席 李：佢入世未深</a></li>
 <li><a href="/comments/20210816/1607275.md" target="_blank">附和《人民日报》批律师会 郑若骅：应致力保持专业而非政治化</a></li>
 <li><a href="/comments/20210816/1607259.md" target="_blank">俄罗斯外交部：尚未承认塔利班是阿富汗合法政权</a></li>
-<li><a href="/comments/20210816/1607244.md" target="_blank">一次受访中 川普介绍了他送给子女的人生谏言</a></li>
-<li><a href="/comments/20210816/1607243.md" target="_blank">海带不是海带芽？ 如何选购、保存</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20210611/1564824.md" target="_blank">【曾铮专栏】感悟神韵（之一）神韵的主旨</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
 <li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
 
 </ul>
 </div>
