@@ -12,22 +12,22 @@
 <li><a href="/cnnews/20210816/1607021.md">塔利班接管阿富汗 财经网美曝这事：中共衰爆</a></li>
 <li><a href="/ssgc/20210816/1606985.md">〖兲朝浮世绘〗说实话的代价：中共一定要把张文宏“批倒批臭”</a></li>
 <li><a href="/cnnews/20210816/1606942.md">塔利班重夺政权 阿富汗总统发声：离开是为了…</a></li>
-<li><a href="/health/20210816/1607254.md">吃一次相当于10杯牛奶，骨科主任：若你爱吃，骨骼会很高兴</a></li>
 <li><a href="/ssgc/20210816/1606893.md">世卫呼吁对武汉病毒所之外另一实验室进行审查</a></li>
+<li><a href="/health/20210816/1607254.md">吃一次相当于10杯牛奶，骨科主任：若你爱吃，骨骼会很高兴</a></li>
 <li><a href="/comments/20210816/1607299.md">李燕铭：习近平北戴河会后第一击！四名省部级高官同日被查处 官方通报现特别罪名暗示涉政变反习活动 习剑指江泽民曾庆红赵乐际孟建柱郭声琨 敲打李克强胡春华 习近平全面出击 二十大前高层厮杀大戏开场 中南海惊涛骇浪 好戏还在后头</a></li>
 <li><a href="/bannedvideo/20210816/1607199.md">网曝8月15日，在扬州封区、封户之际，一个扬州女公务员、曾作为所谓的“党课主讲人”，似乎再也无法忍受被封闭，在警察的眼皮下面闯关出行，遭警察抓捕被隔离。</a></li>
 <li><a href="/ccpdope/20210816/1607166.md">博文被删：一个人要多贱才会去舔他利班</a></li>
+<li><a href="/baitai/20210816/1606944.md">拜登上台后，世界都变了</a></li>
 <li><a href="/baitai/20210816/1607236.md">十年砍柴｜塔利班赢了，你高兴个啥？</a></li>
 <li><a href="/topimagenews/20210816/1607237.md">中纪委痛批省公安厅长结交“政治骗子” 移送法办仅仅是开始？【阿波罗网报道】</a></li>
-<li><a href="/baitai/20210816/1606944.md">拜登上台后，世界都变了</a></li>
 <li><a href="/comments/20210816/1607175.md">李燕铭：张哲瀚遭全面封杀退圈 张哲瀚是谁的儿子？惊人家境背景曝光 张哲瀚老板赵薇《ELLE》九月刊或撤销 《ELLE》八月刊是吴亦凡 被网友质疑力撑张哲瀚 知名作家斩鞍与童瑶丈夫王冉微博账号被禁言 牵连到中共开国上将孙女柯蓝 文宣系统掀清洗风暴 娱乐圈大震荡（八）</a></li>
-<li><a href="/comments/20210816/1607037.md">习核心稳不稳？北戴河会后几波重磅信息扑面而来</a></li>
-<li><a href="/cnnews/20210816/1606902.md">只是吃一块面包 大陆男童大小便失禁亡</a></li>
 <li><a href="/cbnews/20210816/1607356.md">网友爆料：护照过期，工作人员百般刁难不予办理</a></li>
-<li><a href="/health/20210816/1606989.md">一个广东女人的早餐，走红朋友圈，网友:难怪40岁了，气色这么好</a></li>
+<li><a href="/comments/20210816/1607037.md">习核心稳不稳？北戴河会后几波重磅信息扑面而来</a></li>
 <li><a href="/worldnews/20210816/1606948.md">被迫交出未成年女儿 阿富汗女性暗黑时代将来临</a></li>
+<li><a href="/cnnews/20210816/1606902.md">只是吃一块面包 大陆男童大小便失禁亡</a></li>
+<li><a href="/health/20210816/1606989.md">一个广东女人的早餐，走红朋友圈，网友:难怪40岁了，气色这么好</a></li>
 <li><a href="/cbnews/20210816/1607390.md">阿富汗变天：塔利班是谁？背后有哪些势力？</a></li>
-<li><a href="/cbnews/20210816/1606927.md">还散发着香气！山西小山村唐朝古寺 竟有千年女肉身菩萨</a></li>
+<li><a href="/topimagenews/20210816/1607386.md">大批阿富汗人机场惊恐逃离 3人抱飞机轮子高空坠落丧命</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210817/1607523.md" target="_blank">免落入神学士之手 美派军机“搞定”阿机场；阿富汗局面狼狈 拜登推责？遭前政府驳斥；习拜会关山重重【希望之声TV-环球看点-2021/8/15】</a></li>
 <li><a href="/cbnews/20210817/1607506.md" target="_blank">中、美5大关卡横逆在前 专家 : “习拜会”前景不乐观</a></li>
 <li><a href="/cbnews/20210817/1607505.md" target="_blank">公公“求欢24岁儿媳”遭拒恼羞砍杀 逃亡10年被逮捕</a></li>
 <li><a href="/cbnews/20210817/1607493.md" target="_blank">共军秘密部署？美“眼镜蛇球”杭州湾外徘徊 美日多舰会聚东海</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/comments/20210815/1606747.md" target="_blank">唯美之灵信仰和古希腊自由观之间的原则区别（上集）（东方哲人解析当代人类困惑  第四十七讲）【袁红冰杏坛】 08152021</a></li>
 <li><a href="/cbnews/20210815/1606685.md" target="_blank">人民日报再释左转信号！吹捧延安文艺座谈会为里程碑【阿波罗网报道】</a></li>
 <li><a href="/comments/20210815/1606646.md" target="_blank">叫板中共！美军正进行史上最大规模军演，全球各地的美国海军陆战队员和海军士兵参加，海岸防卫队4500吨海巡舰“穆洛号”已在西太平洋部署【希望之声-午夜新闻-2021/08/</a></li>
-<li><a href="/cbnews/20210815/1606640.md" target="_blank">孟晚舟引渡成定案？学者：中共犯战略错误</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,12 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210817/1607523.md" target="_blank">免落入神学士之手 美派军机“搞定”阿机场；阿富汗局面狼狈 拜登推责？遭前政府驳斥；习拜会关山重重【希望之声TV-环球看点-2021/8/15】</a></li>
+<li><a href="/comments/20210817/1607520.md" target="_blank">中国强迫接种疫苗 网友：三十年前强制打胎，三十年后强制打针</a></li>
+<li><a href="/comments/20210817/1607519.md" target="_blank">【羊村绘本案】言语治疗师总工会主席黎雯龄狱中书：即使身陷囹圄，不能放弃思考</a></li>
+<li><a href="/comments/20210817/1607518.md" target="_blank">默克尔：德国将从阿富汗撤离一万阿富汗人</a></li>
+<li><a href="/comments/20210817/1607517.md" target="_blank">李燕铭：北戴河秘密会议结束 会期远超往年 李克强抢先栗战书现身北京开国常会 北戴河会议一惯例再被打破 高层搏杀激烈 北戴河会刚结束习近平就有大动作</a></li>
+<li><a href="/comments/20210817/1607516.md" target="_blank">【笑看世界专栏】原创音乐：品味古诗+欣赏音乐 《梅花》</a></li>
 <li><a href="/comments/20210817/1607512.md" target="_blank">美国经济二季度增长12.2% 远超中国的7.9%</a></li>
 <li><a href="/comments/20210817/1607501.md" target="_blank">为什么说“郑州水灾”的大洪水是从自己手中来的？</a></li>
 <li><a href="/comments/20210817/1607488.md" target="_blank">胡锡进讽美政权交接不如阿富汗 网酸︰中共从未政权交接</a></li>
@@ -117,12 +123,6 @@
 <li><a href="/comments/20210816/1607389.md" target="_blank">当银河遇上仙女——夜空中的一支舞</a></li>
 <li><a href="/comments/20210816/1607387.md" target="_blank">秦晋：这个世界很危险——塔利班卷土重来的警示</a></li>
 <li><a href="/comments/20210816/1607354.md" target="_blank">神学士掌权更好？胡锡进为呛美离谱发言 中国网友也看不下去</a></li>
-<li><a href="/comments/20210816/1607353.md" target="_blank">胡锡进推特讽美政权交接不如阿富汗 网酸︰中国(共)从未政权交接</a></li>
-<li><a href="/comments/20210816/1607351.md" target="_blank">塔利班即将宣布建国 中共态度可疑；76年的谎言 前党校教师蔡霞8·15发文；秦刚身边少了一个人？【希望之声-两岸要闻-2021/08/16】</a></li>
-<li><a href="/comments/20210816/1607340.md" target="_blank">新闻环境恶化 无国界记者吁中共释放被捕外国记者</a></li>
-<li><a href="/comments/20210816/1607329.md" target="_blank">【任甄评论】网民出征成瘾 完全忠诚所致</a></li>
-<li><a href="/comments/20210816/1607321.md" target="_blank">教协民阵解散 邓炳强：罪行不因解散辞任消失 否则法治难彰显</a></li>
-<li><a href="/comments/20210816/1607302.md" target="_blank">当今的中国，正在批量生产“太监”</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
 <li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
 
 </ul>
 </div>
