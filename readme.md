@@ -12,7 +12,6 @@
 <li><a href="/renquan/20210817/1607716.md">从大规模处罚翻墙者看中共违宪侵权的疯狂</a></li>
 <li><a href="/health/20210817/1607888.md">吃一次等于喝一桶油，56岁男子查出脑梗塞，因经常吃2种早餐</a></li>
 <li><a href="/cnnews/20210817/1607951.md">美为何抛弃阿富汗？白宫1句话就够了；塔利班随时对中共翻脸 中共没钱了</a></li>
-<li><a href="/health/20210817/1607562.md">轻度抑郁症的人，多半会有这5句“口头禅”，希望你一句都没说过</a></li>
 <li><a href="/comments/20210817/1607804.md">华春莹公开回应塔利班 学者揭背后内幕；新疆也沦陷  阿拉山口封城  飞机停飞；北戴河密会结束后  李克强首度公开露面；【希望之声-红朝禁闻-2021/08/16】</a></li>
 <li><a href="/comments/20210817/1607875.md">商讨对塔利班追责 欧盟外长和G7将开紧急会；中共为塔利班“洗白” 网民抨击【希望之声-午夜新闻-2021/08/16】</a></li>
 <li><a href="/ssgc/20210817/1607861.md">中国经济反弹告终 经济学者 : “从滞胀进入衰退”</a></li>
@@ -27,7 +26,8 @@
 <li><a href="/health/20210817/1607722.md">河北一男子坚持吃花生养肝，两个月后，怎么样了？</a></li>
 <li><a href="/baitai/20210817/1607920.md">鬼首天龙：告别已经开始，各位且行且珍惜</a></li>
 <li><a href="/cnnews/20210817/1607847.md">跟毛上天安门城楼 罗瑞卿竟然对毛的生活细节一无所知</a></li>
-<li><a href="/funmedia/20210817/1607561.md">日本男子回家，为什么都要先喊一句“我回来了”?</a></li>
+<li><a href="/baitai/20210817/1607910.md">沉雁：先把话撂这，即便核查张文宏抄袭属实，我们对他的力挺坚若磐石</a></li>
+<li><a href="/bannedvideo/20210817/1607666.md">《石涛聚焦》“川普怒火四射：怎可能先撤军人 把国人与恩人扔下”</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210818/1608175.md" target="_blank">北京要求补习机构设“党组织” 贯彻党的教育方针</a></li>
+<li><a href="/cbnews/20210818/1608174.md" target="_blank">上海男子在别墅小区修剪自家买的香樟树 被罚14万超傻眼 冲上热搜</a></li>
 <li><a href="/cbnews/20210818/1608142.md" target="_blank">惊世骇俗！中国大陆小学生找妓女回家气晕父母 一顿暴打</a></li>
 <li><a href="/comments/20210818/1608108.md" target="_blank">胡锡进奉命说胡话：阿富汗是明日台湾？中共险恶用心大暴露；北戴河会刚结束 中南海两天处理七省部级高官；京沪赴美航班爆满 十万机票价挡不住【希望之声TV-环球看点-2021/8/17】</a></li>
 <li><a href="/cbnews/20210818/1608099.md" target="_blank">塔利班童子军扛着铲子走在罂粟田里 大陆网友神配乐《南泥湾》 一曲同工？</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/cbnews/20210817/1607578.md" target="_blank">专栏 | 夜话中南海：罂粟种植和鸦片贸易是中共抗战时代发展壮大的经济基础</a></li>
 <li><a href="/comments/20210817/1607523.md" target="_blank">免落入神学士之手 美派军机“搞定”阿机场；阿富汗局面狼狈 拜登推责？遭前政府驳斥；习拜会关山重重【希望之声TV-环球看点-2021/8/15】</a></li>
 <li><a href="/cbnews/20210817/1607506.md" target="_blank">中、美5大关卡横逆在前 专家 : “习拜会”前景不乐观</a></li>
-<li><a href="/cbnews/20210817/1607505.md" target="_blank">公公“求欢24岁儿媳”遭拒恼羞砍杀 逃亡10年被逮捕</a></li>
-<li><a href="/cbnews/20210817/1607493.md" target="_blank">共军秘密部署？美“眼镜蛇球”杭州湾外徘徊 美日多舰会聚东海</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210818/1608171.md" target="_blank">林彪刘少奇叶剑英李先念陈云五名副主席内部或私下批判毛泽东 言论曝光 杨开慧骂毛泽东生活流氓政治流氓 赫鲁晓夫：毛泽东是亘古未有天才杀人艺术家 只会杀中国人！中南海不可告人的秘密_439</a></li>
 <li><a href="/comments/20210818/1608137.md" target="_blank">中共称“禁止不正当竞争” 中港股市大跌</a></li>
 <li><a href="/comments/20210818/1608135.md" target="_blank">美国冻结阿富汗在美资产  副总统：不会投降</a></li>
 <li><a href="/comments/20210818/1608108.md" target="_blank">胡锡进奉命说胡话：阿富汗是明日台湾？中共险恶用心大暴露；北戴河会刚结束 中南海两天处理七省部级高官；京沪赴美航班爆满 十万机票价挡不住【希望之声TV-环球看点-2021/8/17】</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210817/1607772.md" target="_blank">塔利班闪电卷土重来的真正原因 — 曾节明</a></li>
 <li><a href="/comments/20210817/1608009.md" target="_blank">美参议员称 3 万美军驻台 环时：若属实中国立即出兵解放台湾 台军方：说法错误</a></li>
 <li><a href="/comments/20210817/1608008.md" target="_blank">美军运输机狂塞800人？官员曝正确人数 机内“挤爆”照曝光</a></li>
-<li><a href="/comments/20210817/1608007.md" target="_blank">苏揆坚信台湾不是阿富汗 路透：警告中共勿“妄想”夺台</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
 <li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
 
 </ul>
 </div>
