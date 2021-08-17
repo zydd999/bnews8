@@ -5,9 +5,7 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/cbnews/20210816/1607390.md">阿富汗变天：塔利班是谁？背后有哪些势力？</a></li>
 <li><a href="/cnnews/20210817/1607476.md">中共党媒微博发文推广塔利班 民众跟帖评论翻车 博文短命删除</a></li>
-<li><a href="/ssgc/20210816/1607392.md">党媒军报齐批张文宏 混战背后不简单</a></li>
 <li><a href="/topimagenews/20210817/1607475.md">美国抛弃阿富汗？ 白宫国安顾问：撤军是因为“他们不想为自己而战”</a></li>
 <li><a href="/cbnews/20210817/1607505.md">公公“求欢24岁儿媳”遭拒恼羞砍杀 逃亡10年被逮捕</a></li>
 <li><a href="/yule/20210817/1607528.md">最美空姐离婚开导文震撼网 她曝光真实夫妻情</a></li>
@@ -24,10 +22,12 @@
 <li><a href="/comments/20210817/1607804.md">华春莹公开回应塔利班 学者揭背后内幕；新疆也沦陷  阿拉山口封城  飞机停飞；北戴河密会结束后  李克强首度公开露面；【希望之声-红朝禁闻-2021/08/16】</a></li>
 <li><a href="/cnnews/20210816/1607406.md">他挪用医院1千万美元打赏儿媳裸聊直播 分赃60%</a></li>
 <li><a href="/comments/20210817/1607778.md">钱多到飞机装不下洒在跑道上 阿富汗总统出逃落脚国家曝光</a></li>
-<li><a href="/headline/20210817/1607524.md">塔利班引爆中国网络：一片声骂美国</a></li>
 <li><a href="/finance/20210817/1607608.md">华尔街日报：中国经济复苏正失去动能</a></li>
+<li><a href="/headline/20210817/1607524.md">塔利班引爆中国网络：一片声骂美国</a></li>
 <li><a href="/cbnews/20210817/1607605.md">文昭：阿富汗闪电变天，啥严重後果、台湾下一个被抛弃？「帝国坟场」欢迎你</a></li>
 <li><a href="/comments/20210817/1607799.md">北戴河会后李克强首露面就喊压力大</a></li>
+<li><a href="/health/20210817/1607722.md">河北一男子坚持吃花生养肝，两个月后，怎么样了？</a></li>
+<li><a href="/headline/20210817/1607848.md">许家印卸任恒大地产董事长</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,12 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210817/1608016.md" target="_blank">全球疫情已造成人类巨难　出路何在？</a></li>
+<li><a href="/comments/20210817/1607464.md" target="_blank">八年抗战胜利纪念</a></li>
+<li><a href="/comments/20210817/1608011.md" target="_blank">阿富汗的国家建构何以失败？</a></li>
+<li><a href="/comments/20210817/1607772.md" target="_blank">塔利班闪电卷土重来的真正原因 — 曾节明</a></li>
+<li><a href="/comments/20210817/1608009.md" target="_blank">美参议员称 3 万美军驻台 环时：若属实中国立即出兵解放台湾 台军方：说法错误</a></li>
+<li><a href="/comments/20210817/1608008.md" target="_blank">美军运输机狂塞800人？官员曝正确人数 机内“挤爆”照曝光</a></li>
 <li><a href="/comments/20210817/1608007.md" target="_blank">苏揆坚信台湾不是阿富汗 路透：警告中共勿“妄想”夺台</a></li>
 <li><a href="/comments/20210817/1607997.md" target="_blank">中共政府间接持有字节跳动和微博股份</a></li>
 <li><a href="/comments/20210817/1607996.md" target="_blank">俄新运输机试飞意外坠落 机上人员全部遇难</a></li>
@@ -117,12 +123,6 @@
 <li><a href="/comments/20210817/1607902.md" target="_blank">日本将利用AI分析卫星数据 加强监视可疑船只</a></li>
 <li><a href="/comments/20210817/1607901.md" target="_blank">夏去秋来，秋季如何养生？</a></li>
 <li><a href="/comments/20210817/1607900.md" target="_blank">降血糖药引发低血糖症状？</a></li>
-<li><a href="/comments/20210817/1607899.md" target="_blank">武肺患者愈后癌化率高吗？</a></li>
-<li><a href="/comments/20210817/1607898.md" target="_blank">中药古今研究：姜黄</a></li>
-<li><a href="/comments/20210817/1607897.md" target="_blank">英式下午茶的诱惑</a></li>
-<li><a href="/comments/20210817/1607896.md" target="_blank">中共暴政对武装反抗运动和V字旅的应变策略方案（习近平的“当前重点问题应变策略”揭密   第五讲）【袁红冰纵论天下】特别专题 08172021</a></li>
-<li><a href="/comments/20210817/1607875.md" target="_blank">商讨对塔利班追责 欧盟外长和G7将开紧急会；中共为塔利班“洗白” 网民抨击【希望之声-午夜新闻-2021/08/16】</a></li>
-<li><a href="/comments/20210817/1607867.md" target="_blank">一天之内4省部级官员被处理 与江曾派系有牵连 习近平“倒查”不手软</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
 <li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
 <li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
-<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/comments/20210329/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
 
 </ul>
 </div>
