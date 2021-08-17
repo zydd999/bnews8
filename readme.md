@@ -13,15 +13,15 @@
 <li><a href="/health/20210817/1607888.md">吃一次等于喝一桶油，56岁男子查出脑梗塞，因经常吃2种早餐</a></li>
 <li><a href="/cnnews/20210817/1607951.md">美为何抛弃阿富汗？白宫1句话就够了；塔利班随时对中共翻脸 中共没钱了</a></li>
 <li><a href="/comments/20210817/1607804.md">华春莹公开回应塔利班 学者揭背后内幕；新疆也沦陷  阿拉山口封城  飞机停飞；北戴河密会结束后  李克强首度公开露面；【希望之声-红朝禁闻-2021/08/16】</a></li>
-<li><a href="/comments/20210817/1607875.md">商讨对塔利班追责 欧盟外长和G7将开紧急会；中共为塔利班“洗白” 网民抨击【希望之声-午夜新闻-2021/08/16】</a></li>
 <li><a href="/ssgc/20210817/1607861.md">中国经济反弹告终 经济学者 : “从滞胀进入衰退”</a></li>
+<li><a href="/comments/20210817/1607875.md">商讨对塔利班追责 欧盟外长和G7将开紧急会；中共为塔利班“洗白” 网民抨击【希望之声-午夜新闻-2021/08/16】</a></li>
 <li><a href="/bannedvideo/20210817/1607873.md">川普催促拜登辞职  美媒：拜登是史上最可耻的美军总司令下令撤退</a></li>
 <li><a href="/ssgc/20210817/1607677.md">〖兲朝浮世绘〗中共吓唬台湾自比塔利班 露出丑恶真面目</a></li>
 <li><a href="/comments/20210817/1607778.md">钱多到飞机装不下洒在跑道上 阿富汗总统出逃落脚国家曝光</a></li>
 <li><a href="/finance/20210817/1607608.md">华尔街日报：中国经济复苏正失去动能</a></li>
 <li><a href="/bannedvideo/20210817/1607950.md">陈破空：张文宏突遭大批判！幕后有来头：习近平要打倒接班人？吞不下北戴河那口气</a></li>
-<li><a href="/headline/20210817/1607848.md">许家印卸任恒大地产董事长</a></li>
 <li><a href="/comments/20210817/1607799.md">北戴河会后李克强首露面就喊压力大</a></li>
+<li><a href="/headline/20210817/1607848.md">许家印卸任恒大地产董事长</a></li>
 <li><a href="/cbnews/20210817/1607605.md">文昭：阿富汗闪电变天，啥严重後果、台湾下一个被抛弃？「帝国坟场」欢迎你</a></li>
 <li><a href="/health/20210817/1607722.md">河北一男子坚持吃花生养肝，两个月后，怎么样了？</a></li>
 <li><a href="/baitai/20210817/1607920.md">鬼首天龙：告别已经开始，各位且行且珍惜</a></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210818/1608184.md" target="_blank">阿富汗沦陷 美弃台论再起 专家：美国需要台湾</a></li>
 <li><a href="/cbnews/20210818/1608175.md" target="_blank">北京要求补习机构设“党组织” 贯彻党的教育方针</a></li>
 <li><a href="/cbnews/20210818/1608174.md" target="_blank">上海男子在别墅小区修剪自家买的香樟树 被罚14万超傻眼 冲上热搜</a></li>
 <li><a href="/cbnews/20210818/1608142.md" target="_blank">惊世骇俗！中国大陆小学生找妓女回家气晕父母 一顿暴打</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210817/1607605.md" target="_blank">文昭：阿富汗闪电变天，啥严重後果、台湾下一个被抛弃？「帝国坟场」欢迎你</a></li>
 <li><a href="/cbnews/20210817/1607578.md" target="_blank">专栏 | 夜话中南海：罂粟种植和鸦片贸易是中共抗战时代发展壮大的经济基础</a></li>
 <li><a href="/comments/20210817/1607523.md" target="_blank">免落入神学士之手 美派军机“搞定”阿机场；阿富汗局面狼狈 拜登推责？遭前政府驳斥；习拜会关山重重【希望之声TV-环球看点-2021/8/15】</a></li>
-<li><a href="/cbnews/20210817/1607506.md" target="_blank">中、美5大关卡横逆在前 专家 : “习拜会”前景不乐观</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
 <li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
+<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
 
 </ul>
 </div>
