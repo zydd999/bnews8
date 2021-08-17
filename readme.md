@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/topimagenews/20210816/1607164.md">国保总队长投案自首 现罕见一幕！竟然肩扛包袱 手推箱子【阿波罗网报道】</a></li>
-<li><a href="/cnnews/20210816/1607021.md">塔利班接管阿富汗 财经网美曝这事：中共衰爆</a></li>
 <li><a href="/health/20210816/1607254.md">吃一次相当于10杯牛奶，骨科主任：若你爱吃，骨骼会很高兴</a></li>
 <li><a href="/bannedvideo/20210816/1607199.md">网曝8月15日，在扬州封区、封户之际，一个扬州女公务员、曾作为所谓的“党课主讲人”，似乎再也无法忍受被封闭，在警察的眼皮下面闯关出行，遭警察抓捕被隔离。</a></li>
 <li><a href="/ccpdope/20210816/1607166.md">博文被删：一个人要多贱才会去舔他利班</a></li>
@@ -17,17 +16,18 @@
 <li><a href="/topimagenews/20210817/1607475.md">美国抛弃阿富汗？ 白宫国安顾问：撤军是因为“他们不想为自己而战”</a></li>
 <li><a href="/topimagenews/20210816/1607386.md">大批阿富汗人机场惊恐逃离 3人抱飞机轮子高空坠落丧命</a></li>
 <li><a href="/topimagenews/20210816/1607237.md">中纪委痛批省公安厅长结交“政治骗子” 移送法办仅仅是开始？【阿波罗网报道】</a></li>
-<li><a href="/ssgc/20210816/1607392.md">党媒军报齐批张文宏 混战背后不简单</a></li>
 <li><a href="/baitai/20210816/1607236.md">十年砍柴｜塔利班赢了，你高兴个啥？</a></li>
+<li><a href="/ssgc/20210816/1607392.md">党媒军报齐批张文宏 混战背后不简单</a></li>
 <li><a href="/cbnews/20210817/1607505.md">公公“求欢24岁儿媳”遭拒恼羞砍杀 逃亡10年被逮捕</a></li>
 <li><a href="/comments/20210816/1607037.md">习核心稳不稳？北戴河会后几波重磅信息扑面而来</a></li>
 <li><a href="/yule/20210817/1607528.md">最美空姐离婚开导文震撼网 她曝光真实夫妻情</a></li>
 <li><a href="/comments/20210817/1607535.md">塔利班占领喀布尔 阿富汗妇女、女童沦为性奴 华春莹公开表态</a></li>
 <li><a href="/comments/20210816/1607175.md">李燕铭：张哲瀚遭全面封杀退圈 张哲瀚是谁的儿子？惊人家境背景曝光 张哲瀚老板赵薇《ELLE》九月刊或撤销 《ELLE》八月刊是吴亦凡 被网友质疑力撑张哲瀚 知名作家斩鞍与童瑶丈夫王冉微博账号被禁言 牵连到中共开国上将孙女柯蓝 文宣系统掀清洗风暴 娱乐圈大震荡（八）</a></li>
 <li><a href="/cbnews/20210816/1607436.md">突发！吴亦凡涉嫌强奸罪正式被逮捕</a></li>
-<li><a href="/cnnews/20210816/1607035.md">美智库打脸胡锡进：美国愿为退出阿富汗付出高昂代价 目光认真转向太平洋的信号</a></li>
 <li><a href="/comments/20210817/1607551.md">张昆阳宣布留美申政庇 将于约翰霍普金斯大学读硕士</a></li>
+<li><a href="/cnnews/20210816/1607035.md">美智库打脸胡锡进：美国愿为退出阿富汗付出高昂代价 目光认真转向太平洋的信号</a></li>
 <li><a href="/bannedvideo/20210816/1607297.md">张文宏沉默了；钟南山发财了；赵盛烨追热点赚狗粮了！</a></li>
+<li><a href="/cbnews/20210816/1607184.md">天亮时分：索罗斯称习近平为“最大的敌人”；打吴亦凡和张文宏，背后是一个逻辑；阿富汗全面沦陷，习近平心中窃喜；世界最大的担忧是什么？（政论天下第488集 20210815）</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210817/1607775.md" target="_blank">疫情洪灾齐袭中国 李克强坦诚：就业压力大</a></li>
+<li><a href="/comments/20210817/1607773.md" target="_blank">美共和党党鞭：应教育民众接种疫苗 而非歧视</a></li>
 <li><a href="/comments/20210817/1607756.md" target="_blank">拜登回应阿富汗崩溃：这确实比我们预期的更快</a></li>
 <li><a href="/comments/20210817/1607754.md" target="_blank">【微博精粹】索罗斯一夜和习近平翻车 只为自己钱包瘪了吗</a></li>
 <li><a href="/comments/20210817/1607753.md" target="_blank">远见快评：阿富汗变天 谁是赢家？</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210817/1607623.md" target="_blank">纽约州议会宣布：将继续对库默的调查</a></li>
 <li><a href="/comments/20210817/1607622.md" target="_blank">美会像对阿富汗一样对台湾吗？美前国防官员如是说</a></li>
 <li><a href="/comments/20210817/1607621.md" target="_blank">刘琨：中共五花大绑能否控住高房价？</a></li>
-<li><a href="/comments/20210817/1607574.md" target="_blank">金融巨鳄索罗斯二季度清仓腾讯音乐</a></li>
-<li><a href="/comments/20210817/1607551.md" target="_blank">张昆阳宣布留美申政庇 将于约翰霍普金斯大学读硕士</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/comments/20210611/1564824.md" target="_blank">【曾铮专栏】感悟神韵（之一）神韵的主旨</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持 9折优惠中</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
 
 </ul>
 </div>
