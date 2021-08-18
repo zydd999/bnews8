@@ -25,8 +25,8 @@
 <li><a href="/comments/20210818/1608657.md">张杰：中共再不悬崖勒马 经济真的就崩了</a></li>
 <li><a href="/comments/20210818/1608538.md">阿富汗副总统坚守最后据点； 中共囤粮备战？【希望之声-午夜新闻-2021/08/17】</a></li>
 <li><a href="/comments/20210818/1608660.md">一个日本阿姨撑起了中国华语乐坛的半壁江山？</a></li>
-<li><a href="/baitai/20210818/1608559.md">假装在东京｜成功激怒全体在日华人的“抗日小能手”事件始末</a></li>
 <li><a href="/worldnews/20210818/1608723.md">打脸中国官媒！立陶宛国铁证实：中方确已突然中断货运</a></li>
+<li><a href="/baitai/20210818/1608559.md">假装在东京｜成功激怒全体在日华人的“抗日小能手”事件始末</a></li>
 <li><a href="/headline/20210818/1608561.md">北戴河休假期结束 中国官场习嫡系3后起之秀仕途再受瞩目</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210819/1608881.md" target="_blank">文昭：阿富汗会上演「李自成进京」来了又走吗？恒大许家印走人，有大事发生？</a></li>
+<li><a href="/comments/20210819/1608876.md" target="_blank">如何坐江山塔利班也很懵！觊觎阿富汗矿藏中共勾搭塔利班！富人惨了，习近平又开始加速，中共要均贫富了！疯了，习近平要炸掉四万座大坝！【新闻最嘲点 姜光宇】2021.08.18</a></li>
 <li><a href="/cbnews/20210819/1608872.md" target="_blank">日本国防开支即将突破1%的GDP上限 以加强防御中共在东海的威胁</a></li>
 <li><a href="/cbnews/20210819/1608846.md" target="_blank">有信心？WHO：中共会配合第二阶段疫情溯源调查</a></li>
 <li><a href="/cbnews/20210819/1608845.md" target="_blank">贰贰网络老板禁员工在公司用微波炉热便当 “吃冷的或是叫外送” 遭网友吐槽</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/cbnews/20210818/1608184.md" target="_blank">阿富汗沦陷 美弃台论再起 专家：美国需要台湾</a></li>
 <li><a href="/cbnews/20210818/1608175.md" target="_blank">北京要求补习机构设“党组织” 贯彻党的教育方针</a></li>
 <li><a href="/cbnews/20210818/1608174.md" target="_blank">上海男子在别墅小区修剪自家买的香樟树 被罚14万超傻眼 冲上热搜</a></li>
-<li><a href="/cbnews/20210818/1608142.md" target="_blank">惊世骇俗！中国大陆小学生找妓女回家气晕父母 一顿暴打</a></li>
-<li><a href="/comments/20210818/1608108.md" target="_blank">胡锡进奉命说胡话：阿富汗是明日台湾？中共险恶用心大暴露；北戴河会刚结束 中南海两天处理七省部级高官；京沪赴美航班爆满 十万机票价挡不住【希望之声TV-环球看点-2021/8/17】</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210819/1608876.md" target="_blank">如何坐江山塔利班也很懵！觊觎阿富汗矿藏中共勾搭塔利班！富人惨了，习近平又开始加速，中共要均贫富了！疯了，习近平要炸掉四万座大坝！【新闻最嘲点 姜光宇】2021.08.18</a></li>
+<li><a href="/comments/20210819/1608874.md" target="_blank">亲妹遭虐死、恩师被暗杀！阿富汗副总统痛恨塔利班原因曝光</a></li>
 <li><a href="/comments/20210819/1608840.md" target="_blank">逃跑不忘搬现金！阿富汗总统身上“巨额美钞”数字曝光</a></li>
 <li><a href="/comments/20210819/1608835.md" target="_blank">养猪龙头企业温氏股份半年亏损25亿元</a></li>
 <li><a href="/comments/20210819/1608834.md" target="_blank">不可思议！2021年，认证二手车的价格超过新车？</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210819/1608729.md" target="_blank">【国安警拘港大生】李桂华引英法条例指“放诸四海皆准” 翻查资料法国案例罚1,500欧元</a></li>
 <li><a href="/comments/20210818/1608682.md" target="_blank">“金蝉脱壳”？许家印卸任恒大地产董事长 资本和信任现危机</a></li>
 <li><a href="/comments/20210818/1608681.md" target="_blank">评论 | 魏京生：阿富汗局势和台湾有关吗？</a></li>
-<li><a href="/comments/20210818/1608678.md" target="_blank">北京借香港阿富汗打超限战 反作茧自缚？</a></li>
-<li><a href="/comments/20210818/1608661.md" target="_blank">时事大家谈：阿富汗沦陷：美国何所失？中国何所得？</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
 <li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
 <li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
 
 </ul>
 </div>
