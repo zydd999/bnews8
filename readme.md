@@ -20,14 +20,14 @@
 <li><a href="/comments/20210817/1607778.md">钱多到飞机装不下洒在跑道上 阿富汗总统出逃落脚国家曝光</a></li>
 <li><a href="/bannedvideo/20210817/1607950.md">陈破空：张文宏突遭大批判！幕后有来头：习近平要打倒接班人？吞不下北戴河那口气</a></li>
 <li><a href="/comments/20210817/1607799.md">北戴河会后李克强首露面就喊压力大</a></li>
-<li><a href="/headline/20210817/1607848.md">许家印卸任恒大地产董事长</a></li>
 <li><a href="/cbnews/20210818/1608099.md">塔利班童子军扛着铲子走在罂粟田里 大陆网友神配乐《南泥湾》 一曲同工？</a></li>
+<li><a href="/headline/20210817/1607848.md">许家印卸任恒大地产董事长</a></li>
 <li><a href="/baitai/20210817/1607920.md">鬼首天龙：告别已经开始，各位且行且珍惜</a></li>
 <li><a href="/health/20210817/1607722.md">河北一男子坚持吃花生养肝，两个月后，怎么样了？</a></li>
 <li><a href="/baitai/20210817/1607910.md">沉雁：先把话撂这，即便核查张文宏抄袭属实，我们对他的力挺坚若磐石</a></li>
 <li><a href="/cnnews/20210817/1607847.md">跟毛上天安门城楼 罗瑞卿竟然对毛的生活细节一无所知</a></li>
-<li><a href="/bannedvideo/20210817/1607666.md">《石涛聚焦》“川普怒火四射：怎可能先撤军人 把国人与恩人扔下”</a></li>
-<li><a href="/cbnews/20210817/1607837.md">中纪委大动作！7名中管官员被开除党籍 移送司法【阿波罗网报道】</a></li>
+<li><a href="/baitai/20210818/1608140.md">范畴：没有疯，中国只是进入「战时经济」</a></li>
+<li><a href="/topimagenews/20210818/1608131.md">英前司令：塔利班是巴基斯坦养大的 可能反咬夺核武 伊朗、中俄支持塔利班</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210818/1608245.md" target="_blank">白宫国安顾问：拜登政府愿对阿富汗的混乱担责</a></li>
 <li><a href="/comments/20210818/1608235.md" target="_blank">美CDC前主任吁全球：暂停病毒功能增益研究</a></li>
 <li><a href="/comments/20210818/1608234.md" target="_blank">美作家：印尼是美中地缘政治下一个重要角力点</a></li>
 <li><a href="/comments/20210818/1608232.md" target="_blank">谁拿到台湾 谁就控制了亚洲、掌握全世界？赴美学生后机队伍长达千米  十万票价再现【希望之声TV-新闻焦点解读-2021/08/17】主持:高洁  嘉宾：林晓旭</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210818/1608073.md" target="_blank">诗歌篇：《黄金海岸海与山》——作者：钟宏</a></li>
 <li><a href="/comments/20210818/1608072.md" target="_blank">入秋后5种“寿果”要记得给孩子吃</a></li>
 <li><a href="/comments/20210818/1608071.md" target="_blank">【传统文化故事】孙思邈传奇 之 降龙伏虎</a></li>
-<li><a href="/comments/20210818/1608070.md" target="_blank">【薇羽时光】难续前缘，印度女孩的前世记忆</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
 <li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
 <li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
 
 </ul>
 </div>
