@@ -7,8 +7,8 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cbnews/20210818/1608142.md">惊世骇俗！中国大陆小学生找妓女回家气晕父母 一顿暴打</a></li>
 <li><a href="/topimagenews/20210818/1608381.md">中国有钱人惨了！习近平宣布财产将被“调节”</a></li>
-<li><a href="/baitai/20210818/1608140.md">范畴：没有疯，中国只是进入「战时经济」</a></li>
 <li><a href="/cnnews/20210818/1608531.md">突发！四川军工厂发生大爆炸 伤亡人数不详</a></li>
+<li><a href="/baitai/20210818/1608140.md">范畴：没有疯，中国只是进入「战时经济」</a></li>
 <li><a href="/yule/20210818/1608348.md">吴亦凡刑拘锤出一条“大鱼”，京圈人人自危</a></li>
 <li><a href="/topimagenews/20210818/1608412.md">塔利班发言人藏身十多年突现真面目 记者脊背发凉“我们真的知道他们是谁吗？”</a></li>
 <li><a href="/cbnews/20210818/1608174.md">上海男子在别墅小区修剪自家买的香樟树 被罚14万超傻眼 冲上热搜</a></li>
@@ -16,16 +16,16 @@
 <li><a href="/cbnews/20210818/1608099.md">塔利班童子军扛着铲子走在罂粟田里 大陆网友神配乐《南泥湾》 一曲同工？</a></li>
 <li><a href="/cnnews/20210818/1608206.md">习近平出重拳 一天就处理了“四只大老虎”</a></li>
 <li><a href="/topimagenews/20210818/1608433.md">李克强人哪？中共喉舌的报道现反常一幕【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20210818/1608131.md">英前司令：塔利班是巴基斯坦养大的 可能反咬夺核武 伊朗、中俄支持塔利班</a></li>
 <li><a href="/cnnews/20210818/1608539.md">慎入！江苏盐城一交警被一男子持刀追杀 捅胸数刀 满身是血</a></li>
+<li><a href="/topimagenews/20210818/1608131.md">英前司令：塔利班是巴基斯坦养大的 可能反咬夺核武 伊朗、中俄支持塔利班</a></li>
 <li><a href="/comments/20210818/1608424.md">【微博精粹】中共国恐怖消息！ 比塔利班占领阿富汗爆炸100倍</a></li>
 <li><a href="/comments/20210818/1608171.md">林彪刘少奇叶剑英李先念陈云五名副主席内部或私下批判毛泽东 言论曝光 杨开慧骂毛泽东生活流氓政治流氓 赫鲁晓夫：毛泽东是亘古未有天才杀人艺术家 只会杀中国人！中南海不可告人的秘密_439</a></li>
 <li><a href="/cnnews/20210818/1608225.md">小心了：没想到 一个微信小程序竟然能远程控制电脑</a></li>
 <li><a href="/topimagenews/20210818/1608471.md">中央政法委“大老虎”百日内将落马？周永康等“四虎”再被点名！【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20210818/1608387.md">塔利班把火枪当水柱 朝逃难人群胡乱扫射！妇孺爆头重伤惊悚影像曝光</a></li>
+<li><a href="/bannedvideo/20210818/1608521.md">2021年8月14日下午，河北张家口新建大桥轰然倒塌。</a></li>
 <li><a href="/ssgc/20210818/1608323.md">〖兲朝浮世绘〗中共给脸不要脸 要跟美国提条件</a></li>
 <li><a href="/cnnews/20210818/1608132.md">党员不懂“向中央看齐”? 习近平透过党媒发出将“整肃”讯号</a></li>
-<li><a href="/bannedvideo/20210818/1608521.md">2021年8月14日下午，河北张家口新建大桥轰然倒塌。</a></li>
 <li><a href="/cnnews/20210818/1608315.md">负债2万亿巨头遭司法管辖 中国金融系统山雨欲来</a></li>
 <li><a href="/bannedvideo/20210818/1608205.md">【三地】习近平刚放信号，中纪委随即动手；疫情多严重，中共卫健委最新发布会旋外音；阿富汗变天中共武恐台湾；共军竟泄密无法拦截导弹；李克强令拼就业；章家敦：病毒重来是对中共的报应 CT</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -98,6 +98,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210819/1608733.md" target="_blank">【律师会改选】林郑警告终止关系 亲建制派候选人统一回复：若不作政治平台，无需终止沟通</a></li>
+<li><a href="/comments/20210819/1608732.md" target="_blank">【立法会】收紧公司查册安排完成审议 首阶段 8.23 实施</a></li>
+<li><a href="/comments/20210819/1608731.md" target="_blank">【调查壹传媒】财汇局调查壹传媒财务报表 包括核数师报告</a></li>
+<li><a href="/comments/20210819/1608730.md" target="_blank">【612基金停运】周浩鼎：系咪身有屎？ 葛珮帆：误导年青人</a></li>
+<li><a href="/comments/20210819/1608729.md" target="_blank">【国安警拘港大生】李桂华引英法条例指“放诸四海皆准” 翻查资料法国案例罚1,500欧元</a></li>
 <li><a href="/comments/20210818/1608682.md" target="_blank">“金蝉脱壳”？许家印卸任恒大地产董事长 资本和信任现危机</a></li>
 <li><a href="/comments/20210818/1608681.md" target="_blank">评论 | 魏京生：阿富汗局势和台湾有关吗？</a></li>
 <li><a href="/comments/20210818/1608678.md" target="_blank">北京借香港阿富汗打超限战 反作茧自缚？</a></li>
@@ -118,11 +123,6 @@
 <li><a href="/comments/20210818/1608614.md" target="_blank">塔利班 “农村包围城市”战略 是师承毛泽东？</a></li>
 <li><a href="/comments/20210818/1608603.md" target="_blank">重磅！习近平瞄准“高收入”；履历神秘 彭波落马 江泽民蠢蠢欲动【希望之声-两岸要闻-2021/08/18】</a></li>
 <li><a href="/comments/20210818/1608601.md" target="_blank">习近平手动“均贫富” 全面打土豪时代来临？</a></li>
-<li><a href="/comments/20210818/1608597.md" target="_blank">【梁京评论】塔利班军卷土重来非中国之福</a></li>
-<li><a href="/comments/20210818/1608571.md" target="_blank">香港「612人道支援基金」宣布有序停止运作</a></li>
-<li><a href="/comments/20210818/1608570.md" target="_blank">英前情报机构首长：阿富汗恐再成恐怖主义温床</a></li>
-<li><a href="/comments/20210818/1608563.md" target="_blank">撤离阿富汗 美国的盘算在这</a></li>
-<li><a href="/comments/20210818/1608558.md" target="_blank">孔子入梦教人学习汉字？韩国九旬汉诗状元，造诣惊人，入驻韩国儒家最高学府“成均馆”的汉文老师；清朝指画画家，梦中获神仙亲授，他画里的人会走出来吗？</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
 
 </ul>
 </div>
