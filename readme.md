@@ -13,8 +13,8 @@
 <li><a href="/cnnews/20210818/1608285.md">美国女子和新对象正约会 陌生男塞纸条警告：快逃</a></li>
 <li><a href="/cbnews/20210818/1608174.md">上海男子在别墅小区修剪自家买的香樟树 被罚14万超傻眼 冲上热搜</a></li>
 <li><a href="/cbnews/20210818/1608099.md">塔利班童子军扛着铲子走在罂粟田里 大陆网友神配乐《南泥湾》 一曲同工？</a></li>
-<li><a href="/baitai/20210818/1608140.md">范畴：没有疯，中国只是进入「战时经济」</a></li>
 <li><a href="/yule/20210818/1608348.md">吴亦凡刑拘锤出一条“大鱼”，京圈人人自危</a></li>
+<li><a href="/baitai/20210818/1608140.md">范畴：没有疯，中国只是进入「战时经济」</a></li>
 <li><a href="/baitai/20210817/1607920.md">鬼首天龙：告别已经开始，各位且行且珍惜</a></li>
 <li><a href="/topimagenews/20210818/1608412.md">塔利班发言人藏身十多年突现真面目 记者脊背发凉“我们真的知道他们是谁吗？”</a></li>
 <li><a href="/cnnews/20210818/1608206.md">习近平出重拳 一天就处理了“四只大老虎”</a></li>
@@ -23,10 +23,10 @@
 <li><a href="/baitai/20210817/1607910.md">沉雁：先把话撂这，即便核查张文宏抄袭属实，我们对他的力挺坚若磐石</a></li>
 <li><a href="/cnnews/20210818/1608225.md">小心了：没想到 一个微信小程序竟然能远程控制电脑</a></li>
 <li><a href="/comments/20210818/1608171.md">林彪刘少奇叶剑英李先念陈云五名副主席内部或私下批判毛泽东 言论曝光 杨开慧骂毛泽东生活流氓政治流氓 赫鲁晓夫：毛泽东是亘古未有天才杀人艺术家 只会杀中国人！中南海不可告人的秘密_439</a></li>
+<li><a href="/comments/20210818/1608424.md">【微博精粹】中共国恐怖消息！ 比塔利班占领阿富汗爆炸100倍</a></li>
 <li><a href="/cnnews/20210818/1608132.md">党员不懂“向中央看齐”? 习近平透过党媒发出将“整肃”讯号</a></li>
 <li><a href="/cnnews/20210818/1608387.md">塔利班把火枪当水柱 朝逃难人群胡乱扫射！妇孺爆头重伤惊悚影像曝光</a></li>
 <li><a href="/ssgc/20210817/1608001.md">举报围攻张文宏的都是什么人？</a></li>
-<li><a href="/comments/20210818/1608424.md">【微博精粹】中共国恐怖消息！ 比塔利班占领阿富汗爆炸100倍</a></li>
 <li><a href="/bannedvideo/20210818/1608205.md">【三地】习近平刚放信号，中纪委随即动手；疫情多严重，中共卫健委最新发布会旋外音；阿富汗变天中共武恐台湾；共军竟泄密无法拦截导弹；李克强令拼就业；章家敦：病毒重来是对中共的报应 CT</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210818/1608538.md" target="_blank">阿富汗副总统坚守最后据点； 中共囤粮备战？【希望之声-午夜新闻-2021/08/17】</a></li>
 <li><a href="/cbnews/20210818/1608514.md" target="_blank">塔利班占领阿富汗称“我们是人民公仆” 最新视频曝真相：街头随意射杀</a></li>
 <li><a href="/comments/20210818/1608435.md" target="_blank">中共东部战区新闻发言人施毅公开将矛头指向台美；阿富汗闪电易主  是师从毛泽东？ ；李克强北戴河后首露面 闭口不提一件事；【希望之声-红朝禁闻-2021/08/17】</a></li>
 <li><a href="/cbnews/20210818/1608413.md" target="_blank">塔利班占领阿富汗 7月2日中国早已撤侨 民众质疑：早有计划？</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210817/1607751.md" target="_blank">河南商丘一家11人确诊 邻居吵架后被感染</a></li>
 <li><a href="/cbnews/20210817/1607749.md" target="_blank">天亮时分：美军抛弃阿富汗，是否也会抛弃台湾？美国在阿富汗最大的失误是什么？（政论天下第489集 20210816）</a></li>
 <li><a href="/cbnews/20210817/1607720.md" target="_blank">末日异象?河南邓州出现铺天盖地数十万只“怪虫”居民恐慌</a></li>
-<li><a href="/comments/20210817/1607672.md" target="_blank">阿富汗沦陷， 美国又一个“西贡时刻”？中共趁机恐吓台湾，自比塔利班？张文宏遭遇围攻，党又要树“反动学术权威”？</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210818/1608538.md" target="_blank">阿富汗副总统坚守最后据点； 中共囤粮备战？【希望之声-午夜新闻-2021/08/17】</a></li>
 <li><a href="/comments/20210818/1608537.md" target="_blank">研究：武汉肺炎，0-3岁机率最高</a></li>
 <li><a href="/comments/20210818/1608536.md" target="_blank">秋天要多吃9种白色蔬菜，去秋燥。</a></li>
 <li><a href="/comments/20210818/1608535.md" target="_blank">充足睡眠助减肥！ 有这三大因素</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210818/1608435.md" target="_blank">中共东部战区新闻发言人施毅公开将矛头指向台美；阿富汗闪电易主  是师从毛泽东？ ；李克强北戴河后首露面 闭口不提一件事；【希望之声-红朝禁闻-2021/08/17】</a></li>
 <li><a href="/comments/20210818/1608432.md" target="_blank">今日阿夫汗明日台湾？请问能不能把这些乱台分子抓起来？台湾绝不会成为下一个阿夫汗！│#熊猫侠</a></li>
 <li><a href="/comments/20210818/1608425.md" target="_blank">消息指港大学生会主席等 3 人被国安处拘捕 被指违国安法“宣扬恐怖主义”</a></li>
-<li><a href="/comments/20210818/1608424.md" target="_blank">【微博精粹】中共国恐怖消息！ 比塔利班占领阿富汗爆炸100倍</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
 <li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20210612/1565472.md" target="_blank">感悟神韵（之二）：感悟神韵的艺术风格</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持 9折优惠中</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
 
 </ul>
 </div>
