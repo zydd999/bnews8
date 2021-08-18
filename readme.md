@@ -10,24 +10,24 @@
 <li><a href="/cnnews/20210817/1607951.md">美为何抛弃阿富汗？白宫1句话就够了；塔利班随时对中共翻脸 中共没钱了</a></li>
 <li><a href="/topimagenews/20210818/1608381.md">中国有钱人惨了！习近平宣布财产将被“调节”</a></li>
 <li><a href="/bannedvideo/20210817/1607950.md">陈破空：张文宏突遭大批判！幕后有来头：习近平要打倒接班人？吞不下北戴河那口气</a></li>
+<li><a href="/topimagenews/20210818/1608412.md">塔利班发言人藏身十多年突现真面目 记者脊背发凉“我们真的知道他们是谁吗？”</a></li>
 <li><a href="/cnnews/20210818/1608285.md">美国女子和新对象正约会 陌生男塞纸条警告：快逃</a></li>
-<li><a href="/cbnews/20210818/1608174.md">上海男子在别墅小区修剪自家买的香樟树 被罚14万超傻眼 冲上热搜</a></li>
-<li><a href="/cbnews/20210818/1608099.md">塔利班童子军扛着铲子走在罂粟田里 大陆网友神配乐《南泥湾》 一曲同工？</a></li>
 <li><a href="/yule/20210818/1608348.md">吴亦凡刑拘锤出一条“大鱼”，京圈人人自危</a></li>
+<li><a href="/cbnews/20210818/1608099.md">塔利班童子军扛着铲子走在罂粟田里 大陆网友神配乐《南泥湾》 一曲同工？</a></li>
+<li><a href="/cbnews/20210818/1608174.md">上海男子在别墅小区修剪自家买的香樟树 被罚14万超傻眼 冲上热搜</a></li>
 <li><a href="/baitai/20210818/1608140.md">范畴：没有疯，中国只是进入「战时经济」</a></li>
 <li><a href="/baitai/20210817/1607920.md">鬼首天龙：告别已经开始，各位且行且珍惜</a></li>
-<li><a href="/topimagenews/20210818/1608412.md">塔利班发言人藏身十多年突现真面目 记者脊背发凉“我们真的知道他们是谁吗？”</a></li>
+<li><a href="/topimagenews/20210818/1608433.md">李克强人哪？中共喉舌的报道现反常一幕【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20210818/1608206.md">习近平出重拳 一天就处理了“四只大老虎”</a></li>
 <li><a href="/topimagenews/20210818/1608131.md">英前司令：塔利班是巴基斯坦养大的 可能反咬夺核武 伊朗、中俄支持塔利班</a></li>
-<li><a href="/topimagenews/20210818/1608433.md">李克强人哪？中共喉舌的报道现反常一幕【阿波罗网报道】</a></li>
-<li><a href="/baitai/20210817/1607910.md">沉雁：先把话撂这，即便核查张文宏抄袭属实，我们对他的力挺坚若磐石</a></li>
 <li><a href="/cnnews/20210818/1608225.md">小心了：没想到 一个微信小程序竟然能远程控制电脑</a></li>
-<li><a href="/comments/20210818/1608171.md">林彪刘少奇叶剑英李先念陈云五名副主席内部或私下批判毛泽东 言论曝光 杨开慧骂毛泽东生活流氓政治流氓 赫鲁晓夫：毛泽东是亘古未有天才杀人艺术家 只会杀中国人！中南海不可告人的秘密_439</a></li>
 <li><a href="/comments/20210818/1608424.md">【微博精粹】中共国恐怖消息！ 比塔利班占领阿富汗爆炸100倍</a></li>
-<li><a href="/cnnews/20210818/1608132.md">党员不懂“向中央看齐”? 习近平透过党媒发出将“整肃”讯号</a></li>
+<li><a href="/comments/20210818/1608171.md">林彪刘少奇叶剑英李先念陈云五名副主席内部或私下批判毛泽东 言论曝光 杨开慧骂毛泽东生活流氓政治流氓 赫鲁晓夫：毛泽东是亘古未有天才杀人艺术家 只会杀中国人！中南海不可告人的秘密_439</a></li>
 <li><a href="/cnnews/20210818/1608387.md">塔利班把火枪当水柱 朝逃难人群胡乱扫射！妇孺爆头重伤惊悚影像曝光</a></li>
+<li><a href="/cnnews/20210818/1608132.md">党员不懂“向中央看齐”? 习近平透过党媒发出将“整肃”讯号</a></li>
 <li><a href="/ssgc/20210817/1608001.md">举报围攻张文宏的都是什么人？</a></li>
 <li><a href="/bannedvideo/20210818/1608205.md">【三地】习近平刚放信号，中纪委随即动手；疫情多严重，中共卫健委最新发布会旋外音；阿富汗变天中共武恐台湾；共军竟泄密无法拦截导弹；李克强令拼就业；章家敦：病毒重来是对中共的报应 CT</a></li>
+<li><a href="/cnnews/20210818/1608153.md">大鳄中伏！索罗斯及淡马锡等多家对冲基金于滴滴被查前大手入货</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210818/1608558.md" target="_blank">孔子入梦教人学习汉字？韩国九旬汉诗状元，造诣惊人，入驻韩国儒家最高学府“成均馆”的汉文老师；清朝指画画家，梦中获神仙亲授，他画里的人会走出来吗？</a></li>
 <li><a href="/comments/20210818/1608538.md" target="_blank">阿富汗副总统坚守最后据点； 中共囤粮备战？【希望之声-午夜新闻-2021/08/17】</a></li>
 <li><a href="/cbnews/20210818/1608514.md" target="_blank">塔利班占领阿富汗称“我们是人民公仆” 最新视频曝真相：街头随意射杀</a></li>
 <li><a href="/comments/20210818/1608435.md" target="_blank">中共东部战区新闻发言人施毅公开将矛头指向台美；阿富汗闪电易主  是师从毛泽东？ ；李克强北戴河后首露面 闭口不提一件事；【希望之声-红朝禁闻-2021/08/17】</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210817/1607780.md" target="_blank">江峰：美国最大的失败！阿富汗危机川普呼吁拜登辞职，拜登讲话还击；新华社文酸美国，“回家的狗” 全网亢奋。攻陷喀布尔谁是推手？【江峰漫谈20210816第362期】</a></li>
 <li><a href="/cbnews/20210817/1607751.md" target="_blank">河南商丘一家11人确诊 邻居吵架后被感染</a></li>
 <li><a href="/cbnews/20210817/1607749.md" target="_blank">天亮时分：美军抛弃阿富汗，是否也会抛弃台湾？美国在阿富汗最大的失误是什么？（政论天下第489集 20210816）</a></li>
-<li><a href="/cbnews/20210817/1607720.md" target="_blank">末日异象?河南邓州出现铺天盖地数十万只“怪虫”居民恐慌</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,13 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210818/1608558.md" target="_blank">孔子入梦教人学习汉字？韩国九旬汉诗状元，造诣惊人，入驻韩国儒家最高学府“成均馆”的汉文老师；清朝指画画家，梦中获神仙亲授，他画里的人会走出来吗？</a></li>
+<li><a href="/comments/20210818/1608548.md" target="_blank">【国安警拘港大生】白衣人“守护家园”街站是否美化暴力？ 李桂华拒答</a></li>
+<li><a href="/comments/20210818/1608547.md" target="_blank">【国安警拘港大生】李家超：要为自己行为负责 邓炳强：特定身分不是求情理由</a></li>
+<li><a href="/comments/20210818/1608546.md" target="_blank">民主派区议员辞职潮逾月 宣誓日期仍未公布 徐英伟：容许我做得细致啲</a></li>
+<li><a href="/comments/20210818/1608545.md" target="_blank">【学生会辞职】中大临政、学生报等逾十人辞职 临政主席：已做唔到啲咩</a></li>
+<li><a href="/comments/20210818/1608544.md" target="_blank">禁侮辱国旗国徽修例 曾国衞：不用担心市民误坠法网，基本尊重易做到</a></li>
+<li><a href="/comments/20210818/1608543.md" target="_blank">14 名前《苹果》印刷员工入禀追约 450 万薪津 资方表明无力支付</a></li>
 <li><a href="/comments/20210818/1608538.md" target="_blank">阿富汗副总统坚守最后据点； 中共囤粮备战？【希望之声-午夜新闻-2021/08/17】</a></li>
 <li><a href="/comments/20210818/1608537.md" target="_blank">研究：武汉肺炎，0-3岁机率最高</a></li>
 <li><a href="/comments/20210818/1608536.md" target="_blank">秋天要多吃9种白色蔬菜，去秋燥。</a></li>
@@ -116,13 +123,6 @@
 <li><a href="/comments/20210818/1608475.md" target="_blank">关注阿富汗 拜登提前结束休假返回白宫</a></li>
 <li><a href="/comments/20210818/1608470.md" target="_blank">背着丈夫把钱送给女儿 上天这样惩罚了她</a></li>
 <li><a href="/comments/20210818/1608457.md" target="_blank">李燕铭：北戴河会议结束 习近平等六常委两天内密集露面独缺一人 汪洋破例出席一高层会议泄露其秘密兼职 中共高层政治生态有变？汪洋二十大仕途利好征兆？</a></li>
-<li><a href="/comments/20210818/1608456.md" target="_blank">46美议员致函国务卿：让阿国人快速入境美国</a></li>
-<li><a href="/comments/20210818/1608455.md" target="_blank">中共威胁切断铁路货运 立陶宛淡定回应「影响不大」</a></li>
-<li><a href="/comments/20210818/1608450.md" target="_blank">美大学发布&quot;1776课程&quot; 尊重传统 遏制CRT</a></li>
-<li><a href="/comments/20210818/1608437.md" target="_blank">行业警告：今年的圣诞玩具将供不应求</a></li>
-<li><a href="/comments/20210818/1608435.md" target="_blank">中共东部战区新闻发言人施毅公开将矛头指向台美；阿富汗闪电易主  是师从毛泽东？ ；李克强北戴河后首露面 闭口不提一件事；【希望之声-红朝禁闻-2021/08/17】</a></li>
-<li><a href="/comments/20210818/1608432.md" target="_blank">今日阿夫汗明日台湾？请问能不能把这些乱台分子抓起来？台湾绝不会成为下一个阿夫汗！│#熊猫侠</a></li>
-<li><a href="/comments/20210818/1608425.md" target="_blank">消息指港大学生会主席等 3 人被国安处拘捕 被指违国安法“宣扬恐怖主义”</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20210612/1565472.md" target="_blank">感悟神韵（之二）：感悟神韵的艺术风格</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
 <li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持 9折优惠中</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
 
 </ul>
 </div>
