@@ -7,27 +7,27 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/topimagenews/20210818/1608381.md">中国有钱人惨了！习近平宣布财产将被“调节”</a></li>
 <li><a href="/yule/20210818/1608348.md">吴亦凡刑拘锤出一条“大鱼”，京圈人人自危</a></li>
-<li><a href="/cnnews/20210818/1608531.md">突发！四川军工厂发生大爆炸 伤亡人数不详</a></li>
 <li><a href="/topimagenews/20210818/1608412.md">塔利班发言人藏身十多年突现真面目 记者脊背发凉“我们真的知道他们是谁吗？”</a></li>
+<li><a href="/cnnews/20210818/1608531.md">突发！四川军工厂发生大爆炸 伤亡人数不详</a></li>
 <li><a href="/cnnews/20210818/1608285.md">美国女子和新对象正约会 陌生男塞纸条警告：快逃</a></li>
-<li><a href="/cbnews/20210818/1608174.md">上海男子在别墅小区修剪自家买的香樟树 被罚14万超傻眼 冲上热搜</a></li>
 <li><a href="/cnnews/20210818/1608206.md">习近平出重拳 一天就处理了“四只大老虎”</a></li>
 <li><a href="/topimagenews/20210818/1608433.md">李克强人哪？中共喉舌的报道现反常一幕【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20210818/1608539.md">慎入！江苏盐城一交警被一男子持刀追杀 捅胸数刀 满身是血</a></li>
 <li><a href="/comments/20210818/1608424.md">【微博精粹】中共国恐怖消息！ 比塔利班占领阿富汗爆炸100倍</a></li>
-<li><a href="/comments/20210818/1608171.md">林彪刘少奇叶剑英李先念陈云五名副主席内部或私下批判毛泽东 言论曝光 杨开慧骂毛泽东生活流氓政治流氓 赫鲁晓夫：毛泽东是亘古未有天才杀人艺术家 只会杀中国人！中南海不可告人的秘密_439</a></li>
 <li><a href="/comments/20210818/1608603.md">重磅！习近平瞄准“高收入”；履历神秘 彭波落马 江泽民蠢蠢欲动【希望之声-两岸要闻-2021/08/18】</a></li>
 <li><a href="/cnnews/20210818/1608225.md">小心了：没想到 一个微信小程序竟然能远程控制电脑</a></li>
 <li><a href="/topimagenews/20210818/1608471.md">中央政法委“大老虎”百日内将落马？周永康等“四虎”再被点名！【阿波罗网报道】</a></li>
 <li><a href="/comments/20210818/1608601.md">习近平手动“均贫富” 全面打土豪时代来临？</a></li>
-<li><a href="/cnnews/20210818/1608387.md">塔利班把火枪当水柱 朝逃难人群胡乱扫射！妇孺爆头重伤惊悚影像曝光</a></li>
 <li><a href="/cbnews/20210818/1608656.md">习近平为何要炸掉4万个水坝？与习翻脸，大鳄索罗斯釜底抽薪；</a></li>
+<li><a href="/cnnews/20210818/1608387.md">塔利班把火枪当水柱 朝逃难人群胡乱扫射！妇孺爆头重伤惊悚影像曝光</a></li>
 <li><a href="/bannedvideo/20210818/1608521.md">2021年8月14日下午，河北张家口新建大桥轰然倒塌。</a></li>
 <li><a href="/ssgc/20210818/1608323.md">〖兲朝浮世绘〗中共给脸不要脸 要跟美国提条件</a></li>
 <li><a href="/cnnews/20210818/1608315.md">负债2万亿巨头遭司法管辖 中国金融系统山雨欲来</a></li>
 <li><a href="/bannedvideo/20210818/1608205.md">【三地】习近平刚放信号，中纪委随即动手；疫情多严重，中共卫健委最新发布会旋外音；阿富汗变天中共武恐台湾；共军竟泄密无法拦截导弹；李克强令拼就业；章家敦：病毒重来是对中共的报应 CT</a></li>
 <li><a href="/baitai/20210818/1608559.md">假装在东京｜成功激怒全体在日华人的“抗日小能手”事件始末</a></li>
 <li><a href="/comments/20210818/1608538.md">阿富汗副总统坚守最后据点； 中共囤粮备战？【希望之声-午夜新闻-2021/08/17】</a></li>
+<li><a href="/headline/20210818/1608561.md">北戴河休假期结束 中国官场习嫡系3后起之秀仕途再受瞩目</a></li>
+<li><a href="/topimagenews/20210818/1608221.md">塔利班对美国的终极羞辱？见证“阿富汗西贡惨案”</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210819/1608835.md" target="_blank">养猪龙头企业温氏股份半年亏损25亿元</a></li>
+<li><a href="/comments/20210819/1608834.md" target="_blank">不可思议！2021年，认证二手车的价格超过新车？</a></li>
 <li><a href="/comments/20210819/1608815.md" target="_blank">阿总统出逃阿联酋被控窃1.69亿美元 驻塔吉克使馆挂副总统肖像</a></li>
 <li><a href="/comments/20210819/1608814.md" target="_blank">伤肝九件事！感冒药超量上榜</a></li>
 <li><a href="/comments/20210819/1608813.md" target="_blank">“荷花”全身上下都是宝！6个“荷花”的养生妙用</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210818/1608678.md" target="_blank">北京借香港阿富汗打超限战 反作茧自缚？</a></li>
 <li><a href="/comments/20210818/1608661.md" target="_blank">时事大家谈：阿富汗沦陷：美国何所失？中国何所得？</a></li>
 <li><a href="/comments/20210818/1608660.md" target="_blank">一个日本阿姨撑起了中国华语乐坛的半壁江山？</a></li>
-<li><a href="/comments/20210818/1608657.md" target="_blank">张杰：中共再不悬崖勒马 经济真的就崩了</a></li>
-<li><a href="/comments/20210818/1608652.md" target="_blank">【以假新闻之名 · 1】前言：“香港假新闻问题严重”— 谁在强调？何时开始？</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/ganwu/20170705/787156.md" target="_blank">感悟神韵（之四）：感悟神韵音乐</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
 <li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
 
 </ul>
 </div>
