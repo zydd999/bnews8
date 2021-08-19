@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/topimagenews/20210818/1608412.md">塔利班发言人藏身十多年突现真面目 记者脊背发凉“我们真的知道他们是谁吗？”</a></li>
 <li><a href="/cnnews/20210818/1608531.md">突发！四川军工厂发生大爆炸 伤亡人数不详</a></li>
 <li><a href="/topimagenews/20210818/1608433.md">李克强人哪？中共喉舌的报道现反常一幕【阿波罗网报道】</a></li>
 <li><a href="/comments/20210818/1608424.md">【微博精粹】中共国恐怖消息！ 比塔利班占领阿富汗爆炸100倍</a></li>
@@ -17,17 +16,18 @@
 <li><a href="/comments/20210818/1608601.md">习近平手动“均贫富” 全面打土豪时代来临？</a></li>
 <li><a href="/worldnews/20210819/1608849.md">震惊：400个淫狼集体玩弄猥亵女网红 当街撕衣服</a></li>
 <li><a href="/bannedvideo/20210818/1608521.md">2021年8月14日下午，河北张家口新建大桥轰然倒塌。</a></li>
-<li><a href="/cnnews/20210819/1608825.md">同归于尽？黑龙江公交司机与乘客吵架 直接逆行冲上…</a></li>
 <li><a href="/topimagenews/20210819/1608816.md">和塔利班势不两立！阿富汗副总统背景曝：亲妹惨遭凌虐至死</a></li>
+<li><a href="/cnnews/20210819/1608825.md">同归于尽？黑龙江公交司机与乘客吵架 直接逆行冲上…</a></li>
 <li><a href="/topimagenews/20210819/1608817.md">下班突遭开枪挖眼！孕妇泪诉：塔利班“把女人当肉”喂狗吃</a></li>
 <li><a href="/worldnews/20210818/1608723.md">打脸中国官媒！立陶宛国铁证实：中方确已突然中断货运</a></li>
 <li><a href="/comments/20210818/1608657.md">张杰：中共再不悬崖勒马 经济真的就崩了</a></li>
 <li><a href="/topimagenews/20210819/1608767.md">美军撤出阿富汗在“暗爽”？ 专家：塔利班其实是中国的陷阱、麻烦</a></li>
+<li><a href="/bannedvideo/20210819/1608762.md">【党媒反了】发习近平玩火图；李克强在哪？中共现反常一幕；大外宣吹塔利班学毛选；胡锡进脸刚被打得生疼；VOA：中国又有了新‘恶魔毛泽东’，西方对中共态度质变？美议员称3万美军驻台... XV</a></li>
 <li><a href="/comments/20210818/1608538.md">阿富汗副总统坚守最后据点； 中共囤粮备战？【希望之声-午夜新闻-2021/08/17】</a></li>
 <li><a href="/comments/20210818/1608660.md">一个日本阿姨撑起了中国华语乐坛的半壁江山？</a></li>
-<li><a href="/bannedvideo/20210819/1608762.md">【党媒反了】发习近平玩火图；李克强在哪？中共现反常一幕；大外宣吹塔利班学毛选；胡锡进脸刚被打得生疼；VOA：中国又有了新‘恶魔毛泽东’，西方对中共态度质变？美议员称3万美军驻台... XV</a></li>
 <li><a href="/worldnews/20210819/1608771.md">死神降临！塔利班敲她的门三次 第四次时将她杀害</a></li>
 <li><a href="/baitai/20210818/1608559.md">假装在东京｜成功激怒全体在日华人的“抗日小能手”事件始末</a></li>
+<li><a href="/cnnews/20210818/1608680.md">上海市委书记李强考察张文宏实验室</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210819/1609078.md" target="_blank">机场街道传枪声 国际持续观察塔利班 中共抬举示好</a></li>
+<li><a href="/comments/20210819/1609073.md" target="_blank">【要闻精粹】真正的棺材里伸手死要钱啊 求生自救不能等待</a></li>
 <li><a href="/comments/20210819/1609061.md" target="_blank">生活篇：《从身边的孩子们说起》</a></li>
 <li><a href="/comments/20210819/1609060.md" target="_blank">【金泉看世界 】：人们为何喜爱6 7 9这几个数字呢？</a></li>
 <li><a href="/comments/20210819/1609055.md" target="_blank">李克强视察郑州地铁提追责 北京三大官媒不报导</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210819/1608893.md" target="_blank">遭黑客入侵 T-Mobile泄露逾4800万人个人资料</a></li>
 <li><a href="/comments/20210819/1608887.md" target="_blank">下一个是台湾？美国军事专家直言台湾比阿国重要1000倍！中共趁机派军机扰台，美专家吁美台联合举行演习【希望之声TV-每日头条-2021/8/18】</a></li>
 <li><a href="/comments/20210819/1608876.md" target="_blank">如何坐江山塔利班也很懵！觊觎阿富汗矿藏中共勾搭塔利班！富人惨了，习近平又开始加速，中共要均贫富了！疯了，习近平要炸掉四万座大坝！【新闻最嘲点 姜光宇】2021.08.18</a></li>
-<li><a href="/comments/20210819/1608874.md" target="_blank">亲妹遭虐死、恩师被暗杀！阿富汗副总统痛恨塔利班原因曝光</a></li>
-<li><a href="/comments/20210819/1608840.md" target="_blank">逃跑不忘搬现金！阿富汗总统身上“巨额美钞”数字曝光</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
 <li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20210329/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/ganwu/20170705/787156.md" target="_blank">感悟神韵（之四）：感悟神韵音乐</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
 
 </ul>
 </div>
