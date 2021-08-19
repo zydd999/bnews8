@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210819/1608899.md" target="_blank">阿富汗内战开打 副总统誓言绝不低头“打土豪分田地”2.0？“共同富裕”为何成为中共百年目标？【希望之声TV-新闻焦点解读-2021/08/18】主持:高洁  嘉宾：秦鹏 蓝述</a></li>
 <li><a href="/comments/20210819/1608887.md" target="_blank">下一个是台湾？美国军事专家直言台湾比阿国重要1000倍！中共趁机派军机扰台，美专家吁美台联合举行演习【希望之声TV-每日头条-2021/8/18】</a></li>
 <li><a href="/cbnews/20210819/1608881.md" target="_blank">文昭：阿富汗会上演「李自成进京」来了又走吗？恒大许家印走人，有大事发生？</a></li>
 <li><a href="/comments/20210819/1608876.md" target="_blank">如何坐江山塔利班也很懵！觊觎阿富汗矿藏中共勾搭塔利班！富人惨了，习近平又开始加速，中共要均贫富了！疯了，习近平要炸掉四万座大坝！【新闻最嘲点 姜光宇】2021.08.18</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/comments/20210818/1608232.md" target="_blank">谁拿到台湾 谁就控制了亚洲、掌握全世界？赴美学生后机队伍长达千米  十万票价再现【希望之声TV-新闻焦点解读-2021/08/17】主持:高洁  嘉宾：林晓旭</a></li>
 <li><a href="/comments/20210818/1608231.md" target="_blank">组建联合政府? 阿富汗前总统将率团前往多哈与TLB组织领导人进行会谈【希望之声TV-每日头条-2021/8/17】</a></li>
 <li><a href="/cbnews/20210818/1608184.md" target="_blank">阿富汗沦陷 美弃台论再起 专家：美国需要台湾</a></li>
-<li><a href="/cbnews/20210818/1608175.md" target="_blank">北京要求补习机构设“党组织” 贯彻党的教育方针</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210819/1608899.md" target="_blank">阿富汗内战开打 副总统誓言绝不低头“打土豪分田地”2.0？“共同富裕”为何成为中共百年目标？【希望之声TV-新闻焦点解读-2021/08/18】主持:高洁  嘉宾：秦鹏 蓝述</a></li>
+<li><a href="/comments/20210819/1608894.md" target="_blank">保护力将降低！美官员联合声明加打第3剂疫苗</a></li>
+<li><a href="/comments/20210819/1608893.md" target="_blank">遭黑客入侵 T-Mobile泄露逾4800万人个人资料</a></li>
 <li><a href="/comments/20210819/1608887.md" target="_blank">下一个是台湾？美国军事专家直言台湾比阿国重要1000倍！中共趁机派军机扰台，美专家吁美台联合举行演习【希望之声TV-每日头条-2021/8/18】</a></li>
 <li><a href="/comments/20210819/1608876.md" target="_blank">如何坐江山塔利班也很懵！觊觎阿富汗矿藏中共勾搭塔利班！富人惨了，习近平又开始加速，中共要均贫富了！疯了，习近平要炸掉四万座大坝！【新闻最嘲点 姜光宇】2021.08.18</a></li>
 <li><a href="/comments/20210819/1608874.md" target="_blank">亲妹遭虐死、恩师被暗杀！阿富汗副总统痛恨塔利班原因曝光</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210819/1608733.md" target="_blank">【律师会改选】林郑警告终止关系 亲建制派候选人统一回复：若不作政治平台，无需终止沟通</a></li>
 <li><a href="/comments/20210819/1608732.md" target="_blank">【立法会】收紧公司查册安排完成审议 首阶段 8.23 实施</a></li>
 <li><a href="/comments/20210819/1608731.md" target="_blank">【调查壹传媒】财汇局调查壹传媒财务报表 包括核数师报告</a></li>
-<li><a href="/comments/20210819/1608730.md" target="_blank">【612基金停运】周浩鼎：系咪身有屎？ 葛珮帆：误导年青人</a></li>
-<li><a href="/comments/20210819/1608729.md" target="_blank">【国安警拘港大生】李桂华引英法条例指“放诸四海皆准” 翻查资料法国案例罚1,500欧元</a></li>
-<li><a href="/comments/20210818/1608682.md" target="_blank">“金蝉脱壳”？许家印卸任恒大地产董事长 资本和信任现危机</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
 <li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
 <li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
 <li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
 
 </ul>
 </div>
