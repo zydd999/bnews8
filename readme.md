@@ -11,22 +11,22 @@
 <li><a href="/cbnews/20210818/1608656.md">习近平为何要炸掉4万个水坝？与习翻脸，大鳄索罗斯釜底抽薪；</a></li>
 <li><a href="/comments/20210818/1608601.md">习近平手动“均贫富” 全面打土豪时代来临？</a></li>
 <li><a href="/yule/20210819/1608827.md">吴亦凡妈妈也出事了 背后6份名单曝光</a></li>
-<li><a href="/worldnews/20210819/1608849.md">震惊：400个淫狼集体玩弄猥亵女网红 当街撕衣服</a></li>
 <li><a href="/cbnews/20210819/1608943.md">江苏南京信息工程大学文学院院长出轨致人流产 “光屁股”照疯传 校方回应</a></li>
+<li><a href="/worldnews/20210819/1608849.md">震惊：400个淫狼集体玩弄猥亵女网红 当街撕衣服</a></li>
 <li><a href="/worldnews/20210818/1608723.md">打脸中国官媒！立陶宛国铁证实：中方确已突然中断货运</a></li>
 <li><a href="/bannedvideo/20210818/1608521.md">2021年8月14日下午，河北张家口新建大桥轰然倒塌。</a></li>
-<li><a href="/bannedvideo/20210819/1608867.md">让中国富人胆寒，习近平发动“均贫富”风暴；中国大陆朋友圈告密风行；中共为何愿和塔利班合作？“阿富汗今天是台湾明天”？蔡英文开口表态；漫威首部华裔超级英雄大片，“尚气”首映【#全球新闻】|#新唐人电视台</a></li>
 <li><a href="/comments/20210818/1608657.md">张杰：中共再不悬崖勒马 经济真的就崩了</a></li>
+<li><a href="/bannedvideo/20210819/1608867.md">让中国富人胆寒，习近平发动“均贫富”风暴；中国大陆朋友圈告密风行；中共为何愿和塔利班合作？“阿富汗今天是台湾明天”？蔡英文开口表态；漫威首部华裔超级英雄大片，“尚气”首映【#全球新闻】|#新唐人电视台</a></li>
 <li><a href="/topimagenews/20210819/1608816.md">和塔利班势不两立！阿富汗副总统背景曝：亲妹惨遭凌虐至死</a></li>
 <li><a href="/topimagenews/20210819/1608817.md">下班突遭开枪挖眼！孕妇泪诉：塔利班“把女人当肉”喂狗吃</a></li>
 <li><a href="/cnnews/20210819/1608825.md">同归于尽？黑龙江公交司机与乘客吵架 直接逆行冲上…</a></li>
+<li><a href="/cnnews/20210819/1608963.md">“六边形死士”入侵 已悄悄占领整个中国南部</a></li>
 <li><a href="/ssgc/20210819/1608866.md">〖兲朝浮世绘〗习近平要杀富济贫还是要抽干民间的血汗？</a></li>
 <li><a href="/topimagenews/20210819/1608767.md">美军撤出阿富汗在“暗爽”？ 专家：塔利班其实是中国的陷阱、麻烦</a></li>
 <li><a href="/worldnews/20210819/1608852.md">太震撼了：年轻塔利班的时尚 让网友看呆了</a></li>
-<li><a href="/cnnews/20210819/1608963.md">“六边形死士”入侵 已悄悄占领整个中国南部</a></li>
+<li><a href="/topimagenews/20210819/1609059.md">塔利班清算影片曝光！闯豪宅挨家挨户逮人 少女不穿传统罩袍遭射死</a></li>
 <li><a href="/bannedvideo/20210819/1608762.md">【党媒反了】发习近平玩火图；李克强在哪？中共现反常一幕；大外宣吹塔利班学毛选；胡锡进脸刚被打得生疼；VOA：中国又有了新‘恶魔毛泽东’，西方对中共态度质变？美议员称3万美军驻台... XV</a></li>
 <li><a href="/comments/20210818/1608660.md">一个日本阿姨撑起了中国华语乐坛的半壁江山？</a></li>
-<li><a href="/topimagenews/20210819/1609059.md">塔利班清算影片曝光！闯豪宅挨家挨户逮人 少女不穿传统罩袍遭射死</a></li>
 <li><a href="/worldnews/20210819/1608771.md">死神降临！塔利班敲她的门三次 第四次时将她杀害</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/ganwu/20170705/787156.md" target="_blank">感悟神韵（之四）：感悟神韵音乐</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
 <li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
 <li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
 
 </ul>
 </div>
