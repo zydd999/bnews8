@@ -10,24 +10,24 @@
 <li><a href="/comments/20210818/1608603.md">重磅！习近平瞄准“高收入”；履历神秘 彭波落马 江泽民蠢蠢欲动【希望之声-两岸要闻-2021/08/18】</a></li>
 <li><a href="/cbnews/20210818/1608656.md">习近平为何要炸掉4万个水坝？与习翻脸，大鳄索罗斯釜底抽薪；</a></li>
 <li><a href="/comments/20210818/1608601.md">习近平手动“均贫富” 全面打土豪时代来临？</a></li>
-<li><a href="/cbnews/20210819/1608943.md">江苏南京信息工程大学文学院院长出轨致人流产 “光屁股”照疯传 校方回应</a></li>
 <li><a href="/yule/20210819/1608827.md">吴亦凡妈妈也出事了 背后6份名单曝光</a></li>
+<li><a href="/cbnews/20210819/1608943.md">江苏南京信息工程大学文学院院长出轨致人流产 “光屁股”照疯传 校方回应</a></li>
 <li><a href="/worldnews/20210819/1608849.md">震惊：400个淫狼集体玩弄猥亵女网红 当街撕衣服</a></li>
 <li><a href="/worldnews/20210818/1608723.md">打脸中国官媒！立陶宛国铁证实：中方确已突然中断货运</a></li>
 <li><a href="/comments/20210818/1608657.md">张杰：中共再不悬崖勒马 经济真的就崩了</a></li>
 <li><a href="/bannedvideo/20210819/1608867.md">让中国富人胆寒，习近平发动“均贫富”风暴；中国大陆朋友圈告密风行；中共为何愿和塔利班合作？“阿富汗今天是台湾明天”？蔡英文开口表态；漫威首部华裔超级英雄大片，“尚气”首映【#全球新闻】|#新唐人电视台</a></li>
-<li><a href="/bannedvideo/20210818/1608521.md">2021年8月14日下午，河北张家口新建大桥轰然倒塌。</a></li>
 <li><a href="/topimagenews/20210819/1608816.md">和塔利班势不两立！阿富汗副总统背景曝：亲妹惨遭凌虐至死</a></li>
+<li><a href="/topimagenews/20210819/1609059.md">塔利班清算影片曝光！闯豪宅挨家挨户逮人 少女不穿传统罩袍遭射死</a></li>
 <li><a href="/cnnews/20210819/1608963.md">“六边形死士”入侵 已悄悄占领整个中国南部</a></li>
 <li><a href="/cnnews/20210819/1608825.md">同归于尽？黑龙江公交司机与乘客吵架 直接逆行冲上…</a></li>
 <li><a href="/topimagenews/20210819/1608817.md">下班突遭开枪挖眼！孕妇泪诉：塔利班“把女人当肉”喂狗吃</a></li>
 <li><a href="/ssgc/20210819/1608866.md">〖兲朝浮世绘〗习近平要杀富济贫还是要抽干民间的血汗？</a></li>
 <li><a href="/topimagenews/20210819/1608767.md">美军撤出阿富汗在“暗爽”？ 专家：塔利班其实是中国的陷阱、麻烦</a></li>
-<li><a href="/topimagenews/20210819/1609059.md">塔利班清算影片曝光！闯豪宅挨家挨户逮人 少女不穿传统罩袍遭射死</a></li>
 <li><a href="/worldnews/20210819/1608852.md">太震撼了：年轻塔利班的时尚 让网友看呆了</a></li>
 <li><a href="/bannedvideo/20210819/1608762.md">【党媒反了】发习近平玩火图；李克强在哪？中共现反常一幕；大外宣吹塔利班学毛选；胡锡进脸刚被打得生疼；VOA：中国又有了新‘恶魔毛泽东’，西方对中共态度质变？美议员称3万美军驻台... XV</a></li>
 <li><a href="/comments/20210818/1608660.md">一个日本阿姨撑起了中国华语乐坛的半壁江山？</a></li>
 <li><a href="/worldnews/20210819/1608771.md">死神降临！塔利班敲她的门三次 第四次时将她杀害</a></li>
+<li><a href="/cnnews/20210818/1608680.md">上海市委书记李强考察张文宏实验室</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210819/1609183.md" target="_blank">失智症可不只是单纯记忆力减退</a></li>
+<li><a href="/comments/20210819/1609182.md" target="_blank">新冠病毒传染力诡异！医揭RRAR密码：中共别想甩锅</a></li>
+<li><a href="/comments/20210819/1609181.md" target="_blank">日抗癌名医亲研什锦蔬菜糙米炊饭，提升抗癌力</a></li>
+<li><a href="/comments/20210819/1609180.md" target="_blank">父母都过敏体质 孩子过敏的机率是？</a></li>
 <li><a href="/comments/20210819/1609172.md" target="_blank">孟晚舟案裁决日8周后公布 分析：不被引渡美国机会渺茫</a></li>
 <li><a href="/comments/20210819/1609158.md" target="_blank">【以假新闻之名．2】谁为真假定分界：香港如何应对资讯漩涡？</a></li>
 <li><a href="/comments/20210819/1609157.md" target="_blank">【律师会改选】《文汇》批开明理事“煽独派” 《大公》：“异化”或失内地发展机会</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210819/1609078.md" target="_blank">机场街道传枪声 国际持续观察塔利班 中共抬举示好</a></li>
 <li><a href="/comments/20210819/1609073.md" target="_blank">【要闻精粹】真正的棺材里伸手死要钱啊 求生自救不能等待</a></li>
 <li><a href="/comments/20210819/1609061.md" target="_blank">生活篇：《从身边的孩子们说起》</a></li>
-<li><a href="/comments/20210819/1609060.md" target="_blank">【金泉看世界 】：人们为何喜爱6 7 9这几个数字呢？</a></li>
-<li><a href="/comments/20210819/1609055.md" target="_blank">李克强视察郑州地铁提追责 北京三大官媒不报导</a></li>
-<li><a href="/comments/20210819/1609050.md" target="_blank">郑良莹：台湾当然不是阿富汗</a></li>
-<li><a href="/comments/20210819/1609032.md" target="_blank">守住！数十位美议员致函拜登和布林肯 ；罕见 美国三大媒体同喊话拜登 救救他们。“希望之声TV-北美新闻-20210818”</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20210612/1565472.md" target="_blank">感悟神韵（之二）：感悟神韵的艺术风格</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
 <li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
 
 </ul>
 </div>
