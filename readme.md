@@ -18,16 +18,16 @@
 <li><a href="/worldnews/20210820/1609681.md">塔利班处决警察局长画面曝光：蒙眼跪地、乱枪打死</a></li>
 <li><a href="/baitai/20210820/1609701.md">网上组织“轰趴多人运动局”，上海男子犯聚众淫乱罪获刑</a></li>
 <li><a href="/comments/20210820/1609875.md">75岁好莱坞“第一硬汉”巨星史泰龙，在催眠中看见前世。历经坎坷，他是真实的敢死队长！影坛常青树，励志故事感动几代人，他的成功是注定的？命运，可靠吗？</a></li>
-<li><a href="/lifebaike/20210820/1609631.md">北大教授：即使掏空所有家长钱包，也无法弥补中国家庭教育的缺陷</a></li>
 <li><a href="/comments/20210820/1609811.md">华春莹4讽美国 中共搅局被反击；许家印难逃此劫？刚卸任恒大地产董事长 监管部门又找上门   ；张家界封城 有人失控 外地滞留人员：我要崩溃了；【希望之声-红朝禁闻-2021/08/19】</a></li>
+<li><a href="/lifebaike/20210820/1609631.md">北大教授：即使掏空所有家长钱包，也无法弥补中国家庭教育的缺陷</a></li>
 <li><a href="/bannedvideo/20210820/1609788.md">种种迹象表明，习近平要给中国经济这个重病号动手术了，但手里拿的却是一把镰刀（20210820 第664期）</a></li>
 <li><a href="/bannedvideo/20210820/1609810.md">塔利班清算实况这名少女下场令人不寒而栗</a></li>
 <li><a href="/cnnews/20210820/1609870.md">说实话了！“共同富裕”不能说的秘密被曝光 【阿波罗网报道】</a></li>
-<li><a href="/worldnews/20210820/1609525.md">女儿生日想吃Pizza 单亲爸恳求赊帐 结局哭惨…</a></li>
 <li><a href="/lifebaike/20210820/1609555.md">52岁男子吃素一年，脑梗离世，医生惋惜：2种素食，比肥肉还升脂</a></li>
 <li><a href="/cbnews/20210820/1609880.md">“我爸爸因为打科兴快要没了我该怎么办？”</a></li>
 <li><a href="/cnnews/20210820/1609597.md">习近平喊“共同富裕”之后 奢侈品股价崩了</a></li>
 <li><a href="/worldnews/20210820/1609866.md">急着落跑!美军装备全落入塔利班手中 包括2000多辆装甲车及无人机等</a></li>
+<li><a href="/ssgc/20210820/1609899.md">人大紧急叫停香港落实《反外国制裁法》</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210821/1610277.md" target="_blank">文昭：习近平「杀猪计划」提前，一天灭一个行业，企业家误判的原因；始於均富、终於均贫</a></li>
+<li><a href="/comments/20210821/1610276.md" target="_blank">悬赏三百万遭塔利班追杀，这对中国夫妇到底干了啥！？不当家不知柴米贵，塔利班发现国库里根本没钱！塔利班手里到底有多少钱？【新闻最嘲点 姜光宇】2021.08.20</a></li>
 <li><a href="/cbnews/20210821/1610258.md" target="_blank">专栏 | 夜话中南海：以革命的名义经营鸦片贸易是毛泽东钦旨</a></li>
 <li><a href="/comments/20210821/1610257.md" target="_blank">本月入狱的两大明星，一样的监狱，不一样的风云。</a></li>
 <li><a href="/cbnews/20210821/1610256.md" target="_blank">拜登提名前国务次卿伯恩斯出任驻中国大使</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/comments/20210820/1609537.md" target="_blank">五部经典大片，重温阿富汗战争！确诊后仍恶意散播自称抗日，“抗日小能手”被人肉：全体华人的耻辱！【新闻最嘲点 姜光宇】2021.08.19</a></li>
 <li><a href="/cbnews/20210820/1609506.md" target="_blank">北京为何要为塔利班铺红毯？</a></li>
 <li><a href="/cbnews/20210820/1609468.md" target="_blank">谁最希望美军留在阿富汗？美国学界政界都说是中共</a></li>
-<li><a href="/cbnews/20210820/1609467.md" target="_blank">逃离内卷：衡水中学校长无法把儿子送往浦东机场</a></li>
-<li><a href="/cbnews/20210820/1609460.md" target="_blank">22尊千年佛像遭砍头 四川旺苍悬赏5万缉贼</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,15 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210821/1610276.md" target="_blank">悬赏三百万遭塔利班追杀，这对中国夫妇到底干了啥！？不当家不知柴米贵，塔利班发现国库里根本没钱！塔利班手里到底有多少钱？【新闻最嘲点 姜光宇】2021.08.20</a></li>
+<li><a href="/comments/20210821/1610275.md" target="_blank">美文篇：《“东方不败”之行走江湖》 –作者：田恬</a></li>
+<li><a href="/comments/20210821/1610274.md" target="_blank">【双语诗歌 Bilingual Poetry】：《传递 Spread 》—— 作者：Emily Lee</a></li>
+<li><a href="/comments/20210821/1610273.md" target="_blank">【世界美景】：《红腹啄木鸟》—作者：安妮</a></li>
+<li><a href="/comments/20210821/1610272.md" target="_blank">《路 遥》——作者： 柯 树</a></li>
+<li><a href="/comments/20210821/1610271.md" target="_blank">看九岁小孩如何画《托着腮帮发呆的唯美女生》—作者：苏苏</a></li>
+<li><a href="/comments/20210821/1610270.md" target="_blank">二十四节气之一：《处暑》 — 作者：林思远</a></li>
+<li><a href="/comments/20210821/1610269.md" target="_blank">时事篇：清醒与睿智 —作者：戈壁东</a></li>
+<li><a href="/comments/20210821/1610268.md" target="_blank">古文浅译：《左传•宣公十三年》《左传•宣公十二年》《左传•闵公元年》—作者：智慧</a></li>
 <li><a href="/comments/20210821/1610267.md" target="_blank">德州民主党人对峙38天返回 选举改革法通过有望</a></li>
 <li><a href="/comments/20210821/1610264.md" target="_blank">人是怎样进入自愿奴役状态的？</a></li>
 <li><a href="/comments/20210821/1610263.md" target="_blank">林泉忠：胡适之后有余英时 余英时之后有谁？</a></li>
@@ -114,15 +123,6 @@
 <li><a href="/comments/20210821/1610196.md" target="_blank">《苹果》最后刊物尚余 4000 本 四日后回收或弃置 蟹货仓老板：实体书可留记忆</a></li>
 <li><a href="/comments/20210821/1610191.md" target="_blank">德国越南裔老板娘为何爱上了中国腰鼓？</a></li>
 <li><a href="/comments/20210821/1610070.md" target="_blank">中共监管行动冲击中港股市 外资单日净卖A股超百亿</a></li>
-<li><a href="/comments/20210821/1610067.md" target="_blank">习近平当局强制疫苗接种与毛泽东发动大跃进背后的中共六级官场密码 中南海不可告人的秘密_441</a></li>
-<li><a href="/comments/20210821/1610053.md" target="_blank">啥情况？中共反制裁法高高举起 轻轻放下；阿富汗新政权陷困境 北京要当接盘侠？美国反制中共熔断 大陆留学生叫苦连天【希望之声TV-环球看点-2021/8/20】</a></li>
-<li><a href="/comments/20210821/1610052.md" target="_blank">驻港解放军海陆空演习 至少 10 辆军车途经昂船洲大桥、坚尼地城</a></li>
-<li><a href="/comments/20210821/1610051.md" target="_blank">中共修改计生法 “三孩”政策来了 让你“养得起”的措施有用吗？</a></li>
-<li><a href="/comments/20210820/1610023.md" target="_blank">久坐成为四大致死因素之一！出现以下3种症状请就医</a></li>
-<li><a href="/comments/20210820/1610022.md" target="_blank">出伏之后莫贪凉 要当心易发病</a></li>
-<li><a href="/comments/20210820/1609955.md" target="_blank">人大暂缓《反外国制裁法》在港实施 刘兆佳︰或因西方关注 中央认为要再探讨</a></li>
-<li><a href="/comments/20210820/1609953.md" target="_blank">均贫富的千古梦，最后都成了一起穷</a></li>
-<li><a href="/comments/20210820/1609943.md" target="_blank">美国Honda遭多起诉讼，车主称电瓶质量有问题</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持 9折优惠中</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
 <li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
 
 </ul>
 </div>
