@@ -9,25 +9,25 @@
 <li><a href="/cnnews/20210819/1608963.md">“六边形死士”入侵 已悄悄占领整个中国南部</a></li>
 <li><a href="/topimagenews/20210819/1609059.md">塔利班清算影片曝光！闯豪宅挨家挨户逮人 少女不穿传统罩袍遭射死</a></li>
 <li><a href="/comments/20210819/1609277.md">中共高规格会议 汪洋座席有变；果然！中共黑手促阿富汗变天 伊朗突然发话【希望之声-两岸要闻-2021/08/19】</a></li>
-<li><a href="/bannedvideo/20210819/1609192.md">文睿：到郑州狠抽习近平耳光，李克强到底要干什么？一尊的面子碎一地</a></li>
 <li><a href="/cbnews/20210819/1609058.md">江峰：「高收入」阶层及人群小心了！先收护照后加税，习近平版打土豪时代正式降临：惊心！中央财经会议三大看点；阿富汗上演打土豪党媒洗白白【江峰漫谈20210818第363期】</a></li>
+<li><a href="/bannedvideo/20210819/1609192.md">文睿：到郑州狠抽习近平耳光，李克强到底要干什么？一尊的面子碎一地</a></li>
 <li><a href="/comments/20210819/1609196.md">中共传再次释放病毒！郭文贵爆：将以武统台湾要求和谈</a></li>
-<li><a href="/health/20210819/1608917.md">艾滋病的元凶终于找到了，医生忠告，远离艾滋病，四件事不要做</a></li>
 <li><a href="/bannedvideo/20210819/1609239.md">陈破空：重大信号！汪洋地位陡升，内定接任总书记？李克强现身河南灾区，党媒全面封杀！习近平气量如此</a></li>
 <li><a href="/comments/20210819/1609285.md">中共高规格会议 汪洋座席有变 二十大留任？</a></li>
 <li><a href="/headline/20210819/1609150.md">中央财经会议定调财富「三次分配制度」 习近平重提毛泽东「共同富裕」倡议</a></li>
 <li><a href="/baitai/20210819/1609109.md">颜纯鈎﻿ | 最大噩梦来了：国库空虚，入不敷出</a></li>
-<li><a href="/bannedvideo/20210819/1609043.md">“抗日小能手”日本在落网！习近平10年经典语录被废，中共战郎海外折腾推动反共大联盟</a></li>
 <li><a href="/cbnews/20210820/1609467.md">逃离内卷：衡水中学校长无法把儿子送往浦东机场</a></li>
+<li><a href="/bannedvideo/20210819/1609043.md">“抗日小能手”日本在落网！习近平10年经典语录被废，中共战郎海外折腾推动反共大联盟</a></li>
 <li><a href="/bannedvideo/20210819/1609234.md">更可怕的还在后面，拜登正在打开潘多拉盒子。退休美国将军说，奥巴马是阿富汗混乱的设计师。拜登被ABC主播逼到墙角，麻木程度令人发指。蔡英文首次就阿富汗问题发声。</a></li>
 <li><a href="/finance/20210819/1609143.md">不寒而栗！中共对“三次分配”蓄谋已久 中共喉舌早就说了...【阿波罗网报道】</a></li>
 <li><a href="/comments/20210819/1609182.md">新冠病毒传染力诡异！医揭RRAR密码：中共别想甩锅</a></li>
 <li><a href="/comments/20210819/1609055.md">李克强视察郑州地铁提追责 北京三大官媒不报导</a></li>
 <li><a href="/cnnews/20210819/1609177.md">真没同情心！被问“阿富汗人从飞机掉落”：拜登第一反应…</a></li>
 <li><a href="/bannedvideo/20210819/1609112.md">江苏扬州管控再升级，变成了空城。8月17日下午，扬州要求所有封控管理小区，所有小区居民“足不出楼栋”，村民“足不出自然村”，平房区居民“足不出巷”。</a></li>
-<li><a href="/funmedia/20210819/1609082.md">老照片：杨乃武与小白菜真容曝光，法国记者拍下二人合影</a></li>
-<li><a href="/comments/20210820/1609395.md">争斗延续 李克强郑州地铁追责 三大党媒无视；腾讯深夜向习表忠 再投500亿破财免祸【希望之声TV-环球看点-2021/8/19】</a></li>
 <li><a href="/worldnews/20210819/1609296.md">印度神童“惊世预言”6度成真 未来3月都危险</a></li>
+<li><a href="/comments/20210820/1609395.md">争斗延续 李克强郑州地铁追责 三大党媒无视；腾讯深夜向习表忠 再投500亿破财免祸【希望之声TV-环球看点-2021/8/19】</a></li>
+<li><a href="/funmedia/20210819/1609082.md">老照片：杨乃武与小白菜真容曝光，法国记者拍下二人合影</a></li>
+<li><a href="/cbnews/20210819/1609062.md">华为孟晚舟引渡庭讯结束 加拿大法官10月21日确定裁决日</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210820/1609572.md" target="_blank">福克斯名主持：疫情强制令是“科学主义”而非“科学”</a></li>
+<li><a href="/comments/20210820/1609569.md" target="_blank">洪博学：国家自救才能他救</a></li>
+<li><a href="/comments/20210820/1609568.md" target="_blank">长平 :是中共“精塔” 还是塔利班“精共”？</a></li>
 <li><a href="/comments/20210820/1609548.md" target="_blank">前屯门区议员曾振兴宣布已离港</a></li>
 <li><a href="/comments/20210820/1609547.md" target="_blank">【世界美景】它是泰国十大美丽瀑布之一</a></li>
 <li><a href="/comments/20210820/1609546.md" target="_blank">阿富汗副总统勇战塔利班 夺回一个省</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210820/1609453.md" target="_blank">不只伤肝，还飙血糖、高尿酸坏肾！医师：必戒这口</a></li>
 <li><a href="/comments/20210820/1609452.md" target="_blank">今日出伏，吃“碱菜，酸果，润茶”，应季而平安</a></li>
 <li><a href="/comments/20210820/1609447.md" target="_blank">【阿隋厨房】辣子虾仁 虾仁爽脆 酸甜微辣 好吃易烧 crevettes épicées spicy shrimp</a></li>
-<li><a href="/comments/20210820/1609443.md" target="_blank">北戴河会议结束 习近平嫡系之江新军三高官被放风将晋升 两人或将接掌政法系副国级要职 中南海谣言预言_501</a></li>
-<li><a href="/comments/20210820/1609432.md" target="_blank">被踢出欧美市场 华为押注非洲和中东市场</a></li>
-<li><a href="/comments/20210820/1609418.md" target="_blank">胡锦涛裸退后反击江泽民 习近平三次感谢两度礼让胡锦涛 胡锦涛退休后基本政治待遇不变 日常生活细节与三大去处曝光 中南海不可告人的秘密_440</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
 <li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
 
 </ul>
 </div>
