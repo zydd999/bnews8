@@ -13,18 +13,18 @@
 <li><a href="/topimagenews/20210820/1609800.md">习近平这次会后 房地产税和遗产税要来了？ 【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20210820/1609918.md">信号！高层会，汪洋座席变；台海紧张，厦门大动作人心惶惶；华为押注非洲和中东</a></li>
 <li><a href="/cnnews/20210820/1609556.md">上海男子在地铁内脱鞋横躺霸座 结果 鞋被扔了…</a></li>
-<li><a href="/comments/20210820/1609914.md">汪洋访西藏 罕见安排凸显习近平；内幕：溯源调查 令世卫“极震惊”【希望之声-两岸要闻-2021/08/20</a></li>
 <li><a href="/cbnews/20210820/1609678.md">害惨中国留学生？中共熔断美国航班被还击 网友讥讽</a></li>
+<li><a href="/comments/20210820/1609914.md">汪洋访西藏 罕见安排凸显习近平；内幕：溯源调查 令世卫“极震惊”【希望之声-两岸要闻-2021/08/20</a></li>
 <li><a href="/cnnews/20210820/1609518.md">被塔利班斥为妓女 阿富汗流行天后搭机脱逃</a></li>
 <li><a href="/comments/20210820/1609725.md">怕了？ 习近平急忙与多国谈“合作”；拜登称阿国的威胁程度不会回到911前【希望之声-午夜新闻-2021/08/19】</a></li>
 <li><a href="/worldnews/20210820/1609681.md">塔利班处决警察局长画面曝光：蒙眼跪地、乱枪打死</a></li>
 <li><a href="/baitai/20210820/1609701.md">网上组织“轰趴多人运动局”，上海男子犯聚众淫乱罪获刑</a></li>
 <li><a href="/comments/20210820/1609875.md">75岁好莱坞“第一硬汉”巨星史泰龙，在催眠中看见前世。历经坎坷，他是真实的敢死队长！影坛常青树，励志故事感动几代人，他的成功是注定的？命运，可靠吗？</a></li>
-<li><a href="/lifebaike/20210820/1609631.md">北大教授：即使掏空所有家长钱包，也无法弥补中国家庭教育的缺陷</a></li>
 <li><a href="/comments/20210820/1609811.md">华春莹4讽美国 中共搅局被反击；许家印难逃此劫？刚卸任恒大地产董事长 监管部门又找上门   ；张家界封城 有人失控 外地滞留人员：我要崩溃了；【希望之声-红朝禁闻-2021/08/19】</a></li>
+<li><a href="/bannedvideo/20210820/1609788.md">种种迹象表明，习近平要给中国经济这个重病号动手术了，但手里拿的却是一把镰刀（20210820 第664期）</a></li>
+<li><a href="/lifebaike/20210820/1609631.md">北大教授：即使掏空所有家长钱包，也无法弥补中国家庭教育的缺陷</a></li>
 <li><a href="/bannedvideo/20210820/1609810.md">塔利班清算实况这名少女下场令人不寒而栗</a></li>
 <li><a href="/cnnews/20210820/1609870.md">说实话了！“共同富裕”不能说的秘密被曝光 【阿波罗网报道】</a></li>
-<li><a href="/bannedvideo/20210820/1609788.md">种种迹象表明，习近平要给中国经济这个重病号动手术了，但手里拿的却是一把镰刀（20210820 第664期）</a></li>
 <li><a href="/worldnews/20210820/1609525.md">女儿生日想吃Pizza 单亲爸恳求赊帐 结局哭惨…</a></li>
 <li><a href="/cnnews/20210820/1609498.md">14岁少女下葬一天 遗体就被挖出凌辱 谁料凶手…</a></li>
 <li><a href="/lifebaike/20210820/1609555.md">52岁男子吃素一年，脑梗离世，医生惋惜：2种素食，比肥肉还升脂</a></li>
@@ -67,6 +67,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20210821/1610240.md" target="_blank">载客率限制在40% 上海→美国机票 飙至1张1.5万美元</a></li>
 <li><a href="/topimagenews/20210821/1610219.md" target="_blank">惊恐！一位年轻母亲自述：人贩子假装好人 团伙作案 女儿险被拐走</a></li>
 <li><a href="/topimagenews/20210820/1609800.md" target="_blank">习近平这次会后 房地产税和遗产税要来了？ 【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20210820/1609738.md" target="_blank">央行、银保监会约谈恒大！恒大系股价重挫</a></li>
@@ -91,13 +92,13 @@
 <li><a href="/topimagenews/20210815/1606550.md" target="_blank">“谁都逃不掉”！房产调控，最密集的维权潮来了</a></li>
 <li><a href="/topimagenews/20210814/1606386.md" target="_blank">深圳楼只升不跌神话破灭！7月成交量泻80% 大量代理转行</a></li>
 <li><a href="/topimagenews/20210814/1606316.md" target="_blank">习近平还是输了，中俄军演内幕被揭个底掉；反制裁法扩大，在港国际银行慌了要撤离</a></li>
-<li><a href="/topimagenews/20210814/1606285.md" target="_blank">热闹了！反习势力嘲笑李鸿忠“无疾而终”【阿波罗网报道】</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210821/1610239.md" target="_blank">“三孩”政策来了 让你“养得起”措施有用吗？八成受访者：不想生</a></li>
 <li><a href="/comments/20210821/1610231.md" target="_blank">路透：中共拟要求赴美上市公司交出数据控制权</a></li>
 <li><a href="/comments/20210821/1610218.md" target="_blank">吓坏了！香港股市一路跌 中共紧急叫停《反外国制裁法》</a></li>
 <li><a href="/comments/20210821/1610217.md" target="_blank">消息称中国恒大拟出售香港总部大楼</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210820/1609910.md" target="_blank">又是从中国运来的！美阿拉斯加查获3000多张伪造疫苗接种卡</a></li>
 <li><a href="/comments/20210820/1609909.md" target="_blank">还在洗白？塔利班发言人接受《央视》专访谈“2字”</a></li>
 <li><a href="/comments/20210820/1609896.md" target="_blank">托马斯·索维尔 | 始于均富，终于均贫</a></li>
-<li><a href="/comments/20210820/1609892.md" target="_blank">曾和美军共事 阿富汗警察全家被直升机救出</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
 <li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
 
 </ul>
 </div>
