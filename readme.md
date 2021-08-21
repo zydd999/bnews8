@@ -10,8 +10,8 @@
 <li><a href="/bannedvideo/20210821/1610214.md">二皇帝李克强出巡郑州，阵势吓人！</a></li>
 <li><a href="/cnnews/20210821/1610201.md">中共“杀富”政策在北戴河定调 幕后大推手汪洋“升官了”</a></li>
 <li><a href="/comments/20210820/1609875.md">75岁好莱坞“第一硬汉”巨星史泰龙，在催眠中看见前世。历经坎坷，他是真实的敢死队长！影坛常青树，励志故事感动几代人，他的成功是注定的？命运，可靠吗？</a></li>
-<li><a href="/comments/20210821/1610218.md">吓坏了！香港股市一路跌 中共紧急叫停《反外国制裁法》</a></li>
 <li><a href="/cnnews/20210820/1609870.md">说实话了！“共同富裕”不能说的秘密被曝光 【阿波罗网报道】</a></li>
+<li><a href="/comments/20210821/1610218.md">吓坏了！香港股市一路跌 中共紧急叫停《反外国制裁法》</a></li>
 <li><a href="/cnnews/20210821/1610249.md">刘少奇女儿曝刘少奇的自私虚伪丑恶</a></li>
 <li><a href="/comments/20210821/1610253.md">怀进鹏取代陈宝生任中国教育部长 要掀起一场前所未有变革？</a></li>
 <li><a href="/cbnews/20210821/1610277.md">文昭：习近平「杀猪计划」提前，一天灭一个行业，企业家误判的原因；始於均富、终於均贫</a></li>
@@ -19,14 +19,14 @@
 <li><a href="/cbnews/20210820/1609880.md">“我爸爸因为打科兴快要没了我该怎么办？”</a></li>
 <li><a href="/comments/20210821/1610276.md">悬赏三百万遭塔利班追杀，这对中国夫妇到底干了啥！？不当家不知柴米贵，塔利班发现国库里根本没钱！塔利班手里到底有多少钱？【新闻最嘲点 姜光宇】2021.08.20</a></li>
 <li><a href="/cnnews/20210821/1610353.md">赴美“犹如出逃” 出境盘问细节曝光</a></li>
-<li><a href="/worldnews/20210820/1609866.md">急着落跑!美军装备全落入塔利班手中 包括2000多辆装甲车及无人机等</a></li>
-<li><a href="/weiquan/20210820/1609981.md">厉害了&#65281;珠海美女警察让司法沦为私法</a></li>
-<li><a href="/cnnews/20210821/1610351.md">不等了？爆美大学2个月发6万签证给中国留学生</a></li>
 <li><a href="/cbnews/20210821/1610411.md">天亮时分：20210820 习近平败相已显，人大紧急叫停在香港实施《反外国制裁法》；FBI结论证实川普清白（政论天下第491集 20210820）</a></li>
+<li><a href="/worldnews/20210820/1609866.md">急着落跑!美军装备全落入塔利班手中 包括2000多辆装甲车及无人机等</a></li>
+<li><a href="/cnnews/20210821/1610351.md">不等了？爆美大学2个月发6万签证给中国留学生</a></li>
+<li><a href="/weiquan/20210820/1609981.md">厉害了&#65281;珠海美女警察让司法沦为私法</a></li>
 <li><a href="/lifebaike/20210821/1610247.md">因太美被杀的女红军</a></li>
 <li><a href="/ssgc/20210820/1609899.md">人大紧急叫停香港落实《反外国制裁法》</a></li>
+<li><a href="/comments/20210821/1610463.md">李克强要拿下习家军成员？国务院调查组进驻郑州；拜登公开护台 华春莹竟然如此回应 ；人大通过世上最严苛隐私法；【希望之声-红朝禁闻-2021/08/20】</a></li>
 <li><a href="/topimagenews/20210821/1610240.md">载客率限制在40% 上海→美国机票 飙至1张1.5万美元</a></li>
-<li><a href="/bannedvideo/20210820/1609919.md">陈破空：汪洋突现西藏！接班人地位稳了？内情丰富。习家军兵败北戴河。团派胜出</a></li>
 <li><a href="/topimagenews/20210821/1610451.md">国保支队长涉17起指控 竟当庭翻供 牵出富豪家族内斗“大戏”</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210821/1610563.md" target="_blank">北约警告塔利班 勿让阿富汗再成为恐怖主义避难所</a></li>
+<li><a href="/comments/20210821/1610562.md" target="_blank">苏明评论：共匪犯下的七宗罪甩锅给美国</a></li>
 <li><a href="/comments/20210821/1610558.md" target="_blank">李燕铭：三名上将调任全国人大闲职 西部战区司令政委双双换人 59岁上将张旭东任西部战区司令仅半年就被免职去向不明 原战略支援部队司令李凤彪意外接任西部战区政委 中印边境对峙 西部战区司令半年两次异常换人内幕不寻常</a></li>
 <li><a href="/comments/20210821/1610543.md" target="_blank">据报支联会日内开会商讨是否解散 邹幸彤：目前无任何决定</a></li>
 <li><a href="/comments/20210821/1610542.md" target="_blank">无法否认疫苗副作用 日本首次补助接种者医疗费</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210821/1610454.md" target="_blank">我也上过“骂死”高管的领导课</a></li>
 <li><a href="/comments/20210821/1610435.md" target="_blank">阿富汗伊斯兰酋长国宣布成立塔权力架构大揭秘</a></li>
 <li><a href="/comments/20210821/1610434.md" target="_blank">抛售美债对施压美国北京敢吗？</a></li>
-<li><a href="/comments/20210821/1610424.md" target="_blank">秋后算账！联合国密件曝光  TLB正在搜捕助美军阿国人；拯救开始！美雇佣兵出动救援“希望之声TV-北美新闻-2021/0820”</a></li>
-<li><a href="/comments/20210821/1610423.md" target="_blank">秦兽:“正能量”及“没有一片雪花是无辜的”之溯源</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
 <li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
+<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
 
 </ul>
 </div>
