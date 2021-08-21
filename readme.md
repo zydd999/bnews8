@@ -6,28 +6,28 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cnnews/20210820/1609918.md">信号！高层会，汪洋座席变；台海紧张，厦门大动作人心惶惶；华为押注非洲和中东</a></li>
-<li><a href="/topimagenews/20210820/1609800.md">习近平这次会后 房地产税和遗产税要来了？ 【阿波罗网报道】</a></li>
 <li><a href="/comments/20210820/1609914.md">汪洋访西藏 罕见安排凸显习近平；内幕：溯源调查 令世卫“极震惊”【希望之声-两岸要闻-2021/08/20</a></li>
 <li><a href="/bannedvideo/20210821/1610214.md">二皇帝李克强出巡郑州，阵势吓人！</a></li>
 <li><a href="/cnnews/20210821/1610201.md">中共“杀富”政策在北戴河定调 幕后大推手汪洋“升官了”</a></li>
 <li><a href="/comments/20210820/1609875.md">75岁好莱坞“第一硬汉”巨星史泰龙，在催眠中看见前世。历经坎坷，他是真实的敢死队长！影坛常青树，励志故事感动几代人，他的成功是注定的？命运，可靠吗？</a></li>
 <li><a href="/comments/20210821/1610218.md">吓坏了！香港股市一路跌 中共紧急叫停《反外国制裁法》</a></li>
-<li><a href="/cnnews/20210820/1609870.md">说实话了！“共同富裕”不能说的秘密被曝光 【阿波罗网报道】</a></li>
 <li><a href="/comments/20210821/1610253.md">怀进鹏取代陈宝生任中国教育部长 要掀起一场前所未有变革？</a></li>
+<li><a href="/cnnews/20210820/1609870.md">说实话了！“共同富裕”不能说的秘密被曝光 【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20210821/1610249.md">刘少奇女儿曝刘少奇的自私虚伪丑恶</a></li>
-<li><a href="/bannedvideo/20210820/1609810.md">塔利班清算实况这名少女下场令人不寒而栗</a></li>
 <li><a href="/comments/20210820/1609811.md">华春莹4讽美国 中共搅局被反击；许家印难逃此劫？刚卸任恒大地产董事长 监管部门又找上门   ；张家界封城 有人失控 外地滞留人员：我要崩溃了；【希望之声-红朝禁闻-2021/08/19】</a></li>
+<li><a href="/bannedvideo/20210820/1609810.md">塔利班清算实况这名少女下场令人不寒而栗</a></li>
 <li><a href="/cbnews/20210821/1610277.md">文昭：习近平「杀猪计划」提前，一天灭一个行业，企业家误判的原因；始於均富、终於均贫</a></li>
 <li><a href="/comments/20210821/1610205.md">新华社紧急关闭评论区 三孩政策落实 生四孩不再受罚 中共全国人大修订人口计生法 网络炸锅网民评论太劲爆 “新华社被无数无辜幼小的冤魂哭闭了评论区！” 中南海不可告人的秘密_442</a></li>
 <li><a href="/cbnews/20210820/1609880.md">“我爸爸因为打科兴快要没了我该怎么办？”</a></li>
 <li><a href="/comments/20210821/1610276.md">悬赏三百万遭塔利班追杀，这对中国夫妇到底干了啥！？不当家不知柴米贵，塔利班发现国库里根本没钱！塔利班手里到底有多少钱？【新闻最嘲点 姜光宇】2021.08.20</a></li>
-<li><a href="/weiquan/20210820/1609981.md">厉害了&#65281;珠海美女警察让司法沦为私法</a></li>
-<li><a href="/worldnews/20210820/1609866.md">急着落跑!美军装备全落入塔利班手中 包括2000多辆装甲车及无人机等</a></li>
 <li><a href="/cnnews/20210821/1610353.md">赴美“犹如出逃” 出境盘问细节曝光</a></li>
+<li><a href="/worldnews/20210820/1609866.md">急着落跑!美军装备全落入塔利班手中 包括2000多辆装甲车及无人机等</a></li>
+<li><a href="/weiquan/20210820/1609981.md">厉害了&#65281;珠海美女警察让司法沦为私法</a></li>
+<li><a href="/cnnews/20210821/1610351.md">不等了？爆美大学2个月发6万签证给中国留学生</a></li>
 <li><a href="/ssgc/20210820/1609899.md">人大紧急叫停香港落实《反外国制裁法》</a></li>
 <li><a href="/lifebaike/20210821/1610247.md">因太美被杀的女红军</a></li>
-<li><a href="/cnnews/20210821/1610351.md">不等了？爆美大学2个月发6万签证给中国留学生</a></li>
 <li><a href="/topimagenews/20210821/1610240.md">载客率限制在40% 上海→美国机票 飙至1张1.5万美元</a></li>
+<li><a href="/bannedvideo/20210820/1609919.md">陈破空：汪洋突现西藏！接班人地位稳了？内情丰富。习家军兵败北戴河。团派胜出</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210821/1610542.md" target="_blank">无法否认疫苗副作用 日本首次补助接种者医疗费</a></li>
 <li><a href="/comments/20210821/1610525.md" target="_blank">拜登对台“新承诺” 惹脑北京再“秀”东风系导弹</a></li>
 <li><a href="/comments/20210821/1610522.md" target="_blank">“一带一路”不讨好 中国车队巴基斯坦再遭恐袭</a></li>
 <li><a href="/comments/20210821/1610521.md" target="_blank">李燕铭：习近平一天连签七个主席令 涉军队司法监察经济文教医药卫生等多领域 泄露中共末日危机 预兆多领域清洗风暴 全国人大常委会紧急叫停表决一项法律提案 中共内外交困中国酝酿巨变</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210821/1610423.md" target="_blank">秦兽:“正能量”及“没有一片雪花是无辜的”之溯源</a></li>
 <li><a href="/comments/20210821/1610422.md" target="_blank">算一卦：塔利班的“金盆洗手”会不会成功</a></li>
 <li><a href="/comments/20210821/1610421.md" target="_blank">名家专栏：中共作假和其真正的世界纪录</a></li>
-<li><a href="/comments/20210821/1610379.md" target="_blank">CDT：中国“精塔”分子喜庆塔利班再次掌权</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/comments/20210612/1565472.md" target="_blank">感悟神韵（之二）：感悟神韵的艺术风格</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
 <li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
 
 </ul>
 </div>
