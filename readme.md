@@ -19,15 +19,15 @@
 <li><a href="/bannedvideo/20210822/1610786.md">阿富汗抵抗军再下三城！承认新政权的第一个国家，中共重建阿富汗困难重重，中共大撒币坏账多，习近平一带一路均贫富，财富第四次分配（小木谈天第183期 20210821）</a></li>
 <li><a href="/bannedvideo/20210821/1610619.md">美国病毒调查将出炉，中共神秘阴招急甩锅？拜登高规格声援台湾，战略模糊转清晰？香港《反外国制裁法》紧急叫停，北京有何顾忌？（2021.8.21）｜世界的十字路口 唐浩</a></li>
 <li><a href="/cbnews/20210821/1610756.md">四川大学军训相互举报，年轻人卷疯了</a></li>
+<li><a href="/cnnews/20210822/1610860.md">中国医保，是个被国人长期误解的天真假象</a></li>
 <li><a href="/lifebaike/20210821/1610560.md">周恩来的魔鬼真面目 陆媒谈“周恩来下令击落林彪飞机”谜案</a></li>
 <li><a href="/baitai/20210822/1610835.md">杭州市委书记周江勇被查，曾警示“当时代抛弃你的时候，连一句再见都不会说”</a></li>
 <li><a href="/bannedvideo/20210821/1610621.md">陈破空：王岐山败部复活！习家军败走，涉港恶法首次受阻！蒙古女王平安。段子：李克强来晚了</a></li>
 <li><a href="/comments/20210822/1610767.md">“浙江牌”也落马！浙江省委常委、杭州市委书记周江勇被查</a></li>
 <li><a href="/weiquan/20210821/1610722.md">河南200余私营企业主因洛阳市委书记&#12289;市长不作为向国家纪委投诉</a></li>
-<li><a href="/cnnews/20210822/1610860.md">中国医保，是个被国人长期误解的天真假象</a></li>
 <li><a href="/cnnews/20210822/1610839.md">中国大学最劝退的专业，医学只能排第二</a></li>
 <li><a href="/bannedvideo/20210822/1610808.md">川普： 我不想侮辱任何人 但是......</a></li>
-<li><a href="/health/20210821/1610545.md">脑血栓的天然“清洁工”终于找到了，没事吃一点，不怕“血栓”扰</a></li>
+<li><a href="/worldnews/20210822/1610882.md">吃剩菜配酒！部长喝挂没接电话 惨遭金正恩下令处死</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210822/1611066.md" target="_blank">郑州水灾掀习李斗争风暴！李克强前脚走国务院调查组随即进驻</a></li>
 <li><a href="/comments/20210822/1611053.md" target="_blank">暴雨再袭河南 郑州人将爱车架高 曾全城被淹的卫辉市有民众撤离</a></li>
 <li><a href="/comments/20210822/1611050.md" target="_blank">美国超强60岁妈只身飞中东 营救10名阿富汗全女子机器人队成员；美国又有3名参议员染疫 国会确诊总数攀升至71人；加拿大总理特鲁多竞选演讲被骂 要求其辞职 【希望之声-午夜新闻-2021/08/21】</a></li>
 <li><a href="/comments/20210822/1611048.md" target="_blank">中国收入分配报告2021：现状与国际比较</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210822/1610952.md" target="_blank">他打疫苗后绝望 警察半瘫了又能怎样？</a></li>
 <li><a href="/comments/20210822/1610951.md" target="_blank">北京如何一年内摧毁香港的言论自由？</a></li>
 <li><a href="/comments/20210822/1610950.md" target="_blank">梁之：中国和阿富汗人民的“选择”多么相像</a></li>
-<li><a href="/comments/20210822/1610936.md" target="_blank">内蒙古“黑金之城”处级官员敛财2亿 曾是三个“老虎”的下属 中共贪腐一条龙：从村官到正国级高官 贪腐数亿至数千亿…… 中南海不可告人的秘密_443</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
 <li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
 <li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持 9折优惠中</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
 <li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
 
 </ul>
 </div>
