@@ -6,28 +6,28 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cnnews/20210821/1610506.md">连续出手 习近平要动最难啃的一块“骨头”？江系总算把这天念叨来了【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20210821/1610671.md">突发；中共好朋友巴铁爆发针对中国人袭击；阿里巴巴和腾讯蒸发超6万亿；</a></li>
 <li><a href="/comments/20210822/1610825.md">李燕铭：北戴河会后首虎 浙江杭州市委书记周江勇被秒杀内幕 三天内浙江两高官被查 习近平清洗之江新军内鬼？还是习政敌攻击之江新军？周江勇被曝亿元买官 牵扯胡锦涛御用人事女总管沈跃跃 周江勇任内曾力挺阿里巴巴并授予马云“功勋杭州人”荣誉称号 周江勇一语成谶：“当时代抛弃你的时候，连再见都不会说”</a></li>
+<li><a href="/topimagenews/20210821/1610671.md">突发；中共好朋友巴铁爆发针对中国人袭击；阿里巴巴和腾讯蒸发超6万亿；</a></li>
 <li><a href="/comments/20210821/1610616.md">王赫：最后一秒叫停 北京为何自抽耳光</a></li>
 <li><a href="/headline/20210821/1610727.md">杭州市委书记落马 或因力挺马云？</a></li>
 <li><a href="/health/20210821/1610546.md">立秋后，三种蔬菜再穷不放过，腰不疼，腿不酸了，视力提高了</a></li>
 <li><a href="/baitai/20210821/1610538.md">一条｜一个北京地铁民警在知乎上的回答，得到了127万点赞</a></li>
-<li><a href="/bannedvideo/20210821/1610617.md">东莞厚街溪头，曾经一铺难求，如今人去楼空。</a></li>
 <li><a href="/cbnews/20210822/1610844.md">东方卫视主持人因“不当言论”被微博禁言</a></li>
+<li><a href="/bannedvideo/20210821/1610617.md">东莞厚街溪头，曾经一铺难求，如今人去楼空。</a></li>
 <li><a href="/lifebaike/20210821/1610758.md">中国“单身女”突破1亿真实原因曝光</a></li>
-<li><a href="/bannedvideo/20210822/1610786.md">阿富汗抵抗军再下三城！承认新政权的第一个国家，中共重建阿富汗困难重重，中共大撒币坏账多，习近平一带一路均贫富，财富第四次分配（小木谈天第183期 20210821）</a></li>
 <li><a href="/cbnews/20210821/1610613.md">习近平严防监察委！监察官法出台 “纪检监察机关不是天然的保险箱” 【阿波罗网报道】</a></li>
+<li><a href="/bannedvideo/20210822/1610786.md">阿富汗抵抗军再下三城！承认新政权的第一个国家，中共重建阿富汗困难重重，中共大撒币坏账多，习近平一带一路均贫富，财富第四次分配（小木谈天第183期 20210821）</a></li>
 <li><a href="/bannedvideo/20210821/1610619.md">美国病毒调查将出炉，中共神秘阴招急甩锅？拜登高规格声援台湾，战略模糊转清晰？香港《反外国制裁法》紧急叫停，北京有何顾忌？（2021.8.21）｜世界的十字路口 唐浩</a></li>
-<li><a href="/funmedia/20210821/1610470.md">为什么沙漠中遍地的西瓜没有人摘？知道原因后，再口渴我也不吃</a></li>
 <li><a href="/lifebaike/20210821/1610560.md">周恩来的魔鬼真面目 陆媒谈“周恩来下令击落林彪飞机”谜案</a></li>
 <li><a href="/cbnews/20210821/1610756.md">四川大学军训相互举报，年轻人卷疯了</a></li>
+<li><a href="/comments/20210822/1610851.md">【希望之声TV】北戴河秘定抢钱计画汪洋或接任下一届总理？【希望之声-每日头条-2021/08/21】</a></li>
 <li><a href="/bannedvideo/20210821/1610621.md">陈破空：王岐山败部复活！习家军败走，涉港恶法首次受阻！蒙古女王平安。段子：李克强来晚了</a></li>
+<li><a href="/baitai/20210822/1610835.md">杭州市委书记周江勇被查，曾警示“当时代抛弃你的时候，连一句再见都不会说”</a></li>
 <li><a href="/weiquan/20210821/1610722.md">河南200余私营企业主因洛阳市委书记&#12289;市长不作为向国家纪委投诉</a></li>
 <li><a href="/comments/20210822/1610767.md">“浙江牌”也落马！浙江省委常委、杭州市委书记周江勇被查</a></li>
-<li><a href="/comments/20210822/1610851.md">【希望之声TV】北戴河秘定抢钱计画汪洋或接任下一届总理？【希望之声-每日头条-2021/08/21】</a></li>
 <li><a href="/bannedvideo/20210822/1610808.md">川普： 我不想侮辱任何人 但是......</a></li>
 <li><a href="/health/20210821/1610545.md">脑血栓的天然“清洁工”终于找到了，没事吃一点，不怕“血栓”扰</a></li>
-<li><a href="/baitai/20210822/1610835.md">杭州市委书记周江勇被查，曾警示“当时代抛弃你的时候，连一句再见都不会说”</a></li>
+<li><a href="/comments/20210821/1610644.md">总统拜登提名新任美国驻华大使；北戴河后 中南海两高层一直隐身【希望之声-两岸要闻-2021/08/21】</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210822/1610843.md" target="_blank">FBI最新调查：1月6日国会大厦事件与川普无关，“企图政变”是谣言</a></li>
 <li><a href="/cbnews/20210822/1611024.md" target="_blank">中共粉红开始“精塔”:没有塔利班就没有阿富汗</a></li>
 <li><a href="/cbnews/20210822/1611005.md" target="_blank">中俄雇员易受胁迫当间谍 FBI提醒大科技公司防范</a></li>
 <li><a href="/comments/20210822/1610977.md" target="_blank">【杰森视角】中共绝不会“劫富济贫”！一个30年的老概念带给中国人新烦恼！中共的“三次分配”有制度优势！中巴危机预演中阿未来？“阿塔”让中共又爱又怕?</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/comments/20210821/1610463.md" target="_blank">李克强要拿下习家军成员？国务院调查组进驻郑州；拜登公开护台 华春莹竟然如此回应 ；人大通过世上最严苛隐私法；【希望之声-红朝禁闻-2021/08/20】</a></li>
 <li><a href="/comments/20210821/1610424.md" target="_blank">秋后算账！联合国密件曝光  TLB正在搜捕助美军阿国人；拯救开始！美雇佣兵出动救援“希望之声TV-北美新闻-2021/0820”</a></li>
 <li><a href="/cbnews/20210821/1610411.md" target="_blank">天亮时分：20210820 习近平败相已显，人大紧急叫停在香港实施《反外国制裁法》；FBI结论证实川普清白（政论天下第491集 20210820）</a></li>
-<li><a href="/comments/20210821/1610347.md" target="_blank">习近平在贺匾上题词？新华社真会忽悠！</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,12 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210822/1611041.md" target="_blank">假疫苗卡暗潮涌动，美国严查、加拿大严罚</a></li>
+<li><a href="/comments/20210822/1611038.md" target="_blank">【要闻精粹】这国疫苗运动的角色与疯狂令人叹为观止</a></li>
+<li><a href="/comments/20210822/1611037.md" target="_blank">美中双重夹击下 中概股蒸发1.5万亿美元 专家警告：还未见底</a></li>
+<li><a href="/comments/20210822/1611036.md" target="_blank">习近平一句话 腾讯阿里等集体蒸发8万亿</a></li>
+<li><a href="/comments/20210822/1611035.md" target="_blank">黑龙江高法官员胡银波被查 曾参与迫害法轮功</a></li>
+<li><a href="/comments/20210822/1611034.md" target="_blank">【明德新闻一览】 火箭军成功发射!!拜登对台“新承诺” 惹恼北京…</a></li>
 <li><a href="/comments/20210822/1611032.md" target="_blank">李燕铭：江绵恒马仔张庆伟顶风作案 习近平火速反击 习家军两要员出手 黑龙江省政法委三名正副书记密集落马 黑龙江省公安厅常务副厅长高德义“溺水身亡” 黑龙江省高级法院高官胡银波主动投案 黑龙江省官场地震数十官员密集落马 张庆伟下属密集被查 二十大入局还是落马？</a></li>
 <li><a href="/comments/20210822/1611014.md" target="_blank">美台关系清晰化，胡锡进大功一件</a></li>
 <li><a href="/comments/20210822/1611013.md" target="_blank">残酷！塔利班奉行：皈依者对任何不戴头巾的女人拥有性权利</a></li>
@@ -117,12 +123,6 @@
 <li><a href="/comments/20210822/1610921.md" target="_blank">塔利班进了城 值得你那么高兴？</a></li>
 <li><a href="/comments/20210822/1610920.md" target="_blank">华仔：初二女孩自杀背后 有些父母真的不爱他们的孩子</a></li>
 <li><a href="/comments/20210822/1610919.md" target="_blank">林孤小姐:父子开战 双汇末路</a></li>
-<li><a href="/comments/20210822/1610910.md" target="_blank">习近平“共同富裕”话音刚落  中共杭州市委书记周江勇落马；拜登提名伯恩斯为驻华大使 传递啥信号？深圳幼稚园竟暗藏成人娱乐会所；【希望之声-红朝禁闻-2021/08/21】</a></li>
-<li><a href="/comments/20210822/1610886.md" target="_blank">新闻看点：美台关系升级？北京威胁遭网民轰</a></li>
-<li><a href="/comments/20210822/1610885.md" target="_blank">视障按摩师的自述：我为什么不喜欢按摩？</a></li>
-<li><a href="/comments/20210822/1610884.md" target="_blank">阿富汗年轻女性：塔利班的话不可信 童婚新娘担心噩梦重演 女大学生担忧失学</a></li>
-<li><a href="/comments/20210822/1610851.md" target="_blank">【希望之声TV】北戴河秘定抢钱计画汪洋或接任下一届总理？【希望之声-每日头条-2021/08/21】</a></li>
-<li><a href="/comments/20210822/1610848.md" target="_blank">人间的善恶报应都不是偶然的</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
 <li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
 
 </ul>
 </div>
