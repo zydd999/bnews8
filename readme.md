@@ -6,28 +6,28 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/comments/20210822/1610825.md">李燕铭：北戴河会后首虎 浙江杭州市委书记周江勇被秒杀内幕 三天内浙江两高官被查 习近平清洗之江新军内鬼？还是习政敌攻击之江新军？周江勇被曝亿元买官 牵扯胡锦涛御用人事女总管沈跃跃 周江勇任内曾力挺阿里巴巴并授予马云“功勋杭州人”荣誉称号 周江勇一语成谶：“当时代抛弃你的时候，连再见都不会说”</a></li>
-<li><a href="/bannedvideo/20210822/1610786.md">阿富汗抵抗军再下三城！承认新政权的第一个国家，中共重建阿富汗困难重重，中共大撒币坏账多，习近平一带一路均贫富，财富第四次分配（小木谈天第183期 20210821）</a></li>
 <li><a href="/cbnews/20210822/1610844.md">东方卫视主持人因“不当言论”被微博禁言</a></li>
+<li><a href="/bannedvideo/20210822/1610786.md">阿富汗抵抗军再下三城！承认新政权的第一个国家，中共重建阿富汗困难重重，中共大撒币坏账多，习近平一带一路均贫富，财富第四次分配（小木谈天第183期 20210821）</a></li>
 <li><a href="/funmedia/20210822/1611026.md">为什么飞行员都不愿意娶空姐？看了她们私下的生活，换你也不愿意</a></li>
 <li><a href="/cbnews/20210822/1610938.md">天亮时分：20210821 汪洋当总理，李克强要反扑？张文宏真的危险了；中概股已经蒸发1.5万亿美元，是否反弹的决定因素不是习近平而是这个（政论天下第492集 20210821）</a></li>
 <li><a href="/comments/20210822/1610851.md">【希望之声TV】北戴河秘定抢钱计画汪洋或接任下一届总理？【希望之声-每日头条-2021/08/21】</a></li>
-<li><a href="/cnnews/20210822/1610860.md">中国医保，是个被国人长期误解的天真假象</a></li>
 <li><a href="/cnnews/20210822/1611137.md">汪洋上位 吉凶未卜 前途难料</a></li>
+<li><a href="/cnnews/20210822/1610860.md">中国医保，是个被国人长期误解的天真假象</a></li>
 <li><a href="/comments/20210822/1610910.md">习近平“共同富裕”话音刚落  中共杭州市委书记周江勇落马；拜登提名伯恩斯为驻华大使 传递啥信号？深圳幼稚园竟暗藏成人娱乐会所；【希望之声-红朝禁闻-2021/08/21】</a></li>
 <li><a href="/worldnews/20210822/1610882.md">吃剩菜配酒！部长喝挂没接电话 惨遭金正恩下令处死</a></li>
-<li><a href="/topimagenews/20210822/1611004.md">跳河？黑龙江公安厅常务副厅长溺水身亡！【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20210822/1611107.md">中共军方高层异动</a></li>
+<li><a href="/topimagenews/20210822/1611004.md">跳河？黑龙江公安厅常务副厅长溺水身亡！【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20210822/1611063.md">近日，李克强视察郑州一小区。小区居民：每家都有警察，连窗户边都不让站。</a></li>
-<li><a href="/baitai/20210822/1610835.md">杭州市委书记周江勇被查，曾警示“当时代抛弃你的时候，连一句再见都不会说”</a></li>
 <li><a href="/cbnews/20210822/1611058.md">黄明志给塔利班的建议，太给力了</a></li>
+<li><a href="/baitai/20210822/1610835.md">杭州市委书记周江勇被查，曾警示“当时代抛弃你的时候，连一句再见都不会说”</a></li>
+<li><a href="/comments/20210822/1611199.md">周江勇与沈跃跃什么关系？</a></li>
 <li><a href="/worldnews/20210822/1610880.md">比印度神童准！她预言梦已15中13 剩1灾难近日恐应验</a></li>
 <li><a href="/bannedvideo/20210822/1611159.md">周江勇为什么被查？李克强霸气侧漏，跟习近平公开对抗</a></li>
-<li><a href="/comments/20210822/1611199.md">周江勇与沈跃跃什么关系？</a></li>
 <li><a href="/cnnews/20210822/1610839.md">中国大学最劝退的专业，医学只能排第二</a></li>
-<li><a href="/comments/20210822/1610767.md">“浙江牌”也落马！浙江省委常委、杭州市委书记周江勇被查</a></li>
 <li><a href="/cnnews/20210822/1610862.md">芯片厂停工减产！高管相约"跳楼" 何小鹏落泪</a></li>
 <li><a href="/bannedvideo/20210822/1611097.md">文睿：又一个行业要完了，习近平和钱全面开战，其中的逻辑越来越清晰了</a></li>
 <li><a href="/yule/20210822/1611015.md">她是世界级超模 和中国丈夫离婚后患艾滋</a></li>
+<li><a href="/topimagenews/20210822/1611175.md">惨无人性！一组图片告诉你 中国金牌选手是怎么训练出来的</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210823/1611287.md" target="_blank">曾遭反对党不信任投票 瑞典总理今天宣布辞职</a></li>
 <li><a href="/comments/20210822/1611272.md" target="_blank">英国军方：喀布尔机场附近人群慌乱导致7人丧生</a></li>
 <li><a href="/comments/20210822/1611271.md" target="_blank">四川多城市、西安暴雨 城市变海洋，行车如行船….</a></li>
 <li><a href="/comments/20210822/1611255.md" target="_blank">终极侮辱！塔利班精锐部队PO这照片“致敬” 激怒美国人</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210822/1611081.md" target="_blank">塔利班官网突然消失 反塔利班组织反击夺回三区</a></li>
 <li><a href="/comments/20210822/1611080.md" target="_blank">默克尔会普京 关键问题分歧严重但仍要对话</a></li>
 <li><a href="/comments/20210822/1611073.md" target="_blank">李燕铭：习近平与李克强围绕河南洪灾激斗内幕（一） 习家军徐立毅“五不”指示成焦点 内部文件显示河南洪灾是人祸 李克强罕见未作批示 一周后撂下八个字剑指习家军 洪灾背后习李内斗公开化</a></li>
-<li><a href="/comments/20210822/1611066.md" target="_blank">郑州水灾掀习李斗争风暴！李克强前脚走国务院调查组随即进驻</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持 9折优惠中</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
 <li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
 <li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/comments/20210329/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
 
 </ul>
 </div>
