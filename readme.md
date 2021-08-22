@@ -6,28 +6,28 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cnnews/20210821/1610506.md">连续出手 习近平要动最难啃的一块“骨头”？江系总算把这天念叨来了【阿波罗网报道】</a></li>
-<li><a href="/comments/20210821/1610463.md">李克强要拿下习家军成员？国务院调查组进驻郑州；拜登公开护台 华春莹竟然如此回应 ；人大通过世上最严苛隐私法；【希望之声-红朝禁闻-2021/08/20】</a></li>
 <li><a href="/topimagenews/20210821/1610671.md">突发；中共好朋友巴铁爆发针对中国人袭击；阿里巴巴和腾讯蒸发超6万亿；</a></li>
 <li><a href="/comments/20210822/1610825.md">李燕铭：北戴河会后首虎 浙江杭州市委书记周江勇被秒杀内幕 三天内浙江两高官被查 习近平清洗之江新军内鬼？还是习政敌攻击之江新军？周江勇被曝亿元买官 牵扯胡锦涛御用人事女总管沈跃跃 周江勇任内曾力挺阿里巴巴并授予马云“功勋杭州人”荣誉称号 周江勇一语成谶：“当时代抛弃你的时候，连再见都不会说”</a></li>
 <li><a href="/comments/20210821/1610616.md">王赫：最后一秒叫停 北京为何自抽耳光</a></li>
 <li><a href="/headline/20210821/1610727.md">杭州市委书记落马 或因力挺马云？</a></li>
 <li><a href="/health/20210821/1610546.md">立秋后，三种蔬菜再穷不放过，腰不疼，腿不酸了，视力提高了</a></li>
 <li><a href="/baitai/20210821/1610538.md">一条｜一个北京地铁民警在知乎上的回答，得到了127万点赞</a></li>
-<li><a href="/ssgc/20210821/1610466.md">〖兲朝浮世绘〗儿子给中共递刀子要弄倒老子</a></li>
 <li><a href="/bannedvideo/20210821/1610617.md">东莞厚街溪头，曾经一铺难求，如今人去楼空。</a></li>
+<li><a href="/cbnews/20210822/1610844.md">东方卫视主持人因“不当言论”被微博禁言</a></li>
 <li><a href="/lifebaike/20210821/1610758.md">中国“单身女”突破1亿真实原因曝光</a></li>
 <li><a href="/bannedvideo/20210822/1610786.md">阿富汗抵抗军再下三城！承认新政权的第一个国家，中共重建阿富汗困难重重，中共大撒币坏账多，习近平一带一路均贫富，财富第四次分配（小木谈天第183期 20210821）</a></li>
-<li><a href="/cbnews/20210822/1610844.md">东方卫视主持人因“不当言论”被微博禁言</a></li>
-<li><a href="/funmedia/20210821/1610470.md">为什么沙漠中遍地的西瓜没有人摘？知道原因后，再口渴我也不吃</a></li>
-<li><a href="/bannedvideo/20210821/1610619.md">美国病毒调查将出炉，中共神秘阴招急甩锅？拜登高规格声援台湾，战略模糊转清晰？香港《反外国制裁法》紧急叫停，北京有何顾忌？（2021.8.21）｜世界的十字路口 唐浩</a></li>
 <li><a href="/cbnews/20210821/1610613.md">习近平严防监察委！监察官法出台 “纪检监察机关不是天然的保险箱” 【阿波罗网报道】</a></li>
+<li><a href="/bannedvideo/20210821/1610619.md">美国病毒调查将出炉，中共神秘阴招急甩锅？拜登高规格声援台湾，战略模糊转清晰？香港《反外国制裁法》紧急叫停，北京有何顾忌？（2021.8.21）｜世界的十字路口 唐浩</a></li>
+<li><a href="/funmedia/20210821/1610470.md">为什么沙漠中遍地的西瓜没有人摘？知道原因后，再口渴我也不吃</a></li>
 <li><a href="/lifebaike/20210821/1610560.md">周恩来的魔鬼真面目 陆媒谈“周恩来下令击落林彪飞机”谜案</a></li>
 <li><a href="/cbnews/20210821/1610756.md">四川大学军训相互举报，年轻人卷疯了</a></li>
 <li><a href="/bannedvideo/20210821/1610621.md">陈破空：王岐山败部复活！习家军败走，涉港恶法首次受阻！蒙古女王平安。段子：李克强来晚了</a></li>
 <li><a href="/weiquan/20210821/1610722.md">河南200余私营企业主因洛阳市委书记&#12289;市长不作为向国家纪委投诉</a></li>
 <li><a href="/comments/20210822/1610767.md">“浙江牌”也落马！浙江省委常委、杭州市委书记周江勇被查</a></li>
+<li><a href="/comments/20210822/1610851.md">【希望之声TV】北戴河秘定抢钱计画汪洋或接任下一届总理？【希望之声-每日头条-2021/08/21】</a></li>
 <li><a href="/bannedvideo/20210822/1610808.md">川普： 我不想侮辱任何人 但是......</a></li>
 <li><a href="/health/20210821/1610545.md">脑血栓的天然“清洁工”终于找到了，没事吃一点，不怕“血栓”扰</a></li>
+<li><a href="/baitai/20210822/1610835.md">杭州市委书记周江勇被查，曾警示“当时代抛弃你的时候，连一句再见都不会说”</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210822/1611032.md" target="_blank">李燕铭：江绵恒马仔张庆伟顶风作案 习近平火速反击 习家军两要员出手 黑龙江省政法委三名正副书记密集落马 黑龙江省公安厅常务副厅长高德义“溺水身亡” 黑龙江省高级法院高官胡银波主动投案 黑龙江省官场地震数十官员密集落马 张庆伟下属密集被查 二十大入局还是落马？</a></li>
 <li><a href="/comments/20210822/1611014.md" target="_blank">美台关系清晰化，胡锡进大功一件</a></li>
 <li><a href="/comments/20210822/1611013.md" target="_blank">残酷！塔利班奉行：皈依者对任何不戴头巾的女人拥有性权利</a></li>
 <li><a href="/comments/20210822/1611012.md" target="_blank">【微博精粹】爆料：特供领导烧尸火化炉 1984日本进口 死也精日</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210822/1610884.md" target="_blank">阿富汗年轻女性：塔利班的话不可信 童婚新娘担心噩梦重演 女大学生担忧失学</a></li>
 <li><a href="/comments/20210822/1610851.md" target="_blank">【希望之声TV】北戴河秘定抢钱计画汪洋或接任下一届总理？【希望之声-每日头条-2021/08/21】</a></li>
 <li><a href="/comments/20210822/1610848.md" target="_blank">人间的善恶报应都不是偶然的</a></li>
-<li><a href="/comments/20210822/1610842.md" target="_blank">“个人信息法”再挫股市 港股步入技术性熊市</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
 <li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/comments/20210612/1565472.md" target="_blank">感悟神韵（之二）：感悟神韵的艺术风格</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
 <li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
 
 </ul>
 </div>
