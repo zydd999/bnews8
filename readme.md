@@ -13,21 +13,21 @@
 <li><a href="/bannedvideo/20210823/1611649.md">文睿：取代李克强还是习近平，汪洋成为巨大变数，一尊权力相当不稳</a></li>
 <li><a href="/ssgc/20210823/1611503.md">〖兲朝浮世绘〗马化腾拍马屁拍得太狠要有麻烦了</a></li>
 <li><a href="/cbnews/20210823/1611387.md">4岁妹卖场走失 泪吐“爸爸名字”保全笑喷 广播找人众人笑翻</a></li>
+<li><a href="/comments/20210823/1611747.md">浙江官场异动 传递重大政治信号？黑龙江公安厅副厅长离奇出事【希望之声-两岸要闻-2021/08/23】</a></li>
 <li><a href="/topimagenews/20210823/1611372.md">阿富汗现场报道：塔利班没收美国护照 喀布尔机场大门关闭【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20210823/1611626.md">网络炸锅！岳阳房价限跌 官媒：稳才是理想状态 网友：你瞎吗？！【阿波罗网报道】</a></li>
-<li><a href="/comments/20210823/1611747.md">浙江官场异动 传递重大政治信号？黑龙江公安厅副厅长离奇出事【希望之声-两岸要闻-2021/08/23】</a></li>
 <li><a href="/headline/20210823/1611334.md">四川高校爆偷拍女生如厕网上售卖</a></li>
 <li><a href="/bannedvideo/20210823/1611539.md">《石涛聚焦》“网络突传 习近平北戴河败北 汪洋接任总书记”障眼法：习近平重提党主席+军委主席“亡国之党”（22/08）</a></li>
 <li><a href="/cbnews/20210823/1611581.md">最新！北方自由军连下三城！塔利班遭遇重大打击</a></li>
 <li><a href="/bannedvideo/20210823/1611724.md">陈破空：毫无疑问，他是习近平的人！但被赵乐际抓走。浙江官场恐慌。河南习家军服软</a></li>
 <li><a href="/comments/20210823/1611576.md">李燕铭：习近平与李克强围绕郑州惨剧激斗内幕（四） 习近平火线反击 李克强河南帮副部级旧部程志明被免职 程志明曾任郑州市长 郑州五百多亿元打造的“海绵城市”沦为“豆腐渣工程” 程志明难辞其咎 李克强问责郑州洪灾惨剧剑指习家军 第一个倒下的高官竟是自己旧部？河南官场太黑水太深 更多河南帮大佬或被牵出</a></li>
-<li><a href="/bannedvideo/20210823/1611631.md">去年初冒死报导武汉疫情的两个人，一个性命堪忧，一个生死不明！紧急呼吁大家关注！ （2021/8/22)</a></li>
 <li><a href="/comments/20210823/1611592.md">李燕铭：王岐山政治能量再现？湖北省委书记蒋超良被免职后两步复出 湖北省F4三人调任闲职独剩一人行踪成谜 习近平拿掉江曾布下的“阴险棋子” 上海帮马国强被免职后音信全无</a></li>
+<li><a href="/bannedvideo/20210823/1611631.md">去年初冒死报导武汉疫情的两个人，一个性命堪忧，一个生死不明！紧急呼吁大家关注！ （2021/8/22)</a></li>
 <li><a href="/cbnews/20210823/1611530.md">上海14岁女孩自杀 留血泪指控: 爸妈来生别再见</a></li>
 <li><a href="/comments/20210823/1611447.md">周江勇传被情人举报 涉蚂蚁上市案？后台曝光</a></li>
 <li><a href="/funmedia/20210823/1611326.md">印度神童6度“精准预言”！这3月恐迎第3波疫情 揭晓经济复苏时间点</a></li>
-<li><a href="/topimagenews/20210823/1611304.md">民调：为数可观选民后悔投拜登 若今天投票川普会压倒性获胜</a></li>
 <li><a href="/bannedvideo/20210823/1611658.md">大陆异象天气频现。网传8月22日下午17点10分，郑州市金水区一居民称：外面下著雨还夹杂着雪花，8月份下雪很惊奇。另有郑州网友也拍下这一奇异景象。但查官方没有相关报道。</a></li>
+<li><a href="/cnnews/20210823/1611482.md">“中共军用卫星撞上俄火箭残骸碎成37块”</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
 <li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
 <li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
 
 </ul>
 </div>
