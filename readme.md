@@ -17,17 +17,17 @@
 <li><a href="/cbnews/20210822/1611058.md">黄明志给塔利班的建议，太给力了</a></li>
 <li><a href="/cbnews/20210822/1611125.md">中共官媒央视8台曾播放的电视剧《传奇大掌柜》一段大实话 说的太对了</a></li>
 <li><a href="/bannedvideo/20210822/1611097.md">文睿：又一个行业要完了，习近平和钱全面开战，其中的逻辑越来越清晰了</a></li>
-<li><a href="/yule/20210822/1611015.md">她是世界级超模 和中国丈夫离婚后患艾滋</a></li>
 <li><a href="/comments/20210822/1611066.md">郑州水灾掀习李斗争风暴！李克强前脚走国务院调查组随即进驻</a></li>
 <li><a href="/headline/20210822/1611264.md">浙江官场大地震 传官员投案或揭发 与蚂蚁上市涉案深</a></li>
 <li><a href="/ccpdope/20210822/1611115.md">靠曾庆红起家的赵本山 谁亲近谁死</a></li>
 <li><a href="/bannedvideo/20210822/1611113.md">网传近日青岛街头军车招摇过市。</a></li>
-<li><a href="/ssgc/20210822/1611020.md">〖微博谈〗厚着脸皮躲起来算什么事儿？</a></li>
 <li><a href="/comments/20210822/1611142.md">金正恩暴瘦 近照曝光变欧巴再引热议</a></li>
 <li><a href="/comments/20210822/1611073.md">李燕铭：习近平与李克强围绕河南洪灾激斗内幕（一） 习家军徐立毅“五不”指示成焦点 内部文件显示河南洪灾是人祸 李克强罕见未作批示 一周后撂下八个字剑指习家军 洪灾背后习李内斗公开化</a></li>
 <li><a href="/ssgc/20210822/1611257.md">内外乱，上下乱，满朝乱象，天下大乱</a></li>
 <li><a href="/finance/20210822/1611126.md">放风！官媒：楼市不能成为社会稳定的风险点 网友：为什么不能大落？【阿波罗网报道】</a></li>
 <li><a href="/lifebaike/20210822/1611151.md">女子拿破壶参加鉴宝 专家倒水进壶后直接开天价</a></li>
+<li><a href="/bannedvideo/20210822/1611174.md">川普阿拉巴马州演讲，讲到他如何镇住习近平，习起初以为听错了。如何迫使塔利班兑现承诺。称阿富汗总统加尼是骗子。批评拜登阿富汗撤军，让美国蒙羞。</a></li>
+<li><a href="/comments/20210822/1611050.md">美国超强60岁妈只身飞中东 营救10名阿富汗全女子机器人队成员；美国又有3名参议员染疫 国会确诊总数攀升至71人；加拿大总理特鲁多竞选演讲被骂 要求其辞职 【希望之声-午夜新闻-2021/08/21】</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210823/1611530.md" target="_blank">上海14岁女孩自杀 留血泪指控: 爸妈来生别再见</a></li>
 <li><a href="/cbnews/20210823/1611466.md" target="_blank">上海67岁老妇一年在足浴馆狂撒千万 翻看帐单惊见…</a></li>
 <li><a href="/cbnews/20210823/1611428.md" target="_blank">美国思想领袖：电影制片人杰可·布延斯：封城及削警酿边境悲剧！疫情期为何 「性贩卖」数量急剧上升？孩子们为何不得不在家里念书？疫情封城真的是最糟糕的做法吗？（预告片）| 大纪元</a></li>
 <li><a href="/cbnews/20210823/1611387.md" target="_blank">4岁妹卖场走失 泪吐“爸爸名字”保全笑喷 广播找人众人笑翻</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/comments/20210822/1610910.md" target="_blank">习近平“共同富裕”话音刚落  中共杭州市委书记周江勇落马；拜登提名伯恩斯为驻华大使 传递啥信号？深圳幼稚园竟暗藏成人娱乐会所；【希望之声-红朝禁闻-2021/08/21】</a></li>
 <li><a href="/cbnews/20210822/1610907.md" target="_blank">世界最难攻打2国家 美军地表最强 中共竟没份</a></li>
 <li><a href="/cbnews/20210822/1610875.md" target="_blank">多重要？中共对阿富汗影响与这条走廊密切相关</a></li>
-<li><a href="/cbnews/20210822/1610874.md" target="_blank">隐性歧视多 中国职业女性生育难题</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210823/1611534.md" target="_blank">川普政府国防部参谋长：阿富汗沦陷，是拜登放弃有条件撤军的必然结果</a></li>
+<li><a href="/comments/20210823/1611527.md" target="_blank">河南暴雨发布逾30个红色预警 郑州紧急疏散23万人</a></li>
+<li><a href="/comments/20210823/1611526.md" target="_blank">香港大学研究：静脉注射mRNA疫苗 心肌炎及心包炎机率大增</a></li>
 <li><a href="/comments/20210823/1611498.md" target="_blank">河森堡：给 人当导师是危险的</a></li>
 <li><a href="/comments/20210823/1611488.md" target="_blank">【贯明文苑】君子心淡如菊</a></li>
 <li><a href="/comments/20210823/1611473.md" target="_blank">转入地下：小升初培训群里“暗语”频出 外包装是“你懂的”</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210823/1611298.md" target="_blank">美国女性公民被鞭打 回不了国痛哭：宁自杀也不愿被塔利班抓</a></li>
 <li><a href="/comments/20210823/1611287.md" target="_blank">曾遭反对党不信任投票 瑞典总理今天宣布辞职</a></li>
 <li><a href="/comments/20210822/1611272.md" target="_blank">英国军方：喀布尔机场附近人群慌乱导致7人丧生</a></li>
-<li><a href="/comments/20210822/1611271.md" target="_blank">四川多城市、西安暴雨 城市变海洋，行车如行船….</a></li>
-<li><a href="/comments/20210822/1611255.md" target="_blank">终极侮辱！塔利班精锐部队PO这照片“致敬” 激怒美国人</a></li>
-<li><a href="/comments/20210822/1611254.md" target="_blank">疫情未息 中国宁夏又爆鼠疫！患者命危</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
 <li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20210612/1565472.md" target="_blank">感悟神韵（之二）：感悟神韵的艺术风格</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
 <li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
+<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
 <li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
 
 </ul>
 </div>
