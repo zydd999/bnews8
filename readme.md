@@ -9,25 +9,25 @@
 <li><a href="/cbnews/20210822/1610938.md">天亮时分：20210821 汪洋当总理，李克强要反扑？张文宏真的危险了；中概股已经蒸发1.5万亿美元，是否反弹的决定因素不是习近平而是这个（政论天下第492集 20210821）</a></li>
 <li><a href="/cnnews/20210822/1611137.md">汪洋上位 吉凶未卜 前途难料</a></li>
 <li><a href="/comments/20210822/1611199.md">周江勇与沈跃跃什么关系？</a></li>
-<li><a href="/cnnews/20210822/1610860.md">中国医保，是个被国人长期误解的天真假象</a></li>
 <li><a href="/bannedvideo/20210822/1611159.md">周江勇为什么被查？李克强霸气侧漏，跟习近平公开对抗</a></li>
-<li><a href="/worldnews/20210822/1610882.md">吃剩菜配酒！部长喝挂没接电话 惨遭金正恩下令处死</a></li>
 <li><a href="/comments/20210822/1610910.md">习近平“共同富裕”话音刚落  中共杭州市委书记周江勇落马；拜登提名伯恩斯为驻华大使 传递啥信号？深圳幼稚园竟暗藏成人娱乐会所；【希望之声-红朝禁闻-2021/08/21】</a></li>
+<li><a href="/worldnews/20210822/1610882.md">吃剩菜配酒！部长喝挂没接电话 惨遭金正恩下令处死</a></li>
 <li><a href="/bannedvideo/20210822/1611107.md">中共军方高层异动</a></li>
 <li><a href="/topimagenews/20210822/1611175.md">惨无人性！一组图片告诉你 中国金牌选手是怎么训练出来的</a></li>
-<li><a href="/topimagenews/20210822/1611004.md">跳河？黑龙江公安厅常务副厅长溺水身亡！【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20210822/1611193.md">周江勇为什么被查？赵乐际发威，查办习家军！李克强出手</a></li>
+<li><a href="/topimagenews/20210822/1611004.md">跳河？黑龙江公安厅常务副厅长溺水身亡！【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20210822/1611063.md">近日，李克强视察郑州一小区。小区居民：每家都有警察，连窗户边都不让站。</a></li>
 <li><a href="/cbnews/20210822/1611058.md">黄明志给塔利班的建议，太给力了</a></li>
 <li><a href="/worldnews/20210822/1610880.md">比印度神童准！她预言梦已15中13 剩1灾难近日恐应验</a></li>
 <li><a href="/cbnews/20210822/1611125.md">中共官媒央视8台曾播放的电视剧《传奇大掌柜》一段大实话 说的太对了</a></li>
-<li><a href="/cnnews/20210822/1610862.md">芯片厂停工减产！高管相约"跳楼" 何小鹏落泪</a></li>
 <li><a href="/bannedvideo/20210822/1611097.md">文睿：又一个行业要完了，习近平和钱全面开战，其中的逻辑越来越清晰了</a></li>
 <li><a href="/yule/20210822/1611015.md">她是世界级超模 和中国丈夫离婚后患艾滋</a></li>
 <li><a href="/comments/20210822/1611066.md">郑州水灾掀习李斗争风暴！李克强前脚走国务院调查组随即进驻</a></li>
 <li><a href="/ccpdope/20210822/1611115.md">靠曾庆红起家的赵本山 谁亲近谁死</a></li>
 <li><a href="/bannedvideo/20210822/1611113.md">网传近日青岛街头军车招摇过市。</a></li>
+<li><a href="/headline/20210822/1611264.md">浙江官场大地震 传官员投案或揭发 与蚂蚁上市涉案深</a></li>
 <li><a href="/ssgc/20210822/1611020.md">〖微博谈〗厚着脸皮躲起来算什么事儿？</a></li>
+<li><a href="/comments/20210822/1611142.md">金正恩暴瘦 近照曝光变欧巴再引热议</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210823/1611400.md" target="_blank">美心理及医学专家：“觉醒”思潮伤害儿童</a></li>
+<li><a href="/comments/20210823/1611398.md" target="_blank">做一个寡言却心有一片海的人</a></li>
+<li><a href="/comments/20210823/1611396.md" target="_blank">感悟：蝴蝶与花</a></li>
 <li><a href="/comments/20210823/1611374.md" target="_blank">被疫情憋得不得不宅家？大雄带你去逛奥兰多漫画节！</a></li>
 <li><a href="/comments/20210823/1611370.md" target="_blank">十万火急！五角大楼 征用18架民航机；阻共军犯台 美“暗鹰”高超音速武器2023年上路；美国务院受到网攻【希望之声TV-每日头条-2021/8/22】</a></li>
 <li><a href="/comments/20210823/1611357.md" target="_blank">《中国青年自由行动党》关于拯救香港自由的公告（二零二一第十四号）</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210822/1611142.md" target="_blank">金正恩暴瘦 近照曝光变欧巴再引热议</a></li>
 <li><a href="/comments/20210822/1611141.md" target="_blank">阿富汗孕妇撤离 在美军C-17机舱内生产</a></li>
 <li><a href="/comments/20210822/1611129.md" target="_blank">李燕铭：习近平与李克强围绕河南洪灾激斗内幕（三） 李克强北戴河会后赶赴河南再提问责 央视《新闻联播》长镜头报导李克强差点摔倒 习阵营释放政治警告信号？国务院调查组全面进驻河南开展调查工作 两大反常 习家军楼阳生与徐立毅作政治表态</a></li>
-<li><a href="/comments/20210822/1611128.md" target="_blank">冷月：夜，不再忍耐</a></li>
-<li><a href="/comments/20210822/1611124.md" target="_blank">林郑施政报告咨询会 称“随机”邀市民 惟会上多名建制发言 仅 1 人反对政府政策</a></li>
-<li><a href="/comments/20210822/1611110.md" target="_blank">唯美之灵信仰和古希腊自由观之间的原则区别（下集）—— 唯美之灵才是自由的真谛（东方哲人解析当代人类困惑  第四十八讲）【袁红冰杏坛】 08222021</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/ganwu/20170705/787156.md" target="_blank">感悟神韵（之四）：感悟神韵音乐</a></li>
-<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
 <li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
 
 </ul>
 </div>
