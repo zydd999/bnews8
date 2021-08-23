@@ -5,28 +5,28 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/comments/20210822/1611199.md">周江勇与沈跃跃什么关系？</a></li>
 <li><a href="/bannedvideo/20210823/1611335.md">大翻车！党媒宣传：楼市不能成为社会稳定风险点 网沸腾；针对中南海 美军建F35C小分队拟往返五千英里空袭；【编译】美媒独家蓬佩奥谈拜登阿富汗灾难：不必如此；塔利班没收美护照；美力挺立陶宛 KS阿波罗网</a></li>
 <li><a href="/headline/20210822/1611264.md">浙江官场大地震 传官员投案或揭发 与蚂蚁上市涉案深</a></li>
 <li><a href="/cnnews/hknews/20210823/1611390.md">副司令儿子对警爆粗 被压制逮捕 画面曝光</a></li>
-<li><a href="/cbnews/20210823/1611466.md">上海67岁老妇一年在足浴馆狂撒千万 翻看帐单惊见…</a></li>
 <li><a href="/cnnews/20210823/1611380.md">喀布尔机场外的一张美军照片 让网友泪崩了</a></li>
+<li><a href="/cbnews/20210823/1611466.md">上海67岁老妇一年在足浴馆狂撒千万 翻看帐单惊见…</a></li>
 <li><a href="/ssgc/20210822/1611257.md">内外乱，上下乱，满朝乱象，天下大乱</a></li>
 <li><a href="/topimagenews/20210823/1611372.md">阿富汗现场报道：塔利班没收美国护照 喀布尔机场大门关闭【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20210823/1611387.md">4岁妹卖场走失 泪吐“爸爸名字”保全笑喷 广播找人众人笑翻</a></li>
 <li><a href="/headline/20210823/1611334.md">四川高校爆偷拍女生如厕网上售卖</a></li>
-<li><a href="/bannedvideo/20210822/1611241.md">塔利班突击搜查中共中央电视台驻阿富汗总部！</a></li>
 <li><a href="/ssgc/20210823/1611503.md">〖兲朝浮世绘〗马化腾拍马屁拍得太狠要有麻烦了</a></li>
+<li><a href="/bannedvideo/20210822/1611241.md">塔利班突击搜查中共中央电视台驻阿富汗总部！</a></li>
 <li><a href="/headline/20210822/1611275.md">浙江官场虎成群 阿里已成案中案？</a></li>
-<li><a href="/bannedvideo/20210823/1611539.md">《石涛聚焦》“网络突传 习近平北戴河败北 汪洋接任总书记”障眼法：习近平重提党主席+军委主席“亡国之党”（22/08）</a></li>
-<li><a href="/comments/20210823/1611298.md">美国女性公民被鞭打 回不了国痛哭：宁自杀也不愿被塔利班抓</a></li>
-<li><a href="/cbnews/20210823/1611530.md">上海14岁女孩自杀 留血泪指控: 爸妈来生别再见</a></li>
 <li><a href="/cbnews/20210823/1611581.md">最新！北方自由军连下三城！塔利班遭遇重大打击</a></li>
+<li><a href="/comments/20210823/1611576.md">李燕铭：习近平与李克强围绕郑州惨剧激斗内幕（四） 习近平火线反击 李克强河南帮副部级旧部程志明被免职 程志明曾任郑州市长 郑州五百多亿元打造的“海绵城市”沦为“豆腐渣工程” 程志明难辞其咎 李克强问责郑州洪灾惨剧剑指习家军 第一个倒下的高官竟是自己旧部？河南官场太黑水太深 更多河南帮大佬或被牵出</a></li>
+<li><a href="/bannedvideo/20210823/1611539.md">《石涛聚焦》“网络突传 习近平北戴河败北 汪洋接任总书记”障眼法：习近平重提党主席+军委主席“亡国之党”（22/08）</a></li>
+<li><a href="/topimagenews/20210823/1611626.md">网络炸锅！岳阳房价限跌 官媒：稳才是理想状态 网友：你瞎吗？！【阿波罗网报道】</a></li>
+<li><a href="/comments/20210823/1611298.md">美国女性公民被鞭打 回不了国痛哭：宁自杀也不愿被塔利班抓</a></li>
 <li><a href="/funmedia/20210823/1611326.md">印度神童6度“精准预言”！这3月恐迎第3波疫情 揭晓经济复苏时间点</a></li>
+<li><a href="/cbnews/20210823/1611530.md">上海14岁女孩自杀 留血泪指控: 爸妈来生别再见</a></li>
+<li><a href="/comments/20210823/1611447.md">周江勇传被情人举报 涉蚂蚁上市案？后台曝光</a></li>
 <li><a href="/topimagenews/20210823/1611304.md">民调：为数可观选民后悔投拜登 若今天投票川普会压倒性获胜</a></li>
 <li><a href="/yule/20210823/1611303.md">曾比锺楚红、邱淑贞都正！“最美港姐”素颜特写曝…网傻眼</a></li>
-<li><a href="/topimagenews/20210823/1611626.md">网络炸锅！岳阳房价限跌 官媒：稳才是理想状态 网友：你瞎吗？！【阿波罗网报道】</a></li>
-<li><a href="/cnnews/20210822/1611243.md">震撼！阿拉巴马州集会鸟瞰图 有多少人渴望川普总统归来</a></li>
 <li><a href="/cnnews/20210823/1611482.md">“中共军用卫星撞上俄火箭残骸碎成37块”</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
 <li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
 
 </ul>
 </div>
