@@ -6,19 +6,18 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/funmedia/20210822/1611026.md">为什么飞行员都不愿意娶空姐？看了她们私下的生活，换你也不愿意</a></li>
-<li><a href="/cbnews/20210822/1610938.md">天亮时分：20210821 汪洋当总理，李克强要反扑？张文宏真的危险了；中概股已经蒸发1.5万亿美元，是否反弹的决定因素不是习近平而是这个（政论天下第492集 20210821）</a></li>
 <li><a href="/cnnews/20210822/1611137.md">汪洋上位 吉凶未卜 前途难料</a></li>
 <li><a href="/comments/20210822/1611199.md">周江勇与沈跃跃什么关系？</a></li>
 <li><a href="/bannedvideo/20210822/1611159.md">周江勇为什么被查？李克强霸气侧漏，跟习近平公开对抗</a></li>
-<li><a href="/bannedvideo/20210822/1611107.md">中共军方高层异动</a></li>
 <li><a href="/bannedvideo/20210822/1611193.md">周江勇为什么被查？赵乐际发威，查办习家军！李克强出手</a></li>
+<li><a href="/bannedvideo/20210822/1611107.md">中共军方高层异动</a></li>
 <li><a href="/topimagenews/20210822/1611175.md">惨无人性！一组图片告诉你 中国金牌选手是怎么训练出来的</a></li>
 <li><a href="/topimagenews/20210822/1611004.md">跳河？黑龙江公安厅常务副厅长溺水身亡！【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20210822/1611063.md">近日，李克强视察郑州一小区。小区居民：每家都有警察，连窗户边都不让站。</a></li>
 <li><a href="/cbnews/20210822/1611058.md">黄明志给塔利班的建议，太给力了</a></li>
 <li><a href="/cbnews/20210822/1611125.md">中共官媒央视8台曾播放的电视剧《传奇大掌柜》一段大实话 说的太对了</a></li>
-<li><a href="/bannedvideo/20210822/1611097.md">文睿：又一个行业要完了，习近平和钱全面开战，其中的逻辑越来越清晰了</a></li>
 <li><a href="/bannedvideo/20210823/1611335.md">大翻车！党媒宣传：楼市不能成为社会稳定风险点 网沸腾；针对中南海 美军建F35C小分队拟往返五千英里空袭；【编译】美媒独家蓬佩奥谈拜登阿富汗灾难：不必如此；塔利班没收美护照；美力挺立陶宛 KS阿波罗网</a></li>
+<li><a href="/bannedvideo/20210822/1611097.md">文睿：又一个行业要完了，习近平和钱全面开战，其中的逻辑越来越清晰了</a></li>
 <li><a href="/yule/20210822/1611015.md">她是世界级超模 和中国丈夫离婚后患艾滋</a></li>
 <li><a href="/comments/20210822/1611066.md">郑州水灾掀习李斗争风暴！李克强前脚走国务院调查组随即进驻</a></li>
 <li><a href="/headline/20210822/1611264.md">浙江官场大地震 传官员投案或揭发 与蚂蚁上市涉案深</a></li>
@@ -27,6 +26,7 @@
 <li><a href="/ssgc/20210822/1611020.md">〖微博谈〗厚着脸皮躲起来算什么事儿？</a></li>
 <li><a href="/comments/20210822/1611142.md">金正恩暴瘦 近照曝光变欧巴再引热议</a></li>
 <li><a href="/comments/20210822/1611073.md">李燕铭：习近平与李克强围绕河南洪灾激斗内幕（一） 习家军徐立毅“五不”指示成焦点 内部文件显示河南洪灾是人祸 李克强罕见未作批示 一周后撂下八个字剑指习家军 洪灾背后习李内斗公开化</a></li>
+<li><a href="/ssgc/20210822/1611257.md">内外乱，上下乱，满朝乱象，天下大乱</a></li>
 <li><a href="/finance/20210822/1611126.md">放风！官媒：楼市不能成为社会稳定的风险点 网友：为什么不能大落？【阿波罗网报道】</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210823/1611466.md" target="_blank">上海67岁老妇一年在足浴馆狂撒千万 翻看帐单惊见…</a></li>
 <li><a href="/cbnews/20210823/1611428.md" target="_blank">美国思想领袖：电影制片人杰可·布延斯：封城及削警酿边境悲剧！疫情期为何 「性贩卖」数量急剧上升？孩子们为何不得不在家里念书？疫情封城真的是最糟糕的做法吗？（预告片）| 大纪元</a></li>
 <li><a href="/cbnews/20210823/1611387.md" target="_blank">4岁妹卖场走失 泪吐“爸爸名字”保全笑喷 广播找人众人笑翻</a></li>
 <li><a href="/comments/20210823/1611374.md" target="_blank">被疫情憋得不得不宅家？大雄带你去逛奥兰多漫画节！</a></li>
@@ -60,13 +61,13 @@
 <li><a href="/cbnews/20210822/1610907.md" target="_blank">世界最难攻打2国家 美军地表最强 中共竟没份</a></li>
 <li><a href="/cbnews/20210822/1610875.md" target="_blank">多重要？中共对阿富汗影响与这条走廊密切相关</a></li>
 <li><a href="/cbnews/20210822/1610874.md" target="_blank">隐性歧视多 中国职业女性生育难题</a></li>
-<li><a href="/comments/20210822/1610851.md" target="_blank">【希望之声TV】北戴河秘定抢钱计画汪洋或接任下一届总理？【希望之声-每日头条-2021/08/21】</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20210823/1611464.md" target="_blank">美媒独家：蓬佩奥曝川普撤军策略从未把清零撤军当成目标【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20210823/1611372.md" target="_blank">阿富汗现场报道：塔利班没收美国护照 喀布尔机场大门关闭【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20210823/1611345.md" target="_blank">亚马逊封杀逾5万中国卖家 受波及电商恐升至数十万</a></li>
 <li><a href="/topimagenews/20210823/1611344.md" target="_blank">IPO大暴雷！大陆中介机构受查累30单IPO叫停 比亚迪半导体有份</a></li>
@@ -91,13 +92,15 @@
 <li><a href="/topimagenews/20210818/1608412.md" target="_blank">塔利班发言人藏身十多年突现真面目 记者脊背发凉“我们真的知道他们是谁吗？”</a></li>
 <li><a href="/topimagenews/20210818/1608381.md" target="_blank">中国有钱人惨了！习近平宣布财产将被“调节”</a></li>
 <li><a href="/topimagenews/20210818/1608221.md" target="_blank">塔利班对美国的终极羞辱？见证“阿富汗西贡惨案”</a></li>
-<li><a href="/topimagenews/20210818/1608131.md" target="_blank">英前司令：塔利班是巴基斯坦养大的 可能反咬夺核武 伊朗、中俄支持塔利班</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210823/1611473.md" target="_blank">转入地下：小升初培训群里“暗语”频出 外包装是“你懂的”</a></li>
+<li><a href="/comments/20210823/1611472.md" target="_blank">傅蔚冈：我和张医生的一段经历</a></li>
+<li><a href="/comments/20210823/1611471.md" target="_blank">洪博学：阿富汗将变成谁的坟场？</a></li>
 <li><a href="/comments/20210823/1611447.md" target="_blank">周江勇传被情人举报 涉蚂蚁上市案？后台曝光</a></li>
 <li><a href="/comments/20210823/1611446.md" target="_blank">美中情局前官员：对抗中共已成美首要利益</a></li>
 <li><a href="/comments/20210823/1611435.md" target="_blank">颜纯钩：北京让煮熟的鸭子飞走了</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210822/1611254.md" target="_blank">疫情未息 中国宁夏又爆鼠疫！患者命危</a></li>
 <li><a href="/comments/20210822/1611253.md" target="_blank">刘泰英：根本没九二共识 国民党骗人的</a></li>
 <li><a href="/comments/20210822/1611199.md" target="_blank">周江勇与沈跃跃什么关系？</a></li>
-<li><a href="/comments/20210822/1611200.md" target="_blank">刘锐绍：阿富汗变天 中共图“围魏救赵”？</a></li>
-<li><a href="/comments/20210822/1611145.md" target="_blank">终极侮辱！神学士精锐部队PO这照片“致敬” 激怒美国人</a></li>
-<li><a href="/comments/20210822/1611144.md" target="_blank">再乱按？ 广州9月起全市全天禁鸣喇叭 网大反弹︰干脆全拆掉</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
 <li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
 
 </ul>
 </div>
