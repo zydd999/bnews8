@@ -12,22 +12,22 @@
 <li><a href="/bannedvideo/20210823/1611724.md">陈破空：毫无疑问，他是习近平的人！但被赵乐际抓走。浙江官场恐慌。河南习家军服软</a></li>
 <li><a href="/cbnews/20210823/1611581.md">最新！北方自由军连下三城！塔利班遭遇重大打击</a></li>
 <li><a href="/comments/20210824/1611857.md">习近平不连任了？盛传汪洋接班；美部署隐形战机小型部队 目标锁定中共【希望之声TV-环球看点-2021/8/23】</a></li>
-<li><a href="/cnnews/20210824/1611917.md">走火入魔…中共官方又盯上了另一产业</a></li>
 <li><a href="/comments/20210823/1611576.md">李燕铭：习近平与李克强围绕郑州惨剧激斗内幕（四） 习近平火线反击 李克强河南帮副部级旧部程志明被免职 程志明曾任郑州市长 郑州五百多亿元打造的“海绵城市”沦为“豆腐渣工程” 程志明难辞其咎 李克强问责郑州洪灾惨剧剑指习家军 第一个倒下的高官竟是自己旧部？河南官场太黑水太深 更多河南帮大佬或被牵出</a></li>
+<li><a href="/cnnews/20210824/1611917.md">走火入魔…中共官方又盯上了另一产业</a></li>
 <li><a href="/bannedvideo/20210823/1611631.md">去年初冒死报导武汉疫情的两个人，一个性命堪忧，一个生死不明！紧急呼吁大家关注！ （2021/8/22)</a></li>
 <li><a href="/ccpdope/20210824/1611922.md">丢魂儿啦？！王毅这不是活人的表情</a></li>
 <li><a href="/comments/20210823/1611592.md">李燕铭：王岐山政治能量再现？湖北省委书记蒋超良被免职后两步复出 湖北省F4三人调任闲职独剩一人行踪成谜 习近平拿掉江曾布下的“阴险棋子” 上海帮马国强被免职后音信全无</a></li>
 <li><a href="/headline/20210824/1611886.md">习近平接班人真假虚实：汪洋先受“烤”验</a></li>
 <li><a href="/bannedvideo/20210824/1611899.md">扬州民众反抗禁闭，集体冲关，反饥饿！</a></li>
 <li><a href="/comments/20210823/1611637.md">习近平在计生问题上玩弄“互不否定”的小聪明，埋下了被政敌清算的伏笔 — 曾节明</a></li>
-<li><a href="/ssgc/20210824/1611856.md">抢钱的终于来了</a></li>
+<li><a href="/cbnews/20210824/1611970.md">文昭：汪洋接班习近平当总书记是圈套？谁出的主意、谁中计？都是为了马上要到的那个避不开的日子</a></li>
 <li><a href="/bannedvideo/20210823/1611658.md">大陆异象天气频现。网传8月22日下午17点10分，郑州市金水区一居民称：外面下著雨还夹杂着雪花，8月份下雪很惊奇。另有郑州网友也拍下这一奇异景象。但查官方没有相关报道。</a></li>
-<li><a href="/bannedvideo/20210823/1611707.md">浙江官场震动：杭州市委书记被查；浙江人大副书记自首！“蚂蚁上市”事件持续发酵！</a></li>
-<li><a href="/health/20210823/1611680.md">皮肤上长这种“小疙瘩” 可能和HPV感染有关</a></li>
-<li><a href="/cbnews/20210823/1611662.md">张文宏论文被举报 刚刚复旦大学公布调查结果</a></li>
+<li><a href="/ssgc/20210824/1611856.md">抢钱的终于来了</a></li>
 <li><a href="/cnnews/20210824/1611925.md">老公姓氏偏僻帮女儿取名2字 妻脸红</a></li>
-<li><a href="/topimagenews/20210823/1611570.md">主动投案！辽宁原公安厅长又进去一个 前任刚刚被捕！【阿波罗网报道】</a></li>
+<li><a href="/bannedvideo/20210823/1611707.md">浙江官场震动：杭州市委书记被查；浙江人大副书记自首！“蚂蚁上市”事件持续发酵！</a></li>
 <li><a href="/baitai/20210824/1611947.md">实锤！中共的脚，已被官媒搬的石头砸烂了</a></li>
+<li><a href="/cbnews/20210823/1611662.md">张文宏论文被举报 刚刚复旦大学公布调查结果</a></li>
+<li><a href="/health/20210823/1611680.md">皮肤上长这种“小疙瘩” 可能和HPV感染有关</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210824/1612160.md" target="_blank">曾在美推动《香港人权与民主法案》 朱牧民辞去香港民主委员会总监</a></li>
+<li><a href="/comments/20210824/1612159.md" target="_blank">给我闭嘴！大陆人士接受外媒采访 分遭传唤与软禁</a></li>
+<li><a href="/comments/20210824/1612158.md" target="_blank">外媒︰拜登将对中共更硬 防台湾遭染指</a></li>
+<li><a href="/comments/20210824/1612157.md" target="_blank">惊悚！陕西河堤坍塌 石泉县“整条路直接消失”</a></li>
 <li><a href="/comments/20210824/1612144.md" target="_blank">王宏男：军人干政与政教合一助长民主倒退：从缅甸军政府到阿富汗塔利班，台湾的反思？</a></li>
 <li><a href="/comments/20210824/1612142.md" target="_blank">江炘杓：冷战后美国最大军演向中国传递什么信号</a></li>
 <li><a href="/comments/20210824/1612141.md" target="_blank">【微博精粹】这速度 共匪冲下悬崖之前 想先活埋中国人民</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210824/1611993.md" target="_blank">释放信号？哈里斯突访东南亚，在新加坡向印太地区作出承诺；受够了！传英女王拟对哈利夫妇采取法律行动【希望之声TV-每日头条-2021/8/23】</a></li>
 <li><a href="/comments/20210824/1611992.md" target="_blank">台湾70亿美金量产导弹意义何在？中共数倍增加军用核工程支出意欲何为？【希望之声TV-新闻焦点解读-2021/08/23】主持:高洁  嘉宾：方伟 蓝述</a></li>
 <li><a href="/comments/20210824/1611987.md" target="_blank">李燕铭：北戴河会后首虎 浙江杭州市委书记周江勇被秒杀内幕（二） 习近平最高层会议释放金融领域清洗信号 浙江省委杭州市委温州市委一天内连开四场会议 大谈政治规矩 披露多个关键信息 暗示周江勇三关失守 中纪委重磅发文 杭州展开专项清洗行动 覆盖全体在职及三年内退休官员</a></li>
-<li><a href="/comments/20210824/1611985.md" target="_blank">中共官员赴港谈五年计划 VS 贺锦丽东南亚之行</a></li>
-<li><a href="/comments/20210824/1611984.md" target="_blank">【世界美景】《开车绕郊区. 带家人朋友看风景 》</a></li>
-<li><a href="/comments/20210824/1611983.md" target="_blank">【阿隋厨房】鱼排炒面 出菜快 好吃又美味 fried noodles with fish steak</a></li>
-<li><a href="/comments/20210824/1611982.md" target="_blank">《新 声》—作者：柯树</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
 <li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
 <li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
 
 </ul>
 </div>
