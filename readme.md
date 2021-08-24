@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cbnews/20210823/1611679.md">人民日报头版头条连续5天的变化 习近平消息逐渐消失 势败如山倒？</a></li>
-<li><a href="/bannedvideo/20210823/1611649.md">文睿：取代李克强还是习近平，汪洋成为巨大变数，一尊权力相当不稳</a></li>
 <li><a href="/comments/20210823/1611747.md">浙江官场异动 传递重大政治信号？黑龙江公安厅副厅长离奇出事【希望之声-两岸要闻-2021/08/23】</a></li>
 <li><a href="/bannedvideo/20210823/1611724.md">陈破空：毫无疑问，他是习近平的人！但被赵乐际抓走。浙江官场恐慌。河南习家军服软</a></li>
 <li><a href="/comments/20210824/1611857.md">习近平不连任了？盛传汪洋接班；美部署隐形战机小型部队 目标锁定中共【希望之声TV-环球看点-2021/8/23】</a></li>
@@ -17,8 +16,8 @@
 <li><a href="/bannedvideo/20210824/1611899.md">扬州民众反抗禁闭，集体冲关，反饥饿！</a></li>
 <li><a href="/baitai/20210824/1611947.md">实锤！中共的脚，已被官媒搬的石头砸烂了</a></li>
 <li><a href="/comments/20210823/1611637.md">习近平在计生问题上玩弄“互不否定”的小聪明，埋下了被政敌清算的伏笔 — 曾节明</a></li>
-<li><a href="/comments/20210824/1612070.md">涉中共二十大？  李克强“迟到”怪处多多；应对中共影响力  美国副总统展开东南亚7日行 ；陕西暴雨 房屋倒塌有人被压 万人遭难【希望之声-红朝禁闻-2021/08/23】</a></li>
 <li><a href="/cbnews/20210824/1612057.md">天亮时分：汪洋接任总书记，习近平情何以堪？10月罗马拜习会要吹，香港《反制裁法》准备闯关，李克强急喊要发展劳动密集型产业（政论天下第493集 20210823）</a></li>
+<li><a href="/comments/20210824/1612070.md">涉中共二十大？  李克强“迟到”怪处多多；应对中共影响力  美国副总统展开东南亚7日行 ；陕西暴雨 房屋倒塌有人被压 万人遭难【希望之声-红朝禁闻-2021/08/23】</a></li>
 <li><a href="/bannedvideo/20210824/1611967.md">【三地】盛传汪洋接班习近平 大逆转；阿波罗网独家揭底党媒造阿富汗假新闻；台产高端疫苗，蔡英文打第一针；扬州封城逾3周，民众悲喊断粮被撤热搜；岳阳房价限跌 喉舌宣传稳才是理想状态 网炸锅 CS</a></li>
 <li><a href="/ssgc/20210824/1611856.md">抢钱的终于来了</a></li>
 <li><a href="/cnnews/20210824/1611925.md">老公姓氏偏僻帮女儿取名2字 妻脸红</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/health/20210823/1611680.md">皮肤上长这种“小疙瘩” 可能和HPV感染有关</a></li>
 <li><a href="/cbnews/20210823/1611662.md">张文宏论文被举报 刚刚复旦大学公布调查结果</a></li>
 <li><a href="/ssgc/20210824/1612074.md">〖兲朝浮世绘〗干儿子白撒币了，干爹要索赔</a></li>
+<li><a href="/cbnews/20210823/1611799.md">周江勇落马 杭州“清理政商关系”引猜测</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210824/1612263.md" target="_blank">巴西热气球意外引发山火 逾1200公顷植被遭祝融</a></li>
+<li><a href="/comments/20210824/1612262.md" target="_blank">落马杭州书记周江勇牵出“宁波帮”当局再治“亲清政商关系”</a></li>
 <li><a href="/comments/20210824/1612235.md" target="_blank">据报支联会常委通过解散 待特别会员大会通过 邹幸彤：不评论</a></li>
 <li><a href="/comments/20210824/1612234.md" target="_blank">中国疫苗不敌Delta 约翰霍普金斯大学未认可</a></li>
 <li><a href="/comments/20210824/1612233.md" target="_blank">美解密文件：229名关塔那摩湾囚犯仍从事恐怖活动</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210824/1612158.md" target="_blank">外媒︰拜登将对中共更硬 防台湾遭染指</a></li>
 <li><a href="/comments/20210824/1612157.md" target="_blank">惊悚！陕西河堤坍塌 石泉县“整条路直接消失”</a></li>
 <li><a href="/comments/20210824/1612144.md" target="_blank">王宏男：军人干政与政教合一助长民主倒退：从缅甸军政府到阿富汗塔利班，台湾的反思？</a></li>
-<li><a href="/comments/20210824/1612142.md" target="_blank">江炘杓：冷战后美国最大军演向中国传递什么信号</a></li>
-<li><a href="/comments/20210824/1612141.md" target="_blank">【微博精粹】这速度 共匪冲下悬崖之前 想先活埋中国人民</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
 <li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
 <li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20210329/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
 <li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
 
 </ul>
 </div>
