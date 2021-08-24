@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cbnews/20210823/1611679.md">人民日报头版头条连续5天的变化 习近平消息逐渐消失 势败如山倒？</a></li>
-<li><a href="/cbnews/20210823/1611466.md">上海67岁老妇一年在足浴馆狂撒千万 翻看帐单惊见…</a></li>
 <li><a href="/bannedvideo/20210823/1611649.md">文睿：取代李克强还是习近平，汪洋成为巨大变数，一尊权力相当不稳</a></li>
 <li><a href="/ssgc/20210823/1611503.md">〖兲朝浮世绘〗马化腾拍马屁拍得太狠要有麻烦了</a></li>
 <li><a href="/bannedvideo/20210823/1611539.md">《石涛聚焦》“网络突传 习近平北戴河败北 汪洋接任总书记”障眼法：习近平重提党主席+军委主席“亡国之党”（22/08）</a></li>
@@ -18,16 +17,17 @@
 <li><a href="/comments/20210823/1611576.md">李燕铭：习近平与李克强围绕郑州惨剧激斗内幕（四） 习近平火线反击 李克强河南帮副部级旧部程志明被免职 程志明曾任郑州市长 郑州五百多亿元打造的“海绵城市”沦为“豆腐渣工程” 程志明难辞其咎 李克强问责郑州洪灾惨剧剑指习家军 第一个倒下的高官竟是自己旧部？河南官场太黑水太深 更多河南帮大佬或被牵出</a></li>
 <li><a href="/bannedvideo/20210823/1611631.md">去年初冒死报导武汉疫情的两个人，一个性命堪忧，一个生死不明！紧急呼吁大家关注！ （2021/8/22)</a></li>
 <li><a href="/comments/20210823/1611592.md">李燕铭：王岐山政治能量再现？湖北省委书记蒋超良被免职后两步复出 湖北省F4三人调任闲职独剩一人行踪成谜 习近平拿掉江曾布下的“阴险棋子” 上海帮马国强被免职后音信全无</a></li>
-<li><a href="/cbnews/20210823/1611530.md">上海14岁女孩自杀 留血泪指控: 爸妈来生别再见</a></li>
 <li><a href="/cnnews/20210824/1611917.md">走火入魔…中共官方又盯上了另一产业</a></li>
+<li><a href="/cbnews/20210823/1611530.md">上海14岁女孩自杀 留血泪指控: 爸妈来生别再见</a></li>
 <li><a href="/comments/20210823/1611637.md">习近平在计生问题上玩弄“互不否定”的小聪明，埋下了被政敌清算的伏笔 — 曾节明</a></li>
-<li><a href="/bannedvideo/20210823/1611658.md">大陆异象天气频现。网传8月22日下午17点10分，郑州市金水区一居民称：外面下著雨还夹杂着雪花，8月份下雪很惊奇。另有郑州网友也拍下这一奇异景象。但查官方没有相关报道。</a></li>
 <li><a href="/headline/20210824/1611886.md">习近平接班人真假虚实：汪洋先受“烤”验</a></li>
+<li><a href="/bannedvideo/20210823/1611658.md">大陆异象天气频现。网传8月22日下午17点10分，郑州市金水区一居民称：外面下著雨还夹杂着雪花，8月份下雪很惊奇。另有郑州网友也拍下这一奇异景象。但查官方没有相关报道。</a></li>
 <li><a href="/bannedvideo/20210823/1611707.md">浙江官场震动：杭州市委书记被查；浙江人大副书记自首！“蚂蚁上市”事件持续发酵！</a></li>
+<li><a href="/bannedvideo/20210824/1611899.md">扬州民众反抗禁闭，集体冲关，反饥饿！</a></li>
 <li><a href="/health/20210823/1611680.md">皮肤上长这种“小疙瘩” 可能和HPV感染有关</a></li>
-<li><a href="/cbnews/20210823/1611662.md">张文宏论文被举报 刚刚复旦大学公布调查结果</a></li>
-<li><a href="/cnnews/20210823/1611482.md">“中共军用卫星撞上俄火箭残骸碎成37块”</a></li>
+<li><a href="/ccpdope/20210824/1611922.md">丢魂儿啦？！王毅这不是活人的表情</a></li>
 <li><a href="/ssgc/20210824/1611856.md">抢钱的终于来了</a></li>
+<li><a href="/cbnews/20210823/1611662.md">张文宏论文被举报 刚刚复旦大学公布调查结果</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210824/1612070.md" target="_blank">涉中共二十大？  李克强“迟到”怪处多多；应对中共影响力  美国副总统展开东南亚7日行 ；陕西暴雨 房屋倒塌有人被压 万人遭难【希望之声-红朝禁闻-2021/08/23】</a></li>
+<li><a href="/cbnews/20210824/1612059.md" target="_blank">美情报局将发毒源报告 中共官媒“群狼出洞”</a></li>
 <li><a href="/cbnews/20210824/1612057.md" target="_blank">天亮时分：汪洋接任总书记，习近平情何以堪？10月罗马拜习会要吹，香港《反制裁法》准备闯关，李克强急喊要发展劳动密集型产业（政论天下第493集 20210823）</a></li>
 <li><a href="/comments/20210824/1611993.md" target="_blank">释放信号？哈里斯突访东南亚，在新加坡向印太地区作出承诺；受够了！传英女王拟对哈利夫妇采取法律行动【希望之声TV-每日头条-2021/8/23】</a></li>
 <li><a href="/comments/20210824/1611992.md" target="_blank">台湾70亿美金量产导弹意义何在？中共数倍增加军用核工程支出意欲何为？【希望之声TV-新闻焦点解读-2021/08/23】主持:高洁  嘉宾：方伟 蓝述</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/cbnews/20210823/1611428.md" target="_blank">美国思想领袖：电影制片人杰可·布延斯：封城及削警酿边境悲剧！疫情期为何 「性贩卖」数量急剧上升？孩子们为何不得不在家里念书？疫情封城真的是最糟糕的做法吗？（预告片）| 大纪元</a></li>
 <li><a href="/cbnews/20210823/1611387.md" target="_blank">4岁妹卖场走失 泪吐“爸爸名字”保全笑喷 广播找人众人笑翻</a></li>
 <li><a href="/comments/20210823/1611374.md" target="_blank">被疫情憋得不得不宅家？大雄带你去逛奥兰多漫画节！</a></li>
-<li><a href="/comments/20210823/1611370.md" target="_blank">十万火急！五角大楼 征用18架民航机；阻共军犯台 美“暗鹰”高超音速武器2023年上路；美国务院受到网攻【希望之声TV-每日头条-2021/8/22】</a></li>
-<li><a href="/cbnews/20210823/1611352.md" target="_blank">河南暴雨防汛警报！民众直呼“淹怕了” 高架桥秒变停车场</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210824/1612070.md" target="_blank">涉中共二十大？  李克强“迟到”怪处多多；应对中共影响力  美国副总统展开东南亚7日行 ；陕西暴雨 房屋倒塌有人被压 万人遭难【希望之声-红朝禁闻-2021/08/23】</a></li>
+<li><a href="/comments/20210824/1612067.md" target="_blank">看完这个故事 你会哈哈哈哈 还是不</a></li>
+<li><a href="/comments/20210824/1612066.md" target="_blank">洪博学：抢钱的终于来了</a></li>
 <li><a href="/comments/20210824/1612042.md" target="_blank">美汇款公司暂停阿富汗业务 银行等待制裁细节</a></li>
 <li><a href="/comments/20210824/1612034.md" target="_blank">押沙龙：有些事情想想真让人毛骨悚然</a></li>
 <li><a href="/comments/20210824/1612028.md" target="_blank">立陶宛与台拓展关系 美英力挺 中共多重手段报复</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210824/1611897.md" target="_blank">恒大出售香港总部大楼 传许家印亲自参与洽谈</a></li>
 <li><a href="/comments/20210824/1611889.md" target="_blank">中共“双减”政策下 多家教育机构跑路</a></li>
 <li><a href="/comments/20210824/1611888.md" target="_blank">中国电信A股跌停 市值蒸发千亿</a></li>
-<li><a href="/comments/20210824/1611874.md" target="_blank">咖啡迷上班出行的最爱：热卖的五款旅行咖啡保温杯</a></li>
-<li><a href="/comments/20210824/1611864.md" target="_blank">张弛：腾讯贡献千亿能免灾吗?</a></li>
-<li><a href="/comments/20210824/1611858.md" target="_blank">评论 | 陈破空：阿富汗局势的中共叙事：反美，并为塔利班洗地</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持 9折优惠中</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
 <li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
 <li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20210611/1564824.md" target="_blank">【曾铮专栏】感悟神韵（之一）神韵的主旨</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
 
 </ul>
 </div>
