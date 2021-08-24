@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cbnews/20210824/1611970.md">文昭：汪洋接班习近平当总书记是圈套？谁出的主意、谁中计？都是为了马上要到的那个避不开的日子</a></li>
-<li><a href="/ccpdope/20210824/1611922.md">丢魂儿啦？！王毅这不是活人的表情</a></li>
 <li><a href="/cbnews/20210824/1612057.md">天亮时分：汪洋接任总书记，习近平情何以堪？10月罗马拜习会要吹，香港《反制裁法》准备闯关，李克强急喊要发展劳动密集型产业（政论天下第493集 20210823）</a></li>
 <li><a href="/comments/20210824/1612070.md">涉中共二十大？  李克强“迟到”怪处多多；应对中共影响力  美国副总统展开东南亚7日行 ；陕西暴雨 房屋倒塌有人被压 万人遭难【希望之声-红朝禁闻-2021/08/23】</a></li>
 <li><a href="/bannedvideo/20210824/1611967.md">【三地】盛传汪洋接班习近平 大逆转；阿波罗网独家揭底党媒造阿富汗假新闻；台产高端疫苗，蔡英文打第一针；扬州封城逾3周，民众悲喊断粮被撤热搜；岳阳房价限跌 喉舌宣传稳才是理想状态 网炸锅 CS</a></li>
@@ -17,17 +16,18 @@
 <li><a href="/comments/20210824/1612388.md">周江勇后又一“虎”！习近平瞄准江系重地；马云水洗不清 杭州大整肃；毛泽东孙婿无奈捐10亿【希望之声-两岸要闻-2021/08/24】</a></li>
 <li><a href="/topimagenews/20210824/1612393.md">中共一停印钞，市场崩溃恐超阿富汗；澳洲投资公司卖光中国资产；一带一路踢铁板</a></li>
 <li><a href="/cnnews/20210824/1612295.md">超强大变种病毒恐2022侵袭全球？专家：要有准备</a></li>
-<li><a href="/cnnews/20210824/1611925.md">老公姓氏偏僻帮女儿取名2字 妻脸红</a></li>
 <li><a href="/bannedvideo/20210824/1611945.md">拒绝当面出席G20峰会，习近平到底在躲避什么；台湾拨70亿美元促飞弹量产，提升跨海打击能力，党媒急了，呛“加速自我覆灭”| 秦鹏观察 8/23 | 新唐人电视台</a></li>
 <li><a href="/ssgc/20210824/1612214.md">习近平现身河北考察 刘鹤随行</a></li>
 <li><a href="/baitai/20210824/1612281.md">22岁女网红徒步西藏直播发生意外 好友:已遇害 正尸检</a></li>
 <li><a href="/ssgc/20210824/1612074.md">〖兲朝浮世绘〗干儿子白撒币了，干爹要索赔</a></li>
 <li><a href="/cbnews/20210824/1612059.md">美情报局将发毒源报告 中共官媒“群狼出洞”</a></li>
-<li><a href="/comments/20210824/1612141.md">【微博精粹】这速度 共匪冲下悬崖之前 想先活埋中国人民</a></li>
 <li><a href="/ssgc/20210824/1612391.md">人民币离“断崖式贬值”还有多远？</a></li>
+<li><a href="/comments/20210824/1612141.md">【微博精粹】这速度 共匪冲下悬崖之前 想先活埋中国人民</a></li>
 <li><a href="/cnnews/20210824/1611976.md">为什么中国飞往美国的飞机不愿穿越太平洋</a></li>
 <li><a href="/bannedvideo/20210824/1612165.md">胡锡进突然变调原因曝光：酸拜登招致美国美台战略清晰，被举报是台湾小英派来的卧底</a></li>
 <li><a href="/cnnews/20210824/1612260.md">28倍大牛股暴跌12.53%，上市仅一年暴跌83%！股民：回本无望了</a></li>
+<li><a href="/bannedvideo/20210824/1612297.md">英国最强反潜舰发现跟踪的中国核潜艇，意味着什么？不再强大的英国舰队是怎么能发现中国最先进的核潜艇?</a></li>
+<li><a href="/lifebaike/20210824/1612304.md">坐飞机时座位不能乱选！资深飞行员曝重要法则</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210825/1612560.md" target="_blank">习近平一声令下 富豪们捐款效忠 专家：适得其反</a></li>
+<li><a href="/comments/20210825/1612559.md" target="_blank">七国集团首要任务是撤离 中共反对制裁塔利班</a></li>
+<li><a href="/comments/20210825/1612558.md" target="_blank">“三次分配”能达致”共同富裕”吗？ 学者: 假人民之名的打劫</a></li>
 <li><a href="/comments/20210825/1612534.md" target="_blank">李燕铭：北戴河会后首虎 浙江杭州市委书记周江勇被秒杀内幕（三） 周文勇周健勇被陆媒起底 周江勇“兄弟帮”浮现 牵出马云蚂蚁集团与上海帮政商圈 习近平“闽军治之江”剑指上海帮 网上流传“周家三兄弟”段子 周江勇落马前周文勇被采取刑事强制措施 “兽爷起底周江勇等人与软银中国及蚂蚁集团之间的关系” 文章遭速删</a></li>
 <li><a href="/comments/20210825/1612513.md" target="_blank">联合国高级专员：塔利班对待妇女的做法将是一条&quot;红线&quot;</a></li>
 <li><a href="/comments/20210825/1612512.md" target="_blank">中国电信A股连续两日跌停 市值蒸发1433亿</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210824/1612404.md" target="_blank">ISIS分支蠢蠢欲动！6黑名单混入阿富汗难民 英国即时拦截</a></li>
 <li><a href="/comments/20210824/1612403.md" target="_blank">华邮：美中情局长密会塔利班领袖 商讨延后撤离</a></li>
 <li><a href="/comments/20210824/1612388.md" target="_blank">周江勇后又一“虎”！习近平瞄准江系重地；马云水洗不清 杭州大整肃；毛泽东孙婿无奈捐10亿【希望之声-两岸要闻-2021/08/24】</a></li>
-<li><a href="/comments/20210824/1612384.md" target="_blank">敏感时期 新浪微博封百多帐号 列十一条时政禁言讯息</a></li>
-<li><a href="/comments/20210824/1612383.md" target="_blank">G7峰会将讨论阿富汗问题！加拿大表明支持“制裁塔利班”</a></li>
-<li><a href="/comments/20210824/1612382.md" target="_blank">习近平力推“共同富裕” 专家：3次分配最令私企胆颤心惊</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
 <li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
 <li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
 
 </ul>
 </div>
