@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/comments/20210823/1611747.md">浙江官场异动 传递重大政治信号？黑龙江公安厅副厅长离奇出事【希望之声-两岸要闻-2021/08/23】</a></li>
 <li><a href="/comments/20210824/1611857.md">习近平不连任了？盛传汪洋接班；美部署隐形战机小型部队 目标锁定中共【希望之声TV-环球看点-2021/8/23】</a></li>
 <li><a href="/cnnews/20210824/1611917.md">走火入魔…中共官方又盯上了另一产业</a></li>
 <li><a href="/cbnews/20210824/1611970.md">文昭：汪洋接班习近平当总书记是圈套？谁出的主意、谁中计？都是为了马上要到的那个避不开的日子</a></li>
@@ -17,17 +16,18 @@
 <li><a href="/baitai/20210824/1611947.md">实锤！中共的脚，已被官媒搬的石头砸烂了</a></li>
 <li><a href="/bannedvideo/20210824/1611967.md">【三地】盛传汪洋接班习近平 大逆转；阿波罗网独家揭底党媒造阿富汗假新闻；台产高端疫苗，蔡英文打第一针；扬州封城逾3周，民众悲喊断粮被撤热搜；岳阳房价限跌 喉舌宣传稳才是理想状态 网炸锅 CS</a></li>
 <li><a href="/cnnews/20210824/1611925.md">老公姓氏偏僻帮女儿取名2字 妻脸红</a></li>
+<li><a href="/bannedvideo/20210824/1612244.md">网友兴奋的跟我说：要变天了！习近平可能要退位了！汪洋要取而代之了！</a></li>
 <li><a href="/ssgc/20210824/1611856.md">抢钱的终于来了</a></li>
 <li><a href="/bannedvideo/20210824/1611945.md">拒绝当面出席G20峰会，习近平到底在躲避什么；台湾拨70亿美元促飞弹量产，提升跨海打击能力，党媒急了，呛“加速自我覆灭”| 秦鹏观察 8/23 | 新唐人电视台</a></li>
 <li><a href="/ssgc/20210824/1612074.md">〖兲朝浮世绘〗干儿子白撒币了，干爹要索赔</a></li>
 <li><a href="/comments/20210824/1612141.md">【微博精粹】这速度 共匪冲下悬崖之前 想先活埋中国人民</a></li>
 <li><a href="/cbnews/20210824/1612059.md">美情报局将发毒源报告 中共官媒“群狼出洞”</a></li>
 <li><a href="/cbnews/20210823/1611799.md">周江勇落马 杭州“清理政商关系”引猜测</a></li>
-<li><a href="/bannedvideo/20210824/1612244.md">网友兴奋的跟我说：要变天了！习近平可能要退位了！汪洋要取而代之了！</a></li>
 <li><a href="/cnnews/20210824/1611976.md">为什么中国飞往美国的飞机不愿穿越太平洋</a></li>
-<li><a href="/funmedia/20210824/1612060.md">二十人4500元包船出海捕鱼，捕获的海鲜吃完一餐，每人还分到一箱</a></li>
 <li><a href="/bannedvideo/20210824/1612165.md">胡锡进突然变调原因曝光：酸拜登招致美国美台战略清晰，被举报是台湾小英派来的卧底</a></li>
+<li><a href="/funmedia/20210824/1612060.md">二十人4500元包船出海捕鱼，捕获的海鲜吃完一餐，每人还分到一箱</a></li>
 <li><a href="/worldnews/20210824/1611924.md">奇耻大辱！塔利班威胁，8月31日前不撤离后果自负</a></li>
+<li><a href="/ssgc/20210824/1612214.md">习近平现身河北考察 刘鹤随行</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210824/1612388.md" target="_blank">周江勇后又一“虎”！习近平瞄准江系重地；马云水洗不清 杭州大整肃；毛泽东孙婿无奈捐10亿【希望之声-两岸要闻-2021/08/24】</a></li>
 <li><a href="/cbnews/20210824/1612176.md" target="_blank">江峰：前国防部参谋长揭拜登更改川普撤军计划，铸下大错；外交部汪文斌答记者问透露中共是为了牵制美军；中共的去正义化教育终害己【江峰漫谈20210823第365期】</a></li>
 <li><a href="/comments/20210824/1612169.md" target="_blank">阿国抵抗力量：无人能打败我们！喀布尔人苦不堪言 没收入 钱在银行 食品涨价20%【希望之声-午夜新闻-2021/08/23】</a></li>
 <li><a href="/cbnews/20210824/1612149.md" target="_blank">从“女儿国”到卷进党狱</a></li>
@@ -60,13 +61,13 @@
 <li><a href="/cbnews/20210823/1611662.md" target="_blank">张文宏论文被举报 刚刚复旦大学公布调查结果</a></li>
 <li><a href="/cbnews/20210823/1611598.md" target="_blank">法轮功修炼故事：从忧郁少年到幸福青年</a></li>
 <li><a href="/cbnews/20210823/1611581.md" target="_blank">最新！北方自由军连下三城！塔利班遭遇重大打击</a></li>
-<li><a href="/comments/20210823/1611549.md" target="_blank">民调：为数可观选民后悔投拜登；飓风亨利袭击 美东北逾五千万人受影响【希望之声-午夜新闻-2021/08/22】</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20210824/1612385.md" target="_blank">习近平接班人之谜！放风汪洋要接班的是此常委？</a></li>
 <li><a href="/topimagenews/20210823/1611841.md" target="_blank">年初才加入一带一路 刚果叫停6家中国矿企黄金开采</a></li>
 <li><a href="/topimagenews/20210823/1611626.md" target="_blank">网络炸锅！岳阳房价限跌 官媒：稳才是理想状态 网友：你瞎吗？！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20210823/1611570.md" target="_blank">主动投案！辽宁原公安厅长又进去一个 前任刚刚被捕！【阿波罗网报道】</a></li>
@@ -91,13 +92,16 @@
 <li><a href="/topimagenews/20210819/1608767.md" target="_blank">美军撤出阿富汗在“暗爽”？ 专家：塔利班其实是中国的陷阱、麻烦</a></li>
 <li><a href="/topimagenews/20210819/1608756.md" target="_blank">川普：从阿富汗看见拜登软弱“中共乐坏”不再尊重美国 台湾恐发生坏事</a></li>
 <li><a href="/topimagenews/20210818/1608471.md" target="_blank">中央政法委“大老虎”百日内将落马？周永康等“四虎”再被点名！【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20210818/1608433.md" target="_blank">李克强人哪？中共喉舌的报道现反常一幕【阿波罗网报道】</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210824/1612388.md" target="_blank">周江勇后又一“虎”！习近平瞄准江系重地；马云水洗不清 杭州大整肃；毛泽东孙婿无奈捐10亿【希望之声-两岸要闻-2021/08/24】</a></li>
+<li><a href="/comments/20210824/1612384.md" target="_blank">敏感时期 新浪微博封百多帐号 列十一条时政禁言讯息</a></li>
+<li><a href="/comments/20210824/1612383.md" target="_blank">G7峰会将讨论阿富汗问题！加拿大表明支持“制裁塔利班”</a></li>
+<li><a href="/comments/20210824/1612382.md" target="_blank">习近平力推“共同富裕” 专家：3次分配最令私企胆颤心惊</a></li>
 <li><a href="/comments/20210824/1612338.md" target="_blank">反封锁反疫苗 英抗议者强闯独立电视新闻总部</a></li>
 <li><a href="/comments/20210824/1612337.md" target="_blank">TWICE进军欧美 新MV预告片周子瑜超抢眼</a></li>
 <li><a href="/comments/20210824/1612333.md" target="_blank">元朗区议会补选副主席 3 民主派弃权致建制派获胜 主席：无话可说 前议员：有人变节</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210824/1612217.md" target="_blank">这时候喝咖啡 延缓疲劳、增爆发力</a></li>
 <li><a href="/comments/20210824/1612216.md" target="_blank">煮义大利面在水里加油，能防沾？博士：换这招更有效</a></li>
 <li><a href="/comments/20210824/1612215.md" target="_blank">易倦、瘀青、发烧 当心患急性白血病</a></li>
-<li><a href="/comments/20210824/1612188.md" target="_blank">来自唐朝的唯美离婚协议</a></li>
-<li><a href="/comments/20210824/1612183.md" target="_blank">【律师会改选】律师会：已交授权票邮寄票可改选择 提醒可考虑退选最新发展</a></li>
-<li><a href="/comments/20210824/1612182.md" target="_blank">民主党不参选“死路一条”？ 林郑：政党若不参政 令人怀疑存在价值</a></li>
-<li><a href="/comments/20210824/1612174.md" target="_blank">不要迷信！中国山西拟新规 将禁止生产冥纸等纸扎祭品</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
 <li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
 
 </ul>
 </div>
