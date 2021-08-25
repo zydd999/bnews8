@@ -17,17 +17,17 @@
 <li><a href="/comments/20210825/1612785.md">靠山不够硬？杭州书记周江勇落马  传公共情妇居首功；港媒曝内幕 习近平躲避拜习会另有原因？【希望之声-红朝禁闻-2021/08/24】</a></li>
 <li><a href="/cbnews/20210824/1612460.md">安徽无意中暴露真相，原来接种真的是任务了</a></li>
 <li><a href="/bannedvideo/20210825/1612628.md">【被黄标】汪洋接班习近平?中共高层知情人揭秘；说好大赦呢？塔利班死刑通知书曝光；扬州封城近3周逾百人闯关要食物 结果您想不到；中情局长秘赴阿富汗会晤塔利班领导人；蓬佩奥：温和塔利班是伪装CS</a></li>
-<li><a href="/baitai/20210825/1612699.md">之江新军蛇鼠一窝</a></li>
 <li><a href="/comments/20210825/1612780.md">美情报界疫源报告期限到 结论呢？美媒警告：习近平是来真的！【希望之声-午夜新闻-2021/08/24】</a></li>
+<li><a href="/baitai/20210825/1612699.md">之江新军蛇鼠一窝</a></li>
+<li><a href="/yule/20210825/1612735.md">吴亦凡金主现状超惨！豪宅名车散尽 女儿梦碎</a></li>
 <li><a href="/headline/20210824/1612344.md">传习近平订下本月底10亿人接种指标 各地强制性大规模打针事故频生</a></li>
 <li><a href="/comments/20210825/1612472.md">罗马G20峰会 习不敢现身 怕啥？ 哈里斯硬起来？ 在星国狠批中共【希望之声TV-环球看点-2021/8/24】</a></li>
-<li><a href="/yule/20210825/1612735.md">吴亦凡金主现状超惨！豪宅名车散尽 女儿梦碎</a></li>
 <li><a href="/cnnews/20210825/1612505.md">五年经济计划持续重惩民企 华尔街日报：习近平来真的</a></li>
-<li><a href="/comments/20210825/1612479.md">习近平一声令下 富豪们捐款效忠 专家吁使不得</a></li>
 <li><a href="/comments/20210825/1612605.md">美使馆突爆异常健康事件，CIA：人为所致可能性非常大，谁是背后黑手？【希望之声TV-每日头条-2021/8/24】</a></li>
+<li><a href="/comments/20210825/1612479.md">习近平一声令下 富豪们捐款效忠 专家吁使不得</a></li>
 <li><a href="/bannedvideo/20210825/1612586.md">【被黄标】上下内外乱成一团，北京让煮熟鸭子飞了；习近平开财经委会议后 央行表态；美发毒源报告，中共群狼出洞；67岁老人被中共恶警性摧残；欧盟将提议建立远征军；港民主党被逼当花瓶  KV</a></li>
 <li><a href="/funmedia/20210825/1612660.md">中年夫妻最难以启齿的痛：原来，孩子并没有那么重要…..</a></li>
-<li><a href="/ssgc/20210825/1612738.md">〖兲朝浮世绘〗中共推出汪洋不过是迷西方人的眼睛罢了</a></li>
+<li><a href="/bannedvideo/20210825/1612787.md">汪洋接班习近平</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210825/1613002.md" target="_blank">【未普评论】赵立坚现象和战狼外交为何越演越烈？（下）</a></li>
+<li><a href="/comments/20210825/1613001.md" target="_blank">【教协最终章】记勤恳的老员工、老师买笔的墨迹、归于寂静的超市</a></li>
+<li><a href="/comments/20210825/1613000.md" target="_blank">被指今年六月涉嫌煽惑非法集结 王逸战到东涌警署“踼保”</a></li>
+<li><a href="/comments/20210825/1612999.md" target="_blank">伊丽莎白女王号、美利坚号、伊势号一字排开！多国海军军演震撼画面曝光</a></li>
+<li><a href="/comments/20210825/1612997.md" target="_blank">中国推“平均8岁”男团出道 5天后解散挨轰：残害幼苗</a></li>
 <li><a href="/comments/20210825/1612987.md" target="_blank">曾节明：平庸之恶是如何炼成的？从赫罗德到王沪宁</a></li>
 <li><a href="/comments/20210825/1612985.md" target="_blank">颜纯钩：国家未乱党先乱：紧日子未到 苦日子先到</a></li>
 <li><a href="/comments/20210825/1612964.md" target="_blank">传习近平令11月前11亿人接种2剂疫苗 官方噤声、不良反应增加</a></li>
@@ -118,11 +123,6 @@
 <li><a href="/comments/20210825/1612931.md" target="_blank">狙击同乐运动会 梁美芬：或有人藉服饰作政治表态 何君尧：有无问过国安委？</a></li>
 <li><a href="/comments/20210825/1612930.md" target="_blank">过去 3 年 7 职工会自行解散 罗致光：若曾违法，定必严肃跟进</a></li>
 <li><a href="/comments/20210825/1612920.md" target="_blank">辉瑞CEO：对疫苗有抵抗力的变种病毒可能出现</a></li>
-<li><a href="/comments/20210825/1612919.md" target="_blank">阻断塔利班资金 国际二大金融机构暂停援助阿富汗</a></li>
-<li><a href="/comments/20210825/1612912.md" target="_blank">武汉原书记马国强去向曝光 “湖北F4”全部软着陆</a></li>
-<li><a href="/comments/20210825/1612865.md" target="_blank">哪些人的供品神仙不敢吃？神吃供食也有原则</a></li>
-<li><a href="/comments/20210825/1612850.md" target="_blank">中共国国运急剧转衰的标志：31年来GDP首次被美国反超 — 曾节明</a></li>
-<li><a href="/comments/20210825/1612853.md" target="_blank">【公映无望】涉反修例短片《执屋》 导演指电检处要求改名、删所有执屋场景</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
 <li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
 <li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20210611/1564824.md" target="_blank">【曾铮专栏】感悟神韵（之一）神韵的主旨</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
 
 </ul>
 </div>
