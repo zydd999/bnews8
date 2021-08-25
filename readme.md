@@ -7,27 +7,27 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/lifebaike/20210825/1612570.md">一个人的狂妄自大毁灭了一个崛起中的国家</a></li>
 <li><a href="/cnnews/20210825/1612581.md">中共大使跳脚！英纪录片播出“令人信服”证据</a></li>
-<li><a href="/cbnews/20210825/1612503.md">湖南卫视主持人钱枫涉性侵 拖女生进电梯3画面曝光</a></li>
 <li><a href="/bannedvideo/20210825/1612527.md">完蛋了，香港已成一潭死水！</a></li>
+<li><a href="/cbnews/20210825/1612503.md">湖南卫视主持人钱枫涉性侵 拖女生进电梯3画面曝光</a></li>
 <li><a href="/comments/20210825/1612591.md">哈里斯表态：中共别得瑟了，我们要对付你！暗送秋波本拉登，两肋插刀塔利班，投机大V站错队！CNN拿到塔利班写给哥哥的死刑通知书，只因他帮助了弟弟！【新闻最嘲点 姜光宇】2021.08.24</a></li>
 <li><a href="/bannedvideo/20210825/1612628.md">【被黄标】汪洋接班习近平?中共高层知情人揭秘；说好大赦呢？塔利班死刑通知书曝光；扬州封城近3周逾百人闯关要食物 结果您想不到；中情局长秘赴阿富汗会晤塔利班领导人；蓬佩奥：温和塔利班是伪装CS</a></li>
 <li><a href="/comments/20210825/1612785.md">靠山不够硬？杭州书记周江勇落马  传公共情妇居首功；港媒曝内幕 习近平躲避拜习会另有原因？【希望之声-红朝禁闻-2021/08/24】</a></li>
-<li><a href="/cbnews/20210824/1612460.md">安徽无意中暴露真相，原来接种真的是任务了</a></li>
 <li><a href="/bannedvideo/20210825/1612854.md">8月24日，近千人聚集北京市海淀区房管局，要求解决金隅凤栖家园共有产权房开发商逼签霸王合同、取消认购资格的问题，人群中回怼房管局工作人员：“别扯东扯西了！”</a></li>
 <li><a href="/baitai/20210825/1612699.md">之江新军蛇鼠一窝</a></li>
 <li><a href="/comments/20210825/1612780.md">美情报界疫源报告期限到 结论呢？美媒警告：习近平是来真的！【希望之声-午夜新闻-2021/08/24】</a></li>
 <li><a href="/cnnews/20210825/1612831.md">习近平刚刚去大佛寺是为了他？父子二人当年连做两件功德事【阿波罗网报道】</a></li>
+<li><a href="/bannedvideo/20210825/1612949.md">习占地“人民日报”头版头条，正逐渐消失势？ 背景复杂的汪洋为何突成红人？ 这是一个即将到来的危险恶作剧！ 真观点｜真飞【第158期】【20210825】</a></li>
 <li><a href="/yule/20210825/1612735.md">吴亦凡金主现状超惨！豪宅名车散尽 女儿梦碎</a></li>
 <li><a href="/comments/20210825/1612472.md">罗马G20峰会 习不敢现身 怕啥？ 哈里斯硬起来？ 在星国狠批中共【希望之声TV-环球看点-2021/8/24】</a></li>
-<li><a href="/bannedvideo/20210825/1612949.md">习占地“人民日报”头版头条，正逐渐消失势？ 背景复杂的汪洋为何突成红人？ 这是一个即将到来的危险恶作剧！ 真观点｜真飞【第158期】【20210825】</a></li>
+<li><a href="/bannedvideo/20210825/1612909.md">不同意还划红线，心碎一幕将再次上演；溯源报告出炉，结论就是没有结论，但却给中共透了实底 （20210825 第667期）</a></li>
 <li><a href="/cnnews/20210825/1612505.md">五年经济计划持续重惩民企 华尔街日报：习近平来真的</a></li>
+<li><a href="/bannedvideo/20210825/1612787.md">汪洋接班习近平</a></li>
 <li><a href="/funmedia/20210825/1612660.md">中年夫妻最难以启齿的痛：原来，孩子并没有那么重要…..</a></li>
 <li><a href="/comments/20210825/1612479.md">习近平一声令下 富豪们捐款效忠 专家吁使不得</a></li>
 <li><a href="/comments/20210825/1612605.md">美使馆突爆异常健康事件，CIA：人为所致可能性非常大，谁是背后黑手？【希望之声TV-每日头条-2021/8/24】</a></li>
-<li><a href="/bannedvideo/20210825/1612787.md">汪洋接班习近平</a></li>
 <li><a href="/bannedvideo/20210825/1612586.md">【被黄标】上下内外乱成一团，北京让煮熟鸭子飞了；习近平开财经委会议后 央行表态；美发毒源报告，中共群狼出洞；67岁老人被中共恶警性摧残；欧盟将提议建立远征军；港民主党被逼当花瓶  KV</a></li>
 <li><a href="/ssgc/20210825/1612738.md">〖兲朝浮世绘〗中共推出汪洋不过是迷西方人的眼睛罢了</a></li>
-<li><a href="/bannedvideo/20210825/1612909.md">不同意还划红线，心碎一幕将再次上演；溯源报告出炉，结论就是没有结论，但却给中共透了实底 （20210825 第667期）</a></li>
+<li><a href="/worldnews/20210825/1612533.md">俄太空碎片撞碎中共军用卫星 北京反应太奇葩</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210825/1613130.md" target="_blank">四十年前，为什么来自对岸的靡靡之音可以攻破如铁桶一般的红色中国？</a></li>
 <li><a href="/comments/20210825/1613012.md" target="_blank">习近平现身避暑山庄 传递重要信号；90天报告埋伏笔 内幕：北京9个月前差点被追责【希望之声-两岸要闻-2021/08/25】</a></li>
 <li><a href="/cbnews/20210825/1612982.md" target="_blank">讨论合作 中共大使与塔利班会面现场曝光</a></li>
 <li><a href="/cbnews/20210825/1612953.md" target="_blank">无奇不有 大陆电商什么也敢卖？</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/comments/20210825/1612472.md" target="_blank">罗马G20峰会 习不敢现身 怕啥？ 哈里斯硬起来？ 在星国狠批中共【希望之声TV-环球看点-2021/8/24】</a></li>
 <li><a href="/cbnews/20210825/1612469.md" target="_blank">对准中共！印度狂扫“现货” 紧急采购7万支俄制AK-203突击步枪</a></li>
 <li><a href="/cbnews/20210824/1612460.md" target="_blank">安徽无意中暴露真相，原来接种真的是任务了</a></li>
-<li><a href="/comments/20210824/1612388.md" target="_blank">周江勇后又一“虎”！习近平瞄准江系重地；马云水洗不清 杭州大整肃；毛泽东孙婿无奈捐10亿【希望之声-两岸要闻-2021/08/24】</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210825/1613130.md" target="_blank">四十年前，为什么来自对岸的靡靡之音可以攻破如铁桶一般的红色中国？</a></li>
+<li><a href="/comments/20210825/1613129.md" target="_blank">世界最难攻打的2国 中国阿富汗都没份</a></li>
 <li><a href="/comments/20210825/1613109.md" target="_blank">饮食愈低碳，断食效果愈明显！精选四种食材在线</a></li>
 <li><a href="/comments/20210825/1613108.md" target="_blank">运动量不足致死占7% 亦易罹失智症</a></li>
 <li><a href="/comments/20210825/1613098.md" target="_blank">混得好的人 永远不会在朋友圈里大晒幸福</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210825/1612960.md" target="_blank">Delta肆虐全球 美CDC：疫苗预防感染效力下降到66％</a></li>
 <li><a href="/comments/20210825/1612959.md" target="_blank">贺锦丽专机延迟 中共驻越南大使趁机见总理称要赠疫苗</a></li>
 <li><a href="/comments/20210825/1612958.md" target="_blank">【梁京评论】美国撤出阿富汗的灾难引发的思考</a></li>
-<li><a href="/comments/20210825/1612957.md" target="_blank">美研究︰超级抗体“SARS2-38” 能中和所有已知变种病毒</a></li>
-<li><a href="/comments/20210825/1612950.md" target="_blank">2021年世界旅游最便宜城市排行榜</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
 <li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/comments/20210329/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
 
 </ul>
 </div>
