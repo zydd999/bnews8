@@ -10,24 +10,24 @@
 <li><a href="/cbnews/20210826/1613171.md">习近平看树很了不起? 新华社竟然8连发 专家：背后藏这玄机…..</a></li>
 <li><a href="/topimagenews/20210826/1613233.md">67岁王健林经历了什么？瘦得皮包骨</a></li>
 <li><a href="/cnnews/20210826/1613213.md">国门关闭？海关询查海外家属情况，拿证据才放行</a></li>
-<li><a href="/bannedvideo/20210826/1613263.md">习近平与汪洋的真实关系</a></li>
 <li><a href="/cbnews/20210826/1613253.md">共青团中央用一张图嘲讽美军 评论区翻车</a></li>
+<li><a href="/bannedvideo/20210826/1613263.md">习近平与汪洋的真实关系</a></li>
 <li><a href="/bannedvideo/20210826/1613153.md">美国情报部门拿出新冠溯源报告！</a></li>
 <li><a href="/bannedvideo/20210826/1613259.md">墙内小粉红紧急通知：个人翻墙已经开始大规模行政处罚！</a></li>
 <li><a href="/cnnews/20210825/1613059.md">上海国际货运全停，揭秘中共自残经济背后；蔡英文誓言更强大军方斥70亿美元量产导弹</a></li>
 <li><a href="/bannedvideo/20210826/1613244.md">习近平让位汪洋接班？党内人士故意放话，对习和汪杀伤力很大！大家不信谣，但坚决要传谣！ （一平论政2021/8/25)</a></li>
 <li><a href="/bannedvideo/20210826/1613198.md">【被黄标】锁国信号！上海人恐慌大抢购，翻版英语教材发现就捕；传习近平订本月底接种10亿人指标，各地正强制；中共国卫健委为何要每家存高埠罩？华日曝马云当面触怒习内幕；上海人曝当局隐瞒疫情 CL</a></li>
-<li><a href="/cbnews/20210826/1613296.md">文昭：美国病毒溯源报告要解密，内幕故事先曝光；北京要开「十三行」、一步加速回「後清」？</a></li>
-<li><a href="/cnnews/20210826/1613222.md">震撼！怕疫情 加国夫妻在家窝一年 日子变成这样</a></li>
-<li><a href="/cbnews/20210826/1613524.md">问俘虏也没用 塔利班缴获大批美式装备 傻眼了</a></li>
 <li><a href="/cbnews/20210826/1613677.md">“逼下跪、学狗叫、喝香水”！西安女大生爆料被校长儿子长期PUA</a></li>
+<li><a href="/cbnews/20210826/1613296.md">文昭：美国病毒溯源报告要解密，内幕故事先曝光；北京要开「十三行」、一步加速回「後清」？</a></li>
+<li><a href="/cbnews/20210826/1613524.md">问俘虏也没用 塔利班缴获大批美式装备 傻眼了</a></li>
+<li><a href="/cnnews/20210826/1613222.md">震撼！怕疫情 加国夫妻在家窝一年 日子变成这样</a></li>
 <li><a href="/funmedia/20210826/1613561.md">女子穿“钉子裤”坐公交，旁边男子都不敢接近，网友：这很安全</a></li>
 <li><a href="/cnnews/20210826/1613603.md">这种几十万一块的石头 浙江最新发现200万吨</a></li>
-<li><a href="/comments/20210825/1613097.md">悬在空中的习近平与大祸临头的中共</a></li>
 <li><a href="/cbnews/20210826/1613443.md">上半年中国出生人口大降16% 提前迎来历史拐点</a></li>
+<li><a href="/comments/20210825/1613097.md">悬在空中的习近平与大祸临头的中共</a></li>
 <li><a href="/lifebaike/20210826/1613236.md">古代清朝第一幅女鬼图名画 很多人不敢细看</a></li>
+<li><a href="/cnnews/20210826/1613641.md">美各大媒体拒绝发表中共大使馆文章 江系趁机打脸习近平【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20210826/1613150.md">国家未乱党先乱：紧日子未到，苦日子先到</a></li>
-<li><a href="/worldnews/20210826/1613564.md">留学生崩溃！交了学费开学前录取被撤</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210826/1613834.md" target="_blank">【华府看天下】大陆压港据五十年代灭公民社会剧本 国学大师遗言发人深省</a></li>
+<li><a href="/comments/20210826/1613833.md" target="_blank">🎉粉丝福利🎉巴塞罗那海滩美景！熊猫侠首秀游泳！结尾有惊喜🍻│#熊猫侠</a></li>
+<li><a href="/comments/20210826/1613825.md" target="_blank">公元5000年的时间旅行者 声称有世界末日照片？</a></li>
+<li><a href="/comments/20210826/1613824.md" target="_blank">传官方限售英语教材 上海家长恐慌忙抢购</a></li>
 <li><a href="/comments/20210826/1613810.md" target="_blank">中共大使致信谭德赛：要查美军实验室；背后角力持续 周江勇家族更多资讯曝光【希望之声-两岸要闻-2021/08/26】</a></li>
 <li><a href="/comments/20210826/1613801.md" target="_blank">资审会 DQ 郑松泰 梁君彦：我哋仲有温和民主派喺度</a></li>
 <li><a href="/comments/20210826/1613800.md" target="_blank">郑松泰被 DQ 指资审会曾问爱国忠诚度、维护政府利益、外国势力 “我符合爱国爱港资格”</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210826/1613731.md" target="_blank">莫名骨头疼？有可能是这些疾病的征兆</a></li>
 <li><a href="/comments/20210826/1613730.md" target="_blank">三高、肥胖来得越早！研究：痴呆症来的越快</a></li>
 <li><a href="/comments/20210826/1613729.md" target="_blank">看看意大利人的一天是如何度过的？</a></li>
-<li><a href="/comments/20210826/1613728.md" target="_blank">汪湖：八月之城</a></li>
-<li><a href="/comments/20210826/1613713.md" target="_blank">美德3非政府组织来台设点 捷克智库赴台取经反渗透</a></li>
-<li><a href="/comments/20210826/1613671.md" target="_blank">塔利班任命部长人选 各国加紧撤离行动</a></li>
-<li><a href="/comments/20210826/1613658.md" target="_blank">唯美之灵与佛意（上集）—— 如果真理是丑陋的，宁肯爱恋唯美的谬误（东方哲人解析当代人类困惑  第四十九讲）【袁红冰杏坛】 08262021</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
 <li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
+<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
 
 </ul>
 </div>
