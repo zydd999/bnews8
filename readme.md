@@ -16,13 +16,13 @@
 <li><a href="/cbnews/20210827/1614033.md">眼镜蛇“砍头20分钟”离奇复活 广东佛山厨师遭反咬倒地亡</a></li>
 <li><a href="/bannedvideo/20210827/1614057.md">3.5万亿要来了，全球大通胀时代来临了！放弃幻想，准备战斗！</a></li>
 <li><a href="/topimagenews/20210827/1613978.md">警察开枪了！河南南阳交通事故中 肇事车主逃逸 被警察枪击倒地</a></li>
+<li><a href="/baitai/20210827/1614255.md">麦杰逊 &#124; 赵薇的事，比范冰冰还大</a></li>
 <li><a href="/comments/20210826/1613748.md">惊天揭秘：武汉疫情中隐藏着另一种致命病毒</a></li>
 <li><a href="/cbnews/20210827/1613929.md">电梯爆冲30楼 女住户当场“爆头” 维修工目睹</a></li>
-<li><a href="/baitai/20210827/1614255.md">麦杰逊 &#124; 赵薇的事，比范冰冰还大</a></li>
 <li><a href="/cnnews/20210827/1614077.md">不小心踩到脚！上海2女斗殴 全车乘客看傻眼</a></li>
-<li><a href="/bannedvideo/20210826/1613721.md">政府人员威胁不打疫苗不能出门，被市民怒斥；中国一些地方警察开始巡查疫苗接种情况；重庆不打疫苗坐不了轻轨车</a></li>
 <li><a href="/lifebaike/20210827/1614048.md">“体内有癌，一睡便知”，睡觉时总有异常感，可能是身体在呼救</a></li>
 <li><a href="/cbnews/20210827/1614089.md">周江勇落马 蚂蚁人脉全揭露 沾上阿里就完蛋？</a></li>
+<li><a href="/bannedvideo/20210827/1614257.md">总加速师加速过猛，差点脱了轨！习近平急转弯，高调鼓吹民主？李克强困惑发问：汪洋到底接谁的班？</a></li>
 <li><a href="/bannedvideo/20210827/1614032.md">王健林露面瘦成闪电，“共同富裕”吓坏私营企业主？中共高官紧急辟谣；中共对阿富汗态度180度转型，五毛博主跟风被封号，“哈塔”饭难吃  | 秦鹏观察 8/26 | 新唐人电视台</a></li>
 <li><a href="/topimagenews/20210827/1614006.md">死线迫在眉睫！美军CIA联合行动 出喀布尔机场救人</a></li>
 <li><a href="/cnnews/20210826/1613850.md">学区房最大利空？北京推超级大招 这次真要凉？</a></li>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210827/1614353.md" target="_blank">为去阿国视察辩护 美众议员：这事关生死而非政治</a></li>
+<li><a href="/comments/20210827/1614352.md" target="_blank">对中共不信任 美智库：过半美国人支持出兵护台湾</a></li>
 <li><a href="/comments/20210827/1614327.md" target="_blank">青藏高原万人军演 专家：中印之战不可避免</a></li>
 <li><a href="/comments/20210827/1614326.md" target="_blank">这两种感冒药不能一起吃，引发肾衰严重可致命</a></li>
 <li><a href="/comments/20210827/1614302.md" target="_blank">李燕铭：赵薇突遭封杀 超话被关 还珠格格等作品全网下架 赵薇等五人被列为劣迹艺人 内部通知曝光 黄晓明杨紫删除有关微博与赵薇切割 赵薇疑遭封杀的三大原因 赵薇的问题非常大 绝对不是被定性为“劣质艺人”这么简单 网上很多关于赵薇的传闻一个比一个惊悚 陆媒：赵薇夫妇行至末路 文宣系统掀清洗风暴 娱乐圈大震荡（十）</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210827/1614193.md" target="_blank">美军遭袭  伤亡重大 谁是幕后黑手？拜登急表态； 三大共和党高层宣布：对阿富汗撤军进行联合调查“希望之声TV-北美新闻-20210826”</a></li>
 <li><a href="/comments/20210827/1614176.md" target="_blank">美日印澳南海附近联合军演 加强应对中共威胁</a></li>
 <li><a href="/comments/20210827/1614174.md" target="_blank">加拿大在阿富汗喀布尔的撤离任务结束</a></li>
-<li><a href="/comments/20210827/1614173.md" target="_blank">喀布尔机场附近多起自杀式爆炸 美军13死18伤</a></li>
-<li><a href="/comments/20210827/1614172.md" target="_blank">喀布尔爆炸案 拜登：将对ISIS做出精准打击</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
 <li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/ganwu/20170705/787156.md" target="_blank">感悟神韵（之四）：感悟神韵音乐</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
 <li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
 
 </ul>
 </div>
