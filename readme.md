@@ -13,21 +13,21 @@
 <li><a href="/topimagenews/20210827/1614310.md">习近平大失招被政敌抓住！江泽民派系狂喜 用了这张照片 大凶之兆？【阿波罗网报道】</a></li>
 <li><a href="/baitai/20210827/1614255.md">麦杰逊 &#124; 赵薇的事，比范冰冰还大</a></li>
 <li><a href="/yule/20210827/1614348.md">起底赵薇：关于她的事 一件比一件大</a></li>
-<li><a href="/topimagenews/20210827/1613978.md">警察开枪了！河南南阳交通事故中 肇事车主逃逸 被警察枪击倒地</a></li>
 <li><a href="/bannedvideo/20210827/1614257.md">总加速师加速过猛，差点脱了轨！习近平急转弯，高调鼓吹民主？李克强困惑发问：汪洋到底接谁的班？</a></li>
 <li><a href="/cbnews/20210827/1614089.md">周江勇落马 蚂蚁人脉全揭露 沾上阿里就完蛋？</a></li>
-<li><a href="/cnnews/20210827/1614077.md">不小心踩到脚！上海2女斗殴 全车乘客看傻眼</a></li>
 <li><a href="/yule/20210827/1614349.md">赵薇突然被封杀，真相比你想象的复杂</a></li>
+<li><a href="/cnnews/20210827/1614077.md">不小心踩到脚！上海2女斗殴 全车乘客看傻眼</a></li>
 <li><a href="/bannedvideo/20210827/1614351.md">文睿：赵薇、高晓松出事儿了，不是逼你捐款，而是要你的全部</a></li>
 <li><a href="/lifebaike/20210827/1614048.md">“体内有癌，一睡便知”，睡觉时总有异常感，可能是身体在呼救</a></li>
 <li><a href="/topimagenews/20210827/1614355.md">中共公安部长发署名文章：彻底肃清周永康、孟宏伟、孙力军等人流毒【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20210827/1614285.md">赵薇主演作品被除名 传被列为“劣迹艺人”</a></li>
-<li><a href="/bannedvideo/20210827/1614032.md">王健林露面瘦成闪电，“共同富裕”吓坏私营企业主？中共高官紧急辟谣；中共对阿富汗态度180度转型，五毛博主跟风被封号，“哈塔”饭难吃  | 秦鹏观察 8/26 | 新唐人电视台</a></li>
-<li><a href="/funmedia/20210827/1614093.md">看完这六张照片，什么事都想开了</a></li>
 <li><a href="/comments/20210827/1614419.md">罕见！中共外宣系谈极敏感话题；升级！北京派他出面 反溯源调查 【希望之声-两岸要闻-2021/08/27】</a></li>
+<li><a href="/funmedia/20210827/1614093.md">看完这六张照片，什么事都想开了</a></li>
+<li><a href="/bannedvideo/20210827/1614032.md">王健林露面瘦成闪电，“共同富裕”吓坏私营企业主？中共高官紧急辟谣；中共对阿富汗态度180度转型，五毛博主跟风被封号，“哈塔”饭难吃  | 秦鹏观察 8/26 | 新唐人电视台</a></li>
 <li><a href="/topimagenews/20210827/1614006.md">死线迫在眉睫！美军CIA联合行动 出喀布尔机场救人</a></li>
 <li><a href="/bannedvideo/20210827/1614146.md">2021最恐怖的童谣预：红伞伞、躺板板、埋山山？儿歌预言的世界大事【文昭思绪飞扬78期】</a></li>
 <li><a href="/ssgc/20210827/1614219.md">〖兲朝浮世绘〗共产党，每一根毛孔都在流脓</a></li>
+<li><a href="/cbnews/20210827/1614091.md">习近平打富 追求共富还是形塑战时经济？</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210828/1614616.md" target="_blank">李燕铭：赵薇踢到铁盘 陆媒：纵是背后的人再强大也是无力回天 黄晓明取关赵薇 删光和赵薇所有相关博文 杨幂杨紫李冰冰连夜删掉与赵薇合影 林心如工作室注销引猜测 文宣系统掀清洗风暴 娱乐圈大震荡（十三）</a></li>
+<li><a href="/comments/20210828/1614614.md" target="_blank">区议员议办播《幻爱》邀导演周冠威分享 警员、食环到场发限聚令告票</a></li>
+<li><a href="/comments/20210828/1614613.md" target="_blank">议员关注网上恶搞国旗 曾国衞称复制品亦受规管 由执法部门处理</a></li>
 <li><a href="/comments/20210828/1614585.md" target="_blank">喀布尔机场惨剧 各国同声谴；美国前总统发悲声：本不该发生；赵薇突遭全网封锁 又关马云的事？【希望之声TV-环球看点-2021/8/27】</a></li>
 <li><a href="/comments/20210828/1614580.md" target="_blank">高血压撞上糖尿病，血压管理何去何从？</a></li>
 <li><a href="/comments/20210828/1614579.md" target="_blank">研究：每周吃豆腐 有助降低罹患心脏病风险</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210827/1614409.md" target="_blank">超有趣！一百分小学生作文《我的家》</a></li>
 <li><a href="/comments/20210827/1614408.md" target="_blank">【影片】7.21 袭击近 200 白衣人未归案 多人涉施袭未被控 警当晚未拘南边围聚集疑犯</a></li>
 <li><a href="/comments/20210827/1614406.md" target="_blank">暴雨突袭杭州 围栏倒伏、工棚吹翻、车困水中、街道成河</a></li>
-<li><a href="/comments/20210827/1614395.md" target="_blank">用它洗水果比盐还干净？纯天然 无毒无害还廉价</a></li>
-<li><a href="/comments/20210827/1614383.md" target="_blank">新西兰突然结束撤离行动 阿富汗近40名翻译人员惊呆</a></li>
-<li><a href="/comments/20210827/1614382.md" target="_blank">喀布尔机场爆炸酿90人亡 白宫：坚持31日撤军决定不变</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
 <li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
 
 </ul>
 </div>
