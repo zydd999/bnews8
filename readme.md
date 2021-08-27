@@ -13,19 +13,19 @@
 <li><a href="/baitai/20210827/1614255.md">麦杰逊 &#124; 赵薇的事，比范冰冰还大</a></li>
 <li><a href="/cbnews/20210827/1614033.md">眼镜蛇“砍头20分钟”离奇复活 广东佛山厨师遭反咬倒地亡</a></li>
 <li><a href="/bannedvideo/20210827/1614057.md">3.5万亿要来了，全球大通胀时代来临了！放弃幻想，准备战斗！</a></li>
-<li><a href="/topimagenews/20210827/1613978.md">警察开枪了！河南南阳交通事故中 肇事车主逃逸 被警察枪击倒地</a></li>
 <li><a href="/bannedvideo/20210827/1614257.md">总加速师加速过猛，差点脱了轨！习近平急转弯，高调鼓吹民主？李克强困惑发问：汪洋到底接谁的班？</a></li>
+<li><a href="/topimagenews/20210827/1613978.md">警察开枪了！河南南阳交通事故中 肇事车主逃逸 被警察枪击倒地</a></li>
 <li><a href="/cbnews/20210827/1613929.md">电梯爆冲30楼 女住户当场“爆头” 维修工目睹</a></li>
 <li><a href="/topimagenews/20210827/1614310.md">习近平大失招被政敌抓住！江泽民派系狂喜 用了这张照片 大凶之兆？【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20210827/1614077.md">不小心踩到脚！上海2女斗殴 全车乘客看傻眼</a></li>
-<li><a href="/cbnews/20210827/1614089.md">周江勇落马 蚂蚁人脉全揭露 沾上阿里就完蛋？</a></li>
 <li><a href="/lifebaike/20210827/1614048.md">“体内有癌，一睡便知”，睡觉时总有异常感，可能是身体在呼救</a></li>
+<li><a href="/cbnews/20210827/1614089.md">周江勇落马 蚂蚁人脉全揭露 沾上阿里就完蛋？</a></li>
 <li><a href="/topimagenews/20210827/1614006.md">死线迫在眉睫！美军CIA联合行动 出喀布尔机场救人</a></li>
-<li><a href="/bannedvideo/20210827/1614032.md">王健林露面瘦成闪电，“共同富裕”吓坏私营企业主？中共高官紧急辟谣；中共对阿富汗态度180度转型，五毛博主跟风被封号，“哈塔”饭难吃  | 秦鹏观察 8/26 | 新唐人电视台</a></li>
 <li><a href="/funmedia/20210827/1614093.md">看完这六张照片，什么事都想开了</a></li>
+<li><a href="/bannedvideo/20210827/1614032.md">王健林露面瘦成闪电，“共同富裕”吓坏私营企业主？中共高官紧急辟谣；中共对阿富汗态度180度转型，五毛博主跟风被封号，“哈塔”饭难吃  | 秦鹏观察 8/26 | 新唐人电视台</a></li>
 <li><a href="/cnnews/20210826/1613850.md">学区房最大利空？北京推超级大招 这次真要凉？</a></li>
-<li><a href="/bannedvideo/20210826/1613870.md">你还想移民美国？现在一些美国人已经逃离美国！</a></li>
 <li><a href="/bannedvideo/20210827/1614146.md">2021最恐怖的童谣预：红伞伞、躺板板、埋山山？儿歌预言的世界大事【文昭思绪飞扬78期】</a></li>
+<li><a href="/bannedvideo/20210826/1613870.md">你还想移民美国？现在一些美国人已经逃离美国！</a></li>
 <li><a href="/comments/20210827/1614066.md">突变 13名美特种军人丧生 拜登政府的危局？【希望之声TV-新闻焦点解读-2021/08/26】主持:高洁  嘉宾：方伟  袁弓夷</a></li>
 <li><a href="/comments/20210826/1613872.md">大厦将倾，这群中国最富有的人，退向何方？</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210827/1614413.md" target="_blank">世界上最神奇的桥 船在桥上走 车在水下走</a></li>
+<li><a href="/comments/20210827/1614409.md" target="_blank">超有趣！一百分小学生作文《我的家》</a></li>
+<li><a href="/comments/20210827/1614408.md" target="_blank">【影片】7.21 袭击近 200 白衣人未归案 多人涉施袭未被控 警当晚未拘南边围聚集疑犯</a></li>
+<li><a href="/comments/20210827/1614406.md" target="_blank">暴雨突袭杭州 围栏倒伏、工棚吹翻、车困水中、街道成河</a></li>
 <li><a href="/comments/20210827/1614395.md" target="_blank">用它洗水果比盐还干净？纯天然 无毒无害还廉价</a></li>
 <li><a href="/comments/20210827/1614383.md" target="_blank">新西兰突然结束撤离行动 阿富汗近40名翻译人员惊呆</a></li>
 <li><a href="/comments/20210827/1614382.md" target="_blank">喀布尔机场爆炸酿90人亡 白宫：坚持31日撤军决定不变</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210827/1614228.md" target="_blank">杨威：习近平与普京 对阿富汗不同调</a></li>
 <li><a href="/comments/20210827/1614227.md" target="_blank">美国确认星岛日报为外国代理人 王赫：远远不够</a></li>
 <li><a href="/comments/20210827/1614218.md" target="_blank">回应喀布尔恐袭 美军方：将尽一切努力应对</a></li>
-<li><a href="/comments/20210827/1614213.md" target="_blank">【微博精粹】惊人对比：大国只有一把手不戴口罩 塔利班全体不戴</a></li>
-<li><a href="/comments/20210827/1614209.md" target="_blank">传美批准卖汽车芯片给华为 卢比奥要求白宫公开说明</a></li>
-<li><a href="/comments/20210827/1614208.md" target="_blank">五角大楼：喀布尔遭恐袭 美军任务没改变</a></li>
-<li><a href="/comments/20210827/1614207.md" target="_blank">【横河观点】喀布尔恐袭针对谁 中共算盘落空？</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
 <li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
-<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
 <li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
 
 </ul>
 </div>
