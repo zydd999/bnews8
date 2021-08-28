@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/cbnews/20210827/1614090.md">马云悬了…杭州大肃清恐扳倒马云入罪</a></li>
 <li><a href="/topimagenews/20210827/1614310.md">习近平大失招被政敌抓住！江泽民派系狂喜 用了这张照片 大凶之兆？【阿波罗网报道】</a></li>
 <li><a href="/baitai/20210827/1614255.md">麦杰逊 &#124; 赵薇的事，比范冰冰还大</a></li>
 <li><a href="/bannedvideo/20210827/1614257.md">总加速师加速过猛，差点脱了轨！习近平急转弯，高调鼓吹民主？李克强困惑发问：汪洋到底接谁的班？</a></li>
 <li><a href="/yule/20210827/1614348.md">起底赵薇：关于她的事 一件比一件大</a></li>
-<li><a href="/cbnews/20210827/1614089.md">周江勇落马 蚂蚁人脉全揭露 沾上阿里就完蛋？</a></li>
 <li><a href="/yule/20210827/1614349.md">赵薇突然被封杀，真相比你想象的复杂</a></li>
 <li><a href="/bannedvideo/20210827/1614351.md">文睿：赵薇、高晓松出事儿了，不是逼你捐款，而是要你的全部</a></li>
 <li><a href="/comments/20210827/1614419.md">罕见！中共外宣系谈极敏感话题；升级！北京派他出面 反溯源调查 【希望之声-两岸要闻-2021/08/27】</a></li>
 <li><a href="/topimagenews/20210827/1614355.md">中共公安部长发署名文章：彻底肃清周永康、孟宏伟、孙力军等人流毒【阿波罗网报道】</a></li>
+<li><a href="/cbnews/20210828/1614641.md">网友称赵薇包机去了法国 与黄有龙酒庄汇合？</a></li>
 <li><a href="/cnnews/20210827/1614285.md">赵薇主演作品被除名 传被列为“劣迹艺人”</a></li>
-<li><a href="/funmedia/20210827/1614093.md">看完这六张照片，什么事都想开了</a></li>
 <li><a href="/topimagenews/20210827/1614548.md">无奇不有，大陆电商敢卖啥？三座大山重压，中国外贸挺不住了；美智库拜登不会让步关税</a></li>
 <li><a href="/bannedvideo/20210827/1614146.md">2021最恐怖的童谣预：红伞伞、躺板板、埋山山？儿歌预言的世界大事【文昭思绪飞扬78期】</a></li>
-<li><a href="/cbnews/20210828/1614641.md">网友称赵薇包机去了法国 与黄有龙酒庄汇合？</a></li>
 <li><a href="/ssgc/20210827/1614219.md">〖兲朝浮世绘〗共产党，每一根毛孔都在流脓</a></li>
 <li><a href="/cbnews/20210827/1614367.md">高晓松"晓松奇谈"遭下架 曾发表“不当言论”</a></li>
-<li><a href="/cbnews/20210827/1614091.md">习近平打富 追求共富还是形塑战时经济？</a></li>
+<li><a href="/cnnews/20210828/1614606.md">拜登 : 我负全部责任 不过如果是川普撤军….</a></li>
 <li><a href="/comments/20210827/1614260.md">李燕铭：上海再有公安高官落马 习近平前女副手带队 清洗江泽民家族私家军 北戴河会后一周内三名上海政法官员被查处 女公安局长唐丽娜多项罪名曝光 被曝频繁出入私人会所 唐丽娜上司被抓搭档也落马</a></li>
-<li><a href="/headline/20210827/1614547.md">赵薇疑遭控7宗罪 有分析指主因是“勾结阿里系”</a></li>
 <li><a href="/cnnews/20210827/1614230.md">陕西美女博士任大学教职 疑获厅级老爷安排</a></li>
 <li><a href="/bannedvideo/20210828/1614587.md">任正非的无耻报复：华为解散加拿大总部！    澳洲开放农民签证，三年可拿绿卡！</a></li>
-<li><a href="/cnnews/20210828/1614606.md">拜登 : 我负全部责任 不过如果是川普撤军….</a></li>
+<li><a href="/headline/20210827/1614547.md">赵薇疑遭控7宗罪 有分析指主因是“勾结阿里系”</a></li>
+<li><a href="/topimagenews/20210827/1614476.md">大连凯旋国际大厦突发大火 蔓延整栋大楼 疑似有人被困楼顶</a></li>
+<li><a href="/ssgc/20210827/1614323.md">中国艺人赵薇遭全面封杀 罪名或不只逃税那么简单</a></li>
+<li><a href="/comments/20210827/1614193.md">美军遭袭  伤亡重大 谁是幕后黑手？拜登急表态； 三大共和党高层宣布：对阿富汗撤军进行联合调查“希望之声TV-北美新闻-20210826”</a></li>
+<li><a href="/cnnews/20210827/1614215.md">塔利班对女性的29条奇葩禁令 令人瞠目结舌</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,9 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210828/1614752.md" target="_blank">文昭：赵薇被全网封杀、郑爽被重罚3亿！最本质的原因在这里；娱乐圈灭顶之灾来得太快</a></li>
+<li><a href="/comments/20210828/1614734.md" target="_blank">情报摘要没有结论？美国表态：绝不罢休！铁拳砸向土地承包机制？农民未来面临什么？【希望之声TV-新闻焦点解读-2021/08/27】主持:高洁  嘉宾：谢田</a></li>
+<li><a href="/cbnews/20210828/1614732.md" target="_blank">美国公布病毒起源报告 情报界仍无定论</a></li>
 <li><a href="/comments/20210828/1614721.md" target="_blank">策划喀布尔机场BZ事件主谋曝光 拜登发誓让其付出代价【希望之声TV-每日头条-2021/8/27】</a></li>
 <li><a href="/comments/20210828/1614710.md" target="_blank">英雄救美杀恶霸，却斩下来一只猪蹄？</a></li>
 <li><a href="/cbnews/20210828/1614708.md" target="_blank">网路言论寒冬已至：大陆网信办将再封禁财经与网络“黑嘴”自媒体</a></li>
@@ -58,9 +61,6 @@
 <li><a href="/cbnews/20210827/1614262.md" target="_blank">狂风暴雨突袭杭州 伴有强雷电 强度直逼郑州</a></li>
 <li><a href="/comments/20210827/1614239.md" target="_blank">国际谴责喀布尔致命袭击 拜登被批失职；90多万党员被开除成反腐政绩 遭嘲笑【希望之声-午夜新闻-2021/08/26】</a></li>
 <li><a href="/cbnews/20210827/1614237.md" target="_blank">江峰：拖住美军！喀布尔袭击幕后黑手是谁？白宫战略混乱，谁会充当替罪羊？【江峰漫谈20210826第367期】</a></li>
-<li><a href="/cbnews/20210827/1614201.md" target="_blank">喀布尔机场附近多起爆炸 美军13死18伤</a></li>
-<li><a href="/comments/20210827/1614193.md" target="_blank">美军遭袭  伤亡重大 谁是幕后黑手？拜登急表态； 三大共和党高层宣布：对阿富汗撤军进行联合调查“希望之声TV-北美新闻-20210826”</a></li>
-<li><a href="/cbnews/20210827/1614187.md" target="_blank">C17只是小弟 美超级运输机抵达阿国 一次运千人</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210828/1614734.md" target="_blank">情报摘要没有结论？美国表态：绝不罢休！铁拳砸向土地承包机制？农民未来面临什么？【希望之声TV-新闻焦点解读-2021/08/27】主持:高洁  嘉宾：谢田</a></li>
 <li><a href="/comments/20210828/1614721.md" target="_blank">策划喀布尔机场BZ事件主谋曝光 拜登发誓让其付出代价【希望之声TV-每日头条-2021/8/27】</a></li>
 <li><a href="/comments/20210828/1614710.md" target="_blank">英雄救美杀恶霸，却斩下来一只猪蹄？</a></li>
 <li><a href="/comments/20210828/1614704.md" target="_blank">赵薇的麻烦可比范冰冰大多了！收购上市公司失败，牵出背后神秘的“明天系”！【新闻最嘲点 姜光宇】2021.08.27</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210828/1614571.md" target="_blank">唯色RFA博客：在冈仁波齐遇到的行脚僧，及圣山南面的藏人与流亡的精神领袖（十五）</a></li>
 <li><a href="/comments/20210827/1614524.md" target="_blank">李燕铭：赵薇之后高晓松将成为下一个被封杀的目标？高晓松《晓松奇谈》被下架 争议言论也遭扒出 高晓松显赫家庭背景曝光 文宣系统掀清洗风暴 娱乐圈大震荡（十二）</a></li>
 <li><a href="/comments/20210827/1614522.md" target="_blank">喀布尔机场恐攻 中共首发声 要打击的却不是引爆主凶</a></li>
-<li><a href="/comments/20210827/1614521.md" target="_blank">娱乐圈韭菜肥 中共下手猛割 “共同富裕”前哨战？</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
 <li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
 
 </ul>
 </div>
