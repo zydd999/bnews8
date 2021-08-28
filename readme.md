@@ -10,24 +10,24 @@
 <li><a href="/cbnews/20210828/1614827.md">下架赵薇辱华非主因！网红惊曝：犯更大条 踩中共红线</a></li>
 <li><a href="/comments/20210828/1614704.md">赵薇的麻烦可比范冰冰大多了！收购上市公司失败，牵出背后神秘的“明天系”！【新闻最嘲点 姜光宇】2021.08.27</a></li>
 <li><a href="/topimagenews/20210828/1614919.md">中共财政部原部长金人庆家中失火身亡 过火面积是疑点</a></li>
-<li><a href="/cbnews/20210828/1614707.md">杭州28岁男崩溃了！照顾3年的女友姑妈 竟然是女友本人</a></li>
 <li><a href="/bannedvideo/20210828/1614676.md">习近平大动作甩开王沪宁，栗战书造势 江系冷眼；草民重大胜利：重庆电话哥投诉爆红；习为何18个月没出国访问？ 习思想覆蓋所有课程理工农医不放过 CL</a></li>
-<li><a href="/cbnews/20210828/1614845.md">天亮时分：赵薇被封杀，7位富豪捐出50亿买命钱；恒大要破产，中共竭力避免金融暴雷（政论天下第496集 20210827）</a></li>
+<li><a href="/cbnews/20210828/1614707.md">杭州28岁男崩溃了！照顾3年的女友姑妈 竟然是女友本人</a></li>
 <li><a href="/comments/20210828/1614784.md">赵薇犯“七宗罪”？中共掀起娱乐圈文革，明星人人自危；喀布尔爆炸后，美国在阿富汗陷入何种危局？</a></li>
+<li><a href="/cbnews/20210828/1614845.md">天亮时分：赵薇被封杀，7位富豪捐出50亿买命钱；恒大要破产，中共竭力避免金融暴雷（政论天下第496集 20210827）</a></li>
 <li><a href="/bannedvideo/20210828/1614684.md">美溯源报告解密总结发布！居然这么说；习近平事前不知情？赵薇一夜被下架，发生了什么？打娱乐圈，中央网信办成“锦衣卫”| 秦鹏观察 8/27| 新唐人电视台</a></li>
 <li><a href="/topimagenews/20210827/1614548.md">无奇不有，大陆电商敢卖啥？三座大山重压，中国外贸挺不住了；美智库拜登不会让步关税</a></li>
 <li><a href="/yule/20210828/1614712.md">曝吴亦凡供出47人，涉及京圈很多导演，《爱情公寓》等或将下架</a></li>
-<li><a href="/cnnews/20210828/1614606.md">拜登 : 我负全部责任 不过如果是川普撤军….</a></li>
 <li><a href="/topimagenews/20210828/1614965.md">人民日报一片肃杀之气！三大部门一起动手了！【阿波罗网报道】</a></li>
+<li><a href="/cnnews/20210828/1614606.md">拜登 : 我负全部责任 不过如果是川普撤军….</a></li>
 <li><a href="/yule/20210828/1614754.md">赵薇一夜之间消失 女星爆她现况 圈内人全傻了</a></li>
 <li><a href="/cbnews/20210828/1614752.md">文昭：赵薇被全网封杀、郑爽被重罚3亿！最本质的原因在这里；娱乐圈灭顶之灾来得太快</a></li>
 <li><a href="/bannedvideo/20210828/1614587.md">任正非的无耻报复：华为解散加拿大总部！    澳洲开放农民签证，三年可拿绿卡！</a></li>
 <li><a href="/headline/20210827/1614547.md">赵薇疑遭控7宗罪 有分析指主因是“勾结阿里系”</a></li>
 <li><a href="/funmedia/20210828/1614830.md">在超市打碎一个碗被罚2千元，女子笑着交完罚款，老板：惨了快追</a></li>
 <li><a href="/funmedia/20210828/1614889.md">住酒店时要烧壶水倒进马桶，网友不解，导游说：不做就惨了</a></li>
+<li><a href="/cbnews/20210828/1614935.md">赵薇爆入籍新加坡？拍电影陷台独争议！挨轰“不是中国人”</a></li>
 <li><a href="/lifebaike/20210828/1614680.md">孙策死后！孙权如何对待年轻貌美的嫂子大乔</a></li>
 <li><a href="/bannedvideo/20210828/1614689.md">前大管家认罪受贿超4亿 王岐山或切割自保马云悬了…杭州大肃清恐扳倒马云入罪 CL</a></li>
-<li><a href="/headline/20210828/1614574.md">恒大债务危机引爆在即，中共各级政府加紧协调防止社会震荡</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210828/1615098.md" target="_blank">时事大家谈：美中分歧升级 新冠溯源如何回归科学？</a></li>
+<li><a href="/comments/20210828/1615089.md" target="_blank">朱江玮议办放映《幻爱》遭票控限聚令 民政发信：接投诉指与区议会事务无关</a></li>
+<li><a href="/comments/20210828/1615088.md" target="_blank">案情曝光！喀布尔恐攻者11公斤炸药背心 被搜身前一刻才引爆</a></li>
 <li><a href="/comments/20210828/1615039.md" target="_blank">中共财政部原部长金人庆因家中失火身亡 网友质疑：知道太多了</a></li>
 <li><a href="/comments/20210828/1615035.md" target="_blank">民族问题是习近平的心头大石？开会放言“守住”</a></li>
 <li><a href="/comments/20210828/1615034.md" target="_blank">曾卷入公共情妇事件 前中共财政部长金人庆死于火灾</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210828/1614908.md" target="_blank">拜登将对ISIS追杀到底 无人机空袭喀布尔机场爆炸策划者</a></li>
 <li><a href="/comments/20210828/1614907.md" target="_blank">美国军舰穿越台湾海峡 共军全程跟监 美军：按国际法通过国际水域</a></li>
 <li><a href="/comments/20210828/1614906.md" target="_blank">中共高度警惕V字旅事件对香港的影响（习近平的“当前重点问题应变策略”揭密   第七讲）【袁红冰纵论天下】特别专题 08282021</a></li>
-<li><a href="/comments/20210828/1614894.md" target="_blank">【希望之声-午夜新闻-2021/08/27】</a></li>
-<li><a href="/comments/20210828/1614892.md" target="_blank">美军反击初战告捷 击毙策划喀布尔恐袭一头目</a></li>
-<li><a href="/comments/20210828/1614862.md" target="_blank">爆炸新闻：日本怀疑Moderna疫苗中的污染物是金属的，“对磁铁有反应”</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
-<li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
 <li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
+<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
 
 </ul>
 </div>
