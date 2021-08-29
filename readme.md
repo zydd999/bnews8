@@ -6,28 +6,28 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/topimagenews/20210829/1615231.md">赵薇风波后首晒近况 与父母在一起 居住环境差</a></li>
-<li><a href="/comments/20210829/1615214.md">王岐山必将成为刺猬！</a></li>
 <li><a href="/topimagenews/20210829/1615244.md">赵薇事件水很深！或与一张秘密名单有关！【阿波罗网报道】</a></li>
+<li><a href="/comments/20210829/1615214.md">王岐山必将成为刺猬！</a></li>
 <li><a href="/topimagenews/20210829/1615188.md">中共弃单“复必泰”内幕曝！美媒：怕民众动摇对国产疫苗信心</a></li>
 <li><a href="/cnnews/20210829/1615128.md">餐饮业最恶心一幕曝光，果然都出事了？</a></li>
-<li><a href="/baitai/20210829/1615168.md">受贿4.6亿 中央巡视组原副组长董宏4个神秘身份被揭开</a></li>
 <li><a href="/comments/20210829/1615358.md">下一个赵薇？马云富豪朋友圈曝光 他们都参与了这件事；被全中国人追责的武汉医院书记蔡莉终于出现了......【希望之声-两岸要闻-2021/08/29】</a></li>
+<li><a href="/cbnews/20210829/1615393.md">吴亦凡最高或判死？传供出47人 赵薇牵涉其中，里面导演居多</a></li>
+<li><a href="/baitai/20210829/1615168.md">受贿4.6亿 中央巡视组原副组长董宏4个神秘身份被揭开</a></li>
 <li><a href="/baitai/20210829/1615161.md">美军“机场抱阿富汗婴儿”宣传照上的女兵，确认被炸死</a></li>
 <li><a href="/health/20210829/1615203.md">把早餐换成它，三高降了，肾不虚了，湿气也没了！</a></li>
 <li><a href="/comments/20210829/1615204.md">【微博精粹】赵薇下架都知道了 还珠格格吓尿了胡编知道吗</a></li>
 <li><a href="/lifebaike/20210829/1615224.md">慈禧去世后 其密室被隆裕皇后打开 众人皆瞠目</a></li>
-<li><a href="/cbnews/20210829/1615393.md">吴亦凡最高或判死？传供出47人 赵薇牵涉其中，里面导演居多</a></li>
 <li><a href="/yule/20210829/1615132.md">各国大佬最想删除的照片！</a></li>
 <li><a href="/yule/20210829/1615228.md">51岁张嘉益疑病情加重，头发花白背影佝偻似老头</a></li>
 <li><a href="/funmedia/20210829/1615191.md">此文，献给慢慢变老的70后</a></li>
+<li><a href="/bannedvideo/20210829/1615303.md">呼吁习近平主动退休，大外宣造反！ 网信办 税务总局 广电总局一起动手了！人民日报现罕见一幕！海内外追讨声中，她平调了；中国高校公开“秘密” 付费刷课帮逃课加作弊；中共大整肃被批新文革KA</a></li>
+<li><a href="/comments/20210829/1615266.md">赵薇真的栽了！自爆“杀过人” “勾结阿里” 铺天盖地</a></li>
 <li><a href="/comments/20210829/1615211.md">【要闻精粹】小燕子连夜飞走 习朝鲜不如北朝鲜了</a></li>
 <li><a href="/yule/20210829/1615133.md">一票陆星遭封杀！杜汶泽：很生气…“下句话酸爆”万人朝圣狂赞</a></li>
 <li><a href="/funmedia/20210829/1615193.md">不要和晚睡的人做朋友 </a></li>
-<li><a href="/comments/20210829/1615266.md">赵薇真的栽了！自爆“杀过人” “勾结阿里” 铺天盖地</a></li>
-<li><a href="/comments/20210829/1615207.md">不止赵薇 还有这些明星一起被封杀</a></li>
-<li><a href="/bblog/20210829/1615136.md">〖微历史〗现代农奴制</a></li>
-<li><a href="/bannedvideo/20210829/1615303.md">呼吁习近平主动退休，大外宣造反！ 网信办 税务总局 广电总局一起动手了！人民日报现罕见一幕！海内外追讨声中，她平调了；中国高校公开“秘密” 付费刷课帮逃课加作弊；中共大整肃被批新文革KA</a></li>
 <li><a href="/bannedvideo/20210829/1615341.md">陈破空：突开中央民族会议，再度暗示汪洋接班？习近平力保政治遗产。李克强地位显眼</a></li>
+<li><a href="/bannedvideo/20210829/1615349.md">原中共财政部长离奇出事 曾卷入公共情妇事件；官媒罕见一幕：三部门联手出击娱乐圈；遵守承诺！美军舰台湾海峡”走一圈" 北京强烈抗议；【希望之声 红朝禁闻 2021:08:28】</a></li>
+<li><a href="/comments/20210829/1615207.md">不止赵薇 还有这些明星一起被封杀</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -67,6 +67,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20210829/1615436.md" target="_blank">美军炸死一辆车上多名IS炸弹客 炸药量庞大</a></li>
 <li><a href="/topimagenews/20210829/1615244.md" target="_blank">赵薇事件水很深！或与一张秘密名单有关！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20210829/1615231.md" target="_blank">赵薇风波后首晒近况 与父母在一起 居住环境差</a></li>
 <li><a href="/topimagenews/20210829/1615188.md" target="_blank">中共弃单“复必泰”内幕曝！美媒：怕民众动摇对国产疫苗信心</a></li>
@@ -91,7 +92,6 @@
 <li><a href="/topimagenews/20210824/1612385.md" target="_blank">习近平接班人之谜！放风汪洋要接班的是此常委？</a></li>
 <li><a href="/topimagenews/20210823/1611841.md" target="_blank">年初才加入一带一路 刚果叫停6家中国矿企黄金开采</a></li>
 <li><a href="/topimagenews/20210823/1611626.md" target="_blank">网络炸锅！岳阳房价限跌 官媒：稳才是理想状态 网友：你瞎吗？！【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20210823/1611570.md" target="_blank">主动投案！辽宁原公安厅长又进去一个 前任刚刚被捕！【阿波罗网报道】</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
 <li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
 
 </ul>
 </div>
