@@ -7,27 +7,27 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/comments/20210829/1615214.md">王岐山必将成为刺猬！</a></li>
 <li><a href="/topimagenews/20210829/1615231.md">赵薇风波后首晒近况 与父母在一起 居住环境差</a></li>
-<li><a href="/cnnews/20210829/1615128.md">餐饮业最恶心一幕曝光，果然都出事了？</a></li>
 <li><a href="/topimagenews/20210829/1615188.md">中共弃单“复必泰”内幕曝！美媒：怕民众动摇对国产疫苗信心</a></li>
 <li><a href="/topimagenews/20210829/1615244.md">赵薇事件水很深！或与一张秘密名单有关！【阿波罗网报道】</a></li>
-<li><a href="/finance/20210828/1615093.md">6亿穷人恐危政权？习近平狂整；中共刚安抚不搞杀富，北京推计划经济</a></li>
+<li><a href="/cnnews/20210829/1615128.md">餐饮业最恶心一幕曝光，果然都出事了？</a></li>
 <li><a href="/baitai/20210829/1615168.md">受贿4.6亿 中央巡视组原副组长董宏4个神秘身份被揭开</a></li>
 <li><a href="/baitai/20210829/1615161.md">美军“机场抱阿富汗婴儿”宣传照上的女兵，确认被炸死</a></li>
-<li><a href="/yule/20210829/1615132.md">各国大佬最想删除的照片！</a></li>
-<li><a href="/comments/20210829/1615204.md">【微博精粹】赵薇下架都知道了 还珠格格吓尿了胡编知道吗</a></li>
 <li><a href="/health/20210829/1615203.md">把早餐换成它，三高降了，肾不虚了，湿气也没了！</a></li>
-<li><a href="/comments/20210828/1615088.md">案情曝光！喀布尔恐攻者11公斤炸药背心 被搜身前一刻才引爆</a></li>
-<li><a href="/bannedvideo/20210828/1615090.md">共济会与马云、赵薇和高晓松被封杀有关吗？中纪委定调#流量明星“翻篇”了！</a></li>
+<li><a href="/comments/20210829/1615204.md">【微博精粹】赵薇下架都知道了 还珠格格吓尿了胡编知道吗</a></li>
+<li><a href="/yule/20210829/1615132.md">各国大佬最想删除的照片！</a></li>
 <li><a href="/funmedia/20210829/1615191.md">此文，献给慢慢变老的70后</a></li>
-<li><a href="/yule/20210829/1615133.md">一票陆星遭封杀！杜汶泽：很生气…“下句话酸爆”万人朝圣狂赞</a></li>
-<li><a href="/bblog/20210829/1615136.md">〖微历史〗现代农奴制</a></li>
-<li><a href="/funmedia/20210829/1615193.md">不要和晚睡的人做朋友 </a></li>
 <li><a href="/lifebaike/20210829/1615224.md">慈禧去世后 其密室被隆裕皇后打开 众人皆瞠目</a></li>
+<li><a href="/yule/20210829/1615133.md">一票陆星遭封杀！杜汶泽：很生气…“下句话酸爆”万人朝圣狂赞</a></li>
+<li><a href="/funmedia/20210829/1615193.md">不要和晚睡的人做朋友 </a></li>
 <li><a href="/comments/20210829/1615211.md">【要闻精粹】小燕子连夜飞走 习朝鲜不如北朝鲜了</a></li>
+<li><a href="/bblog/20210829/1615136.md">〖微历史〗现代农奴制</a></li>
 <li><a href="/comments/20210829/1615207.md">不止赵薇 还有这些明星一起被封杀</a></li>
-<li><a href="/headline/20210828/1615091.md">有消息称赵薇下落不明</a></li>
-<li><a href="/ssgc/20210829/1615140.md">〖微博谈〗美国的失败和懦弱成为全世界恐怖分子的笑料</a></li>
+<li><a href="/comments/20210829/1615358.md">下一个赵薇？马云富豪朋友圈曝光 他们都参与了这件事；被全中国人追责的武汉医院书记蔡莉终于出现了......【希望之声-两岸要闻-2021/08/29】</a></li>
 <li><a href="/yule/20210829/1615228.md">51岁张嘉益疑病情加重，头发花白背影佝偻似老头</a></li>
+<li><a href="/ssgc/20210829/1615140.md">〖微博谈〗美国的失败和懦弱成为全世界恐怖分子的笑料</a></li>
+<li><a href="/funmedia/20210829/1615189.md">淡水鱼在海中不能生存，那黄河汇入大海后，河中的鱼哪去了？</a></li>
+<li><a href="/comments/20210829/1615206.md">不喜欢塔利班 就要滚出中国？</a></li>
+<li><a href="/cbnews/20210829/1615139.md">发动喀布尔恐袭 ISIS-K背后金主有哪些</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210829/1615393.md" target="_blank">吴亦凡最高或判死？传供出47人 赵薇牵涉其中，里面导演居多</a></li>
 <li><a href="/cbnews/20210829/1615382.md" target="_blank">中共频繁挑衅台湾 日本为潜在冲突做准备</a></li>
 <li><a href="/comments/20210829/1615358.md" target="_blank">下一个赵薇？马云富豪朋友圈曝光 他们都参与了这件事；被全中国人追责的武汉医院书记蔡莉终于出现了&#8230;&#8230;【希望之声-两岸要闻-2021/08/29】</a></li>
 <li><a href="/comments/20210829/1615310.md" target="_blank">2名策划喀布尔机场事件的头目被除掉；白宫：不急于承认TLB政权【希望之声TV-每日头条-2021-0828】</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210828/1614803.md" target="_blank">中共持续阻挠调查！美情报单位新冠溯源报告没结论 拜登：不会罢休</a></li>
 <li><a href="/comments/20210828/1614784.md" target="_blank">赵薇犯“七宗罪”？中共掀起娱乐圈文革，明星人人自危；喀布尔爆炸后，美国在阿富汗陷入何种危局？</a></li>
 <li><a href="/cbnews/20210828/1614752.md" target="_blank">文昭：赵薇被全网封杀、郑爽被重罚3亿！最本质的原因在这里；娱乐圈灭顶之灾来得太快</a></li>
-<li><a href="/comments/20210828/1614734.md" target="_blank">情报摘要没有结论？美国表态：绝不罢休！铁拳砸向土地承包机制？农民未来面临什么？【希望之声TV-新闻焦点解读-2021/08/27】主持:高洁  嘉宾：谢田</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
 <li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
 
 </ul>
 </div>
