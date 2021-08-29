@@ -7,27 +7,27 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/comments/20210829/1615214.md">王岐山必将成为刺猬！</a></li>
 <li><a href="/topimagenews/20210829/1615231.md">赵薇风波后首晒近况 与父母在一起 居住环境差</a></li>
-<li><a href="/comments/20210828/1615039.md">中共财政部原部长金人庆因家中失火身亡 网友质疑：知道太多了</a></li>
 <li><a href="/cnnews/20210829/1615128.md">餐饮业最恶心一幕曝光，果然都出事了？</a></li>
 <li><a href="/topimagenews/20210829/1615188.md">中共弃单“复必泰”内幕曝！美媒：怕民众动摇对国产疫苗信心</a></li>
-<li><a href="/baitai/20210829/1615161.md">美军“机场抱阿富汗婴儿”宣传照上的女兵，确认被炸死</a></li>
-<li><a href="/finance/20210828/1615093.md">6亿穷人恐危政权？习近平狂整；中共刚安抚不搞杀富，北京推计划经济</a></li>
 <li><a href="/topimagenews/20210829/1615244.md">赵薇事件水很深！或与一张秘密名单有关！【阿波罗网报道】</a></li>
+<li><a href="/finance/20210828/1615093.md">6亿穷人恐危政权？习近平狂整；中共刚安抚不搞杀富，北京推计划经济</a></li>
 <li><a href="/baitai/20210829/1615168.md">受贿4.6亿 中央巡视组原副组长董宏4个神秘身份被揭开</a></li>
-<li><a href="/yule/20210829/1615132.md">各国大佬最想删除的照片！</a></li>
+<li><a href="/baitai/20210829/1615161.md">美军“机场抱阿富汗婴儿”宣传照上的女兵，确认被炸死</a></li>
 <li><a href="/comments/20210829/1615204.md">【微博精粹】赵薇下架都知道了 还珠格格吓尿了胡编知道吗</a></li>
+<li><a href="/yule/20210829/1615132.md">各国大佬最想删除的照片！</a></li>
 <li><a href="/health/20210829/1615203.md">把早餐换成它，三高降了，肾不虚了，湿气也没了！</a></li>
 <li><a href="/comments/20210828/1615088.md">案情曝光！喀布尔恐攻者11公斤炸药背心 被搜身前一刻才引爆</a></li>
-<li><a href="/yule/20210829/1615133.md">一票陆星遭封杀！杜汶泽：很生气…“下句话酸爆”万人朝圣狂赞</a></li>
 <li><a href="/funmedia/20210829/1615191.md">此文，献给慢慢变老的70后</a></li>
-<li><a href="/funmedia/20210829/1615193.md">不要和晚睡的人做朋友 </a></li>
-<li><a href="/bblog/20210829/1615136.md">〖微历史〗现代农奴制</a></li>
+<li><a href="/yule/20210829/1615133.md">一票陆星遭封杀！杜汶泽：很生气…“下句话酸爆”万人朝圣狂赞</a></li>
 <li><a href="/bannedvideo/20210828/1615090.md">共济会与马云、赵薇和高晓松被封杀有关吗？中纪委定调#流量明星“翻篇”了！</a></li>
+<li><a href="/bblog/20210829/1615136.md">〖微历史〗现代农奴制</a></li>
+<li><a href="/funmedia/20210829/1615193.md">不要和晚睡的人做朋友 </a></li>
 <li><a href="/lifebaike/20210829/1615224.md">慈禧去世后 其密室被隆裕皇后打开 众人皆瞠目</a></li>
 <li><a href="/comments/20210829/1615211.md">【要闻精粹】小燕子连夜飞走 习朝鲜不如北朝鲜了</a></li>
-<li><a href="/funmedia/20210829/1615189.md">淡水鱼在海中不能生存，那黄河汇入大海后，河中的鱼哪去了？</a></li>
 <li><a href="/ssgc/20210829/1615140.md">〖微博谈〗美国的失败和懦弱成为全世界恐怖分子的笑料</a></li>
-<li><a href="/cbnews/20210829/1615139.md">发动喀布尔恐袭 ISIS-K背后金主有哪些</a></li>
+<li><a href="/funmedia/20210829/1615189.md">淡水鱼在海中不能生存，那黄河汇入大海后，河中的鱼哪去了？</a></li>
+<li><a href="/comments/20210829/1615207.md">不止赵薇 还有这些明星一起被封杀</a></li>
+<li><a href="/yule/20210829/1615228.md">51岁张嘉益疑病情加重，头发花白背影佝偻似老头</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210829/1615382.md" target="_blank">中共频繁挑衅台湾 日本为潜在冲突做准备</a></li>
 <li><a href="/comments/20210829/1615358.md" target="_blank">下一个赵薇？马云富豪朋友圈曝光 他们都参与了这件事；被全中国人追责的武汉医院书记蔡莉终于出现了&#8230;&#8230;【希望之声-两岸要闻-2021/08/29】</a></li>
 <li><a href="/comments/20210829/1615310.md" target="_blank">2名策划喀布尔机场事件的头目被除掉；白宫：不急于承认TLB政权【希望之声TV-每日头条-2021-0828】</a></li>
 <li><a href="/comments/20210829/1615309.md" target="_blank">喀布尔机场BZ前早掌握情资，五角大楼：本不应发生，原本他们都应该活着【希望之声-午夜新闻-2021/08/28】</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/comments/20210828/1614784.md" target="_blank">赵薇犯“七宗罪”？中共掀起娱乐圈文革，明星人人自危；喀布尔爆炸后，美国在阿富汗陷入何种危局？</a></li>
 <li><a href="/cbnews/20210828/1614752.md" target="_blank">文昭：赵薇被全网封杀、郑爽被重罚3亿！最本质的原因在这里；娱乐圈灭顶之灾来得太快</a></li>
 <li><a href="/comments/20210828/1614734.md" target="_blank">情报摘要没有结论？美国表态：绝不罢休！铁拳砸向土地承包机制？农民未来面临什么？【希望之声TV-新闻焦点解读-2021/08/27】主持:高洁  嘉宾：谢田</a></li>
-<li><a href="/cbnews/20210828/1614732.md" target="_blank">美国公布病毒起源报告 情报界仍无定论</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
 <li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
 <li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
 
 </ul>
 </div>
