@@ -7,27 +7,27 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/comments/20210828/1615030.md">赵薇疑涉七大罪状 大整肃来临；拜登﹕中方仍隐瞒关键信息【希望之声-两岸要闻-2021/08/28】</a></li>
 <li><a href="/comments/20210829/1615214.md">王岐山必将成为刺猬！</a></li>
-<li><a href="/headline/20210828/1615023.md">传家中烧纸祭拜亡妻引书籍失火 前财长金人庆不治</a></li>
-<li><a href="/comments/20210828/1615039.md">中共财政部原部长金人庆因家中失火身亡 网友质疑：知道太多了</a></li>
 <li><a href="/topimagenews/20210829/1615231.md">赵薇风波后首晒近况 与父母在一起 居住环境差</a></li>
-<li><a href="/topimagenews/20210829/1615188.md">中共弃单“复必泰”内幕曝！美媒：怕民众动摇对国产疫苗信心</a></li>
+<li><a href="/comments/20210828/1615039.md">中共财政部原部长金人庆因家中失火身亡 网友质疑：知道太多了</a></li>
 <li><a href="/cnnews/20210829/1615128.md">餐饮业最恶心一幕曝光，果然都出事了？</a></li>
-<li><a href="/finance/20210828/1615093.md">6亿穷人恐危政权？习近平狂整；中共刚安抚不搞杀富，北京推计划经济</a></li>
+<li><a href="/topimagenews/20210829/1615188.md">中共弃单“复必泰”内幕曝！美媒：怕民众动摇对国产疫苗信心</a></li>
 <li><a href="/baitai/20210829/1615161.md">美军“机场抱阿富汗婴儿”宣传照上的女兵，确认被炸死</a></li>
 <li><a href="/baitai/20210829/1615168.md">受贿4.6亿 中央巡视组原副组长董宏4个神秘身份被揭开</a></li>
+<li><a href="/finance/20210828/1615093.md">6亿穷人恐危政权？习近平狂整；中共刚安抚不搞杀富，北京推计划经济</a></li>
 <li><a href="/topimagenews/20210829/1615244.md">赵薇事件水很深！或与一张秘密名单有关！【阿波罗网报道】</a></li>
-<li><a href="/yule/20210829/1615132.md">各国大佬最想删除的照片！</a></li>
 <li><a href="/comments/20210829/1615204.md">【微博精粹】赵薇下架都知道了 还珠格格吓尿了胡编知道吗</a></li>
-<li><a href="/bannedvideo/20210828/1615025.md">广州街头，巡逻车被上锁</a></li>
+<li><a href="/yule/20210829/1615132.md">各国大佬最想删除的照片！</a></li>
 <li><a href="/health/20210829/1615203.md">把早餐换成它，三高降了，肾不虚了，湿气也没了！</a></li>
+<li><a href="/funmedia/20210829/1615191.md">此文，献给慢慢变老的70后</a></li>
 <li><a href="/bblog/20210829/1615136.md">〖微历史〗现代农奴制</a></li>
 <li><a href="/yule/20210829/1615133.md">一票陆星遭封杀！杜汶泽：很生气…“下句话酸爆”万人朝圣狂赞</a></li>
-<li><a href="/funmedia/20210829/1615191.md">此文，献给慢慢变老的70后</a></li>
 <li><a href="/comments/20210828/1615088.md">案情曝光！喀布尔恐攻者11公斤炸药背心 被搜身前一刻才引爆</a></li>
 <li><a href="/funmedia/20210829/1615193.md">不要和晚睡的人做朋友 </a></li>
+<li><a href="/comments/20210829/1615211.md">【要闻精粹】小燕子连夜飞走 习朝鲜不如北朝鲜了</a></li>
+<li><a href="/lifebaike/20210829/1615224.md">慈禧去世后 其密室被隆裕皇后打开 众人皆瞠目</a></li>
 <li><a href="/ssgc/20210828/1615038.md">整治房地产市场能阻挡灰犀牛到来？</a></li>
-<li><a href="/comments/20210828/1615021.md">中国娱乐圈大封杀持续发酵，赵薇之后目标高晓松</a></li>
 <li><a href="/ssgc/20210829/1615140.md">〖微博谈〗美国的失败和懦弱成为全世界恐怖分子的笑料</a></li>
+<li><a href="/headline/20210828/1615029.md">习近平称要坚决防范民族领域重大风险隐患</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210829/1615351.md" target="_blank">独立英文书店清明堂将结业 店主：因政治原因举家离港</a></li>
 <li><a href="/comments/20210829/1615310.md" target="_blank">2名策划喀布尔机场事件的头目被除掉；白宫：不急于承认TLB政权【希望之声TV-每日头条-2021-0828】</a></li>
 <li><a href="/comments/20210829/1615309.md" target="_blank">喀布尔机场BZ前早掌握情资，五角大楼：本不应发生，原本他们都应该活着【希望之声-午夜新闻-2021/08/28】</a></li>
 <li><a href="/comments/20210829/1615308.md" target="_blank">【杰森视角】中共前财政部长“烧纸死”！11个高官的公共情人李薇在情人节出狱！中共为何让赵薇消失却不给原因？首次过半美国人支持武力保卫台湾！习近平讨厌官商联盟！中国跑步进入“抓辫子”就“社死”的年代?</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210829/1615210.md" target="_blank">唐宋民 :昆明炸楼＋周江勇们的良心 大国盛世的阴阳脸</a></li>
 <li><a href="/comments/20210829/1615209.md" target="_blank">托克维尔：要成自由的社会就必须拥有自由的人</a></li>
 <li><a href="/comments/20210829/1615208.md" target="_blank">从雷锋到“流量明星”：中国“饭圈”的崩塌始末</a></li>
-<li><a href="/comments/20210829/1615207.md" target="_blank">不止赵薇 还有这些明星一起被封杀</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/comments/20210612/1565472.md" target="_blank">感悟神韵（之二）：感悟神韵的艺术风格</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
 <li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
 
 </ul>
 </div>
