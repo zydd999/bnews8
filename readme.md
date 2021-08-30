@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/cbnews/20210829/1615393.md">吴亦凡最高或判死？传供出47人 赵薇牵涉其中，里面导演居多</a></li>
 <li><a href="/cbnews/20210830/1615507.md">赵薇消失后 网友发现一个现象不寻常到令人发毛</a></li>
 <li><a href="/topimagenews/20210830/1615537.md">网络热传中宣部密令 赵薇怎么了？</a></li>
 <li><a href="/yule/20210830/1615481.md">7人名单泄关联性！爆李连杰是下一个赵薇 导演大吼：快跑</a></li>
@@ -15,11 +14,11 @@
 <li><a href="/baitai/20210830/1615483.md">告别已经开始，各位且行且珍惜</a></li>
 <li><a href="/cnnews/20210830/1615736.md">口气大变！中共大外宣开始这样报道习近平【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20210830/1615654.md">赵薇下线 中共整肃娱乐圈醉翁之意不在酒</a></li>
+<li><a href="/cbnews/20210830/1615789.md">“大资本家”“革命”再现！中共喉舌释放强烈政治信号【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20210830/1615716.md">揭密军旗装惊人内幕！全因这女人在背后搞鬼 害死赵薇</a></li>
 <li><a href="/comments/20210830/1615685.md">网曝生前携央视嫩妻隐居美国 中共前副总理姜春云病亡</a></li>
 <li><a href="/cnnews/20210830/1615731.md">九死一生？她惊爆：赵薇应该被软禁了，在不能用网络的地方</a></li>
 <li><a href="/topimagenews/20210829/1615436.md">美军炸死一辆车上多名IS炸弹客 炸药量庞大</a></li>
-<li><a href="/cbnews/20210830/1615789.md">“大资本家”“革命”再现！中共喉舌释放强烈政治信号【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20210830/1615577.md">台海危机升温！中共要求自9月起外国船只通过“领海”都须通报</a></li>
 <li><a href="/yule/20210830/1615531.md">吴亦凡“恋母情结”害了他？网红揭母子变态关系太可怕</a></li>
 <li><a href="/bannedvideo/20210830/1615524.md">【被黄标】大败！习近平不敌军队腐败；歼20露馅，美升级F22猛禽；没想到！鲁迅竟这样看中共；中共弃单复必泰美媒曝内幕；瘟疫被禁全改痔疮 中国网游台词笑翻网友；怼中共 美军将推秘密太空武器CS</a></li>
@@ -27,6 +26,7 @@
 <li><a href="/ssgc/20210830/1615708.md">〖兲朝浮世绘〗“没有习主席就没有新中国”是实话没毛病</a></li>
 <li><a href="/lifebaike/20210830/1615508.md">公主新婚3天死了 裙摆掀开惊见真相</a></li>
 <li><a href="/cnnews/20210830/1615696.md">男生一月花掉30万留学费 看了消费项目家长崩溃</a></li>
+<li><a href="/bannedvideo/20210830/1615812.md">中共太子党分裂内情</a></li>
 <li><a href="/yule/20210830/1615461.md">赵薇被消失爆落跑法国 首发声曝近况：和爸妈在一起</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -98,6 +98,12 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210830/1615951.md" target="_blank">江山：中共能把债务拖多久?</a></li>
+<li><a href="/comments/20210830/1615949.md" target="_blank">【杜耀明评论】经济艰难战狼止步 反制裁法临阵退缩</a></li>
+<li><a href="/comments/20210830/1615942.md" target="_blank">【修树工堕毙】家属索行车纪录片 康文署指已交警方 警覆家属指已被删除 家属：如毁尸灭迹</a></li>
+<li><a href="/comments/20210830/1615941.md" target="_blank">【高官犯聚饭局】外交部驻港官员被指列席 林郑、邓炳强曾避答饭局有无内地官员</a></li>
+<li><a href="/comments/20210830/1615940.md" target="_blank">合肥早餐摊主舀“路边积水”蒸包子！网友现场目击超愤怒</a></li>
+<li><a href="/comments/20210830/1615939.md" target="_blank">采访塔利班全球爆红！女记者逃出阿富汗秒吐真心话</a></li>
 <li><a href="/comments/20210830/1615910.md" target="_blank">官媒起底董宏 王岐山习近平对阵？习北戴河疑妥协 韩正旧部出掌成都；阿富汗遇困 拜登改变对北京政策？【希望之声-两岸要闻-2021/08/30】</a></li>
 <li><a href="/comments/20210830/1615902.md" target="_blank">【高官犯聚饭局】外交部驻港公署宋如安被指有份出席 保安局未否认 港大证高层出席</a></li>
 <li><a href="/comments/20210830/1615901.md" target="_blank">黄店董事售众志口罩被捕 事隔一年后获退还保释金 惟公司仍遭票控</a></li>
@@ -117,12 +123,6 @@
 <li><a href="/comments/20210830/1615795.md" target="_blank">官媒起底董宏 暗挑王岐山习近平对阵？</a></li>
 <li><a href="/comments/20210830/1615783.md" target="_blank">美国撤军倒计时 喀布尔机场附近遭火箭弹袭击</a></li>
 <li><a href="/comments/20210830/1615756.md" target="_blank">李燕铭：赵薇被封杀后IG发文透露去向 帖文随即诡异删除 赵薇消失后一个现象不寻常到令人发毛 赵薇所有奖项遭百度抹掉 第34届金像奖俨然无影后 “四旦双冰”除名赵薇成“三旦双冰” 文宣系统掀清洗风暴 娱乐圈大震荡（十五）</a></li>
-<li><a href="/comments/20210830/1615749.md" target="_blank">密西西比州长：我们不怕病毒 因我们相信永生</a></li>
-<li><a href="/comments/20210830/1615748.md" target="_blank">终于公布咖啡与癌症的关系，早点知道就好了</a></li>
-<li><a href="/comments/20210830/1615747.md" target="_blank">5种来自大自然的抗菌剂</a></li>
-<li><a href="/comments/20210830/1615746.md" target="_blank">一份热狗竟能夺去36分钟寿命！ 坚果、海鲜能长寿</a></li>
-<li><a href="/comments/20210830/1615745.md" target="_blank">头痛、胃痛总轮流发作？ 可能是这个关键原因</a></li>
-<li><a href="/comments/20210830/1615723.md" target="_blank">孟加拉两艘货船与客船相撞 22人死亡50人失踪</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
 <li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
 <li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
 
 </ul>
 </div>
