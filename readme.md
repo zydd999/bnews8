@@ -10,7 +10,6 @@
 <li><a href="/cbnews/20210830/1615507.md">赵薇消失后 网友发现一个现象不寻常到令人发毛</a></li>
 <li><a href="/bannedvideo/20210829/1615303.md">呼吁习近平主动退休，大外宣造反！ 网信办 税务总局 广电总局一起动手了！人民日报现罕见一幕！海内外追讨声中，她平调了；中国高校公开“秘密” 付费刷课帮逃课加作弊；中共大整肃被批新文革KA</a></li>
 <li><a href="/topimagenews/20210830/1615537.md">网络热传中宣部密令 赵薇怎么了？</a></li>
-<li><a href="/comments/20210829/1615266.md">赵薇真的栽了！自爆“杀过人” “勾结阿里” 铺天盖地</a></li>
 <li><a href="/yule/20210830/1615462.md">下一个赵薇？男星节目片段全被删光 爆父母欠债上亿被盯上</a></li>
 <li><a href="/yule/20210830/1615481.md">7人名单泄关联性！爆李连杰是下一个赵薇 导演大吼：快跑</a></li>
 <li><a href="/cnnews/20210830/1615527.md">与赵薇屡传不和.范冰冰:毫无底线很可怕</a></li>
@@ -18,16 +17,17 @@
 <li><a href="/baitai/20210830/1615483.md">告别已经开始，各位且行且珍惜</a></li>
 <li><a href="/cbnews/20210830/1615654.md">赵薇下线 中共整肃娱乐圈醉翁之意不在酒</a></li>
 <li><a href="/bannedvideo/20210829/1615349.md">原中共财政部长离奇出事 曾卷入公共情妇事件；官媒罕见一幕：三部门联手出击娱乐圈；遵守承诺！美军舰台湾海峡”走一圈" 北京强烈抗议；【希望之声 红朝禁闻 2021:08:28】</a></li>
+<li><a href="/cnnews/20210830/1615716.md">揭密军旗装惊人内幕！全因这女人在背后搞鬼 害死赵薇</a></li>
 <li><a href="/topimagenews/20210829/1615436.md">美军炸死一辆车上多名IS炸弹客 炸药量庞大</a></li>
 <li><a href="/comments/20210830/1615685.md">网曝生前携央视嫩妻隐居美国 中共前副总理姜春云病亡</a></li>
 <li><a href="/cnnews/20210830/1615577.md">台海危机升温！中共要求自9月起外国船只通过“领海”都须通报</a></li>
-<li><a href="/bannedvideo/20210829/1615341.md">陈破空：突开中央民族会议，再度暗示汪洋接班？习近平力保政治遗产。李克强地位显眼</a></li>
-<li><a href="/cnnews/20210830/1615716.md">揭密军旗装惊人内幕！全因这女人在背后搞鬼 害死赵薇</a></li>
 <li><a href="/yule/20210830/1615531.md">吴亦凡“恋母情结”害了他？网红揭母子变态关系太可怕</a></li>
+<li><a href="/bannedvideo/20210829/1615341.md">陈破空：突开中央民族会议，再度暗示汪洋接班？习近平力保政治遗产。李克强地位显眼</a></li>
 <li><a href="/bannedvideo/20210830/1615524.md">【被黄标】大败！习近平不敌军队腐败；歼20露馅，美升级F22猛禽；没想到！鲁迅竟这样看中共；中共弃单复必泰美媒曝内幕；瘟疫被禁全改痔疮 中国网游台词笑翻网友；怼中共 美军将推秘密太空武器CS</a></li>
+<li><a href="/cnnews/20210830/1615736.md">口气大变！中共大外宣开始这样报道习近平【阿波罗网报道】</a></li>
 <li><a href="/yule/20210829/1615389.md">不只马云 赵薇交友圈超豪华 根本是首富点将录</a></li>
-<li><a href="/lifebaike/20210830/1615508.md">公主新婚3天死了 裙摆掀开惊见真相</a></li>
 <li><a href="/comments/20210830/1615612.md">叶剑英的第四任妻子七窍流血 被逼疯乱睡男人</a></li>
+<li><a href="/lifebaike/20210830/1615508.md">公主新婚3天死了 裙摆掀开惊见真相</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210830/1615856.md" target="_blank">多国联合声明 称塔利班同意所有外国公民及阿富汗人离境 【各国撤离一览】</a></li>
+<li><a href="/comments/20210830/1615855.md" target="_blank">阿联酋首都要求接种中国国药疫苗者追打第3剂 其他厂牌不用</a></li>
+<li><a href="/comments/20210830/1615854.md" target="_blank">2021年最大洪峰过境 四川达州入目汪洋一片</a></li>
 <li><a href="/comments/20210830/1615850.md" target="_blank">颜宁给国家未来敲响重重的警钟</a></li>
 <li><a href="/comments/20210830/1615847.md" target="_blank">发现一百年前撞脸照，英国艺术家解开心中谜团；日本姑娘难道是元朝皇后转世？二战名将生生世世辗转疆场，为神而战；与他形似又神似的美国总统， 会是他转生归来吗？</a></li>
 <li><a href="/comments/20210830/1615839.md" target="_blank">出席《幻爱》放映会遭票控违限聚令 导演周冠威：不合理定必抗辩</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210830/1615713.md" target="_blank">美议员促拜登承认阿国前副总统 认定塔利班非法</a></li>
 <li><a href="/comments/20210830/1615707.md" target="_blank">美国好莱坞影片大陆票房份额跌至9.5% 媒体析因</a></li>
 <li><a href="/comments/20210830/1615706.md" target="_blank">美军无人机再出动击中目标！拜登对国防部“开绿灯”：不用请示直接动手；美疾控中心：申请绿卡必须接种【希望之声-午夜新闻-2021/08/29】</a></li>
-<li><a href="/comments/20210830/1615695.md" target="_blank">罗正方：听到“塔利班不会开黑鹰” 我一点也笑不出来</a></li>
-<li><a href="/comments/20210830/1615694.md" target="_blank">李濠仲：美出兵保台民意上升 或是香港推了一把</a></li>
-<li><a href="/comments/20210830/1615685.md" target="_blank">网曝生前携央视嫩妻隐居美国 中共前副总理姜春云病亡</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
 <li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
 <li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
 
 </ul>
 </div>
