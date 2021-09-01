@@ -6,28 +6,28 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/topimagenews/20210831/1616512.md">中共保安野蛮执法 女子乘车发生争执 被保安拖出车厢 衣服扯烂</a></li>
-<li><a href="/cnnews/20210831/1616361.md">一个个不知疲倦的间谍，监控你说过的每一句话？</a></li>
 <li><a href="/comments/20210831/1616546.md">习释重大风向标目的何在 李光满是谁？习近平重磅会议强化反垄断 要求完善物资储备；中共“双减”重演“七二一指示”？【希望之声-两岸要闻-2021/08/31】</a></li>
 <li><a href="/cnnews/20210831/1616375.md">邓小平准备抛弃江泽民 起用被软禁的赵紫阳 赵的一番话让邓默然</a></li>
 <li><a href="/bannedvideo/20210831/1616478.md">文睿：马云靠捡垃圾为生，一张图片清晰预告中国未来</a></li>
-<li><a href="/topimagenews/20210831/1616521.md">李连杰是下一个赵薇？ 我来告诉你…</a></li>
 <li><a href="/bannedvideo/20210831/1616487.md">一位教育工作者谈中国教育可怕的现状：“培养出来的，都是工具。”</a></li>
+<li><a href="/topimagenews/20210831/1616521.md">李连杰是下一个赵薇？ 我来告诉你…</a></li>
 <li><a href="/baitai/20210831/1616445.md">吴国光：文化中国的终结——在普林斯顿中国学社“余英时先生追思会”上的发言</a></li>
 <li><a href="/bannedvideo/20210831/1616440.md">中共封杀财经自媒体 分析：中国经济出大问题</a></li>
 <li><a href="/yule/20210901/1616726.md">赵薇到底为何被消失？北京大咖只说“9个字”秒挂电话</a></li>
 <li><a href="/comments/20210831/1616451.md">【首发】李玉锵：习近平为何连出重手 答案出来了</a></li>
-<li><a href="/bannedvideo/20210831/1616350.md">赵薇高晓松同时上了几十家党媒官媒头版！定性已经拔高到美国反华战——第五纵队颜色革命</a></li>
 <li><a href="/comments/20210901/1616713.md">毛泽东女李讷要求北大录取刘少奇曾孙刘卓承 申请信曝光 红四代红五代保送北大清华 中南海不可告人的秘密_446</a></li>
-<li><a href="/cnnews/20210831/1616544.md">美国国务院悬赏高达500万美元抓捕这个中国人</a></li>
 <li><a href="/cbnews/20210901/1616767.md">中国数地天价签证遭曝光！留学生集体开喷</a></li>
+<li><a href="/cnnews/20210831/1616544.md">美国国务院悬赏高达500万美元抓捕这个中国人</a></li>
 <li><a href="/comments/20210901/1616808.md">惊爆！赵薇变身老鸨掌控女明星，要胁高官染指权力，触怒习近平！全网转载毛左檄文，大陆再次吹起文革号角，讨伐娱乐圈！高晓松由愤青变家奴，过往反动言论被扒出！【新闻最嘲点 姜光宇】2021.08.31</a></li>
 <li><a href="/cbnews/20210831/1616398.md">江峰：党媒齐发，新文革大字报诞生，赵薇、高晓松、郑爽是“不良”艺人还是新黑五类？财经自媒体与资本大鳄遭狙击；习近平塞罕坝高调露面全国都看不懂？玄机深藏在此【江峰漫谈20210830第368期】</a></li>
-<li><a href="/cnnews/20210831/1616358.md">毛的出巡奢侈 安保措施变态 还是在毛的饭菜中发现了氰化物</a></li>
 <li><a href="/ssgc/20210831/1616505.md">华夏银行发出停止外汇业务后通告后又删除</a></li>
 <li><a href="/comments/20210831/1616420.md">李燕铭：网曝赵薇没跑路还在国内：她跑不了！胡采萍：赵薇应该被软禁在不能用网络的地方 知情人爆料：赵薇错误很严重 个人问题只是小菜 文宣系统掀清洗风暴 娱乐圈大震荡（十七）</a></li>
 <li><a href="/cbnews/20210831/1616614.md">中共的一盘大棋 让中产老实做社会主义螺丝钉</a></li>
 <li><a href="/worldnews/20210831/1616124.md">以色列：自然免疫力幾乎是注射疫苗的7倍</a></li>
 <li><a href="/bannedvideo/20210901/1616737.md">太牛了！赵薇删了中共中央共青团微博；习近平矛头指向谁？赵背后通天大关系网曝光；高晓松遭封与马云有渊源；新文革初露端倪；赵薇外网留诡异3个字；业内曝内幕：江泽民纵太子党搞娱乐圈 CL</a></li>
+<li><a href="/comments/20210831/1616493.md">佚名：就算习近平下台，中共也没有戈尔巴乔夫，V字旅的路才是必由之路</a></li>
+<li><a href="/cnnews/20210901/1616725.md">出现死亡案例 中国3省爆发炭疽病例 山东超过4,700人投药观察</a></li>
+<li><a href="/bannedvideo/20210831/1616518.md">中共重拳整肃娱乐圈 业界人士曝深层内幕</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210901/1616965.md" target="_blank">世界维族代表大会吁抵制冬奥 反对中共种族灭绝</a></li>
 <li><a href="/comments/20210901/1616955.md" target="_blank">黄伟俐：马云的“十宗罪” 引发深思</a></li>
 <li><a href="/comments/20210901/1616954.md" target="_blank">【微博精粹】一东一西 俩人都是一手好牌打得稀烂</a></li>
 <li><a href="/comments/20210901/1616948.md" target="_blank">党媒集体转发“新文革宣言” 标志“运动”要来了？</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210901/1616842.md" target="_blank">颜纯钩：大陆新疆化：一切源于对崩溃的恐惧 高层5大共识</a></li>
 <li><a href="/comments/20210901/1616817.md" target="_blank">最后一架美军飞机一离开喀布尔，TLb马上宣布“完全独立”，公开伸手向中共要钱重建阿国【希望之声TV-每日头条-2021/8/31】</a></li>
 <li><a href="/comments/20210901/1616816.md" target="_blank">90多退休将领：撤军后果影响持续数十年？60多国投资港口 “兵不血刃”控制战略咽喉？【希望之声TV-新闻焦点解读-2021/08/31】主持:高洁</a></li>
-<li><a href="/comments/20210901/1616808.md" target="_blank">惊爆！赵薇变身老鸨掌控女明星，要胁高官染指权力，触怒习近平！全网转载毛左檄文，大陆再次吹起文革号角，讨伐娱乐圈！高晓松由愤青变家奴，过往反动言论被扒出！【新闻最嘲点 姜光宇】2021.08.31</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
 <li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/ganwu/20170705/787156.md" target="_blank">感悟神韵（之四）：感悟神韵音乐</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20210612/1565472.md" target="_blank">感悟神韵（之二）：感悟神韵的艺术风格</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/comments/20210611/1564824.md" target="_blank">【曾铮专栏】感悟神韵（之一）神韵的主旨</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
 
 </ul>
 </div>
