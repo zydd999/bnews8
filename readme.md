@@ -7,7 +7,6 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/topimagenews/20210831/1616512.md">中共保安野蛮执法 女子乘车发生争执 被保安拖出车厢 衣服扯烂</a></li>
 <li><a href="/comments/20210831/1616546.md">习释重大风向标目的何在 李光满是谁？习近平重磅会议强化反垄断 要求完善物资储备；中共“双减”重演“七二一指示”？【希望之声-两岸要闻-2021/08/31】</a></li>
-<li><a href="/cnnews/20210831/1616375.md">邓小平准备抛弃江泽民 起用被软禁的赵紫阳 赵的一番话让邓默然</a></li>
 <li><a href="/bannedvideo/20210831/1616478.md">文睿：马云靠捡垃圾为生，一张图片清晰预告中国未来</a></li>
 <li><a href="/bannedvideo/20210831/1616487.md">一位教育工作者谈中国教育可怕的现状：“培养出来的，都是工具。”</a></li>
 <li><a href="/topimagenews/20210831/1616521.md">李连杰是下一个赵薇？ 我来告诉你…</a></li>
@@ -15,17 +14,18 @@
 <li><a href="/bannedvideo/20210831/1616440.md">中共封杀财经自媒体 分析：中国经济出大问题</a></li>
 <li><a href="/yule/20210901/1616726.md">赵薇到底为何被消失？北京大咖只说“9个字”秒挂电话</a></li>
 <li><a href="/comments/20210831/1616451.md">【首发】李玉锵：习近平为何连出重手 答案出来了</a></li>
+<li><a href="/comments/20210901/1616808.md">惊爆！赵薇变身老鸨掌控女明星，要胁高官染指权力，触怒习近平！全网转载毛左檄文，大陆再次吹起文革号角，讨伐娱乐圈！高晓松由愤青变家奴，过往反动言论被扒出！【新闻最嘲点 姜光宇】2021.08.31</a></li>
 <li><a href="/comments/20210901/1616713.md">毛泽东女李讷要求北大录取刘少奇曾孙刘卓承 申请信曝光 红四代红五代保送北大清华 中南海不可告人的秘密_446</a></li>
 <li><a href="/cbnews/20210901/1616767.md">中国数地天价签证遭曝光！留学生集体开喷</a></li>
 <li><a href="/cnnews/20210831/1616544.md">美国国务院悬赏高达500万美元抓捕这个中国人</a></li>
-<li><a href="/comments/20210901/1616808.md">惊爆！赵薇变身老鸨掌控女明星，要胁高官染指权力，触怒习近平！全网转载毛左檄文，大陆再次吹起文革号角，讨伐娱乐圈！高晓松由愤青变家奴，过往反动言论被扒出！【新闻最嘲点 姜光宇】2021.08.31</a></li>
 <li><a href="/cbnews/20210831/1616398.md">江峰：党媒齐发，新文革大字报诞生，赵薇、高晓松、郑爽是“不良”艺人还是新黑五类？财经自媒体与资本大鳄遭狙击；习近平塞罕坝高调露面全国都看不懂？玄机深藏在此【江峰漫谈20210830第368期】</a></li>
 <li><a href="/ssgc/20210831/1616505.md">华夏银行发出停止外汇业务后通告后又删除</a></li>
-<li><a href="/comments/20210831/1616420.md">李燕铭：网曝赵薇没跑路还在国内：她跑不了！胡采萍：赵薇应该被软禁在不能用网络的地方 知情人爆料：赵薇错误很严重 个人问题只是小菜 文宣系统掀清洗风暴 娱乐圈大震荡（十七）</a></li>
 <li><a href="/cbnews/20210831/1616614.md">中共的一盘大棋 让中产老实做社会主义螺丝钉</a></li>
-<li><a href="/worldnews/20210831/1616124.md">以色列：自然免疫力幾乎是注射疫苗的7倍</a></li>
 <li><a href="/bannedvideo/20210901/1616737.md">太牛了！赵薇删了中共中央共青团微博；习近平矛头指向谁？赵背后通天大关系网曝光；高晓松遭封与马云有渊源；新文革初露端倪；赵薇外网留诡异3个字；业内曝内幕：江泽民纵太子党搞娱乐圈 CL</a></li>
+<li><a href="/comments/20210831/1616420.md">李燕铭：网曝赵薇没跑路还在国内：她跑不了！胡采萍：赵薇应该被软禁在不能用网络的地方 知情人爆料：赵薇错误很严重 个人问题只是小菜 文宣系统掀清洗风暴 娱乐圈大震荡（十七）</a></li>
+<li><a href="/worldnews/20210831/1616124.md">以色列：自然免疫力幾乎是注射疫苗的7倍</a></li>
 <li><a href="/comments/20210831/1616493.md">佚名：就算习近平下台，中共也没有戈尔巴乔夫，V字旅的路才是必由之路</a></li>
+<li><a href="/topimagenews/20210901/1616839.md">赵薇的三个老司机，其中一个变成了老公</a></li>
 <li><a href="/cnnews/20210901/1616725.md">出现死亡案例 中国3省爆发炭疽病例 山东超过4,700人投药观察</a></li>
 <li><a href="/bannedvideo/20210831/1616518.md">中共重拳整肃娱乐圈 业界人士曝深层内幕</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210901/1616970.md" target="_blank">美食药管理局两高阶疫苗官员将辞职</a></li>
+<li><a href="/comments/20210901/1616969.md" target="_blank">评论 | 唯色：地图与香巴拉：地图之美（二）</a></li>
+<li><a href="/comments/20210901/1616967.md" target="_blank">当心 5种喝水习惯比熬夜还要“催人老”</a></li>
 <li><a href="/comments/20210901/1616965.md" target="_blank">世界维族代表大会吁抵制冬奥 反对中共种族灭绝</a></li>
 <li><a href="/comments/20210901/1616955.md" target="_blank">黄伟俐：马云的“十宗罪” 引发深思</a></li>
 <li><a href="/comments/20210901/1616954.md" target="_blank">【微博精粹】一东一西 俩人都是一手好牌打得稀烂</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210901/1616876.md" target="_blank">“川普主义”戳破中国知识分子的九大迷梦</a></li>
 <li><a href="/comments/20210901/1616875.md" target="_blank">吴国光：文化中国的终结</a></li>
 <li><a href="/comments/20210901/1616853.md" target="_blank">港近七成人反对林郑做特首 龚伟森：以不安全建国家安全</a></li>
-<li><a href="/comments/20210901/1616842.md" target="_blank">颜纯钩：大陆新疆化：一切源于对崩溃的恐惧 高层5大共识</a></li>
-<li><a href="/comments/20210901/1616817.md" target="_blank">最后一架美军飞机一离开喀布尔，TLb马上宣布“完全独立”，公开伸手向中共要钱重建阿国【希望之声TV-每日头条-2021/8/31】</a></li>
-<li><a href="/comments/20210901/1616816.md" target="_blank">90多退休将领：撤军后果影响持续数十年？60多国投资港口 “兵不血刃”控制战略咽喉？【希望之声TV-新闻焦点解读-2021/08/31】主持:高洁</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
-<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
 <li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20210612/1565472.md" target="_blank">感悟神韵（之二）：感悟神韵的艺术风格</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/comments/20210611/1564824.md" target="_blank">【曾铮专栏】感悟神韵（之一）神韵的主旨</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
 
 </ul>
 </div>
