@@ -15,18 +15,18 @@
 <li><a href="/topimagenews/20210901/1616812.md">你的收入会成“调节”目标吗？中共官媒定下标准</a></li>
 <li><a href="/topimagenews/20210901/1616896.md">大军压境！不惧中共新规 五国海军兵分七路来了</a></li>
 <li><a href="/yule/20210901/1616902.md">50岁港星举家移民英国！自行搬行李到机场，坦言一切为了育儿成才</a></li>
-<li><a href="/cbnews/20210901/1616785.md">习近平避出席G20峰会 闪躲美欧围攻</a></li>
 <li><a href="/bannedvideo/20210901/1617061.md">习近平要点温家宝死穴：“两房”债券巨亏数千亿美金！前财长金人庆被灭口，谁的嫌疑最大？ （一平论政2021/9/1)</a></li>
 <li><a href="/cbnews/20210901/1617089.md">金人庆老友的悼念词泄露天大秘密：曾做过心脏移植手术 谁的心脏？</a></li>
+<li><a href="/cbnews/20210901/1616785.md">习近平避出席G20峰会 闪躲美欧围攻</a></li>
 <li><a href="/ssgc/20210901/1616923.md">〖兲朝浮世绘〗多维网劝习近平主动退休 这是在逼宫吗？</a></li>
+<li><a href="/topimagenews/20210901/1617108.md">习近平重大行动计划被泄露！江系放风：第三个”历史决议”呼之欲出【阿波罗网报道】</a></li>
+<li><a href="/bannedvideo/20210901/1617070.md">文睿：《求是》再发长文，习近平彻底切断退路，局势一天一变</a></li>
 <li><a href="/cnnews/20210901/1616901.md">“向年轻人开刀” 习近平想法没错 手段错</a></li>
 <li><a href="/comments/20210901/1616927.md">索罗斯再发警告 小心被他骗！ 前景不被看好！美国特使克里二度访华“希望之声tv-北美新闻-20210831”</a></li>
 <li><a href="/cnnews/20210901/1616725.md">出现死亡案例 中国3省爆发炭疽病例 山东超过4,700人投药观察</a></li>
-<li><a href="/cnnews/20210901/1616791.md">文革新贵的奢靡腐化生活</a></li>
 <li><a href="/yule/20210901/1616880.md">赵薇5千万美元酒庄、多人派对照片曝光</a></li>
-<li><a href="/topimagenews/20210901/1617108.md">习近平重大行动计划被泄露！江系放风：第三个”历史决议”呼之欲出【阿波罗网报道】</a></li>
-<li><a href="/bannedvideo/20210831/1616632.md">华夏银行停止换汇业务，终于要限制投资移民了吗？关门！共产！</a></li>
-<li><a href="/bannedvideo/20210901/1616783.md">未成年人游戏限制令惹恼大陆年轻人，称“江山坐的太久了” ；南泥湾作风回来了？！中共袒护被美国悬赏捉拿的世界芬太尼毒王 | 秦鹏观察 8/31 | 新唐人电视台</a></li>
+<li><a href="/cnnews/20210901/1616791.md">文革新贵的奢靡腐化生活</a></li>
+<li><a href="/cbnews/20210901/1617003.md">最不可思议的童谣：红伞伞 白杆杆-红伞伞指红魔</a></li>
 <li><a href="/comments/20210901/1616954.md">【微博精粹】一东一西 俩人都是一手好牌打得稀烂</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -98,6 +98,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210901/1617223.md" target="_blank">搞二次文革？习近平的真实目的其实是这样子的</a></li>
+<li><a href="/comments/20210901/1617203.md" target="_blank">港大不承认学生会 教育局：如需修改港大条例会协助</a></li>
+<li><a href="/comments/20210901/1617202.md" target="_blank">郑松泰被 DQ 立法会 41 当然委员全属建制 建制：清一色泛民造成 爱国可意见多元</a></li>
+<li><a href="/comments/20210901/1617201.md" target="_blank">何韵诗演唱会被取消 马逢国：香港好多演出场地 艺术中心监督团成员雷鼎鸣：理由充分</a></li>
+<li><a href="/comments/20210901/1617200.md" target="_blank">中共订11月开六中全会 教育改革是重点 学者：“双减”行不通</a></li>
 <li><a href="/comments/20210901/1617184.md" target="_blank">电动化时代 人们对燃油车的最大误解</a></li>
 <li><a href="/comments/20210901/1617176.md" target="_blank">港九龙游行案 何俊仁等七人判囚11至16月</a></li>
 <li><a href="/comments/20210901/1617169.md" target="_blank">六中全会时间定 两大核心 一个悬念；赵薇成“不能说的名字” 传因一人无法离境【希望之声-两岸要闻-2021/09/01】</a></li>
@@ -118,11 +123,6 @@
 <li><a href="/comments/20210901/1617047.md" target="_blank">一发穿云箭贯穿恒星核心！ 哈伯太空望远镜捕捉罕见太空美景</a></li>
 <li><a href="/comments/20210901/1617046.md" target="_blank">美撤离内幕曝光！与塔利班达成“秘密安排”护送公民</a></li>
 <li><a href="/comments/20210901/1617045.md" target="_blank">塔利班接管美军遗下军备 驾机上天放烟火 玩太嗨意外翻车画面也曝光</a></li>
-<li><a href="/comments/20210901/1617037.md" target="_blank">李燕铭：吴亦凡在单间看守所里境遇蛮惨消瘦得厉害 天价律师给吴亦凡出招 吴亦凡交代的都是严重的问题 拖下水的也都是厉害的大佬！赵薇出事与吴亦凡有关？赵薇ins发文向同伴传递消息暗示他们保她 赵薇有足够的把柄要挟一众资本大佬 吴亦凡名字变成7位数 赵薇名字变成XX 文宣系统掀清洗风暴 娱乐圈大震荡（十九）</a></li>
-<li><a href="/comments/20210901/1617031.md" target="_blank">加州卡洪谷学区8个家庭近日被困阿富汗 7个获救</a></li>
-<li><a href="/comments/20210901/1617015.md" target="_blank">20年阿国反恐战争结束 美参联会主席发函致谢美军</a></li>
-<li><a href="/comments/20210901/1616997.md" target="_blank">德州民主党法官：拜登应因边境危机引咎辞职</a></li>
-<li><a href="/comments/20210901/1616996.md" target="_blank">法澳2＋2会谈重申台海重要性 台外交部：民主国家共识</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
 <li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
 
 </ul>
 </div>
