@@ -23,11 +23,11 @@
 <li><a href="/cbnews/20210901/1617003.md">最不可思议的童谣：红伞伞 白杆杆-红伞伞指红魔</a></li>
 <li><a href="/comments/20210901/1616927.md">索罗斯再发警告 小心被他骗！ 前景不被看好！美国特使克里二度访华“希望之声tv-北美新闻-20210831”</a></li>
 <li><a href="/cnnews/20210901/1616901.md">“向年轻人开刀” 习近平想法没错 手段错</a></li>
-<li><a href="/cnnews/20210901/1616791.md">文革新贵的奢靡腐化生活</a></li>
 <li><a href="/yule/20210901/1616880.md">赵薇5千万美元酒庄、多人派对照片曝光</a></li>
 <li><a href="/cnnews/20210901/1617053.md">“血染的风采”?中共惨败！对越作战17天损失6万人</a></li>
 <li><a href="/comments/20210901/1616954.md">【微博精粹】一东一西 俩人都是一手好牌打得稀烂</a></li>
 <li><a href="/worldnews/20210901/1617188.md">中共官方刊登五千字长文批郎平 引发争议</a></li>
+<li><a href="/bannedvideo/20210901/1617160.md">2021年9月1日, 北京朝阳外国语学校小学部开学, 大批家长爬上学校围墙栅栏或趴在栅栏下张望</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210902/1617398.md" target="_blank">“MoMA现代艺术博物馆”足不出户，跟着大雄一起游览纽约MOMA！听听专业人士如何吐槽现代艺术。</a></li>
 <li><a href="/cbnews/20210902/1617381.md" target="_blank">所有人的尊严：西安地铁事件真相曝光</a></li>
 <li><a href="/cbnews/20210902/1617316.md" target="_blank">北京环球影城将开幕 成亚洲第三个环球影城乐园</a></li>
 <li><a href="/comments/20210902/1617310.md" target="_blank">失败引内讧？排协甩锅 郎平卸任；五角大楼：美军必要时将出动无人机；大陆艺人限籍令来了【希望之声TV-环球看点-2021/9/1】</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210831/1616656.md" target="_blank">同是海水 黄海和渤海交汇处为什么不相融？</a></li>
 <li><a href="/cbnews/20210831/1616630.md" target="_blank">美军撤离结束 塔利班发言人向美国释放信号</a></li>
 <li><a href="/cbnews/20210831/1616615.md" target="_blank">广州11岁子照顾病危父 同住医院日夜照料</a></li>
-<li><a href="/cbnews/20210831/1616614.md" target="_blank">中共的一盘大棋 让中产老实做社会主义螺丝钉</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210902/1617398.md" target="_blank">“MoMA现代艺术博物馆”足不出户，跟着大雄一起游览纽约MOMA！听听专业人士如何吐槽现代艺术。</a></li>
+<li><a href="/comments/20210902/1617393.md" target="_blank">《青山绿野》——作者：詹庭芳</a></li>
+<li><a href="/comments/20210902/1617392.md" target="_blank">故事：《孙猴儿》(1/2)—— 作者：李天童</a></li>
+<li><a href="/comments/20210902/1617391.md" target="_blank">生活篇：《开学感言》</a></li>
+<li><a href="/comments/20210902/1617390.md" target="_blank">拜登为结束阿富汗战争辩护 前美驻联合国大使：如果失去台湾，美国就输了</a></li>
 <li><a href="/comments/20210902/1617361.md" target="_blank">山东女大学生不打疫苗被师生恶意举报 后遭判刑</a></li>
 <li><a href="/comments/20210902/1617360.md" target="_blank">意前议员发文揭中共活摘器官罪恶 赞法轮功拯救世界</a></li>
 <li><a href="/comments/20210902/1617346.md" target="_blank">泰国风情：《岛上咖啡屋》</a></li>
@@ -118,11 +123,6 @@
 <li><a href="/comments/20210901/1617256.md" target="_blank">禁书解读 | 余杰：大学如何变成屠宰场？&#8211;汪春劼《文革风暴中的九位大学校长》</a></li>
 <li><a href="/comments/20210901/1617255.md" target="_blank">北戴河各种传言 牵动习的权斗剧本与二十大布局</a></li>
 <li><a href="/comments/20210901/1617254.md" target="_blank">美国从未亏欠阿富汗人 细数过去20年的美国红利</a></li>
-<li><a href="/comments/20210901/1617251.md" target="_blank">曾称“台湾是中国的固有领土并不准确” 中共出手封杀名人高晓松</a></li>
-<li><a href="/comments/20210901/1617250.md" target="_blank">【双语诗歌 Bilingual Poetry】：《友谊 Friendship》—— 作者：Emily Lee</a></li>
-<li><a href="/comments/20210901/1617229.md" target="_blank">时事大家谈：新浪微博引爆舆情，“微博监督员”激起众怒？</a></li>
-<li><a href="/comments/20210901/1617226.md" target="_blank">【未普评论】美军撤出阿富汗 中共欣喜若狂</a></li>
-<li><a href="/comments/20210901/1617225.md" target="_blank">【梁京评论】习近平「二次文革」的全球风险和机会</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
 <li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
 
 </ul>
 </div>
