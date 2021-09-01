@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/topimagenews/20210831/1616512.md">中共保安野蛮执法 女子乘车发生争执 被保安拖出车厢 衣服扯烂</a></li>
 <li><a href="/comments/20210831/1616546.md">习释重大风向标目的何在 李光满是谁？习近平重磅会议强化反垄断 要求完善物资储备；中共“双减”重演“七二一指示”？【希望之声-两岸要闻-2021/08/31】</a></li>
 <li><a href="/topimagenews/20210831/1616521.md">李连杰是下一个赵薇？ 我来告诉你…</a></li>
 <li><a href="/yule/20210901/1616726.md">赵薇到底为何被消失？北京大咖只说“9个字”秒挂电话</a></li>
@@ -15,19 +14,20 @@
 <li><a href="/cnnews/20210831/1616544.md">美国国务院悬赏高达500万美元抓捕这个中国人</a></li>
 <li><a href="/topimagenews/20210901/1616839.md">赵薇的三个老司机，其中一个变成了老公</a></li>
 <li><a href="/topimagenews/20210901/1616896.md">大军压境！不惧中共新规 五国海军兵分七路来了</a></li>
-<li><a href="/yule/20210901/1616902.md">50岁港星举家移民英国！自行搬行李到机场，坦言一切为了育儿成才</a></li>
 <li><a href="/bannedvideo/20210901/1616737.md">太牛了！赵薇删了中共中央共青团微博；习近平矛头指向谁？赵背后通天大关系网曝光；高晓松遭封与马云有渊源；新文革初露端倪；赵薇外网留诡异3个字；业内曝内幕：江泽民纵太子党搞娱乐圈 CL</a></li>
+<li><a href="/yule/20210901/1616902.md">50岁港星举家移民英国！自行搬行李到机场，坦言一切为了育儿成才</a></li>
 <li><a href="/topimagenews/20210901/1616812.md">你的收入会成“调节”目标吗？中共官媒定下标准</a></li>
 <li><a href="/cbnews/20210831/1616614.md">中共的一盘大棋 让中产老实做社会主义螺丝钉</a></li>
 <li><a href="/cbnews/20210901/1616785.md">习近平避出席G20峰会 闪躲美欧围攻</a></li>
-<li><a href="/worldnews/20210831/1616124.md">以色列：自然免疫力幾乎是注射疫苗的7倍</a></li>
 <li><a href="/ssgc/20210901/1616923.md">〖兲朝浮世绘〗多维网劝习近平主动退休 这是在逼宫吗？</a></li>
 <li><a href="/cnnews/20210901/1616725.md">出现死亡案例 中国3省爆发炭疽病例 山东超过4,700人投药观察</a></li>
 <li><a href="/comments/20210901/1616927.md">索罗斯再发警告 小心被他骗！ 前景不被看好！美国特使克里二度访华“希望之声tv-北美新闻-20210831”</a></li>
 <li><a href="/cnnews/20210901/1616901.md">“向年轻人开刀” 习近平想法没错 手段错</a></li>
-<li><a href="/bannedvideo/20210831/1616518.md">中共重拳整肃娱乐圈 业界人士曝深层内幕</a></li>
-<li><a href="/cnnews/20210901/1616791.md">文革新贵的奢靡腐化生活</a></li>
+<li><a href="/topimagenews/20210901/1617008.md">大战拉开帷幕！习近平埋下杀招 二十大前关键一役来了【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20210831/1616632.md">华夏银行停止换汇业务，终于要限制投资移民了吗？关门！共产！</a></li>
+<li><a href="/cnnews/20210901/1616791.md">文革新贵的奢靡腐化生活</a></li>
+<li><a href="/yule/20210901/1616880.md">赵薇5千万美元酒庄、多人派对照片曝光</a></li>
+<li><a href="/bannedvideo/20210901/1616783.md">未成年人游戏限制令惹恼大陆年轻人，称“江山坐的太久了” ；南泥湾作风回来了？！中共袒护被美国悬赏捉拿的世界芬太尼毒王 | 秦鹏观察 8/31 | 新唐人电视台</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -67,6 +67,8 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20210901/1617121.md" target="_blank">浙江数千购房业主市政府维权 遭大批警力现场维稳</a></li>
+<li><a href="/topimagenews/20210901/1617120.md" target="_blank">习近平娱乐圈打特权锁定这3家 还曾糜烂到喝“人奶宴”</a></li>
 <li><a href="/topimagenews/20210901/1617108.md" target="_blank">习近平重大行动计划被泄露！江系放风：第三个”历史决议”呼之欲出【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20210901/1617080.md" target="_blank">中国大陆2天之内发生多起道路坍塌 中共灭亡之兆频现</a></li>
 <li><a href="/topimagenews/20210901/1617008.md" target="_blank">大战拉开帷幕！习近平埋下杀招 二十大前关键一役来了【阿波罗网报道】</a></li>
@@ -90,14 +92,13 @@
 <li><a href="/topimagenews/20210828/1614965.md" target="_blank">人民日报一片肃杀之气！三大部门一起动手了！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20210828/1614919.md" target="_blank">中共财政部原部长金人庆家中失火身亡 过火面积是疑点</a></li>
 <li><a href="/topimagenews/20210827/1614548.md" target="_blank">无奇不有，大陆电商敢卖啥？三座大山重压，中国外贸挺不住了；美智库拜登不会让步关税</a></li>
-<li><a href="/topimagenews/20210827/1614476.md" target="_blank">大连凯旋国际大厦突发大火 蔓延整栋大楼 疑似有人被困楼顶</a></li>
-<li><a href="/topimagenews/20210827/1614355.md" target="_blank">中共公安部长发署名文章：彻底肃清周永康、孟宏伟、孙力军等人流毒【阿波罗网报道】</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210901/1617131.md" target="_blank">何韵诗演唱会被迫取消改网上直播 政党促交代</a></li>
 <li><a href="/comments/20210901/1617062.md" target="_blank">最新：中共要求农民退出联产承包责任制，释放出什么信号？ — 曾节明</a></li>
 <li><a href="/comments/20210901/1617093.md" target="_blank">震惊英国的霍顿姐妹，关键时刻能救命的心灵感应！美国俄亥俄州双胞胎兄弟分别数十年，却过著同步人生；同卵双胞胎存在量子纠缠？突破遗传学，四维空间的基因现象？</a></li>
 <li><a href="/comments/20210901/1617088.md" target="_blank">演唱会遭取消租场 何韵诗续办网上直播 “当城市容不下一个演唱会，更要放声唱”</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210901/1616972.md" target="_blank">撤军留下大批设备 美司令：无法再使用；蓬佩奥：中期选举中 阿国&#8221;将成为人们关注的焦点&#8221;【希望之声-午夜新闻-2021/08/31】</a></li>
 <li><a href="/comments/20210901/1616970.md" target="_blank">美食药管理局两高阶疫苗官员将辞职</a></li>
 <li><a href="/comments/20210901/1616969.md" target="_blank">评论 | 唯色：地图与香巴拉：地图之美（二）</a></li>
-<li><a href="/comments/20210901/1616967.md" target="_blank">当心 5种喝水习惯比熬夜还要“催人老”</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20210612/1565472.md" target="_blank">感悟神韵（之二）：感悟神韵的艺术风格</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
 <li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
+<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
 
 </ul>
 </div>
