@@ -5,12 +5,9 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/topimagenews/20210901/1617120.md">习近平娱乐圈打特权锁定这3家 还曾糜烂到喝“人奶宴”</a></li>
 <li><a href="/cbnews/20210902/1617381.md">所有人的尊严：西安地铁事件真相曝光</a></li>
 <li><a href="/comments/20210901/1617169.md">六中全会时间定 两大核心 一个悬念；赵薇成“不能说的名字” 传因一人无法离境【希望之声-两岸要闻-2021/09/01】</a></li>
-<li><a href="/bannedvideo/20210901/1617123.md">习近平真正要砍谁？ 中纪委告诉答案了  /  官媒倒查20年 赵薇背后一大关系网曝光</a></li>
 <li><a href="/topimagenews/20210902/1617304.md">一个都逃不掉？赵薇遭爆11岁女儿在港念书“行踪不明” 无法离开中国</a></li>
-<li><a href="/topimagenews/20210901/1617121.md">浙江数千购房业主市政府维权 遭大批警力现场维稳</a></li>
 <li><a href="/yule/20210902/1617418.md">赵薇疯传被国际刑警通缉 两张图泄真相</a></li>
 <li><a href="/cnnews/20210902/1617318.md">赵薇玩完了？央视突然释出“容嬷嬷”酷刑影片</a></li>
 <li><a href="/topimagenews/20210902/1617333.md">兰州交大研究生校内被割脖亡 目击者被血溅一身</a></li>
@@ -20,14 +17,17 @@
 <li><a href="/finance/20210901/1617253.md">习近平“厉害了！我的国！”志气渐消失；计划了！中共规定城市房租年涨幅；</a></li>
 <li><a href="/bannedvideo/20210901/1617160.md">2021年9月1日, 北京朝阳外国语学校小学部开学, 大批家长爬上学校围墙栅栏或趴在栅栏下张望</a></li>
 <li><a href="/worldnews/20210902/1617416.md">以色列警示：6个月前接种疫苗的人危险了</a></li>
-<li><a href="/cbnews/20210902/1617431.md">美国最大规模演习堪比世界大战 最后时刻突删…</a></li>
 <li><a href="/cbnews/20210901/1617252.md">房子很便宜 但年轻人还是在逃离</a></li>
+<li><a href="/cbnews/20210902/1617431.md">美国最大规模演习堪比世界大战 最后时刻突删…</a></li>
 <li><a href="/baitai/20210902/1617397.md">图穷匕首见——近期习氏文革赌博一瞥</a></li>
 <li><a href="/ssgc/20210902/1617582.md">〖兲朝浮世绘〗一切向左急转弯 大陆人在劫难逃</a></li>
 <li><a href="/cbnews/20210902/1617586.md">娘炮惨了！大陆整治演艺界揭下波打击重点</a></li>
 <li><a href="/cnnews/20210902/1617386.md">超速近2百被拍？车主甩钥匙：你先看厂牌、飙得出来车送你</a></li>
+<li><a href="/bannedvideo/20210902/1617602.md">💥赵薇派系曝光！习近平自爆亡命徒心态，沪宁同框；六中全会定案，配合二次文革；秦刚露底色，美商会被关；台预警共军瘫痪空防；西安女在地铁被“扯光”；塔利班挨户处决，为中共挡箭20年｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/yule/20210902/1617417.md">港媒曝赵薇奢侈生活，被封杀后仍富贵</a></li>
 <li><a href="/comments/20210901/1617255.md">北戴河各种传言 牵动习的权斗剧本与二十大布局</a></li>
+<li><a href="/cnnews/20210902/1617308.md">“习近平”粗暴破解网游禁令？ 输入外泄中国领导人身份号码传可爽玩</a></li>
+<li><a href="/yule/20210902/1617470.md">“抖音第一美女”直播一半双眼皮崩塌 下秒画面网惊呆</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210902/1617745.md" target="_blank">凛冬将至，我已经失去了悲哀的感觉</a></li>
+<li><a href="/comments/20210902/1617737.md" target="_blank">斗不过党！腾讯放弃所有独家音乐版权 再无“周董优势”</a></li>
+<li><a href="/comments/20210902/1617736.md" target="_blank">生活随笔：《开车明白个道理》—— 作者：李天童</a></li>
+<li><a href="/comments/20210902/1617734.md" target="_blank">今年第一次吃月饼</a></li>
 <li><a href="/comments/20210902/1617717.md" target="_blank">这是一场更全面、精细的文化大革命</a></li>
 <li><a href="/comments/20210902/1617710.md" target="_blank">德外长：寻求恢复驻阿大使馆 不等于承认塔利班政权</a></li>
 <li><a href="/comments/20210902/1617707.md" target="_blank">唯美之灵信仰与上帝的区别（上集）—— 信仰是心灵的学说，与物质宇宙创生无关（东方哲人解析当代人类困惑  第五十一讲）【袁红冰杏坛】 09022021</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210902/1617641.md" target="_blank">暑假返乡探亲却走不了… 30多名美国学生仍困阿富汗</a></li>
 <li><a href="/comments/20210902/1617640.md" target="_blank">为对抗ISIS-K！ 美国曝“有可能”与塔利班合作</a></li>
 <li><a href="/comments/20210902/1617622.md" target="_blank">显微镜学家发表对四家疫苗公司的成分分析</a></li>
-<li><a href="/comments/20210902/1617615.md" target="_blank">浸大要求新入学本科生 必修国安教育 测验合格方可毕业</a></li>
-<li><a href="/comments/20210902/1617606.md" target="_blank">【要闻精粹】新动向不止党内斗争</a></li>
-<li><a href="/comments/20210902/1617604.md" target="_blank">美议员赴阿国救人被传“失联” 正安全返国 ；美中军事冲突升温  紧急热线能降温？【希望之声-午夜新闻-2021/09/1】</a></li>
-<li><a href="/comments/20210902/1617596.md" target="_blank">秦晋：塔利班、中共和世界新轴心 Taliban, CCP and the world</a></li>
 
 </ul>
 </div>
@@ -130,30 +130,30 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20210611/1564824.md" target="_blank">【曾铮专栏】感悟神韵（之一）神韵的主旨</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
 <li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
 <li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
 
 </ul>
