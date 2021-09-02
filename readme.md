@@ -7,8 +7,8 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/topimagenews/20210901/1617108.md">习近平重大行动计划被泄露！江系放风：第三个”历史决议”呼之欲出【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20210901/1617008.md">大战拉开帷幕！习近平埋下杀招 二十大前关键一役来了【阿波罗网报道】</a></li>
-<li><a href="/yule/20210901/1616902.md">50岁港星举家移民英国！自行搬行李到机场，坦言一切为了育儿成才</a></li>
 <li><a href="/bannedvideo/20210901/1617061.md">习近平要点温家宝死穴：“两房”债券巨亏数千亿美金！前财长金人庆被灭口，谁的嫌疑最大？ （一平论政2021/9/1)</a></li>
+<li><a href="/yule/20210901/1616902.md">50岁港星举家移民英国！自行搬行李到机场，坦言一切为了育儿成才</a></li>
 <li><a href="/topimagenews/20210901/1616896.md">大军压境！不惧中共新规 五国海军兵分七路来了</a></li>
 <li><a href="/cbnews/20210901/1617089.md">金人庆老友的悼念词泄露天大秘密：曾做过心脏移植手术 谁的心脏？</a></li>
 <li><a href="/topimagenews/20210901/1617120.md">习近平娱乐圈打特权锁定这3家 还曾糜烂到喝“人奶宴”</a></li>
@@ -18,16 +18,16 @@
 <li><a href="/topimagenews/20210901/1617121.md">浙江数千购房业主市政府维权 遭大批警力现场维稳</a></li>
 <li><a href="/topimagenews/20210902/1617304.md">一个都逃不掉？赵薇遭爆11岁女儿在港念书“行踪不明” 无法离开中国</a></li>
 <li><a href="/ssgc/20210901/1616923.md">〖兲朝浮世绘〗多维网劝习近平主动退休 这是在逼宫吗？</a></li>
-<li><a href="/cbnews/20210901/1617003.md">最不可思议的童谣：红伞伞 白杆杆-红伞伞指红魔</a></li>
-<li><a href="/comments/20210901/1616927.md">索罗斯再发警告 小心被他骗！ 前景不被看好！美国特使克里二度访华“希望之声tv-北美新闻-20210831”</a></li>
 <li><a href="/cnnews/20210902/1617318.md">赵薇玩完了？央视突然释出“容嬷嬷”酷刑影片</a></li>
+<li><a href="/cbnews/20210901/1617003.md">最不可思议的童谣：红伞伞 白杆杆-红伞伞指红魔</a></li>
 <li><a href="/cbnews/20210902/1617381.md">所有人的尊严：西安地铁事件真相曝光</a></li>
+<li><a href="/comments/20210901/1616927.md">索罗斯再发警告 小心被他骗！ 前景不被看好！美国特使克里二度访华“希望之声tv-北美新闻-20210831”</a></li>
 <li><a href="/cnnews/20210901/1616901.md">“向年轻人开刀” 习近平想法没错 手段错</a></li>
 <li><a href="/worldnews/20210901/1617188.md">中共官方刊登五千字长文批郎平 引发争议</a></li>
-<li><a href="/yule/20210901/1616880.md">赵薇5千万美元酒庄、多人派对照片曝光</a></li>
 <li><a href="/finance/20210901/1617253.md">习近平“厉害了！我的国！”志气渐消失；计划了！中共规定城市房租年涨幅；</a></li>
 <li><a href="/cnnews/20210901/1617053.md">“血染的风采”?中共惨败！对越作战17天损失6万人</a></li>
 <li><a href="/bannedvideo/20210901/1617160.md">2021年9月1日, 北京朝阳外国语学校小学部开学, 大批家长爬上学校围墙栅栏或趴在栅栏下张望</a></li>
+<li><a href="/comments/20210901/1616954.md">【微博精粹】一东一西 俩人都是一手好牌打得稀烂</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210902/1617492.md" target="_blank">天亮时分：你的收入高到引起习近平注意了吗？索罗斯再骂习近平拖累经济；（政论天下第499集 20210901）</a></li>
+<li><a href="/comments/20210902/1617472.md" target="_blank">“习思想”进小学；新文革宣言发表；中共红色革命又开始？将带给中国社会怎样的“深刻变革”？</a></li>
 <li><a href="/cbnews/20210902/1617454.md" target="_blank">美国思想领袖：精英律师事务所律师沃伦·罗斯曼：我在中国被关黑监受酷刑！一个建立在恐怖之上的社会&#8230;中国黑监狱无处不在；揭穿行贿引起的报复？美国领事馆回应为何成谜？（预告片）| 大纪元</a></li>
 <li><a href="/comments/20210902/1617437.md" target="_blank">拜登玄了？超52%选民认为应辞职首份欧台关系报告传递什么信号？【希望之声TV-新闻焦点解读-2021/09/01】主持:高洁  嘉宾：蓝述 秦鹏</a></li>
 <li><a href="/comments/20210902/1617436.md" target="_blank">中共凌驾国际法强推新规，令台海局势升温，秦刚露战狼本色【希望之声TV-每日头条-2021/9/1】</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/comments/20210901/1616808.md" target="_blank">惊爆！赵薇变身老鸨掌控女明星，要胁高官染指权力，触怒习近平！全网转载毛左檄文，大陆再次吹起文革号角，讨伐娱乐圈！高晓松由愤青变家奴，过往反动言论被扒出！【新闻最嘲点 姜光宇】2021.08.31</a></li>
 <li><a href="/cbnews/20210901/1616785.md" target="_blank">习近平避出席G20峰会 闪躲美欧围攻</a></li>
 <li><a href="/cbnews/20210901/1616767.md" target="_blank">中国数地天价签证遭曝光！留学生集体开喷</a></li>
-<li><a href="/cbnews/20210901/1616756.md" target="_blank">天花板卡女孩头状若贞子 真相曝光网笑疯歪楼</a></li>
-<li><a href="/cbnews/20210901/1616749.md" target="_blank">网恋被诈17万 她柔情反杀 钓骗子“男友”回国</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,13 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210902/1617481.md" target="_blank">德州议员“逃会”事件落幕 选举改革法在议会通关</a></li>
+<li><a href="/comments/20210902/1617480.md" target="_blank">美议员赴阿国救人被传“失联” 正安全返国</a></li>
+<li><a href="/comments/20210902/1617479.md" target="_blank">福特皮卡再次减产，芯片危机持续中</a></li>
+<li><a href="/comments/20210902/1617472.md" target="_blank">“习思想”进小学；新文革宣言发表；中共红色革命又开始？将带给中国社会怎样的“深刻变革”？</a></li>
+<li><a href="/comments/20210902/1617465.md" target="_blank">研究证明互联网只会放大并不会创造新的暴民</a></li>
+<li><a href="/comments/20210902/1617464.md" target="_blank">几十家官媒齐转一篇网文 变革怎样降临？</a></li>
+<li><a href="/comments/20210902/1617459.md" target="_blank">中国人好惨！数亿人将成共同富裕“调节”目标</a></li>
 <li><a href="/comments/20210902/1617443.md" target="_blank">曈小曈: 阿富汗的六个问题</a></li>
 <li><a href="/comments/20210902/1617437.md" target="_blank">拜登玄了？超52%选民认为应辞职首份欧台关系报告传递什么信号？【希望之声TV-新闻焦点解读-2021/09/01】主持:高洁  嘉宾：蓝述 秦鹏</a></li>
 <li><a href="/comments/20210902/1617436.md" target="_blank">中共凌驾国际法强推新规，令台海局势升温，秦刚露战狼本色【希望之声TV-每日头条-2021/9/1】</a></li>
@@ -116,13 +123,6 @@
 <li><a href="/comments/20210902/1617346.md" target="_blank">泰国风情：《岛上咖啡屋》</a></li>
 <li><a href="/comments/20210902/1617332.md" target="_blank">台湾科技企业撤离中国 美国成最佳投资选择</a></li>
 <li><a href="/comments/20210902/1617331.md" target="_blank">全球仅有这两个城市，举办过两届残奥会，真的不同</a></li>
-<li><a href="/comments/20210902/1617325.md" target="_blank">中共六中全会将聚焦教育改革 学者：“双减”行不通</a></li>
-<li><a href="/comments/20210902/1617323.md" target="_blank">泰国风情：《湄林民宿》</a></li>
-<li><a href="/comments/20210902/1617322.md" target="_blank">【养生专家】胡萝卜怎样吃更有营养</a></li>
-<li><a href="/comments/20210902/1617313.md" target="_blank">许家印率8名副总签署“保交楼军令状”</a></li>
-<li><a href="/comments/20210902/1617310.md" target="_blank">失败引内讧？排协甩锅 郎平卸任；五角大楼：美军必要时将出动无人机；大陆艺人限籍令来了【希望之声TV-环球看点-2021/9/1】</a></li>
-<li><a href="/comments/20210902/1617305.md" target="_blank">71 刺警案两个月 有市民献花 警铜锣湾戒备</a></li>
-<li><a href="/comments/20210902/1617299.md" target="_blank">讨好习近平？传滴滴将协助员工成立工会</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
 
 </ul>
 </div>
