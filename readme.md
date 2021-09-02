@@ -18,7 +18,6 @@
 <li><a href="/yule/20210902/1617418.md">赵薇疯传被国际刑警通缉 两张图泄真相</a></li>
 <li><a href="/cnnews/20210902/1617318.md">赵薇玩完了？央视突然释出“容嬷嬷”酷刑影片</a></li>
 <li><a href="/topimagenews/20210902/1617333.md">兰州交大研究生校内被割脖亡 目击者被血溅一身</a></li>
-<li><a href="/cbnews/20210901/1617003.md">最不可思议的童谣：红伞伞 白杆杆-红伞伞指红魔</a></li>
 <li><a href="/worldnews/20210901/1617188.md">中共官方刊登五千字长文批郎平 引发争议</a></li>
 <li><a href="/finance/20210901/1617253.md">习近平“厉害了！我的国！”志气渐消失；计划了！中共规定城市房租年涨幅；</a></li>
 <li><a href="/cnnews/20210902/1617467.md">这两天，国外的这个“爱国贼”被扒得体无完肤了</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/cbnews/20210902/1617431.md">美国最大规模演习堪比世界大战 最后时刻突删…</a></li>
 <li><a href="/baitai/20210902/1617397.md">图穷匕首见——近期习氏文革赌博一瞥</a></li>
 <li><a href="/cbnews/20210901/1617252.md">房子很便宜 但年轻人还是在逃离</a></li>
+<li><a href="/baitai/20210901/1617076.md">小晖沉思｜今天，西安地铁也要上全国头条了</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210902/1617660.md" target="_blank">李燕铭：六中全会罕见延迟召开 会议主题暗藏习近平连任信号 时隔五年党媒两次刊发重磅文章 习近平寻求循毛泽东模式将“习核心”升级为“党领袖” 循毛泽东模式长期执政 习近平六中全会或清算张国焘王明式人物 为自己连任清障</a></li>
+<li><a href="/comments/20210902/1617659.md" target="_blank">美作家：中共跨国镇压猖獗 必须被制止</a></li>
+<li><a href="/comments/20210902/1617658.md" target="_blank">九月后院里要做些什么事 秋季适宜种什么</a></li>
 <li><a href="/comments/20210902/1617643.md" target="_blank">新学年 中国14万督导进入学校 教师担心告密成风 家长指强制洗脑</a></li>
 <li><a href="/comments/20210902/1617642.md" target="_blank">小粉红惹祸上身 说溜嘴曝“微博监管机制”超惨下场</a></li>
 <li><a href="/comments/20210902/1617641.md" target="_blank">暑假返乡探亲却走不了… 30多名美国学生仍困阿富汗</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210902/1617511.md" target="_blank">美CDC建议未接种疫苗者劳工节勿出行 被批“歧视”</a></li>
 <li><a href="/comments/20210902/1617502.md" target="_blank">海归饭局：有钱人和文化人为啥都不自信</a></li>
 <li><a href="/comments/20210902/1617501.md" target="_blank">郭晓菁：在东北住有所居 但年轻人还是在逃离</a></li>
-<li><a href="/comments/20210902/1617481.md" target="_blank">德州议员“逃会”事件落幕 选举改革法在议会通关</a></li>
-<li><a href="/comments/20210902/1617480.md" target="_blank">美议员赴阿国救人被传“失联” 正安全返国</a></li>
-<li><a href="/comments/20210902/1617479.md" target="_blank">福特皮卡再次减产，芯片危机持续中</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
 <li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
 
 </ul>
 </div>
